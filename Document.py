@@ -1,24 +1,34 @@
-from collections import Counter
+from collections import Counter, defaultdict
 import numpy as np
 import nltk
 from nltk.stem.snowball import EnglishStemmer
 from nltk.stem import WordNetLemmatizer
 import re
+from math import sqrt
 
 
 # I.e. Document in a Bag Of Word representation
 class Document:
-    def __init__(self, path, stemmed=False) -> None:
+    def __init__(self, lines = None, path = None, stemmed = False) -> None:
+        if lines is None and path is None:
+            raise()
         self._stemmed = stemmed
         self._path = path
         self._counts = Counter()
         self.stemmer = EnglishStemmer()
         self.lemmatizer = WordNetLemmatizer()
-        self._other_class_V = -1
-        with open(self._path, "r") as f:
-            self._lines = f.readlines()
+        
+        if path is not None:
+            with open(self._path, "r") as f:
+                self._lines = f.readlines()
+        else:
+            self._lines = lines
 
-
+    @classmethod
+    def from_lines(cls, lines, stemmed=False):
+        instance = cls("NOPE")
+        instance._lines = lines
+    
     def tokenize(self, text):
         return nltk.word_tokenize(text)
 
@@ -35,16 +45,6 @@ class Document:
         self.lemmatize()
         return self
 
-    
-    def update(self, other_counter):
-        self._counts = self._counts + other_counter.counts
-
-    def add_other_class_V(self, other_class_V):
-        self._other_class_V = other_class_V
-
-    def most_common(self, n):
-        return self._counts.most_common(n)
-
     def c(self, key):
         if self._stemmed:
             key = self.stemmer.stem(key.lower()).lower()
@@ -57,37 +57,6 @@ class Document:
 
     def contains(self, word):
         return word in self._counts
-
-    # Number of running words in total
-    def N(self):
-        return np.array(list(self._counts.values())).sum()
-
-    # Number of unique words, i.e. the size of the dictionary
-    def V(self):
-        return len(self._counts.keys())
-
-    def log_likelihood(self, word, laplace_correction=True):
-        return np.log(self.freq(word, laplace_correction=laplace_correction))
-
-    def freq(self, word, laplace_correction=True):
-        assert self._other_class_V != -1
-        n_w = self._counts[word]
-
-        # We don't add N of the other class to get the correct vocabulary N because it's still zero
-        N = self.N()
-
-        if laplace_correction:
-            # we add the other |V| to get the correct vocaulary size, see pag 63 of book
-            return (n_w + 1) / (N + self.V() + self._other_class_V)
-        else:
-            return (n_w) / N
-
-    # Compute the log likelihood sum of all the words in 'this', based on the counts of other_document
-    def log_likelihood_sum(self, other_document):
-        ll = 0
-        for word in self._counts:
-            ll += other_document.log_likelihood(word)
-        return ll
 
     def remove_stopwords(self):
         stopwords = nltk.corpus.stopwords.words("english")
@@ -117,20 +86,48 @@ class Document:
             if stemmed in stems.keys():
                 value += stems[stemmed]
             stems[stemmed] = value
-        # delete previous counts and add the stemmed/lemmatized versione
+        # delete previous counts and add the stemmed/lemmatized version
         del self._counts
         self._counts = Counter(stems)
 
     def lines(self):
         return self._lines
     
+    def cosine_distance(self, other):
+        
+        # First vector count. Build a defaultdict whose first argument is 'int' from the `counts' dict.
+        # basically, will return the standard count if the key is present, 0 otherwise. 
+        u = defaultdict(int, self._counts)
+        # Second vector count. These two hold the counts for the first and second document respectively.
+        v = defaultdict(int, other.counts())
+        
+        # Norm of the two vectors, i.e. the square root of the sum of the counts squared
+        norm_u = sqrt(sum([i * i for i in u.values()]))
+        norm_v = sqrt(sum([j * j for j in v.values()]))
+
+        # The union of all keys, from 'self' and 'other' (two documents)
+        keys = set(self._counts.keys()).union(set(other.counts().keys()))
+        # Dot product
+        u_dot_v = 0
+        for k in keys:
+            # Remember: it's 0 if it's not present
+            u_dot_v += u[k] * v[k]
+        # Cosine, rounded
+        return round(1-(u_dot_v / (norm_u * norm_v)), 4)
+
+    def find_split(self):
+        n = int(len(self._lines) / 4)
+        d1 = Document(lines=self._lines[0:n]).make_bow()
+        d2 = Document(lines=self._lines[n:]).make_bow()
+        return d1, d2, d1.cosine_distance(d2)
+
     def text(self, escape = False):
         t = " ".join(self.lines())
         if escape:
             return re.escape(t)
         else:
             return t
-            
+    
     def counts(self):
         return self._counts
     
