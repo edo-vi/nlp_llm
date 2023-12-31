@@ -44,7 +44,7 @@ class Document:
                             new_token += f"_{tok[i+j]}"
                             j += 1
                         tok_.append(new_token)
-                        i += j
+                        i += j-1
                     else:
                         tok_.append(tok[i])
                 i += 1
