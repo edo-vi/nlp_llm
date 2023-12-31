@@ -1,0 +1,281 @@
+
+
+Infobox Theory Theory Theory Theory
+Embodied cognition is the concept suggesting that many features of cognition are shaped by the state and capacities of the organism The cognitive features include a wide spectrum of cognitive functions such as perception biases memory recall comprehension and highlevel mental constructs (such as meaning attribution and Categorization
+The embodied mind thesis challenges other theories such as Cognitivism (psychology)
+Theory
+File:Cartesian Cognitive ModelpngProponents of the embodied cognition thesis emphasize the active and significant role the Body (biology)
+
+This double sense attributed to the embodiment thesis emphasizes the many aspects of cognition that researchers in different fields—such as philosophy cognitive science artificial intelligence psychology and neuroscience—are involved with This general characterization of embodiment faces some difficulties: a consequence of this emphasis on the body experience culture context and the cognitive mechanisms of an agent in the world is that often distinct views and approaches to embodied cognition overlap The theses of extended cognition and situated cognition for example are usually intertwined and not always carefully separated And since each of the aspects of the embodiment thesis is endorsed to different degrees embodied cognition should be better seen "as a research program rather than a welldefined unified theory"
+
+Some authors explain the embodiment thesis by arguing that cognition depends on an agents body and its interactions with a determined environment From this perspective cognition in real biological systems is not an end in itself it is constrained by the systems goals and capacities Such constraints do not mean cognition is set by adaptive behavior (or autopoiesis) alone but instead that cognition requires "some kind of information processing the transformation or communication of incoming information" The acquiring of such information involves the agents "exploration and modification of the environment" 
+
+File:Dynamical Embodied Model of CognitionpngAnother approach to understanding embodied cognition comes from a narrower characterization of the embodiment thesis The following narrower view of embodiment avoids any compromises to external sources other than the body and allows differentiating between embodied cognition extended cognition and situated cognition Thus the embodiment thesis can be specified as follows: <! Dawson mention was removed since the source is unclear and it does not appear in the reference section of this entrance A deeper search on a "Dawson" does not give any results on a Dawson holding a "narrow" definition on embodiment There is a Michael Dawson but his inconclusive posture does not give any hints he holds such position (see Dawson M (2013 2020))  >
+
+
+This thesis points out the core idea that an agents body plays a significant role in shaping different features of cognition such as perception attention memory reasoning—among others Likewise these features of cognition depend on the kind of body an agent has The thesis omits direct mention of some aspects of the "more encompassing biological psychological and cultural context" included in the enactive definition making it possible to separate embodied cognition extended cognition and situated cognition
+
+In contrast to the embodiment thesis the extended mind thesis limits cognitive processing neither to the brain nor even to the body it extends it outward into the agents world Situated cognition emphasizes that this extension is not just a matter of including resources outside the head but stressing the role of probing and changing interactions with the agents world Cognition is situated in that it is inherently dependent upon the cultural and social contexts within which it takes place
+
+This conceptual reframing of cognition as an activity influenced by the body has had significant implications For instance the view of cognition inherited by most contemporary cognitive neuroscience is internalist in nature An agents behavior along with his capacity to maintain (accurate) representations of the surrounding environment were considered as the product of "powerful brains that can maintain the world models and devise plans" From this perspective cognizing was conceived as something that an isolated brain did In contrast accepting the role the body plays during cognitive processes allows us to account for a more encompassing view of cognition This shift in perspective within neuroscience suggests that successful behavior in realworld scenarios demands the integration of several sensorimotor and cognitive (as well as affective) capacities of an agent Thus cognition emerges in the relationship between an agent and the affordances provided by the environment rather than in the brain alone
+<!  Section "Philosophical background" has been DELETED  
+Most of the ideas here contained were already considered in detail in other sections Thus the content here es repetitive Furthermore the ideas on Kant are not entirely connected to the embodiment thesis as we know it and as the "Talk" section of the entrance shows it is rather problematic >
+
+In 2002 a collection of positive characterizations summarizing what the embodiment thesis entails for cognition were offered Margaret Wilson argues that the general outlook of embodied cognition "displays an interesting covariation of multiple observations and houses a number of different claims: (1) cognition is situated; (2) cognition is timepressured; (3) we offload cognitive work onto the environment; (4) the environment is part of the cognitive system; (5) cognition is for action; (6) offline cognition is bodilybased" According to Wilson the first three and the fifth claim appear to be at least partially true while the fourth claim is deeply problematic in that all things that have an impact on the elements of a system are not necessarily considered part of the system The sixth claim has received the least attention in the literature on embodied cognition yet it might be the most significant of the six claims as it shows how certain human cognitive capabilities that previously were thought to be highly abstract now appear to be leaning towards an embodied approach for their explanation Wilson also describes at least five main (abstract) categories that combine both sensory and motor skills (or sensorimotor functions) The first three are working memory episodic memory and implicit memory; the fourth is mental imagery and finally the fifth concerns reasoning and Problem solving
+ History<! This section is still under development More edits are yet to come  UPDATE:  &gt; The early history of EC has been added  &gt; Timeline image graph has been added &gt; Late history of EC under development > 
+File:Timeline history of embodied cognition 06102021jpgThe theory of embodied cognition along with the multiple aspects it comprises can be regarded as the imminent result of an intellectual skepticism towards the flourishment of the disembodied theory of mind put forth by René Descartes in the 17th century According to Dualism (philosophy of mind)
+Research has been done to identify the set of ideas that would establish what could be considered as the early stages of embodied cognition around inquiries regarding the mindbodysoul relation and vitalism in the German tradition from 1740 to 1920 The modern approach and definition of embodied cognition has a relatively short history Intellectual underpinnings of embodied cognition can be traced back to the influence of philosophy and more specifically the Phenomenology (philosophy)
+Phenomenologists such as Edmund Husserl (1850–1938) Martin Heidegger (1889–1976) and Maurice MerleauPonty (1908–1962) served as a source of inspiration for what would later be known as the embodiment thesis They stood up against the mechanistic and disembodied approach to the explanation of the mind by emphasizing the fact that there are aspects of human experiences (consciousness cognition) that cannot simply be explained by a model of the mind as computation of inner symbols From a phenomenological standpoint such aspects remain unaccountable if as in Cartesian dualism they are not "deeply rooted in the physical nutsandbolts of the interacting agent" Maurice MerleauPonty in his Phenomenology of Perception  for example rejects the cartesian idea that peoples primary mode of being in the world is thinking  and proposes corporeity  that is the body itself as the primary site for knowing the world and perception as the medium and the prereflective foundation of experience So stated the body is the primary condition for experience since it comprises a collection of active meanings about the world and its objects The body also provides the firstperson perspective (a point of view) with which one experiences the world and opens up multiple possibilities for being
+
+The appreciation of the phenomenological mindset allows us to not overlook the influence that phenomenologys speculative but systematic reflection on the mindbodyworld relation had in the growth and development of the core ideas which embodied cognition comprises From a phenomenological perspective "all cognition is embodied interactive and embedded in dynamically changing environments" These constitute the set of beliefs which proponents of embodied cognition such as Francisco Varela Eleanor Rosch
+This basic idea of (qualitative) experience as the product of an individuals active perception–action interactions with its surrounding is also traceable to the American contextualist or Pragmatism
+On the bases of empirical grounds and in opposition to those philosophical traditions that belittled the importance of the body to understand cognition research on embodiment have demonstrated the relationship between cognition and bodily process Thus understanding cognition requires to consider and investigate the sensory and motor mechanism that enables it George Lakoff for example holds that reasoning and language arise from the nature of bodily experiences and thus even peoples own metaphors have bodily references
+
+Since the 1950s encouraged by progress in informatics researchers began to create digital models of the processes by which sensory input is selected by the brain stored in the memory connected to existing knowledge and used for elaboration These traditional computationalists views of cognition that were typical in the 1950s–1980s are now considered implausible because there is no continuity with the cognitive skills that would have been demanded and developed by the ancestors of the human species 
+The earlier version of the concept of embodiment in cognition was offered in 19971999 by Irina Trofimova who called the experimentally proven effects of embodiment in meaning attribution as "projection through capacities" Margaret Wilson considers the embodied cognition perspective as fundamentally an evolutionary one viewing cognition as a set of abilities that built upon and still reflects the structure of physical bodies and how human brains evolved to manage those bodies The theory of evolution emphasises that thanks to their bipedal gait early humans did not need their forepaws for locomotion facilitating them to manipulate the environment with the aid of tools One researcher goes even further positing that the multiple opportunities provided by human hands shape peoples concepts of the mind One example is that people often conceive cognitive processes in manual terms such as grasping an idea
+
+James J Gibson
+Connectionism also put forth a critique to the computationalist commitments yet granting the possibility of some sort of nonsymbolic computational processes to take place According to the connectionist thesis cognition as a biological phenomenon can be explained and understood through the interaction and dynamics of Artificial neural network
+By early 2000 J Kevin ORegan&gt; Section has been finished All relevant information has been considered and timeline graphic has been added
+ Previous comments 
+Here more detailed information will be added regarding the role of ecological psychology connectionism as well as come specific authors in de development and growth of EC
+UPDATE:
+&gt; A transition paragraph as been added
+&gt; Gibson ecological psicologa paragraph added
+&gt; ORegan and Nöe sensorimotor contingencies paragraph added
+&gt; Paragraph on connectionism is pending  >
+
+Ever since the late 20th century and recognizing the significant role the body plays for cognition the embodied cognition theory has gained (an ever increasing) popularity it has been the subject of multiple articles in different research areas and the mainstream approach to what Shapiro and Spaulding call the "embodied makeover"
+
+Scope
+File:The scope of embodied cognition 06102021pngEmbodied cognition argues that several factors both internal and external (such as the body and the environment) play a role in the development of an agents cognitive capacities just as mental constructs (such as thoughts and desires) are said to influence an agents bodily actions For this reason embodied cognition is considered as a wideranging research program rather than a welldefined and unified theory A scientific approach to embodied cognition reaches inspires and brings together ideas from several research areas each with its own take on embodiment yet in a joint effort to (methodically) investigate embodied cognition
+
+Research on embodied cognition comprises a variety of fields within the sciences such as linguistics neuroscience (cognitive) psychology philosophy artificial intelligence robotics etc For this reason contemporary developments on embodied cognition can be regarded as the embodied makeover of cognitive science offering new ways to look at the nature structure and mechanisms of cognition
+
+<! Content insertion
+This content was previously under the section titled "cognitive science and linguistics" which was deleted
+The content will be edited to fit this section accordingly (See "Talk" section of this entrance) >Embodied cognition has gained the attention and interest of classical cognitive science (along with all sciences it comprises) to incorporate embodiment ideas into its research In linguistics George Lakoff (a cognitive scientist and linguistics
+The conceptual metaphors research have argued that people use metaphors all over  to be in charge of the conceptual level; in other words they map one conceptual state into another one Therefore research have stated that there is a single metaphor behind various definitions Several examples of conceptual metaphors from different fields were collected to explain how metaphors relate to other metaphors and often refer to body aspects The most common example given to this explanation is when the people describe the concept of love associating this love metaphor with physically embodied journey experiences Another example of the language and embodiment of Lakoff and Mark Turner is visual metaphors Accordingly they argue that the positioning of these visual metaphors for upright and forwardmoving creatures depends on body type and the characteristics of the bodys interaction with the environment
+
+Another study from 2000 focused on the "image schema" to investigate how people understand abstract concepts Accordingly abstract concepts are understood by considering basic physical situations Abstract concepts whose basic physical states are considered then interpreted by using sensorymotor and perceptual skills Thus it is shown that there is a spatial reasoning process that requires using the body even in reasoning over abstract concepts In this context the image schema is seen as a conceptual metaphor form For example spatial reasoning skills and the visual cortex tend to be used to understand a mathematical concept consisting of imaginary numbers that are purely abstract Thus it has been shown how important the body plays in the image schema as in the conceptual metaphor in the interpretation of concepts
+<! Previously existing image regarding abstract numbers  representation will be referenced later on >
+
+Another important factor in understanding linguistic categories is prototypes Eleanor Rosch argued that prototypes play an important role in peoples cognition According to her research prototypes are the most typical members of a category and she explains this with an example from birds The robin for example is a prototypical bird while the penguin is not a prototypical bird which shows that objects that are prototypical are more easily categorized and therefore people can find answers by reasoning about the categories they encounter through these prototypes Another study identified basic level categories that exemplify this situation in a more structured way Accordingly prototype theoryBasic level categories
+NeurobiologyIn related work at Haskins Paul Mermelstein Philip Rubin Louis M Goldstein
+The concept of embodiment has been inspired by research in cognitive neuroscience such as the proposals of Gerald Edelman concerning how mathematical and computational models such as neuronal group selection and neural degeneracy result in emergent categorization From a neuroscientific perspective the embodied cognition theory examines the interaction of sensorimotor cognitive and affective neurological systems The embodied mind thesis is compatible with some views of cognition promoted in neuropsychology such as the theories of consciousness of Vilayanur S Ramachandran Gerald Edelman and Antonio Damasio It is also supported by a broad and everincreasing collection of empirical studies within neuroscience By examining brain activity with neuroimaging techniques researchers have found indications of embodiment In an Electroencephalography (EEG) study researchers showed that in line with the embodied cognition Sensorimotor contingencies
+Next to neuroimaging studies behavioral studies also provides evidence supporting the embodied cognition theory Abstract higher cognitive concepts such as the "importance" of an object or an issue also seem to stand in relation to the sensorimotor system People estimate objects to be heavier when they are told that they are important or hold important information in contrast to unimportant information Similarly weight affects the way people invest physical and cognitive effort when dealing with concrete or abstract issues For example more importance is assigned to decision–making procedures when holding heavier clipboards What this suggest is that the physical effort invested in concrete objects leads to more cognitive effort when dealing with abstract concepts
+
+The work of cognitive neuroscientists such as Francisco Varela and Walter Jackson Freeman III
+In the field of Robotics researchers such as Rodney Brooks Hans Moravec and Rolf Pfeifer have argued that true artificial intelligence can only be achieved by machines that have Sensory perception
+In the light of these a body is essential for cognition and therefore for intelligent behavior since the interaction between the body and the environment is fundamental for developing cognitive abilities This type of knowledge is grounded in physical embodiment&ndash;the relationship humans have with their bodies It is the concept of "the idea that the mind is not only connected to the body but that the body influences the mind" Embodied artificial intelligence and robotics is a method of applying this principle to artificial systems
+File:This diagram shows the applications of embodied cognition and artificial intelligencejpgTraditional artificial intelligence involves a computational approach This primary computational paradigm evolved to the embodied perspective with embodied cognition studies and brought more interdisciplinary research topics to artificial intelligence Embodied perspective brings a necessity of working with the physical world and systems which came alongside robotics Robotics are essential for the embodied artificial perspective because computers and robots are different Computers define the inputs; robots can interact with the physical world via their own body Researchers working on embodied AI is moving away from an algorithmdriven approach to the robots to interact with the physical world Embodied Artificial intelligence tries to figure out how biological systems work first then construct basic rules of intelligent behavior and finally apply that knowledge to create artificial systems robots or intelligent devices Embodied artificial intelligence has a large scale of applications and research For instance the embodied artificial approach can be seen in micro and nanomechatronic systems and evolvable hardware topdown biosynthetic systems research bottomup chemosynthetic systems and biochemical systems The majority of embodied artificial intelligence focuses on robot training and autonomous vehicles technologies Autonomous vehicles have a significant interest in embodied artificial intelligence applications because this technology allows driving and making possible judgments based on what they see as humans do
+<!  Structural changes:   The subheaders contained under this section will eventually be moved and each will become a main header  The sciences (cognitive psychology AI Cognitive science Neuroscience etc) will be mentioned in paragraphs inside "The scope of embodied cognition" section  The reason for this is that there is an unfair and inaccurate distribution of the cognitive capacities as being mostly studied by cognitive psychology For more information refer to the "Talk" section where this is also being announced and discussed Any ideas are welcome! >
+<! UPDATE:
+As discussed in the pages "Talk" section the "Cognitive psychology" section has been removed and the respective  subheaders (perception reasoning memory etc) has been moved inside "The scope of embodied cognition" section >
+
+ Perception 
+File:Change blindness illusiongifTraditional neuropsychological research widely acknowledged that when an Mental representation
+One example of such active interaction between perception and the body is the case that distance perception can be influenced by bodily states The way people view the outside world can differ depending on the physical resources that individuals have such as fitness age or glucose levels For instance in one study people with chronic pain who are less capable of moving around perceived given distances as further than healthy people did Another study shows that intended actions can affect processing in visual search with more orientation errors for pointing than for grasping Because orientation is important when grasping an object the plan to grasp an object is thought to improve orientation accuracy This shows how actions the bodys interaction with the environment can contribute to the visual processing of taskrelevant information
+
+Perception also influences the perspective individuals to take on a particular situation and the type of judgments they make For instance researchers have shown that people will significantly more likely take the Perspective (visual)
+Language
+
+
+Embodied cognition views on language describes how when humans comprehend words sensorimotor areas are involved in interacting with the objects and entities the words refer to 
+First experimental studies of the impact of body’s sex age and constitution (temperament) on language perception and use emerged in 199599 and expanded from 2010s 
+
+
+The embodiment effect initially was called "projection through capacities” and emerged as a tendency of people attribute meaning to common adjectives and abstract and neutral nouns depending on their endurance tempo plasticity emotionality sex or age For example in these studies males with stronger motorphysical endurance estimated abstractions describing people work/reality and timerelated concepts in more positive terms than males with a weaker endurance Females with stronger social or physical endurance estimated social attractors in more positive terms than weaker females Both male and female temperament groups with higher sociability showed a universal positive bias in their estimations of social concepts in comparison to participants with lower sociability 
+
+Over the last years behavioral and neural evidence has shown that the process of language comprehension activates motor simulations and involves motor systems Some researchers have investigated mirror neurons to illustrate the link between the mirror neuron systems and language suggesting that some aspects of language (such as part of semantics and phonology) can be embodied in the sensorimotor system represented by mirror neurons
+
+It is well known that language has a multicomponent structure one of which is language comprehension Research on embodied cognition shows that language comprehension involves the motor system In addition various studies explain that understanding linguistic explanations of actions is based on a simulation of the action described These action simulations also include evaluation of the motor system A study in which university students evaluated language comprehension and motor system with a pendulum swinging task while performing a "sentence judgment task" found significant changes in functions containing performable sentences
+
+Another study used the mirror neurons perspective to illustrate the relationship between the motor system and several language components Because mirror neurons are one of the essential parts of the motor system researchers compared monkeys and humans in an anatomical framework; specifically they made the comparison with respect to Brocas area An fMRI study examining the relationship of mirror neurons in humans with linguistic materials has shown that there are activations in the premotor cortex and Brocas area when reading or listening to sentences associated with actions According to these findings researchers state that there is a connection between the motor system and language They also argue that the motor system together with mirror neurons mechanisms can process certain aspects of language
+
+ literature mainly focuses on the relation between language and embodied cognition on a motor system more precisely by mirror neuron explanations This relationship also extends to cognitive capabilities which involve a variety of language components Studies have examined how embodied and extended cognition can help to reconceptualize and ground Secondlanguage acquisition
+Memory
+
+The body has an essential role in shaping the mind So the mind must be understood in the context of its relationship with a physical body that interacts in the world These interactions can also be cognitive activities in everyday life such as driving chatting imagining the placement of items in a room These cognitive activities are limited by memory capacity Researchers has drawn attention to the relationship between memory and action from an embodied cognition approach where memory is defined as integrated patterns of actions limited by the body
+
+Researchers have also investigated the influence of body position on ease of recall in an autobiographical memory study to examine the effect of embodied cognition on memory performance The relationship between memory and body has also emphasised that memory systems depend on the bodys experiences with the world This is particularly evident in episodic memory because this type of memories in the episodic memory system are defined by their content and are remembered as experienced by the person who is remembering Embodied memory research through the recalling of personal traumas and violent memories has reported that people who have experienced trauma or violence refeel their experiences in their narratives throughout their lives In addition memories that threaten a persons life by directly affecting the body such as injury and physical violence recreate similar reactions again in the body while remembering the event For example people can report feeling smells sounds and movements when remembering childhood trauma memories A proper evaluation of those memories and the corresponding physical and physiological phenomena associated with them could describe how those set of recalled memories are embodied
+
+New perspectives on the neural structure and memory processes underlying embodied cognition episodic memory recall and recognition have also been explored
+
+Learning
+
+Research on embodied cognition and learning suggests that learning could occur and be triggered by perceptionaction interactions of the body with the surrounding environment An embodied cognitive approach to child development provides insights into how infants attain spatial knowledge and develop spatial skills that allow them to (successfully) interact with the world around them Most infants learn to walk in the first 18 months of life which draws on ample new opportunities for exploring things around them In this exploration infants learn spatial relations and by carrying objects from one place to another they may also learn affordances such as "transportability" Thereafter new phases in exploration may occur through which infants can discover other even more elaborate affordances According to Eleanor Gibson exploration takes an essential place in cognitive development For example infants explore whatever is in their vicinity by seeing mouthing or touching it before learning to reach objects nearby Then infants learn to crawl which enables them to seek out objects beyond reaching distance learn basic spatial relations between themselves objects and others and get an understanding of depth and distance This development of motor skills through the exploration of the physical and social world seems to play a central role in visualspatial cognition
+
+Embodied perceptionaction experience may serve as a tool for learning that extends across the life span from infancy to adulthood Further research indicates that mere observational experience by infants does not produce these results Similarly research has shown how action and bodily movements can be used as Scaffolding
+The actionbased language theory (ABL) states that aspects of embodiment are also relevant for language learning and acquisition ABL proposes that the brain exploits the same mechanisms used in motor control for language learning When adults for example call attention to an object and an infant follows the lead and attends to said object canonical neurons are activated and affordances of an object become available to the infant Simultaneously hearing the articulation of the objects name leads to the activation of speech mirror mechanisms in infants This chain of events allows for Hebbian theory
+The role of gestures in learning is another example of the importance of embodiment for cognition Gestures can aid facilitate and enhance learning performance or compromise it when the gestures are restricted or meaningless to the content that is being transmitted In a study using the Tower of Hanoi
+A study investigating the role of gestures in second language learning states that learning the vocabulary with selfperformed gestures increases learning outcomes The enduring benefits continued even after two and six months postlearning In addition the same study also investigated the neural correlates of learning a second language with gestures The results indicate that Premotor cortex
+Embodied cognition has also been linked to both reading and writing Research shows that physical and perceptual engagements congruent with the content of the reading material can boost reading comprehension Findings also suggest that the benefits accrued from handwriting as compared to typing in letter recognition and written communication result from the more embodied nature of handwriting
+
+Reasoning
+Experiments investigating the relation between motor processes and highlevel reasoning have suggested that bodily action and sensorimotor experience are linked to various aspects of reasoning A study indicated that even though most individuals recruit visual processes when presented with spatial problems such as mental rotation tasks motor experts (such as wrestlers) favor motor processes over visual encoding to manipulate the objects mentally showing higher overall performance Results indicate that motor experts performance drops once the (hand) movement is inhibited A related study showed that motor experts use similar processes for the mental rotation of body parts and polygons whereas nonexperts treated these stimuli differently These results were not due to underlying confounds as demonstrated by a training study that showed mental rotation improvements after a oneyear motor training compared with controls Similar patterns were also found in working memory tasks with the ability to remember movements being significantly disrupted by a secondary verbal task in controls and by a motor task in motor experts suggesting the involvement of different mechanisms to encode movements based on either verbal or on motor processes
+File:41235 2016 40 Fig1 HTMLjpegwebpThe role of motor experience in reasoning has also been investigated through gestures The Gesture as Simulated Action theory (GSA) provides a framework for understanding how gestures manifest their connection According to GSA gestures result from the embodied simulation of actions and sensorimotor states Consequently gesturing while expressing or reasoning ideas shows that embodied processes are involved in producing them More significantly gesturing heightens focus and increases activation of motor and perceptual information Gestures are said to have a casual role in reasoning as gesturing leads to increased motor and perceptual information flow during the reasoning process This does not necessarily translate into more effective reasoning as such information is sometimes irrelevant for a specific problem The effects of gestures on reasoning are not limited only to speakers; they convey information that also affects listeners reasoning For example listeners could produce similar simulations to those of the speaker by attending to the speakers gestures
+
+More evidence for the embodied role of gestures during reasoning comes from studies on mathematical and geometric reasoning Studies indicate that gestures and more particularly dynamic depictive gestures (ie gestures used to represent and show the transformation of objects) are linked to better performance in snap judgment (intuition) insight and mathematical reasoning for proof Additionally the use of dynamic depictive gestures are associated with better mathematical reasoning and thus directing learners to use such gestures facilitates justification and proof activities
+
+Embodied cognition theory has been applied in behavioral law and economics theory to enlighten reasoning and decisionmaking processes involving risk and time decisions and judgment Research has shown that the idea that mental processes are grounded in bodily states is not being captured in the standard view of human rationality and the link between them could be useful for understanding and predicting human actions that seem irrational The concept of "embodied rationality" results from expanding such ideas into law and highlights how findings stemming from embodied cognition offer a more encompassing insight into human behavior and rationality
+
+Emotion
+File:Van Dantzig et al tablepngEmbodied cognition theories have provided rigorous accounts of emotion and the processing of information about emotion In this respect experiencing and reexperiencing an emotion involve overlapping mental processes Research has shown that one reexperiences emotion through the interconnections of the neurons that were active during the original experience During the reexperience process a partial multimodal reenactment of the experience is produced One reason why only parts of the original neural populations are reactivated is that attention is selectively focused on certain aspects of the experience that are most salient and important for the individual
+
+The first theory of embodiment effect on emotions is known as James–Lange theory after 19th century scientists William James and Carl Lange (physician)
+Reexperience of emotion is produced in the originally implicated sensorymotor systems as if the individual were there in the very situation the very emotional state or with the very object of thought For example the embodiment of anger might involve muscle tension used to strike the enervation of certain facial muscles to frown etc A remaining issue is the lack of consensus about the exact location of the mirror neurons whether they constitute a system and whether there actually are mirror neurons
+
+Theories of embodiment propose that the processing of emotional states and the concepts used to refer to them are partly based on ones own perceptual motor and somatosensory systems Research has shown through manipulations of facial expressions and posture under controlled laboratory settings how the embodiment of a persons emotion casually affects the way emotional information is processed Similar studies have evidenced that nodding the head while listening to persuasive messages led to more positive attitudes toward the message than when shaking the head When people are led to adopt certain bodily positions indirectly associated with different feelings such as fear anger and sadness these corporeal postures are said to modulate the experienced affect In a series of experiments on the neurobiological basis of language researchers investigated the role of embodiment in emotional language through Electromyography
+Given the significant role emotions (eg fear and hope) play in an individuals life research has been done linking embodiment motivation and behavior to investigate the intrinsic tendencies to act towards or away from a given stimulus The Approachavoidance conflictFile:Approach and avoidance taskgifThe AAT has been investigated in different scenarios and with different types of stimuli such as words and images A study focusing on the AAT on embodied cognition for example examined peoples response to positive and negative words presented on the center of a screen by moving them away or towards the center The study concludes that participants moved the given positive words towards the center of the screen while moving the negative words away from the center of the screen In conformity with the AAT participants showed an approach effect for positive words and avoidance effects for negative words In a 2021 study on emotional or Priming (psychology)Affective priming
+Evolutionary psychology
+Selfregulation
+
+The basic idea underlying findings on embodied cognition is that cognition is composed of experiences that are Multimodality
+Selfregulation theory
+In a study the effect of Muscle contraction
+Some suggest that the embodied mind serves selfregulatory processes by combining movement and cognition to reach a goal Thus the embodied mind has a facilitative effect To navigate the social world one must approach helpful resources such as friends and avoid dangers like foes Facial expression can be a signal for evaluation of whether a person is desirable or dangerous Embodied cognition can aid in clarifying others emotions when emotional signals may be ambiguous In a study participants were able to identify expression shifts faster when they mimicked them in contrast to participants holding a pen in their mouths that froze their facial muscles therefore unable to mimic facial expressions Other goalrelevant actions may be encouraged by embodied cognition as evidenced by the automated approach and avoidance of certain environmental cues Embodied cognition is also influenced by the situation If one moves in a way previously associated with danger the body may require a higher level of information processing than if the body moves in a way associated with a benign situation The studies above may suggest that embodied cognition could serve a functional purpose by assisting in selfregulatory processes
+
+Social cognition
+File:Embodied Rapportpng
+In social psychology and more specifically in social cognition research focuses on how people interact and influence one another In the context of embodiment research in social cognition investigates how the presence of people and interactions between them affects each others thoughts feelings and behavior More precisely social cognition proposes that thoughts feelings and behavior are grounded in sensorimotor experiences and bodily states
+File:PerspectivetakingjpgIn the field of phenomenology MerleauPontys intercorporeity  means that when meeting a person one initially experiences the other person via their bodily expressions which has an impact before cognitive reflections This phenomenon is investigated in social psychology and is known as nonverbal synchrony Synchrony during social interaction arises spontaneously and is often independent of conscious information processing
+
+In a Dyad (sociology)
+One aspect of social cognition concerns perspectivetaking which consists in perceiving a situation from another person’s point of view Two categories of perspectivetaking include visual and spatial perspectivetaking Visual perspectivetaking (VPT) is defined as viewing a situation from another person’s point of view and understanding how they see the world Spatial perspectivetaking (SPT) involves the ability to access what spatial information another viewer is perceiving such as the orientation of objects in relation to each other Accordingly VPT has two different levels VPT1 refers to understanding what is in someone else’s point of view; VPT2 entails adopting this point of view and understanding how the world is represented from this point of view Both levels are grounded and situated yet it is only VPT2 that is embodied; it is only VPT2 that relies on deliberate movement simulation In the case of SPT research has shown that not only the presence of another person in the position of potential actions on objects leads to SPT in participants but also phrasing the query in terms of actions increases the number of people who participate in SPT The embodiment of SPT is also dependent on sex and social skills Males and people with lower social skills are said to have lower levels of embodiment in SPT as compared to females and people with higher social skills
+
+Research suggests that aging affects social cognition and perspectivetaking In one study four experiments evaluated implicit and explicit VPT as well as executive and social cognition measures in healthy young and older adults Congruency effect (the detrimental effect of congruency of the alternative perspective on response time and accuracy) was detected in both egocentric and allocentric conditions in explicit VPT1 and VPT2 Incongruencies in VPT1 less influenced older adults In VPT2 older adults showed a more significant congruency effect and influence of allocentric perspective during egocentric judgment These results could explain the impairment of older adults in social tasks that rely on perspectivetaking       <! Structural change:
+The "cognitive science and linguistics" header has been deleted Its content has been adapted and placed inside "the scope of embodied cognition" section 4 (See the "Talk" section of this entrance) ><! Structural change 2: The "Neuroscience" header has been deleted Its content has been adapted and placed inside "the scope of embodied cognition" section 4 (See the "Talk" section of this entrance >
+
+Sensorimotor contingencies
+As a part of the embodied cognition theory proponents suggest that an organisms Sensory nervous system
+Support for the SMCs theory is brought forward by studies on sensory substitution Sensory substitutionSensory augmentation<! Structural change 3: The "AI and robotics" header has been deleted Its content has been adapted and placed inside "the scope of embodied cognition" section 4 (See the "Talk" section of this entrance >
+
+ Applications 
+
+Over the past years embodied cognition research has gradually redeemed the scientific study of bodily experiences and simultaneously laid a theoretical and empirical foundation across multiple disciplines Principles and findings underlying embodied cognition have begun to be transferred and applied in several fields ranging from education robotics clinical settings social psychology sports to music
+
+ Education 
+File:ENERGY THEATREwebmEmbodied cognition findings have been translated into an overhaul of educational and teaching practices in favor of embodied learning and teaching methods In particular such embodied practices feature prominently in science education For example Energy Theater is a method for teaching about energy dynamics based on the embodied interaction theory In this method participants each play the role of a unit of energy and together they enact the transformation and transfer of energy in specific scenarios
+
+The Human Orrery is another embodied educational method in which students learn about the solar system through enactment In this method the position of the planets is marked by disks and the participants enact the role of the planets by moving on their orbits
+File:The Mathematics Imagery Trainer for ProportionjpgIn a survey from 2020 researchers analyzed several frameworks that bring embodied cognition theory into clever classroom practices for the teaching and learning of mathematics
+
+Overall embodied cognition has served as a new framework for exploring the learning process and developing new educational practices The older educational methods are slowly being replaced or complemented by the new approaches inspired by embodied cognition theory
+
+ AI and robotics 
+Embodied cognition has significantly impacted artificial intelligence (AI) and robotics; it has contributed to the drastic changes AI has been through over the last years Insights from embodied cognition have allowed researchers to build more dynamic robots with more fluid and more expressive motions facilitating better performance in complex scenarios
+
+Shakey the robot is a wellknown milestone in AI; it was one of the first approaches to building mobile robots capable of reasoning about their own actions and performing specific tasks in a determined environment Shakey had a relatively simple body and followed commands by itself melding logical reasoning with physical action to navigate in a room A limitation was that Shakey’s architecture (Lisp (programming language)File:Atlas connecting a hosejpgFile:Atlas climbing into a vehiclejpgEmbodied AI tries not to overlook or underestimate the "body" when creating AI systems It poses that future research should move towards systems that incorporate embodied perspectives
+
+Embodied AI gave birth to situated robotic perspectives that included more versatile AI architectures Situated robotics are based on an incremental approach to AI and reliance on parallel activity producers that interface effectively with action and perception Unlike traditional robots situated robots perform better in complex and dynamic environments that create unpredictable situations for robots most of the time The behavior of these robots changes according to their environment so that they can deal with incredibility in various situations For instance social situations are rife with unpredictability and social robots need to be able to predict all sorts of behaviors—human or otherwise In this vein Jun Tani’s lab has introduced an abstract brain model called PVRNN based on the principle of free energy and has incorporated a metaprior in it While a high metaprior leads to a confident behavior generation in robots and ignores the behavior of other robots robots with a low metaprior adapt to the behaviour of other robots and avoid generating their own behavioral pattern
+
+Instances of situated robots include aerial robots developed by companies such as senseFly which produces fixedwing autonomous drones for professional use owned by Parrot SA and Flyability which builds drones for the inspection and exploration of indoor and confined spaces They rely on the research of Dario Floreanos laboratory on minirobots and evolutionary robotics
+
+Another example of situated robots is Atlas (robot)
+ Clinical settings 
+File:PhantomlimbillusionjpgThe procedures and methods of investigation in clinical neuropsychology have been directly influenced by localization and computational approaches to cognition These techniques have made numerous contributions to the development of clinical practice Embodied cognition broadens the scope of clinical practice by providing a more comprehensive view of cognitive processes under both normal and pathological conditions by highlighting the role of the body and sensorymotor experience in cognition Thereby challenging the integration of embodied cognitive practices in clinical assessment and diagnosis processes An example is the already established use of behavioral treatments for children’s disorders such as autism Another example of embodied integrative therapies involves sensorimotor retraining as well as stimulation techniques to prevent reduce or release pain associated with phantom limbs Also fields of psychotherapy (body oriented psychotherapy and somatic psychology) which are prominent in Europe and encompasses embodied interventions such as dance and movement therapy have begun to receive more empirical support One of the most common integrative treatments of mental illness to the western psychosocial sphere is via mindfulness practices and exercise
+
+ Sport 
+Embodied cognitive perspectives can inform and impact motor skill research in the fields of sport and sport psychology Studies have shown that the embodiment thesis comes into action through many ways in sport such as sportrelated actionspecific perception understanding prediction judgement training and language comprehension From an embodied cognition perspective a study examined the relationship between previous Motor skill
+ Music 
+
+Embodied music cognition is a paradigm that puts forward the idea that bodily interactions with music significantly affect music cognition Researchers proposed that Music and emotion
+The research on embodied music cognition focuses on two main trends: exploring embodiment and expanding the concept of embodiment in music The first trend includes studies investigating bodily articulation and gesturing in relation to music One can observe that many people move when they listen to music; in many cultures there is no clear distinction between music and dance Through the different movements of the body it is assumed that people are able to give meaning to music This perspective is different from the Embodied music cognition
+The second trend includes studies that strive to connect embodied music cognition to other research fields such as neurology and psychology
+
+ Social psychology 
+The embodiment has also important potential applications in social psychology where researchers have studied how peoples own bodily states influence their understanding and interaction with others Researchers have provided evidence demonstrating the influence of bodily states on Social judgment theory
+Activism
+Controversy
+
+Research on embodied cognition is extremely broad covering a wide range of concepts Methods to study how human cognition is embodied vary from experiment to experiment based on the operational definition used by researchers The evidence supporting embodiment abounds within the different sciences yet the interpretation of results and their significance are still disputed and researchers continue looking for appropriate ways to study and explain embodied cognition
+
+Research with preverbal infants
+
+Researchers have suggested that Child developmentCommunication
+Another major issue is whether or not a particular ability reflects an embodied mode of processing Lookingtime for example is said to likely be a better measure of embodied cognition than reaching because infants that age lack certain fine motor skills Infants may first develop a passive mode of embodied cognition before they develop the active mode involving fine motor movements Researchers have described how this is problematic in that there is no apparent reason to suppose that the abilities described through lookingtime paradigm reflect embodied processing For the distinction between embodied and Computer algebra
+ Replication crisis and misinterpretation 
+A Methodology
+Researchers failing to replicate the same results does not prove cognition is unaffected/uninfluenced by the body There are still plenty of findings within the topic of embodied cognition that are scientifically sound Some researchers state that many of the failed attempts to replicate embodiment findings are due to Priming (psychology)<! UPDATE:
+Section "Six views on embodied cognition" has been deleted Content was concisely summarised and moved into "the embodiment thesis" section  >
+
+ See also 
+
+Actionspecific perception
+Active inference
+Blue Brain Project
+Cognitive biology
+Cognitive linguistics
+Cognitive neuropsychology
+Cognitive neuroscience
+Cognitive science
+Conceptual blending
+Conceptual metaphor
+Ecological psychology
+Embodied bilingual language
+Embodied cognitive science
+Embodied embedded cognition
+Embodied music cognition
+Embodied phenomenology
+Enactivism
+Extended cognition
+Extended mind thesis
+Externalism
+Feeling
+Image schema
+Metaphors We Live By
+Moravecs paradox
+Motor cognition
+Neuroconstructivism
+Neuropsychology
+Neurophenomenology
+Philosophy of mind
+Plant cognition
+Women Fire and Dangerous Things
+
+
+ Notes 
+
+
+ References 
+
+
+ Further reading 
+
+ 
+ 
+ 
+ 
+ 
+<!   >
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<!  
+ > 
+ 
+
+
+ External links 
+ http://janusheadorg/volume9issue2/ Volume 9 Issue 2 – Janus Head a special issue of Janus Head: Journal of Interdisciplinary Studies in Literature Continental Philosophy Phenomenological Psychology and the Arts Guest edited by Shaun Gallagher
+https://webarchiveorg/web/20040918183107/http://zakrosucsdedu/~trohrer/handbookch1rohrerfinaldraftpdf Embodiment and Experientialism from the Handbook of Cognitive Linguistics (pdf)
+https://webarchiveorg/web/20090317075702/http://wwwdcsshefacuk/~amanda/andersonpdf Embodied Cognition: A Field Guide (pdf) – from an Artificial Intelligence perspective
+ http://wwwdourishcom/embodied/ Where the Action Is by Paul Dourish for applications to humancomputer interaction
+ https://webarchiveorg/web/20070813052100/http://zakrosucsdedu/~trohrer/metaphor/embodimentpdf Pragmatism Ideology and Embodiment:  William James and the Philosophical Foundations of Embodiment by Tim Rohrer
+ http://wwwssseorg Society for the Scientific Study of Embodiment
+ http://wwwieputmedu/e/embodcoghtm Embodied Cognition – Internet Encyclopedia of Philosophy
+ https://webarchiveorg/web/20040918174507/http://zakrosucsdedu/~trohrer/embodimentpdf 2001 Summary of how the embodiment hypothesis of cognitive linguistics has begun to interact with theories of embodiment in fields ranging from cognitive anthropology to cognitive neuroscience
+ https://webarchiveorg/web/20080724075507/http://webgoddardedu/embodiment/ Goddard Colleges Embodiment Studies Web Resources
+ http://wwwembodimentorguk/ Embodiment Resources – for those researching into embodiment particularly as it relates to phenomenology sociology and cognitive neuroscience
+ http://wwweucognitionorg/ EUCog – European Network for the Advancement of Artificial Cognitive Systems Interaction and Robotics Many references here to up to date research on embodiment and enaction
+ https://ethworg/Milestones:SHAKEY:_The_World’s_First_Mobile_Intelligent_Robot_1972 Milestones:SHAKEY: The World’s First Mobile Intelligent Robot 1972
+ https://wwwsenseflycom SenseFly
+
+
+
+
