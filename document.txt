@@ -1,4 +1,5 @@
-Infobox Theory Theory Theory Theory " ` ’ '
+Per favore riassumimi il testo seguente, che comincia con Embodied e finisce con also
+
 Embodied cognition is the concept suggesting that many features of cognition are shaped by the state and capacities of the organism The cognitive features include a wide spectrum of cognitive functions such as perception biases memory recall comprehension and highlevel mental constructs (such as meaning attribution and Categorization
 The embodied mind thesis challenges other theories such as Cognitivism (psychology)
 Theory
@@ -198,35 +199,3 @@ A Methodology
 Researchers failing to replicate the same results does not prove cognition is unaffected/uninfluenced by the body There are still plenty of findings within the topic of embodied cognition that are scientifically sound Some researchers state that many of the failed attempts to replicate embodiment findings are due to Priming (psychology)<! UPDATE:
 Section `Six views on embodied cognition` has been deleted Content was concisely summarised and moved into `the embodiment thesis` section  >
  See also 
-
-Actionspecific perception
-Active inference
-Blue Brain Project
-Cognitive biology
-Cognitive linguistics
-Cognitive neuropsychology
-Cognitive neuroscience
-Cognitive science
-Conceptual blending
-Conceptual metaphor
-Ecological psychology
-Embodied bilingual language
-Embodied cognitive science
-Embodied embedded cognition
-Embodied music cognition
-Embodied phenomenology
-Enactivism
-Extended cognition
-Extended mind thesis
-Externalism
-Feeling
-Image schema
-Metaphors We Live By
-Moravecs paradox
-Motor cognition
-Neuroconstructivism
-Neuropsychology
-Neurophenomenology
-Philosophy of mind
-Plant cognition
-Women Fire and Dangerous Things
