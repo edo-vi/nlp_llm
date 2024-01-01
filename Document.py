@@ -33,6 +33,9 @@ class Document:
             # Join two consecutive tokens
             i = 0
             while i < len(tok):
+                if tok[i] in ["\'", "\'\'", "\"", "\"\"", "`", "``", "’", "’’"]:
+                    i += 1
+                    continue
                 if i + 1 >= len(tok):
                     tok_.append(tok[i])
                 else:
@@ -51,7 +54,7 @@ class Document:
 
             self._tokens = self._tokens + tok_
 
-        # print(tokens)
+        self.make_bow()
     
     def tokenize(self, text):
         return nltk.word_tokenize(text)
