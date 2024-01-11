@@ -1,0 +1,57 @@
+
+multiple image
+          
+
+In mathematics physics and engineering spatial frequency is a characteristic of any structure that is periodic function
+The SI unit of spatial frequency is the reciprocal metre (m<sup>1</sup>) although cycle (rotational unit)
+In wave propagation the spatial frequency is also known as wavenumber Ordinary wavenumber is defined as the reciprocal of wavelength <math>\lambda</math> and is commonly denoted by <math>\xi</math> or sometimes <math>\nu</math>:
+<math display"block">\xi  \frac</math>
+Angular wavenumber <math>k</math> expressed in Radian<math display"block">k  2 \pi \xi  \frac</math>
+
+Visual perception
+In the study of visual perception sine wave
+ Spatialfrequency theory 
+
+The spatialfrequency theory refers to  the theory that the visual cortex operates on a code of spatial frequency not on the code of straight edges and lines hypothesised by Hubel and Wiesel on the basis of early experiments on Visual cortexPrimary visual cortex_(V1)
+The spatialfrequency theory of vision is based on two physical principles:
+
+ Any visual stimulus can be represented by plotting the intensity of the light along lines running through it
+ Any curve can be broken down into constituent sine waves by Fourier analysis
+
+The theory (for which empirical support has yet to be developed) states that in each functional module of the visual cortex Fourier analysis (or its piecewise form ) is performed on the receptive field and the neurons in each module are thought to respond selectively to various orientations and frequencies of sine wave gratings When all of the visual cortex neurons that are influenced by a specific scene respond together the perception of the scene is created by the summation of the various sinewave gratings (This procedure however does not address the problem of the organization of the products of the summation into figures grounds and so on It effectively recovers the original (preFourier analysis) distribution of photon intensity and wavelengths across the retinal projection but does not add information to this original distribution So the functional value of such a hypothesized procedure is unclear Some other objections to the "Fourier theory" are discussed by Westheimer (2001) )  One is generally not aware of the individual spatial frequency components since all of the elements are essentially blended together into one smooth representation However computerbased filtering procedures can be used to deconstruct an image into its individual spatial frequency components Research on spatial frequency detection by visual neurons complements and extends previous research using straight edges rather than refuting it
+
+Further research shows that different spatial frequencies convey different information about the appearance of a stimulus High spatial frequencies represent abrupt spatial changes in the image such as edges and generally correspond to featural information and fine detail M Bar (2004) has proposed that low spatial frequencies represent global information about the shape such as general orientation and proportions Rapid and specialised perception of faces is known to rely more on low spatial frequency information In the general population of adults the threshold for spatial frequency discrimination is about 7% It is often poorer in dyslexic individuals
+
+Spatial frequency in MRI
+kspace in magnetic resonance imaging
+
+When spatial frequency is used as a variable in a mathematical function the function is said to be in Kspace (magnetic resonance imaging)
+It is very common that the raw data in kspace shows features of periodic functions The periodicity is not spatial frequency but is temporal frequency An MRI raw data matrix is composed of a series of phasevariable spinecho signals Each of the spinecho signal is a sinc function of time which can be described by
+<math display"block">\text  \frac \sin \omega_\mathrmtt</math>
+Where
+<math display"block"> \omega_\mathrm\omega_\mathrm + \bar rG</math>
+Here <math>\bar</math> is the gyromagnetic ratio constant and <math>\omega_\mathrm </math> is the basic resonance frequency of the spin Due to the presence of the gradient G the spatial information r is encoded onto the frequency <math>\omega</math> The periodicity seen in the MRI raw data is just this frequency <math>\omega_\mathrm</math> which is basically the temporal frequency in nature
+
+In a rotating frame <math>\omega_\mathrm0 </math> and <math> \omega_\mathrm</math> is simplified to <math>\bar rG</math> Just by letting <math> k \bar Gt</math> the spinecho signal is expressed in an alternative form  
+<math display"block">\text  \frac \sin rk</math>
+
+Now the spinecho signal is in the kspace It becomes a periodic function of k with r as the kspace frequency but not as the "spatial frequency" since "spatial frequency" is reserved for the name of the periodicity seen in the real space r
+
+The kspace domain and the space domain form a Fourier pair Two pieces of information are found in each domain the spatial information and the spatial frequency information The spatial information which is of great interest to all medical doctors is seen as periodic functions in the kspace domain and is seen as the image in the space domain The spatial frequency information which might be of interest to some MRI engineers is not easily seen in the space domain but is readily seen as the data points in the kspace domain
+
+See also
+ Fourier analysis
+ Superlens
+ Visual perception
+ Fringe visibility
+ Reciprocal space
+
+References
+
+
+External links
+ cite web
+    
+ cite web
+     
+

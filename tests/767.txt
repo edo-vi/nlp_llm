@@ -1,0 +1,338 @@
+
+
+
+
+The technological singularity—or simply the singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible resulting in unforeseeable consequences for human civilization According to the most popular version of the singularity hypothesis I J Goods Intelligence explosion
+The first person to use the concept of a "singularity" in the technological context was the 20thcentury HungarianAmerican mathematician John von Neumann Stanislaw Ulam reports in 1958 an earlier discussion with von Neumann "centered on the Accelerating change
+The concept and the term "singularity" were popularized by Vernor Vinge first in 1983 in an article that claimed that once humans create intelligences greater than their own there will be a technological and social transition similar in some sense to "the knotted spacetime at the center of a black hole" and later in his 1993 essay The Coming Technological Singularity in which he wrote that it would signal the end of the human era as the new superintelligence would continue to upgrade itself and would advance technologically at an incomprehensible rate He wrote that he would be surprised if it occurred before 2005 or after 2030 Another significant contributor to wider circulation of the notion was Ray Kurzweils 2005 book The Singularity Is Near predicting singularity by 2045
+
+<! Human extinction: >Some scientists including Stephen Hawking have expressed concern that Superintelligence
+<! Plausibility: >Prominent technologists and academics dispute the plausibility of a technological singularity and the associated artificial intelligence explosion including Paul Allen Jeff Hawkins John Henry Holland
+ Intelligence explosion 
+Although technological progress has been accelerating in most areas it has been limited by the basic intelligence of the human brain which has not according to Paul R Ehrlich changed significantly for millennia However with the increasing power of computers and other technologies it might eventually be possible to build a machine that is significantly more intelligent than humans
+
+If a superhuman intelligence were to be invented—either through the Intelligence amplification
+I J Good speculated in 1965 that superhuman intelligence might bring about an intelligence explosion:
+
+
+One version of intelligence explosion is where computing power approaches infinity in a finite amount of time In this version once AIs are doing the research to improve themselves speed doubles eg after 2 years then 1 year then 6 months then 3 months then 15 months etc where the infinite sum of the doubling periods is 4 years Unless prevented by physical limits of computation and time quantization this process would literally achieve infinite computing power in 4 years properly earning the name "singularity" for the final state This form of intelligence explosion is described in Yudkowsky (1996)
+
+Emergence of superintelligence
+
+A superintelligence hyperintelligence or superhuman intelligence is a hypothetical intelligent agent
+The related concept "speed superintelligence" describes an AI that can function like a human mind only much faster For example with a millionfold increase in the speed of information processing relative to that of humans a subjective year would pass in 30 physical seconds
+
+Technology forecasters and researchers disagree regarding when or whether human intelligence will likely be surpassed Some argue that advances in artificial intelligence (AI) will probably result in general reasoning systems that bypass human cognitive limitations Others believe that humans will evolve or directly modify their biology so as to achieve radically greater intelligence A number of futures studies focus on scenarios that combine these possibilities suggesting that humans are likely to brain–computer interface
+Variations
+ NonAI Singularity 
+Some writers use "the singularity" in a broader way to refer to any radical changes in society brought about by new technology (such as molecular nanotechnology) although Vinge and other writers specifically state that without superintelligence such changes would not qualify as a true singularity
+
+Predictions
+In 1965 I J Good predicted an ultraintelligent machine by 2000 In a 2017 interview Kurzweil predicted humanlevel intelligence by 2029 and billion fold intelligence and singularity by 2045
+
+<! AI researcher predictions: >Four polls of AI researchers conducted in 2012 and 2013 by Nick Bostrom and Vincent C Müller suggested a confidence of 50% that artificial general intelligence
+Plausibility
+Prominent technologists and academics dispute the plausibility of a technological singularity including Paul Allen Jeff Hawkins John Henry Holland
+Most proposed methods for creating superhuman or transhuman minds fall into one of two categories: intelligence amplification of human brains and artificial intelligence The many speculated ways to augment human intelligence include bioengineering genetic engineering nootropic drugs AI assistants direct brain–computer interfaces and mind uploading These multiple possible paths to an intelligence explosion all of which will presumably be pursued makes a singularity more likely
+
+Robin Hanson expressed skepticism of human intelligence augmentation writing that once the "lowhanging fruit" of easy methods for increasing human intelligence have been exhausted further improvements will become increasingly difficult Despite all of the speculated ways for amplifying human intelligence nonhuman artificial intelligence (specifically seed AI) is the most popular option among the hypotheses that would advance the singularity
+
+The possibility of an intelligence explosion depends on three factors The first accelerating factor is the new intelligence enhancements made possible by each previous improvement Contrariwise as the intelligences become more advanced further advances will become more and more complicated possibly outweighing the advantage of increased intelligence Each improvement should generate at least one more improvement on average for movement towards singularity to continue Finally the laws of physics may eventually prevent further improvement
+
+There are two logically independent but mutually reinforcing causes of intelligence improvements: increases in the speed of computation and improvements to the algorithms used and is comparatively similar to previous technological advances But there are some AI researchers who believe software is more important than hardware
+
+A 2017 email survey of authors with publications at the 2015 Conference on Neural Information Processing Systems
+ Speed improvements 
+Both for human and artificial intelligence hardware improvements increase the rate of future hardware improvements An analogy to Moores Law suggests that if the first doubling of speed took 18 months the second would take 18 subjective months; or 9 external months whereafter four months two months and so on towards a speed singularity Some upper limit on speed may eventually be reached Jeff Hawkins has stated that a selfimproving computer system would inevitably run into upper limits on computing power: "in the end there are limits to how big and fast computers can run We would end up in the same place; wed just get there a bit faster There would be no singularity"
+
+It is difficult to directly compare siliconbased hardware with neurons But  notes that computer speech recognition is approaching human capabilities and that this capability seems to require 001% of the volume of the brain This analogy suggests that modern computer hardware is within a few orders of magnitude of being as powerful as the human brain
+
+Exponential growth
+Image:PPTMooresLawaijpgFile:Moores Law over 120 Yearspng
+The exponential growth in computing technology suggested by Moores law is commonly cited as a reason to expect a singularity in the relatively near future and a number of authors have proposed generalizations of Moores law Computer scientist and futurist Hans Moravec proposed in a 1998 book that the exponential growth curve could be extended back through earlier computing technologies prior to the integrated circuit
+
+Ray Kurzweil postulates a law of accelerating returns in which the speed of technological change (and more generally all evolutionary processes On the other hand it has been argued that the global acceleration pattern having the 21st century singularity as its parameter should be characterized as Hyperbolic growth
+Kurzweil reserves the term "singularity" for a rapid increase in artificial intelligence (as opposed to other technologies) writing for example that "The Singularity will allow us to transcend these limitations of our biological bodies and brains  There will be no distinction postSingularity between human and machine" He also defines his predicted date of the singularity (2045) in terms of when he expects computerbased intelligences to significantly exceed the sum total of human brainpower writing that advances in computing before that date "will not represent the Singularity" because they do "not yet correspond to a profound expansion of our intelligence"
+Accelerating change
+File:ParadigmShiftsFrr15Eventssvg
+
+Some singularity proponents argue its inevitability through extrapolation of past trends especially those pertaining to shortening gaps between improvements to technology In one of the first uses of the term "singularity" in the context of technological progress Stanislaw Ulam tells of a conversation with John von Neumann about accelerating change: 
+
+Kurzweil claims that technological progress follows a pattern of exponential growth following what he calls the "law of accelerating returns" Whenever technology approaches a barrier Kurzweil writes new technologies will surmount it He predicts paradigm shifts will become increasingly common leading to "technological change so rapid and profound it represents a rupture in the fabric of human history"<ref name"Kurzweil 2001">Citation
+</ref> Kurzweil believes that the singularity will occur by approximately 2045 His predictions differ from Vinges in that he predicts a gradual ascent to the singularity rather than Vinges rapidly selfimproving superhuman intelligence
+
+Oftcited dangers include those commonly associated with molecular nanotechnology and genetic engineering These threats are major issues for both singularity advocates and critics and were the subject of Bill Joys April 2000 Wired (magazine)
+ Algorithm improvements 
+Some intelligence technologies like "seed AI" may also have the potential to not just make themselves faster but also more efficient by modifying their source code These improvements would make further improvements possible which would make further improvements possible and so on
+
+The mechanism for a recursively selfimproving set of algorithms differs from an increase in raw computation speed in two ways First it does not require external influence: machines designing faster hardware would still require humans to create the improved hardware or to program factories appropriately An AI rewriting its own source code could do so while contained in an AI box
+
+Second as with Vernor Vinges conception of the singularity it is much harder to predict the outcome While speed increases seem to be only a quantitative difference from human intelligence actual algorithm improvements would be qualitatively different Eliezer Yudkowsky compares it to the changes that human intelligence brought: humans changed the world thousands of times more rapidly than evolution had done and in totally different ways Similarly the evolution of life was a massive departure and acceleration from the previous geological rates of change and improved intelligence could cause change to be as different again
+
+There are substantial dangers associated with an intelligence explosion singularity originating from a recursively selfimproving set of algorithms First the goal structure of the AI might selfmodify potentially causing the AI to optimise for something other than what was originally intended
+
+Secondly AIs could compete for the same scarce resources humankind uses to survive While not actively malicious AIs would promote the goals of their programming not necessarily broader human goals and thus might crowd out humans completely
+
+Carl Shulman and Anders Sandberg suggest that algorithm improvements may be the limiting factor for a singularity; while hardware efficiency tends to improve at a steady pace software innovations are more unpredictable and may be bottlenecked by serial cumulative research They suggest that in the case of a softwarelimited singularity intelligence explosion would actually become more likely than with a hardwarelimited singularity because in the softwarelimited case once humanlevel AI is developed it could run serially on very fast hardware and the abundance of cheap hardware would make AI research less constrained An abundance of accumulated hardware that can be unleashed once the software figures out how to use it has been called "computing overhang"
+
+Criticism
+Some critics like philosopher Hubert Dreyfus assert that computers or machines cannot achieve human intelligence Others like physicist Stephen Hawking object that whether machines can achieve a true intelligence or merely something similar to intelligence is irrelevant if the net result is the same
+
+Psychologist Steven Pinker stated in 2008: "There is not the slightest reason to believe in a coming singularity The fact that you can visualize a future in your imagination is not evidence that it is likely or even possible Look at domed cities jetpack commuting underwater cities milehigh buildings and nuclearpowered automobiles—all staples of futuristic fantasies when I was a child that have never arrived Sheer processing power is not a pixie dust that magically solves all your problems "
+
+Martin Ford (author)
+<! Rate of technological innovation: >Theodore Modis and Jonathan Huebner argue that the rate of technological innovation has not only ceased to rise but is actually now declining Evidence for this decline is that the rise in computer clock rates is slowing even while Moores prediction of exponentially increasing circuit density continues to hold This is due to excessive heat buildup from the chip which cannot be dissipated quickly enough to prevent the chip from melting when operating at higher speeds Advances in speed may be possible in the future by virtue of more powerefficient CPU designs and multicell processors
+
+<! Modis specifically on "singularity": >Theodore Modis holds the singularity cannot happen He claims the "technological singularity" and especially Kurzweil lack scientific rigor; Kurzweil is alleged to mistake the logistic function (Sfunction) for an exponential function and to see a "knee" in an exponential function where there can in fact be no such thing
+
+AI researcher Jürgen Schmidhuber stated that the frequency of subjectively "notable events" appears to be approaching a 21stcentury singularity but cautioned readers to take such plots of subjective events with a grain of salt: perhaps differences in memory of recent and distant events could create an illusion of accelerating change where none exists
+
+Microsoft cofounder Paul Allen argued the opposite of accelerating returns the complexity brake; the more progress science makes towards understanding intelligence the more difficult it becomes to make additional progress A study of the number of patents shows that human creativity does not show accelerating returns but in fact as suggested by Joseph Tainter in his The Collapse of Complex Societies a law of diminishing returns The number of patents per thousand peaked in the period from 1850 to 1900 and has been declining since<!Previous comment: is this from Collapse of Complex Societies or some other source? Perhaps this refers to Jonathan Huebners patent analysis mentioned in the earlier paragraph? If so would be better to integrate this part with that paragraph since the earlier paragraph mentions that Huebners analysis has been criticized whereas this paragraph just seems to present it as fact > The growth of complexity eventually becomes selflimiting and leads to a widespread "general systems collapse"
+
+Douglas Hofstadter
+Jaron Lanier denies that the singularity is inevitable: "I do not think the technology is creating itself Its not an autonomous process" Furthermore: "The reason to believe in human agency over technological determinism is that you can then have an economy where people earn their own way and invent their own lives If you structure a society on not emphasizing individual human agency its the same thing operationally as denying people clout dignity and selfdetermination  to embrace the idea of the Singularity would be a celebration of bad data and bad politics"
+
+Economist Robert J Gordon points out that measured economic growth slowed around 1970 and slowed even further since the financial crisis of 2007–2008 and argues that the economic data show no trace of a coming Singularity as imagined by mathematician I J Good
+
+Philosopher and cognitive scientist Daniel Dennett said in 2017: "The whole singularity stuff thats preposterous It distracts us from much more pressing problems" adding "AI tools that we become hyperdependent on that is going to happen And one of the dangers is that we will give them more authority than they warrant"
+
+In addition to general criticisms of the singularity concept several critics have raised issues with Kurzweils iconic chart One line of criticism is that a Loglog plot
+<! religious semblance: >Some critics suggest religious motivations or implications of singularity especially Kurzweils version of it The buildup towards the Singularity is compared with JudeoChristian endoftime scenarios Beam calls it "a Buck Rogers vision of the hypothetical Christian Rapture" John N Gray
+David Streitfeld in The New York Times questioned whether "it might manifest first and foremost—thanks in part to the bottomline obsession of today’s Silicon Valley—as a tool to slash corporate America’s head count"
+
+Potential impacts
+Dramatic changes in the rate of economic growth have occurred in the past because of technological advancement Based on population growth the economy doubled every 250000 years from the Paleolithic era until the Neolithic Revolution The new agricultural economy doubled every 900 years a remarkable increase In the current era beginning with the Industrial Revolution the worlds economic output doubles every fifteen years sixty times faster than during the agricultural era If the rise of superhuman intelligence causes a similar revolution argues Robin Hanson one would expect the economy to double at least quarterly and possibly on a weekly basis
+
+Uncertainty and risk
+
+The term "technological singularity" reflects the idea that such change may happen suddenly and that it is difficult to predict how the resulting new world would operate It is unclear whether an intelligence explosion resulting in a singularity would be beneficial or harmful or even an Existential risk
+Physicist Stephen Hawking said in 2014 that "Success in creating AI would be the biggest event in human history Unfortunately it might also be the last unless we learn how to avoid the risks"
+
+ claims that there is no direct evolutionary motivation for an AI to be friendly to humans Evolution has no inherent tendency to produce outcomes valued by humans and there is little reason to expect an arbitrary optimisation process to promote an outcome desired by humankind rather than inadvertently leading to an AI behaving in a way not intended by its creators Anders Sandberg has also elaborated on this scenario addressing various common counterarguments AI researcher Hugo de Garis suggests that artificial intelligences may simply eliminate the human race instrumental convergence
+ discusses human extinction scenarios and lists superintelligence as a possible cause:
+
+
+According to Eliezer Yudkowsky a significant problem in AI safety is that unfriendly artificial intelligence is likely to be much easier to create than friendly AI While both require large advances in recursive optimisation process design friendly AI also requires the ability to make goal structures invariant under selfimprovement (or the AI could transform itself into something unfriendly) and a goal structure that aligns with human values and does not automatically destroy the human race An unfriendly AI on the other hand can optimize for an arbitrary goal structure which does not need to be invariant under selfmodification  proposes an AI design that avoids several dangers including selfdelusion unintended instrumental actions and corruption of the reward generator and testing AI His 2001 book SuperIntelligent Machines advocates the need for public education about AI and public control over AI It also proposed a simple design that was vulnerable to corruption of the reward generator
+
+Next step of sociobiological evolution
+
+
+File:Major Evolutionary Transitions digitaljpgFile:Biological vs digital informationjpgWhile the technological singularity is usually seen as a sudden event some scholars argue the current speed of change already fits this description
+
+In addition some argue that we are already in the midst of a The Major Transitions in Evolution
+A 2016 article in Trends in Ecology & Evolution argues that "humans already embrace fusions of biology and technology We spend most of our waking time communicating through digitally mediated channels we trust artificial intelligence with our lives through Antilock braking system
+The article further argues that from the perspective of the evolution several previous The Major Transitions in Evolution
+The digital information created by humans has reached a similar magnitude to biological information in the biosphere Since the 1980s the quantity of digital information stored has doubled about every 25 years reaching about 5 zettabytes in 2014 (5 bytes)
+
+In biological terms there are 72&nbsp;billion humans on the planet each having a genome of 62&nbsp;billion nucleotides Since one byte can encode four nucleotide pairs the individual genomes of every human on the planet could be encoded by approximately 1 bytes The digital realm stored 500 times more information than this in 2014 (see figure) The total amount of DNA contained in all of the cells on Earth is estimated to be about 53 base pairs equivalent to 1325 bytes of information
+
+If growth in digital storage continues at its current rate of 30–38% compound annual growth per year
+
+Implications for human society
+
+In February 2009 under the auspices of the Association for the Advancement of Artificial Intelligence (AAAI) Eric Horvitz chaired a meeting of leading computer scientists artificial intelligence researchers and roboticists at the Asilomar conference center in Pacific Grove California The goal was to discuss the potential impact of the hypothetical possibility that robots could become selfsufficient and able to make their own decisions They discussed the extent to which computers and robots might be able to acquire autonomy and to what degree they could use such abilities to pose threats or hazards
+
+Some machines are programmed with various forms of semiautonomy including the ability to locate their own power sources and choose targets to attack with weapons Also some computer viruses can evade elimination and according to scientists in attendance could therefore be said to have reached a "cockroach" stage of machine intelligence The conference attendees noted that selfawareness as depicted in sciencefiction is probably unlikely but that other potential hazards and pitfalls exist
+
+Frank S Robinson predicts that once humans achieve a machine with the intelligence of a human scientific and technological problems will be tackled and solved with brainpower far superior to that of humans He notes that artificial systems are able to share data more directly than humans and predicts that this would result in a global network of superintelligence that would dwarf human capability Robinson also discusses how vastly different the future would potentially look after such an intelligence explosion
+
+Hard vs soft takeoff
+File:Recursive selfimprovementsvg
+In a hard takeoff scenario an artificial superintelligence rapidly selfimproves "taking control" of the world (perhaps in a matter of hours) too quickly for significant humaninitiated error correction or for a gradual tuning of the agents goals In a soft takeoff scenario the AI still becomes far more powerful than humanity but at a humanlike pace (perhaps on the order of decades) on a timescale where ongoing human interaction and correction can effectively steer the AIs development
+
+Ramez Naam argues against a hard takeoff He has pointed out that we already see recursive selfimprovement by superintelligences such as corporations Intel for example has "the collective brainpower of tens of thousands of humans and probably millions of CPU cores to design better CPUs!" However this has not led to a hard takeoff; rather it has led to a soft takeoff in the form of Moores law Naam further points out that the computational complexity of higher intelligence may be much greater than linear such that "creating a mind of intelligence 2 is probably more than twice as hard as creating a mind of intelligence 1"
+
+J Storrs Hall believes that "many of the more commonly seen scenarios for overnight hard takeoff are circular – they seem to assume hyperhuman capabilities at the starting point of the selfimprovement process" in order for an AI to be able to make the dramatic domaingeneral improvements required for takeoff Hall suggests that rather than recursively selfimproving its hardware software and infrastructure all on its own a fledgling AI would be better off specializing in one area where it was most effective and then buying the remaining components on the marketplace because the quality of products on the marketplace continually improves and the AI would have a hard time keeping up with the cuttingedge technology used by the rest of the world
+
+Ben Goertzel agrees with Halls suggestion that a new humanlevel AI would do well to use its intelligence to accumulate wealth The AIs talents might inspire companies and governments to disperse its software throughout society Goertzel is skeptical of a hard five minute takeoff but speculates that a takeoff from human to superhuman level on the order of five years is reasonable Goerzel refers to this scenario as a "semihard takeoff"
+
+Max More disagrees arguing that if there were only a few superfast humanlevel AIs that they would not radically change the world as they would still depend on other people to get things done and would still have human cognitive constraints Even if all superfast AIs worked on intelligence augmentation it is unclear why they would do better in a discontinuous way than existing human cognitive scientists at producing superhuman intelligence although the rate of progress would increase More further argues that a superintelligence would not transform the world overnight: a superintelligence would need to engage with existing slow human systems to accomplish physical impacts on the world "The need for collaboration for organization and for putting ideas into physical changes will ensure that all the old rules are not thrown out overnight or even within years"
+
+ Relation to immortality and aging 
+K Eric Drexler
+Hans Moravec
+Ray Kurzweil
+Beyond merely extending the operational life of the physical body Jaron Lanier argues for a form of immortality called "Digital Ascension" that involves "people dying in the flesh and being uploaded into a computer and remaining conscious"
+
+History of the concept
+A paper by Mahendra Prasad published in AI Magazine asserts that the 18thcentury mathematician Marquis de Condorcet was the first person to hypothesize and mathematically model an intelligence explosion and its effects on humanity
+
+An early description of the idea was made in John W Campbells 1932 short story "The last evolution"
+
+In his 1958 obituary for John von Neumann Ulam recalled a conversation with von Neumann about the "ever accelerating progress of technology and changes in the mode of human life which gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs as we know them could not continue"
+
+In 1965 Good wrote his essay postulating an "intelligence explosion" of recursive selfimprovement of a machine intelligence
+
+In 1977 Hans Moravec wrote an article with unclear publishing status where he envisioned a development of selfimproving thinking machines a creation of "superconsciousness the synthesis of terrestrial life and perhaps jovian and martian life as well constantly improving and extending itself spreading outwards from the solar system converting nonlife into mind"
+
+In 1981 Stanisław Lem published his science fiction novel Golem XIV It describes a military AI computer (Golem XIV) who obtains consciousness and starts to increase his own intelligence moving towards personal technological singularity Golem XIV was originally created to aid its builders in fighting wars but as its intelligence advances to a much higher level than that of humans it stops being interested in the military requirements because it finds them lacking internal logical consistency
+
+In 1983 Vernor Vinge addressed Goods intelligence explosion in print in the January 1983 issue of Omni (magazine)
+
+In 1985 in "The Time Scale of Artificial Intelligence" artificial intelligence researcher Ray Solomonoff articulated mathematically the related notion of what he called an "infinity point": if a research community of humanlevel selfimproving AIs take four years to double their own speed then two years then one year and so on their capabilities increase infinitely in finite time
+
+In 1986 Vernor Vinge published Marooned in Realtime a sciencefiction novel where a few remaining humans traveling forward in the future have survived an unknown extinction event that might well be a singularity In a short afterword the author states that an actual technological singularity would not be the end of the human species: "of course it seems very unlikely that the Singularity would be a clean vanishing of the human race (On the other hand such a vanishing is the timelike analog of the silence we find all across the sky)"<ref>cite magazine
+
+In 1988 Vinge used the phrase "technological singularity" (including "technological") in the short story collection Threats and Other Promises writing in the introduction to his story "The Whirligig of Time" (p&nbsp;72): Barring a worldwide catastrophe I believe that technology will achieve our wildest dreams and soon When we raise our own intelligence and that of our creations we are no longer in a world of humansized characters At that point we have fallen into a technological "black hole" a technological singularity
+
+In 1988 Hans Moravec published Mind Children in which he predicted humanlevel intelligence in supercomputers by 2010 selfimproving intelligent machines far surpassing human intelligence later human mind uploading into humanlike robots later intelligent machines leaving humans behind and space colonization He did not mention "singularity" though and he did not speak of a rapid explosion of intelligence immediately after the human level is achieved Nonetheless the overall singularity tenor is there in predicting both humanlevel artificial intelligence and further artificial intelligence far surpassing humans later
+
+Vinges 1993 article "The Coming Technological Singularity: How to Survive in the PostHuman Era" spread widely on the internet and helped to popularize the idea This article contains the statement "Within thirty years we will have the technological means to create superhuman intelligence Shortly after the human era will be ended" Vinge argues that sciencefiction authors cannot write realistic postsingularity characters who surpass the human intellect as the thoughts of such an intellect would be beyond the ability of humans to express
+
+Marvin Minsky
+Frank J Tipler
+In 1996 Yudkowsky predicted a singularity by 2021 His version of singularity involves intelligence explosion: once AIs are doing the research to improve themselves speed doubles after 2 years then 1 one year then after 6 months then after 3 months then after 15 months and after more iterations the "singularity" is reached This construction implies that the speed reaches infinity in finite time
+
+In 2000 Bill Joy a prominent technologist and a cofounder of Sun Microsystems voiced concern over the potential dangers of robotics genetic engineering and nanotechnology
+
+In 2005 Kurzweil published The Singularity Is Near Kurzweils publicity campaign included an appearance on The Daily Show with Jon Stewart
+
+From 2006 to 2012 an annual Singularity Summit conference was organized by Machine Intelligence Research Institute founded by Eliezer Yudkowsky
+
+In 2007 Yudkowsky suggested that many of the varied definitions that have been assigned to "singularity" are mutually incompatible rather than mutually supporting For example Kurzweil extrapolates current technological trajectories past the arrival of selfimproving AI or superhuman intelligence which Yudkowsky argues represents a tension with both I J Goods proposed discontinuous upswing in intelligence and Vinges thesis on unpredictability
+
+In 2009 Kurzweil and XPrize founder Peter Diamandis announced the establishment of Singularity University a nonaccredited private institute whose stated mission is "to educate inspire and empower leaders to apply exponential technologies to address humanitys grand challenges" Funded by Google Autodesk ePlanet Ventures and a group of High tech
+In politics
+In 2007 the Joint Economic Committee of the United States Congress released a report about the future of nanotechnology It predicts significant technological and political changes in the midterm future including possible technological singularity
+
+Former President of the United States Barack Obama spoke about singularity in his interview to Wired (magazine)
+
+See also
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ References 
+ Citations 
+Reflist
+
+
+
+<ref name"good1965">Citation     </ref>
+
+
+
+
+
+
+
+
+
+
+
+<ref name"yudkowsky1996">cite web 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ref name"kurzweil2005135136">Ray Kurzweil The Singularity Is Near pp 135–136 Penguin Group 2005
+"So we will be producing about 10<sup>26</sup> to 10<sup>29</sup> cps of nonbiological computation per year in the early 2030s This is roughly equal to our estimate for the capacity of all living biological human intelligence  This state of computation in the early 2030s will not represent the Singularity however because it does not yet correspond to a profound expansion of our intelligence By the mid2040s however that one thousand dollars worth of computation will be equal to 10<sup>26</sup> cps so the intelligence created per year (at a total cost of about $10<sup>12</sup>) will be about one billion times more powerful than all human intelligence today That will indeed represent a profound change and it is for that reason that I set the date for the Singularity—representing a profound and disruptive transformation in human capability—as 2045"</ref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Sources 
+
+ 
+ William D Nordhaus "Why Growth Will Fall" (a review of Robert J Gordon The Rise and Fall of American Growth: The US Standard of Living Since the Civil War Princeton University Press 2016 762 pp $3995) The New York Review of Books vol LXIII no 13 (August 18 2016) pp&nbsp;64 66 68
+ John R Searle "What Your Computer Cant Know" (review of Luciano Floridi The Fourth Revolution:  How the Infosphere Is Reshaping Human Reality Oxford University Press 2014; and Nick Bostrom Superintelligence: Paths Dangers Strategies Oxford University Press 2014) The New York Review of Books vol LXI no 15 (October 9 2014) pp&nbsp;52–55
+ 
+ 
+ 
+ 
+ 
+
+
+Further reading
+ Oliver Krüger Gary Marcus Piero Scaruffi
+ External links 
+
+ https://wwwbritannicacom/technology/singularitytechnology singularity  technology britannicacom
+ https://edorassdsuedu/~vinge/misc/singularityhtml The Coming Technological Singularity: How to Survive in the PostHuman Era (on Vernor Vinges web site retrieved Jul 2019)
+ https://intelligenceorg/iefaq/ Intelligence Explosion FAQ by the Machine Intelligence Research Institute
+ http://bootstrappingartificialintelligencefr/WordPress3/ Blog on bootstrapping artificial intelligence by Jacques Pitrat
+ http://hplusmagazinecom/2011/03/07/whyanintelligenceexplosionisprobable/ Why an Intelligence Explosion is Probable (Mar 2011)
+ https://mediumcom/@francoischollet/theimpossibilityofintelligenceexplosion5be4a9eda6ec Why an Intelligence Explosion is Impossible (Nov 2017)
+ https://scifilogiccom/achievingthetechnologicalsingularity/ How Close are We to Technological Singularity and When?
+
+
+
+
+
+
+

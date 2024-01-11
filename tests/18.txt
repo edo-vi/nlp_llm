@@ -1,0 +1,110 @@
+
+Multiple issues
+
+
+Robot ethics sometimes known as "roboethics" concerns ethical problems that occur with robots such as whether robots pose a threat to humans in the long or short run whether some uses of robots are problematic (such as in healthcare or as Lethal autonomous weapon
+While the issues are as old as the word robot serious academic discussions started around the year 2000 Robot ethics requires the combined commitment of experts of several disciplines who have to adjust laws and regulations to the problems resulting from the scientific and technological achievements in Robotics and AI The main fields involved in robot ethics are: robotics computer science artificial intelligence philosophy ethics theology biology physiology cognitive science neurosciences law sociology psychology and industrial design
+
+History and events
+
+
+Some of the central discussion of ethics in relation to the treatment of nonhuman or nonbiological things and their potential "spirituality" Another central topic has to do with the development of machinery and eventually robots this philosophy was also applied to robotics One of the first publications directly addressing and setting the foundation for robot ethics was Runaround (story) a science fiction short story written by Isaac Asimov in 1942 which featured his well known Three Laws of Robotics These three laws were continuously altered by Asimov and a fourth or zeroth law was eventually added to precede the first three  in the context of his science fiction works The short term "roboethics" was most likely coined by Gianmarco Veruggio
+
+An important event that propelled the concern of roboethics was the First International Symposium on Roboethics in 2004 by the collaborative effort of Scuola di Robotica the Arts Lab of Scuola Superiore SantAnna Pisa and the Theological Institute of Pontificia Accademia della Santa Croce Rome Due to the activities of the school of Robotics which is a non profit organization and is to promote the knowledge of the science of Robotics among students and the general public this Roboethics Symposium was made In discussions with students and non specialists Gianmarco Veruggio and Fiorella Operto thought that it was necessary to spread correct conceptions among the general public about the alleged dangers in Robotics They thought that a productive debate based on accurate insights and real knowledge could push people to take an active part in the education of public opinion make them comprehend the positive uses of the new technology and prevent its abuse After two days of intense debating anthropologist Daniela Cerqui identified three main ethical positions emerging from two days of intense debate:
+Those who are not interested in ethics They consider that their actions are strictly technical and do not think they have a social or a moral responsibility in their work
+Those who are interested in shortterm ethical questions According to this profile questions are expressed in terms of “good” or “bad” and refer to some cultural values For instance they feel that robots have to adhere to social conventions This will include “respecting” and helping humans in diverse areas such as implementing laws or in helping elderly people (Such considerations are important but we have to remember that the values used to define the “bad” and the “good” are relative They are the contemporary values of the industrialized countries)
+Those who think in terms of longterm ethical questions about for example the “Digital divide” between South and North or young and elderly They are aware of the gap between industrialized and poor countries and wonder whether the former should not change their way of developing robotics to be more useful to the South They do not formulate explicitly the question what for but we can consider that it is implicit"
+
+These are some important events and projects in robot ethics Further events in the field are announced by the http://wwwptaiorg/TGELS/projects euRobotics ELS topics group and by http://robohuborg/topic/PoliticsLawSociety/ RoboHub:
+
+1942: Isaac Asimov2004: https://webarchiveorg/web/20070928113317/http://wwwroboethicsorg/sanremo04/indexphp First International Symposium on Roboethics organized by http://wwwscuoladiroboticait/ School of Robotics where the word Roboethics is officially used for the first time (30&ndash;31 January 2004 Villa Nobel Sanremo Italy)
+2004: https://webarchiveorg/web/20061205195010/http://wwwncsuedu/IEEERAS/_newras/ IEEERAS establishes a http://ththberkeleyedu/tabdb/committeeinfophp?tcid19 Technical Committee on Roboethics
+2004: Fukuoka World Robot Declaration (25 February 2004 Fukuoka Fukuoka2005: The IEEE RAS TC on Roboethics organizes the https://webarchiveorg/web/20070928113305/http://wwwroboethicsorg/icra05/indexphp ICRA05 (International Conference on Robotics and Automation) a Workshop on Roboethics (18 April 2005 Barcelona Spain)
+2005&ndash;2006: https://webarchiveorg/web/20070928113300/http://wwwroboethicsorg/atelier06/indexphp EC Euron Roboethics Atelier https://webarchiveorg/web/20060614034251/http://wwweuronorg/activities/projects/roboethicshtml The Euron Project coordinated by http://wwwscuoladiroboticait School of Robotics involved a large number of roboticists and scholars of humanities who produced the first Roadmap for a Roboethics (February/March 2006 Genoa Italy)
+2006: https://webarchiveorg/web/20070202205529/http://wwwbiorob2006org/homehtml BioRob2006 the first IEEE / RASEMBS International Conference on Biomedical Robotics and Biomechatronics; Mini symposium on Roboethics (20 February 2006 Pisa Italy)
+2006: https://webarchiveorg/web/20061008055707/http://ethicbotsnainfnit/workshophtm International Workshop "Ethics of Human Interaction with Robotic Bionic and AI Systems: Concepts and Policies"; supported by the https://webarchiveorg/web/20110721230729/http://ethicbotsnainfnit/ ETHICBOTS European Project (17&ndash;18 October 2006 Naples Italy)
+2007: https://webarchiveorg/web/20070704005125/http://wwwroboethicsorg/icra07/indexphp The IEEE RAS TC on Roboethics organizes another Workshop on Roboethics http://wwwicra07org/ ICRA07 (International Conference on Robotics and Automation) (14 April 2007 Rome Italy)
+2007: http://wwwiaailorg/icail2007/ ICAIL07  http://wwwinformatikunitrierde/~ley/db/conf/icail/icail2007html International Conference on Artificial Intelligence and Law (4–8 June 2007 Stanford University Palo Alto California2007: http://wwwutwentenl/ecap07/ International European Conference on Computing and Philosophy ECAP ‘07  track: "roboethics" (21&ndash;23 June 2007 University of Twente Netherlands)
+2007: https://webarchiveorg/web/20060614205951/http://cepe2007sandiegoedu/indexasp Computer Ethics Philosophical Enquiry CEPE 07 topic: "Roboethics" (12&ndash;14 July 2007 University of San Diego California2008: http://wwwroboethicsorg/lincei2008/ INTERNATIONAL SYMPOSIUM ROBOTICS: NEW SCIENCE (20 February 2008 Via della Lungara 10 Rome Italy)
+2009: http://wwwroboethicsorg/icra2009/ The IEEE RAS TC on Roboethics organizes another Workshop on Roboethics ICRA09 (International Conference on Robotics and Automation) (17 May 2009 Kobe Japan)
+2012: We Robot 2012 (University of Miami Florida2013: Workshop on Robot Ethics (February  2013 University of Sheffield South Yorkshire England)
+2013: http://conferenceslawstanfordedu/werobot/ We Robot 2013  Getting Down to Business  (Stanford University Palo Alto California2014: http://robotslawmiamiedu/2014/ We Robot 2014  Risks and Opportunities  (University of Miami Florida2016: Ethical and Moral Considerations in NonHuman Agents Stanford Spring Symposium AAAI Association for the Advancement of Artificial Intelligence https://sitesgooglecom/site/ethicalnonhumanagents/ (Stanford University Palo Alto California2017: Future Investment Summit in Riyadh; a robot (called Sophia (robot)2017: The European Parliament passed a resolution addressed to the European Commission concerning Civil Law Rules on Robotics 
+2017: The AI Now Institute (AI Now) at New York University2020: The establishment of the NonHuman Party for the rights of robots animals and the wider nonhuman environment
+2021: https://werobot2021com/ We Robot 2021 (23 Sep 2021  University of Miami Florida2021: https://wwwersworkshopcom/ IROS 2021 Workshop  Building and Evaluating Ethical Robotic Systems
+
+Computer scientist Virginia Dignum noted in a March 2018 issue of Ethics and Information Technology that the general societal attitude toward artificial intelligence (AI) has in the modern era shifted away from viewing AI as a tool and toward viewing it as an intelligent “teammate” In the same article she assessed that with respect to AI ethical thinkers have three goals each of which she argues can be achieved in the modern era with careful thought and implementation The three ethical goals are as follows:
+
+ Ethics by Design (the technical/algorithmic integration of ethical reasoning capabilities as part of the behavior of artificial autonomous system—see Machine ethics Ethics in Design (the regulatory and engineering methods that support the analysis and evaluation of the ethical implications of AI systems as these integrate or replace traditional social structures); and
+ Ethics for design (the codes of conduct standards and certification processes that ensure the integrity of developers and users as they research design construct employ and manage artificial intelligent systems—see Robot ethicsRobot Ethics and Law
+In popular culture
+
+Roboethics as a science or philosophical topic has begun to be a common theme in science fiction literature and films One film that could be argued to be ingrained in pop culture that depicts the dystopian future use of robotic AI  is The Matrix depicting a future where humans and conscious sentient AI struggle for control of planet earth resulting in the destruction of most of the human race An animated film based on The Matrix the Animatrix focused heavily on the potential ethical issues and insecurities between humans and robots The movie is broken into short stories Animatrixs animated shorts are also named after Isaac Asimovs fictional stories
+
+Another facet of roboethics is specifically concerned with the treatment of robots by humans and has been explored in numerous films and television shows One such example is Star Trek: The Next Generation which has a humanoid android named Data (Star Trek)
+Although not a part of roboethics per se the ethical behavior of robots themselves has also been a joining issue in roboethics in popular culture The Terminator (franchise)
+ Killer robots 
+
+Lethal autonomous weapon
+Numerous NGOs and certain states such as Pakistan and Cuba are calling for a preventive prohibition of LAWS They proposed their opinions based on deontological and consequentialist reasoning On the deontological side certain philosophers such as Peter Asaro and Robert Sparrow most NGOs and the Vatican all argue that authorizing too much rights to machine violates human dignity and that people have the “right not to be killed by a machine” To support their standpoint they repeatedly cite the Martens Clause
+
+In the end of this meeting the most important consequentialist objection was that LAWS would never be able to respect international humanitarian law (IHL) as believed by NGOs many researchers and several states (Pakistan Austria Egypt Mexico)
+
+According to the International Committee of the Red Cross(ICRC) “there is no doubt that the development and use of autonomous weapon systems in armed conflict is governed by international humanitarian law” States recognize this: those who participated in the first UN Expert Meeting in May 2014 recognized respect for IHL as an essential condition for the implementation of LAWS With diverse predictions certain states believe LAWS will be unable to meet this criterion while others underline the difficulty of adjudicating at this stage without knowing the weapons future capabilities (Japan Australia) All insist equally on the exante verification of the systems conformity to IHL before they are put into service in virtue of article of the first additional protocol to the Geneva Conventions
+
+ Degree of human control 
+Three classifications of the degree of human control of autonomous weapon systems were laid out by Bonnie Docherty in a 2012 Human Rights Watch report
+humanintheloop: a human must instigate the action of the weapon (in other words not fully autonomous)
+humanontheloop: a human may abort an action
+humanoutoftheloop: no human action is involved
+
+ Sex robots 
+In 2015 the Campaign Against Sex Robots (CASR) was launched to draw attention to the Sexual intercourse
+In the article Should We Campaign Against Sex Robots? published by the MIT Press researchers pointed some flaws on this campaign and did not support a ban on sex robots completely Firstly they argued that the particular claims advanced by the CASR were "unpersuasive" partly because of a lack of clarity about the campaigns aims and partly because of substantive defects in the main ethical objections put forward by campaigns founders Secondly they argued that it would be very difficult to endorse a general campaign against sex robots unless one embraced a highly Conservatism
+Law
+
+With contemporary technological issues emerging as society pushes on one topic that requires thorough thought is robot ethics concerning the law Academics have been debating the process of how a government could go about creating legislation with robot ethics and law A pair of scholars that have been asking these questions are Neil M Richards Professor of Law at Washington University School of Law as well as William D Smart Associate Professor of Computer Science at McKelvey School of Engineering In their paper "How Should Robots Think About Law" they make four main claims concerning robot ethics and law The groundwork of their argument lies on the definition of robot as "nonbiological autonomous agents that we think captures the essence of the regulatory and technological challenges that robots present and which could usefully be the basis of regulation" Second the pair explores the future advanced capacities of robots within around a decades time Their third claim argues a relation between the legal issues robot ethics and law experiences with the legal experiences of cyberlaw Meaning that robot ethics laws can look towards cyberlaw for guidance The "lesson" learned from cyberlaw being the importance of the metaphors we understand emerging issues in technology as This is based on if we get the metaphor wrong for example the legislation surrounding the emerging technological issue is most likely wrong The fourth claim they argue against is a metaphor that the pair defines as "The Android Fallacy" They argue against the android fallacy which claims humans and nonbiological entities are "just like people"
+
+Empirical research
+There is mixed evidence as to whether people judge robot behavior similarly to humans or not Some evidence indicates that people view bad behavior negatively and good behavior positively regardless of whether the agent of the behavior is a human or a robot; however robots receive less credit for good behavior and more blame for bad behavior Other evidence suggests that malevolent behavior by robots is seen as more morally wrong than benevolent behavior is seen as morally right; malevolent robot behavior is seen as more intentional than benevolent behavior  In general peoples moral judgments of both robots and humans are based on the same justifications and concepts but people have different moral expectations when judging humans and robots Research has also found that when people try to interpret and understand how robots decide to behave in a particular way they may see robots as using rules of  (advance the self do what is right advance others do what is logical and do what is normal) that align with established ethical doctrines (egotism deontology altruism utilitarianism and normative)
+
+See also
+Machine ethics
+Robot rights
+Robotics
+Ethics of artificial intelligence
+
+ Notes 
+
+
+References
+ Levy David (November 2008) Love and Sex with Robots Richards Neil M; Smart William D (2013) How should the law think about robots?: https://papersssrncom/sol3/paperscfm?abstract_id2263363
+ JeanBaptiste Jeangène Vilmer (March 23 2015)Terminator Ethics: Should We Ban “Killer Robots”?: https://wwwethicsandinternationalaffairsorg/2015/terminatorethicsbankillerrobots/
+ John Danaher Brian D Earp and Anders Sandberg(2017) https://philpapersorg/rec/DANSWC Should we campaign against sex robots?
+
+Further reading
+ Lin Patrick/Abney Keith/Bekey George A (December 2011)  Robot Ethics: The Ethical and Social Implications of Robotics  MIT Press
+ 
+
+External links
+http://philpapersorg/browse/robotethics PhilPapers  the standard bibliography on roboethics is on
+http://ethicscalpolyedu/robotshtm Ethics + Emerging Sciences Group
+http://wwwscuedu/ethics/ The Markkula Center for Applied Ethics at Santa Clara University USA
+http://wwwptaiorg/TGELS/policy List of organisations and conferences from euRobotics topics group "ethical legal and socioeconomic issues" (ELS)
+http://wwwroboethicsorg/ Conference list on the "Roboethics" Website (up to 2009)
+IEEE http://wwwieeerasorg/robotethics Technical Committee on Roboethics
+http://wwwptaiorg/TGELS/ euRobotics topics group "ethical legal and social issues" (ELS)
+http://inseitnet/ International Society for Ethics and Information Technology
+http://wwwcpsrorg/about/ Computer Professionals for Social Responsibility
+http://responsibleroboticsorg/ Responsible Robotics
+http://wwwiihlorg The International Institute of Humanitarian Law
+http://wwwucsusaorg/ Union of Concerned Scientists
+http://wwwamoonca/Roboethics/ Roboethics Info Database
+http://iciezkmde/ International Center for Information Ethics
+http://wwwphysorgcom/news164887377html Living Safely with Robots Beyond Asimovs Laws PhysOrgcom June 22 2009
+http://wwwplugandprayfilmcom/en/ Plug & Pray documentary film on the ethics of robotics and artificial intelligence (with Joseph Weizenbaum and Ray Kurzweil)
+http://mechanicaldesign101com/2016/11/05/robotethics/ Prof Bruno Siciliano coeditor of the Springer Handbook of Robotics discusses roboethics as part of his TEDx talk
+ https://whatistechtargetcom/definition/roboethicsrobotethics
+ https://wwwethicsandinternationalaffairsorg/2015/terminatorethicsbankillerrobots/ Terminator Ethics: Should We Ban “Killer Robots”?
+
+
+

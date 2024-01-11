@@ -1,0 +1,95 @@
+
+
+
+
+
+A review article is an article (publishing)
+Academic publications that specialize in review articles are known as review journals Review journals have their own requirements for the review articles they accept so review articles may vary slightly depending on the journal they are being submitted to
+
+Review articles teach about:
+ the main people working in a field
+ recent major advances and discoveries
+ significant gaps in the research
+ current debates
+ suggestions of where research might go next
+
+A Metaanalysis
+Review articles have increased in impact and relevance alongside the increase in the amount of research that needs to be synthesised They are a concise way of collating information for practitioners or academics that are not able to read the plethora of original research that is being published
+
+ Categories 
+There are various categories of review articles including narrative reviews systematic reviews and metaanalysis Review articles do not introduce new results but rather state existing results drawing conclusions on the results presented Review articles can be categorised by using the same domain underlying theory or ResearchResearch methods
+Literature review
+A systematic review is more detailed and structured than a Literature review
+A metaanalysis summarises quantitative results from a variety of research articles on a chosen topic Given that these articles are formulating conclusions from multiple data sets metaanalyses adhere to specific guidelines stipulated by the Academic journal
+File:Example of Alzheimers Disease review articlejpg
+ Structure of a review article 
+Review articles initially identify the scope and aim Once the scope of the journal the author intends to submit to is identified then identify the own personal scope and aim for the article Experienced author Angus Crake emphasises the need to define a scope that is "manageable not too large or small" and to "focus on recent advances if the field is well established" This equates to a succinct refreshing review article that adds a new perspective to the field whilst still being grounded in academia
+
+File:201805 articlepng
+When finding sources it is ideal to search through multiple databases and search engines This ensures a wide berth of knowledge that presents multiple perspectives and allows for a reasonably balanced article Some disciplines encourage the use of certain search engines For example sciencebased review articles heavily utilise MEDLINE
+The title abstract and keywords chosen bring awareness to the audience of the article and should describe what the article is about Search engine optimization
+Like most academic articles a review article includes an Abstract (summary)
+The discussion section of the article presents multiple perspectives stating limitations and potential extensions of the study being reviewed Also within this section similarities and dissonances among studies are stated
+
+The presentation of both the shortcomings and advancements of the research papers under review is important for comprehensiveness
+Within this section of the review article is the suggestion of improvements and areas to further extend the research in reference Meyers and Sinding say
+
+" The review selects from these (research) papers juxtaposes them and puts them in a narrative that holds them together… clearly the best reviews are not only concerned with what was done in the past but also present a means to sculpt the future"
+
+ Method of research 
+Reference management software such as Papers (software)
+ Peer review process 
+The process of review articles being Peer review
+ Relevance within academic literature 
+A key aim of review articles is to pose other potential avenues of research stating the limitations of the Empirical research
+It is important that review articles do not introduce new results but rather reiterate existing results However they are able to draw conclusions on the results presented (within reason) This overload of research papers makes it difficult for scientists and clinicians to remain up to date on current findings and developments within their discipline
+ Difference from a research article 
+Research articles form the basis of review articles Review articles use the original information presented in research articles to draw conclusions and pose suggestions for future research
+
+Research and empirical articles are reporting the results of the authors study thereby deeming it a primary source They often include raw data and statistics using the words participants sample subjects and experiment frequently throughout Review articles are academic but are not Empirical evidenceFile:Main differences between review article and research articlepng
+ A research article presents original information from the perspective of the author whereas a review article analyses that statement and information
+ A research article presents original content whereas a review article synthesises that content and makes sense of it within the context of the discipline
+ A research article has more narrow parameters on what is included (often depending on the journal it is being pitched to) whereas a review article is more open being able to incorporate multiple research papers albeit still being contained within journal guidelines
+
+ Academic publishing 
+Review articles in academic journals analyze or discuss research previously published by others rather than reporting new experimental results
+An experts opinion is valuable but an experts assessment of the literature can be more valuable When reading individual articles readers could miss features that are apparent to an expert clinicianresearcher Readers benefit from the experts explanation and assessment of the validity and applicability of individual studies
+
+Review articles come in the form of literature reviews and more specifically systematic reviews; both are a form of secondary literature Literature reviews provide a summary of what the authors believe are the best and most relevant prior publications Systematic reviews determine an objective list of criteria and find all previously published original papers that meet the criteria; they then compare the results presented in these papers
+
+Some academic journals likewise specialize in review of a field; they are known as review journals
+
+The concept of "review article" is separate from the concept of peerreviewed literature A review article even one that is requested or "peerinvited" will be either peerreviewed or nonpeerreviewed depending on how submissions are treated<ref name"De Lange">
+cite book
+      </ref>
+
+Writing review articles can be a popular task among students At times teachers from schools and universities assign this task
+
+Impact
+According to a 2021 study in the American Sociological Review "papers cited by formal review articles generally experience a dramatic loss in future citations Typically the review gets cited instead of the specific articles mentioned in the review" The study identifies an exception to this trend: articles that are characterized by the review as being bridges between clusters of scholarship tend to get disproportionate future attention An analysis was conducted by McAlister et al of review articles in six different medical journals Of the six journals less than 25% included a description evaluation or synthesis of evidence that had been provided Only onethird of the articles had a clinical topic at the forefront and only half of the articles presented Quantitative research
+Historically review journals have a higher impact than primary research journals The year 2006 showed the top 10 most impactful journals to be compiled exclusively of review articles In addition to this review articles are cited more frequently than research articles There are currently no studies commenting on the effect of review articles on the impactfullness of journals that usually only publish research papers This prevents one from saying with certainty that review articles could replace original research papers in large journals Of the 538 review articles published in pathology journals within the year 2005 a mere 21% of them have been cited over ten times following their issuance Furthermore in a 20002006 comparison of journals; The American Journal of Pathology The Journal of Pathology and Laboratory Investigation published both with and without review articles included it was found that journals published with review articles had a greater impact on readers than those that did not include review articles
+
+In terms of the growth of review articles the rate has been exponential The number of papers on the topic of pathology has increased 23 times between the years 1991 to 2006 Within the science discipline the number of review articles in the Science Citation Index Expanded
+Separate to the quality of articles the number of review articles published poses its own challenge to those searching for succinct but comprehensive research analysis This makes it just as difficult for experts to navigate through the synthesised review articles as it is to sift through the primary research itself Additionally the inclusion of poorly referenced inadequately researched and overly biased review articles serve to muddy the water and make it even harder to determine quality writing
+
+Social behavioural and health science disciplines 
+Following the release of the Handbook of Research Synthesis the use of review articles within the social behavioural and health science disciplines has proliferated 2007 statistics showed that systematic review articles were produced at a rate of 2500 per year on the MEDLINE platform (Moher et al 2007) The increase in prevalence of review articles within these disciplines can be attributed to the pull towards "evidencebased practice" This term was coined by Sackett (2000) and refers to the combination of available research practitioner expertise and consumer values Due to the inundation of original research in the field there is a need for review articles which highlight relevant studies results and trends The varying methods and participants used among original research studies can provide inconsistent results thereby presenting a challenge in synthesising information using one common metric The conjunction of metaanalyses and systematic reviews has proven to be more effective in organising data and drawing conclusions especially when it comes to clinical trials within the medical field
+
+File:A graph displaying the increase in impact of review articles specifically in the psychology disciplinesvg
+ Journal of the Academy of Marketing Science 
+The Journal of the Academy of Marketing Science (JAMS) is a peerreviewed journal for the marketing discipline It aims for 10%–20% of published content to be review articles which is indicative of the value they add to journals A 2012–2016 Financial Times analysis of the top six marketing journals found that JAMS attracted the most papers publishing 31% of all review articles The number of papers published per year in JAMS has increased from 40 to 60 allowing for an additional 8–10 review articles to be accepted annually and thereby highlighting the growth in popularity of review articles
+
+This particular marketing journal established the Review Paper Editorial Initiative This initiative encompasses a system in which the authors of peer review articles submit a detailed proposal of their paper outlining key figures as well as a description of the process they undertook or are planning on undertaking for their review article From this proposal JAMS may grant an assurance that the paper will be accepted into the journal given that the final product is executed as detailed in the proposal This instils confidence in authors and academics aiming to write and publish review articles within a saturated field It also encourages papers to be written within areas that need further synthesis and research
+
+See also
+ Case series sometimes called a clinical review because it reviews or summarizes the records for a series of patients at a single medical clinic
+ Living review
+
+References
+
+
+Further reading
+ 
+
+
+

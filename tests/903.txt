@@ -1,0 +1,21 @@
+File:Number needed to harm plainsvgIn medicine the number needed to harm (NNH) is an epidemiology
+NNH is similar to number needed to treat (NNT) where NNT usually refers to a positive therapeutic result and NNH to a detrimental effect or risk factor 
+
+Marginal metrics:
+ NNT for an additional beneficial outcome (NNTB) 
+ NNT for an additional harmful outcome (NNTH)
+are also used<ref name>cite web 
+                  </ref>
+
+__TOC__
+ Relevance 
+The NNH is an important measure in evidencebased medicine and helps physicians decide whether it is prudent to proceed with a particular treatment which may expose the patient to harms while providing therapeutic benefits  If a clinical endpoint is devastating enough without the drug (eg death myocardial infarction
+Numerical example
+
+
+See also
+ Pharmacoeconomics
+
+References
+
+

@@ -1,0 +1,31 @@
+
+
+
+
+Vaccine resistance is the evolutionary adaptation of pathogens to infect and spread through vaccinated individuals analogous to antimicrobial resistance It concerns both human and animal vaccines Although the emergence of a number of vaccine resistant pathogens has been well documented this phenomenon is nevertheless much more rare and less of a concern than antimicrobial resistance
+
+Vaccine resistance may be considered a special case of immune evasion from the immunity conferred by the vaccine  Since the immunity conferred by a vaccine may be different from that induced by infection by the pathogen the immune evasion may also be easier (in case of an inefficient vaccine) or more difficult (would be the case of the universal flu vaccine) We speak of vaccine resistance only if the immune evasion is a result of evolutionary adaptation of the pathogen (and not a feature of the pathogen that it had before any evolutionary adaptation to the vaccine) and the adaptation is driven by the selective pressure induced by the vaccine (this would not be the case of an immune evasion that is the result of genetic drift that would be present even without vaccinating the population)
+
+Some of the causes advanced for less frequent emergence of resistance are that
+ vaccines are mostly used for prophylaxis that is before infection occurs and usually act to suppress the pathogen before the host becomes infectious
+ most vaccines target multiple antigenic sites of the pathogen
+ different hosts may produce different immune responses to the same pathogen
+
+For diseases that confer long lasting immunity after exposure typically childhood diseases it was argued that a vaccine may provide the same immune response as natural infection so it is expected that there should be no vaccine resistance
+
+If vaccine resistance emerges the vaccine may retain some level of protection against serious infection possibly by modifying the immune response of the host away from immunopathology
+
+The best known cases of vaccine resistance are for the following diseases
+ animal diseases
+ Mareks disease where actually more virulent strains emerged after vaccination because the vaccine did not protect against infection and transmission only against serious forms of the disease
+ Yersinia ruckeri because a single mutation was sufficient to generate vaccine resistance
+ avian metapneumovirus
+ human diseases
+ Streptococcus pneumoniae because recombination with another serotype not targeted by the vaccine
+ hepatitis B virus because Hepatitis B vaccine Bordetella pertussis because not all serotypes were targeted and later because Acellular pertussis vaccine
+Other less documented cases are for avian influenza Avian Reovirus
+ References 
+
+
+
+

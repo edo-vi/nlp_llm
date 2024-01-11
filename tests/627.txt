@@ -1,0 +1,49 @@
+ <! Could be improved substantially with viable application and research data  >
+
+File:KreeftbijDenOssejpgThe ethics of uncertain sentience refers to questions surrounding the treatment of and moral obligations towards individuals whose sentience—the capacity to subjectively sense and feel—and resulting ability to experience pain is uncertain; the topic has been particularly discussed within the field of animal ethics with the Precautionary principleAnimal sentience precautionary principle
+ Views 
+ Animal ethics 
+David Foster Wallace in his 2005 essay "Consider the Lobster" investigated the potential sentience and capacity of Pain in crustaceans
+In the 2015 essay "Reconsider the Lobster" Jeff Sebo quotes Wallaces discussion of the difficulty of establishing whether an animal can experience pain Sebo calls the question of how to treat individuals of uncertain sentience the "sentience problem" and argues that this problem which "Wallace raises deserves much more philosophical attention than it currently receives" Sebo asserts that there are two motivating assumptions behind the problem: "sentientism about moral status"—the idea that if an individual is sentient that they deserve moral consideration—and "uncertainty about other minds" which refers to scientific and philosophical uncertainty about which individuals are sentient
+
+In response to the problem Sebo lays out three different potential approaches: the incautionary principle which postulates that in cases of uncertainty about sentience it is morally permissible to treat individuals as if they are not sentient; the precautionary principle which suggests that in such cases we have a moral obligation to treat them as if they are sentient; and the expected value principle which asserts that we are "morally required to multiply our credence that they are by the amount of moral value they would have if they were and to treat the product of this equation as the amount of moral value that they actually have" Sebo advocates for the latter position
+
+Jonathan Birch (philosopher)
+Simon Knutsson and Christian Munthe argue that from the perspective of virtue ethics that when it comes to animals of uncertain sentience such as "fish invertebrates such as crustaceans snails and insects" that it is a "requirement of a morally decent (or virtuous) person that she at least pays attention to and is cautious regarding the possibly morally relevant aspects of such animals"
+
+Shelley A Adamo argues that although the precautionary principle in relation to potential invertebrate sentience is the safest option that its not costfree as thoughtless legislation employed following the precautionary principle could be economically costly and that as a result we should be cautious about adopting it
+
+ Environmental ethics 
+Kai Chan advocates for an Environmental ethics
+ Ethics of artificial intelligence 
+
+Nick Bostrom and Eliezer Yudkowsky argue that if an artificial intelligence is sentient that it is wrong to inflict unnecessary pain on them in the same way that it is wrong to inflict pain on an animal unless there are "sufficiently strong morally overriding reasons to do so" They also advocate for the "Principle of Substrate NonDiscrimination" which asserts: "If two beings have the same functionality and the same conscious experience and differ only in the substrate of their implementation then they have the same moral status"
+
+ Neuroethics 
+
+
+Adam J Shriver argues for "precise precautionary and probabilistic approaches to sentience" and asserts that the evidence provided by neuroscience has differing relevance to each; he concludes that basic protections for animals should be guided by the precautionary principle and that although neuroscientific evidence in certain instances is not necessary to indicate that individuals of certain species require protections "ongoing search for the neural correlates of sentience must be pursued in order to avoid harms that occur from mistaken accounts" 
+
+ See also 
+
+ Animal consciousness
+ Ethics of eating meat
+ Insects in ethics
+ Pain in animals
+ Pain in amphibians
+ Pain in cephalopods
+ Pain in invertebrates
+ Philosophical zombie
+ Sentiocentrism
+
+
+ References 
+
+
+ Further reading 
+ 
+Jakopovich Daniel (2021) https://onlineacademiccommunityuvicca/asri/2021/10/17/theuksanimalwelfaresentiencebillexcludesthevastmajorityofanimalswhyweshouldexpandourmoralcircletoincludeinvertebrates "The UK’s Animal Welfare (Sentience) Bill Excludes the Vast Majority of Animals: Why We Must Expand Our Moral Circle to Include Invertebrates" Animals & Society Research Initiative University of Victoria Canada
+
+
+
+

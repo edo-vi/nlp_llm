@@ -1,0 +1,218 @@
+
+<noinclude>
+</noinclude>Mathematical models can project how infectious diseases progress to show the likely outcome of an epidemic (including Plant disease forecasting
+History
+
+The modelling of infectious diseases is a tool that has been used to study the mechanisms by which diseases spread to predict the future course of an outbreak and to evaluate strategies to control an epidemic
+
+The first scientist who systematically tried to quantify causes of death was John Graunt in his book Natural and Political Observations made upon the Bills of Mortality in 1662 The bills he studied were listings of numbers and causes of deaths published weekly Graunts analysis of causes of death is considered the beginning of the "theory of competing risks" which according to Daley and Gani  is "a theory that is now well established among modern epidemiologists"
+
+The earliest account of mathematical modelling of spread of disease was carried out in 1760 by Daniel Bernoulli Trained as a physician Bernoulli created a mathematical model to defend the practice of inoculating against smallpox The calculations from this model showed that universal inoculation against smallpox would increase the life expectancy from 26 years 7 months to 29 years 9 months Daniel Bernoullis work preceded the modern understanding of germ theory
+
+In the early 20th century  William Hamer and Ronald Ross applied the law of mass action to explain epidemic behaviour
+
+The 1920s saw the emergence of compartmental models The Kermack–McKendrick theory
+Recently agentbased models (ABMs) have been used in exchange for simpler Compartmental models in epidemiology
+Assumptions
+Models are only as good as the assumptions on which they are based If a model makes predictions that are out of line with observed results and the mathematics is correct the initial assumptions must change to make the model useful
+ Rectangular and stationary Population pyramid Homogeneous mixing of the population ie individuals of the population under scrutiny assort and make contact at random and do not mix mostly in a smaller subgroup This assumption is rarely justified because social structure is widespread For example most people in London only make contact with other Londoners Further within London then there are smaller subgroups such as the Turkish community or teenagers (just to give two examples) who mix with each other more than people outside their group However homogeneous mixing is a standard assumption to make the mathematics tractable
+
+Types of epidemic models
+Stochastic
+"Stochastic" means being or having a random variable A stochastic model is a tool for estimating probability distributions of potential outcomes by allowing for random variation in one or more inputs over time Stochastic models depend on the chance variations in risk of exposure disease and other illness dynamics Statistical agentlevel disease dissemination in small or large populations can be determined by stochastic methods
+
+
+Deterministic
+When dealing with large populations as in the case of tuberculosis deterministic or compartmental mathematical models are often used  In a deterministic model individuals in the population are assigned to different subgroups or compartments each representing a specific stage of the epidemic
+
+The transition rates from one class to another are mathematically expressed as derivatives hence the model is formulated using differential equations  While building such models it must be assumed that the population size in a compartment is differentiable with respect to time and that the epidemic process is deterministic In other words the changes in population of a compartment can be calculated using only the history that was used to develop the model
+
+Subexponential growth
+
+A common explanation for the growth of epidemics holds that 1 person infects 2 those 2 infect 4 and so on and so on with the number of infected doubling every generation
+It is analogous to a game of Tag (game)Thus this model of an epidemic leads to a curve that exponential growth
+ Reproduction number 
+The basic reproduction number (denoted by R<sub href"Nextgeneration matrix">0</sub>) is a measure of how transferable a disease is It is the average number of people that a single infectious person will infect over the course of their infection This quantity determines whether the infection will increase subexponentially die out or remain constant: if R<sub href"Nextgeneration matrix">0</sub> > 1 then each person on average infects more than one other person so the disease will spread; if R<sub href"Nextgeneration matrix">0</sub> < 1 then each person infects fewer than one person on average so the disease will die out; and if R<sub href"Nextgeneration matrix">0</sub>  1 then each person will infect on average exactly one other person so the disease will become endemic: it will move throughout the population but not increase or decrease
+
+Endemic steady state
+An infectious disease is said to be endemic (epidemiology)
+: <math>
+\ R_0 S \  1
+</math>
+
+The basic reproduction number (R<sub>0</sub>) of the disease assuming everyone is susceptible multiplied by the proportion of the population that is actually susceptible (S) must be one (since those who are not susceptible do not feature in our calculations as they cannot contract the disease) Notice that this relation means that for a disease to be in the endemic (epidemiology)
+Assume the rectangular stationary age distribution and let also the ages of infection have the same distribution for each birth year Let the average age of infection be A for instance when individuals younger than A are susceptible and those older than A are immune (or infectious) Then it can be shown by an easy argument that the proportion of the population that is susceptible is given by:
+
+: <math>
+S  \frac
+</math>
+
+We reiterate that L is the age at which in this model every individual is assumed to die But the mathematical definition of the endemic steady state can be rearranged to give:
+
+: <math>
+S  \frac  
+</math>
+
+Therefore due to the transitive property:
+
+: <math>
+\frac    \frac   \Rightarrow R_0  \frac  
+</math>
+
+This provides a simple way to estimate the parameter R<sub>0</sub> using easily available data
+
+For a population with an population pyramid
+: <math>
+R_0  1 + \frac  
+</math>
+
+This allows for the basic reproduction number of a disease given A and L in either type of population distribution
+
+ Compartmental models in epidemiology 
+ Compartmental models are formulated as Markov chains A classic compartmental model in epidemiology is the SIR model which may be used as a simple model for modelling epidemics Multiple other types of compartmental models are also employed
+
+ The SIR model 
+File:SIRModellsvgFile:SIR model animgifIn 1927 W O Kermack and A G McKendrick created a model in which they considered a fixed population with only three compartments: susceptible <math>S(t)</math>; infected <math>I(t)</math>; and recovered <math>R(t)</math> The compartments used for this model consist of three classes:
+ <math>S(t)</math> is used to represent the individuals not yet infected with the disease at time t or those susceptible to the disease of the population
+ <math>I(t)</math> denotes the individuals of the population who have been infected with the disease and are capable of spreading the disease to those in the susceptible category
+ <math>R(t)</math> is the compartment used for the individuals of the population who have been infected and then removed from the disease either due to immunization or due to death Those in this category are not able to be infected again or to transmit the infection to others
+
+ Other compartmental models 
+There are many modifications of the SIR model including those that include births and deaths where upon recovery there is no immunity (SIS model) where immunity lasts only for a short period of time (SIRS) where there is a latent period of the disease where the person is not infectious (Compartmental models in epidemiology
+Infectious disease dynamics
+
+Mathematical models need to integrate the increasing volume of Numerical data
+Research topics include:
+ antigenic shift
+ epidemiological networks
+ evolution and spread of drug resistance immune system intrahost dynamics
+ Pandemic
+ pathogen population genetics
+ persistence of pathogens within hosts
+ phylodynamics
+ role and identification of infection reservoirs
+ role of host genetic factors
+ spatial epidemiology
+ statistical and mathematical tools and innovations
+ Strain (biology) structure and interactions
+ transmission (medicine) virulence
+
+Mathematics of mass vaccination
+If the proportion of the population that is immune exceeds the herd immunity level for the disease then the disease can no longer persist in the population and its transmission dies out Thus a disease can be eliminated from a population if enough individuals are immune due to either vaccination or recovery from prior exposure to disease For example smallpox eradication with the last wild case in 1977 and certification of the eradication of indigenous transmission of 2 of the 3 types of wild poliovirus (type 2 in 2015 after the last reported case in 1999 and type 3 in 2019 after the last reported case in 2012)
+
+The herd immunity level will be denoted q Recall that for a stable state:
+
+:<math>R_0 \cdot S  1</math>
+
+In turn
+
+:<math>R_0\frac  \frac  \frac</math>
+
+which is approximately:
+
+:<math>\frac  1+\frac  \frac</math>
+
+
+
+S will be (1&nbsp;−&nbsp;q) since q is the proportion of the population that is immune and q&nbsp;+&nbsp;S must equal one  (since in this simplified model everyone is either susceptible or immune) Then:
+
+:<math>
+\begin
+& R_0 \cdot (1q)  1 \\6pt
+& 1q  \frac   \\6pt
+& q  1  \frac  
+\end
+</math>
+
+Remember that this is the threshold level Die out of transmission will only occur if the proportion of immune individuals exceeds this level due to a mass vaccination programme
+
+We have just calculated the critical immunization threshold (denoted q<sub>c</sub>) It is the minimum proportion of the population that must be immunized at birth (or close to birth) in order for the infection to die out in the population
+
+: <math> q_c  1  \frac   </math>
+
+Because the fraction of the final size of the population p that is never infected can be defined as:
+
+:<math> \lim_ S(t)  e^  1p</math>
+
+Hence
+
+:<math> p  1 e^  1e^</math>
+
+Solving for <math>R_0</math> we obtain:
+
+:<math> R_0  \frac</math>
+
+When mass vaccination cannot exceed the herd immunity
+If the vaccine used is insufficiently effective or the required coverage cannot be reached the program may fail to exceed q<sub>c</sub> Such a program will protect vaccinated individuals from disease but may change the dynamics of transmission
+
+Suppose that a proportion of the population q (where q < q<sub>c</sub>) is immunised at birth against an infection with R<sub>0</sub>&nbsp;>&nbsp;1 The vaccination programme changes R<sub>0</sub> to R<sub>q</sub> where
+
+: <math>R_q  R_0(1q)</math>
+
+This change occurs simply because there are now fewer susceptibles in the population who can be infected R<sub>q</sub> is simply R<sub>0</sub> minus those that would normally be infected but that cannot be now since they are immune
+
+As a consequence of this lower basic reproduction number the average age of infection A will also change to some new value A<sub>q</sub> in those who have been left unvaccinated
+
+Recall the relation that linked R<sub>0</sub> A and L Assuming that life expectancy has not changed now:
+
+: <math>R_q  \frac</math>
+: <math>A_q  \frac  \frac</math>
+
+But R<sub>0</sub>  L/A so:
+
+: <math>A_q  \frac  \frac  \frac  </math>
+
+Thus the vaccination program may raise the average age of infection and unvaccinated individuals will experience a reduced force of infection due to the presence of the vaccinated group  For a disease that leads to greater clinical severity in older populations the unvaccinated proportion of the population may experience the disease relatively later in life than would occur in the absence of vaccine
+
+When mass vaccination exceeds the herd immunity
+If a vaccination program causes the proportion of immune individuals in a population to exceed the critical threshold for a significant length of time transmission of the infectious disease in that population will stop If elimination occurs everywhere at the same time then this can lead to Disease eradication
+; Elimination
+: Interruption of endemic transmission of an infectious disease which occurs if each infected individual infects less than one other is achieved by maintaining vaccination coverage to keep the proportion of immune individuals above the critical immunization threshold
+; Eradication
+: Elimination everywhere at the same time such that the infectious agent dies out (for example smallpox and rinderpest)
+
+ Reliability 
+
+Models have the advantage of examining multiple outcomes simultaneously rather than making a single forecast Models have shown broad degrees of reliability in past pandemics such as SARS SARSCoV2<ref name"Renz2020b">
+cite journal
+</ref> Swine flu MERS and Ebola
+
+ See also 
+
+ Pandemic
+ Compartmental models in epidemiology
+ Contact tracing
+ Critical community size
+ Disease surveillance
+ Ecosystem model
+ Force of infection
+ Landscape epidemiology
+ Nextgeneration matrix
+ Risk factor
+ Sexual network
+ WAIFW matrix
+
+
+ References 
+
+
+ Further reading 
+
+ 
+ 
+  An introductory book on infectious disease modelling and its applications
+ 
+ 
+ 
+
+
+External links
+;Software
+ http://modelbuildersourceforgenet/ ModelBuilder: Interactive (GUIbased) software to build simulate and analyze ODE models
+ http://wwwgleamvizorg/ GLEaMviz Simulator: Enables simulation of emerging infectious diseases spreading across the world
+ http://wwweclipseorg/stem/ STEM: Open source framework for Epidemiological Modeling available through the Eclipse Foundation
+ R (programming language)
+
+
+
+

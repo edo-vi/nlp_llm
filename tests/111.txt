@@ -1,0 +1,415 @@
+
+
+
+<section beginmap/>infobox
+
+<section endmap/>
+A vaccination policy is a health policy adopted in order to prevent the spread of infectious disease These policies are generally put into place by State or local governments but may also be set by private facilities such as workplaces or schools Many policies have been developed and implemented since vaccines were first made widely available
+
+The main purpose of implementing a vaccination policy is complete Eradication of infectious diseases
+Vaccination policies vary from country to country with some mandating them and others strongly recommending them Some places only require them for people utilizing government services like welfare or public schools A government or facility may pay for all or part of the costs of vaccinations such as in a national vaccination schedule or job requirement Costbenefit analyses of vaccinations have shown that there is an economic incentive to implement policies as vaccinations save the State time and money by reducing the burden preventable diseases and epidemics have on healthcare facilities and funds
+
+Goals
+Individual and herd immunity
+File:Herd immunitysvgVaccination policies aim to produce immunity to vaccinepreventable diseases
+Vaccinepreventable diseases remain a common cause of childhood mortality with an estimated three million deaths each year Each year vaccination prevents between two and three million deaths worldwide across all age groups from diphtheria tetanus pertussis and measles
+
+Eradication of diseases
+File:Saving Lives with SMS for LifejpgWith some vaccines a goal of vaccination policies is to eradicate the diseasedisappear it from Earth altogether The World Health Organization (WHO) coordinated the effort to eradicate smallpox globally through vaccination the last naturally occurring case of smallpox was in Somalia in 1977 Endemic measles mumps and rubella have been eliminated through vaccination in Finland On 14 October 2010 the UN Food and Agriculture Organization declared that rinderpest had been eradicated The WHO is currently working to Polio eradication
+Individual versus group goals
+The likely behavior of individuals when offered vaccines can be modeled economically using ideas from game theory According to such models individuals will attempt to minimize the risk of illness and may seek vaccination for themselves or their children if they perceive a high threat of disease and a low risk to vaccination However if a vaccination program successfully reduces the disease threat it may reduce the perceived risk of disease enough so that an individuals optimal strategy is to encourage everyone but their family to be vaccinated or (more generally) to refuse vaccination once vaccination rates reach a certain level even if this level is below that optimal for the community For example a 2003 study predicted that a bioterrorist attack using smallpox would result in conditions where voluntary vaccination would be unlikely to reach the optimum level for the US as a whole and a 2007 study predicted that severe influenza epidemics cannot be prevented by voluntary vaccination without offering certain incentives
+
+Governments often allow exemptions to mandatory vaccinations for religious or philosophical reasons but decreased rates of vaccination may cause loss of herd immunity substantially increasing risks even to vaccinated individuals However mandatory vaccination policies raise ethical issues regarding parental rights and informed consent
+
+Fractional dose vaccination is a strategy that trades societal benefit for individual vaccine efficacy has proven to be effective in randomized trials in poverty diseases and in epidemiologic models holds a significant potential for shortening the COVID19 pandemic when vaccine supply is limited
+
+Compulsory vaccination
+At various times governments and other institutions have established policies requiring vaccination with the aim of reducing the risk of disease An 1853 law required universal vaccination against smallpox in England and Wales with fines levied against people who did not comply In the United States the Supreme Court of the United States
+Forced vaccination (as opposed to fines or refusal of services) is rare and typically happens only as an emergency measure during an outbreak This has been reported in parts of China Compulsory vaccinations greatly reduce infection rates for the diseases they protect against
+
+Common objections included the argument that governments should not infringe on individuals freedom to make medical decisions for themselves or their children or claims that proposed vaccinations were dangerous
+
+In 1904 in the city of Rio de Janeiro Brazil following an urban renewal program that displaced many poor a government program of mandatory smallpox vaccination triggered the Vaccine Revolt several days of rioting with considerable property damage and a number of deaths
+
+Compulsory vaccination is a difficult policy issue requiring authorities to balance public health with individual liberty:
+ation arises a difficult issue: how should the mainstream medical authorities approach the antivaccination movement? A passive reaction could be construed as endangering the health of society whereas a heavyhanded approach can threaten the values of individual liberty and freedom of expression that we cherish
+
+An ethical dilemma may emerge when health care providers attempt to persuade vaccinehesitant families towards receiving vaccinations as this persuasion may lead to violating their Medical EthicsAutonomy
+Many countries (Canada Germany Japan and the United States) have specific requirements for reporting vaccinerelated adverse effects; others (Australia France and the United Kingdom) include vaccines under their general requirements for reporting injuries associated with medical treatments A number of countries have both compulsory vaccination and national programs for the compensation of injuries alleged to have been caused by a vaccination
+
+In November 2021 during a COVID19 outbreak Austria banned unvaccinated individuals from leaving their home apart from going to work buying essential supplies or exercise in an effort to reduce the spread of disease During the fourth wave of the COVID19 pandemic in Austria
+Parents versus childrens rights
+Medical ethicist Arthur Caplan argues that children have a right to the best available medical care including vaccines regardless of parental opinions toward vaccines saying "Arguments about medical freedom and choice are at odds with the human and constitutional rights of children When parents wont protect them governments must" However government entities such as Child protective services
+To prevent the spread of disease by unvaccinated individuals some schools and doctors surgeries have prohibited unvaccinated children from being enrolled even where not required by law Doctors who refuse to treat unvaccinated children harm both the child and public health and may be considered unethical when parents are unable to find another provider Opinion on this is divided with the largest professional association the American Academy of Pediatrics saying that exclusion of unvaccinated children may be an option under narrowly defined circumstances
+
+One historical example is the 1990–91 Philadelphia measles outbreak which led to the deaths of nine children in an antivaccination faith healing community Court orders were obtained to have infected children given lifesaving medical treatment against the wishes of their parents and also for healthy children to be vaccinated without parental consent
+
+ In schools and daycare 
+Vaccination requirements for access to daycare and schools increase vaccine uptake in the United States and there is evidence that these requirements may decrease disease However the majority of studies of mandatory vaccination took place in the US and the cultural climate in United States is quite different from other industrialized nations Canada has a similar vaccination to the US despite 13 states having no vaccine mandates which may in part be due to vaccination programs taking place in school in Canada
+
+ Deliberate naturally acquired immunity through infection 
+In the United Kingdom children are not vaccinated against chickenpox despite the availability of a Varicella vaccine
+ Planning vaccination policy 
+ Vaccination committees 
+Vaccination policy is typically proposed by National Immunization Technical Advisory Group
+ Vaccination strategy models 
+Predictive vaccination strategy models play an important role in predicting effectiveness of vaccination strategies at population level The may eg compare the sequence of age groups to be vaccinated and study the outcome in terms of caseload deaths length of a pandemic healthcare system load and economic impact
+
+Evaluating vaccination policy
+Vaccines as a positive externality
+The promotion of high levels of vaccination produces the protective effect of herd immunity as well as positive externalities in society Large scale vaccination is a Public good (economics)
+Trust in vaccination
+Trust in vaccines and in the health system is an important element of public health programs that aim to deliver lifesaving vaccines Trust in vaccination and health care is an important indicator of government work and the effectiveness of the social policy The success in overcoming diseases and in vaccination depends on the level of trust in vaccines and health care The lack of trust in vaccines and immunization programs can lead to vaccine refusal risking disease outbreaks and challenging immunization goals in high and lowincome settings Today the medical and scientific communities obviously face a big challenge where vaccines are concerned namely enhancing the trust with which the general public regards the entire endeavor Indeed earning the publics trust in public health is a big challenge Accurately studying the trust in vaccines and understanding the factors that affect the reduction of trust allows authorities to build an effective vaccine campaign and communication strategies to fight the disease Trust is a key parameter to work with before and while undertaking any vaccine campaigns The state is responsible for providing smart communication and to inform a population about diseases vaccines and the risks of both The WHO recommends that states work longterm to build population resilience against vaccine myths and scares to develop a strong campaign that is well prepared to respond to any event that may erode trust and respond immediately to any event which may erode trust in health authorities<ref namevaccinationandtrust>cite web
+</ref>
+
+Costbenefit: United States
+The first economic analysis of routine childhood immunizations in the United States took place in 2001 and reported cost savings over the lifetime of children born that year Other analyses of the economic costs and potential benefits to individuals and society have since been evaluated In 2014 the American Academy of Pediatrics published a decision analysis that evaluated direct costs such as program costs vaccine cost administrative burden negative vaccinelinked reactions and transportation time lost to parents there is an economic incentive and "global value" to invest in preventive vaccination programs especially in children as a means to prevent early infant and childhood deaths Socioeconomic disparities have been found to hinder reasonable access to vaccinations in the US and it has also been found that even if such status is not a factor "racial ethnic minority adults are less likely than whites to receive preventive care including vaccination"
+
+Costbenefit for older adults
+There is an economic incentive to establish vaccination programs for older adults as the general population is aging due to increasing life expectancy and decreasing birth rates Vaccinations can reduce the issues linked with both polypharmacy and antibioticresistant bacteria in the older demographic with comorbidities by preventing infectious diseases and decreasing the necessity of polypharmacy and antibiotics One 2016 study done in Western Europe found that the estimated cost of vaccinating one person over a lifetime against 10–17 potentially debilitating pathogens would be €443–3395 (equivalent to €– in ) Another study found that if 75% of adults over 65 were vaccinated against seasonal influenza 32–38 million cases and 35000–52000 influenzarelated deaths could be avoided and €438–558million saved annually solely on the European continent
+
+International Organizations
+In 2006 the World Health Organization and UNICEF created the Global Immunization Vision and Strategy (GIVS) This organization created a tenyear strategy with four main goals:
+ to immunize more people against more diseases
+ to introduce a range of newly available vaccines and technologies
+ to integrate other critical health interventions with immunization
+ to manage vaccination programmes within the context of global interdependence
+
+The Global Vaccination Action Plan was created by the World Health Organization and endorsed by the World Health Assembly in 2012 The plan which is set from 2011 to 2020 is intended to "strengthen routine immunization to meet vaccination coverage targets; accelerate control of vaccinepreventable diseases with polio eradication as the first milestone; introduce new and improved vaccines and spur research and development for the next generation of vaccines and technologies"
+
+By country
+
+
+Table
+! Countries
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! classunsortable stylemaxwidth:6em ! classunsortable stylemaxwidth:6em ! classunsortable stylemaxwidth:6em 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Argentina
+In December 2018 Argentina enacted a new vaccine policy requiring all persons who are medically able both adults and children to be vaccinated against specified diseases Proof of vaccination is required to attend any level of school file for a marriage license and request any kind of government ID including a passport or drivers license The law requires the government to pay for all aspects of vaccinations and deems vaccination to be a national emergency; vaccines are exempt from internal and customs taxes
+
+Australia
+
+
+
+
+In an effort to boost vaccination rates in Health in Australia
+The government began the Immunise Australia Program to increase national immunization rates They fund a number of different vaccinations for certain groups of people The intent is to encourage the most atrisk populations to get vaccinated The government maintains an immunization schedule
+
+In most states and territories children can consent to vaccinations if they are judged Gillick competence
+When several COVID19 vaccines were nearing completion in November 2020 Australian Prime Minister Scott Morrison announced that all international travelers who Impact of the COVID19 pandemic on aviationProof of vaccination
+It is also lawful for workplaces in Australia to mandate vaccines The legality of this was upheld in the Fair Work Commission case Kimber v Sapphire Coast Community Aged Care Ltd in 2021
+
+Austria
+Austrian vaccine recommendations are developed by the National Vaccination Board () which is part of the Federal Ministry of Social Affairs Health Care and Consumer Protection
+
+Children aged 14 and older can be vaccinated without parental consent
+
+Brazil
+Vaccinating children has been mandatory in Brazil since 1975 when the federal government instituted the National Immunization Program The compulsory character was written into law in 1990 in the Statute of Children and Adolescents (Art 14 Para 1) Parents in Brazil who dont take their children to be vaccinated run the risk of being fined or charged with negligence
+
+
+
+
+Canada
+Vaccination in Canada is voluntary
+
+Under the mature minor doctrine minors capable of granting informed consent can be vaccinated without parental approval
+
+Alberta
+
+
+
+
+British Columbia
+
+
+
+
+New Brunswick
+
+
+
+
+Ontario
+
+
+
+
+Quebec
+
+
+
+
+China
+China has passed the World Health Organizations (WHO) regulatory vaccine assessments demonstrating that they adhere to international standards The Chinese governments Expanded Program on Immunization (EPI) was created in 1978 and provides certain obligatory vaccines named 
+Both the Changsheng BioTechnology Co Ltd and the Wuhan Institute of Biological Products have been fined for selling ineffective vaccines In December 2018 China enacted new laws imposing strict controls over the production and inspection of aspects of vaccine production from research development and testing through production and distribution
+
+Costa Rica
+In November 2021 Costa Rica added COVID19 to the list of infectious diseases required to be vaccinated against The vaccine is mandatory for children between the ages of 5 and 18
+
+Finland
+
+
+
+
+France
+
+
+
+In France the High Council of Public Health is in charge of proposing vaccine recommendations to the Minister of Health (France)
+Since 2009 France has recommended Meningococcal vaccine
+In May 2015 France updated its vaccination policies on diphtheria tetanus acellular pertussis polio Haemophilus influenzae b infections and hepatitis B for premature infants As of 2015 while failure to vaccinate is not necessarily illegal a parents right to refuse to vaccinate his or her child is technically a constitutional matter Additionally children in France cannot enter schools without proof of vaccination against diphtheria tetanus and polio French Health Minister Marisol Touraine finds vaccinations "absolutely fundamental to avoid disease" and has pushed to have trained pharmacists and doctors administer vaccinations Vaccinations within the immunization schedule are given for free at immunization services within the public sector When given in private medical practices they are reimbursed at 65%
+
+Germany
+
+
+
+In Germany the Standing Committee on Vaccination (STIKO) is the federal commission responsible for recommending an immunization schedule The Robert Koch Institute in Berlin (RKI) compiles data of immunization status upon the entry of children at school and measures vaccine coverage of Germany at a national level Founded in 1972 the STIKO is composed of 12–18 volunteers appointed members by the Federal Ministry of Health (Germany)
+Vaccinations recommendations that are issued must be in accordance with the Protection Against Infection Act (:de:Infektionsschutzgesetz
+Children aged 15 and over can legally consent to being vaccinated even if their parents Vaccine hesitancy
+Beginning in March 2020 Germany made the measles vaccine compulsory for all children attending school or day care as well persons employed at schools day cares and medical or community facilities
+
+Ghana
+As of January 2022 COVID19vaccination is mandatory for staff and students of secondary and tertiary education employees in all arms of government health workers security personnel and commercial drivers
+
+Greece
+As of January 2022 COVID19vaccination is mandatory for all people aged 60 or older There is a monthly 100 euro fine for noncompliance
+
+India
+
+
+
+
+Ireland
+In the Republic of Ireland childhood vaccination (up to age 16) requires the consent of the parents The Department of Health (Ireland)
+Italy
+
+
+
+As aging populations in Italy bring a rising burden of agerelated disease the Italian vaccination system remains complex The fact that services and decisions are delivered by 21 separate regional authorities creates many variations in Italian vaccine policy Regions may add more scheduled vaccinations but cannot exempt citizens from nationally mandated or recommended ones For instance a nationwide plan for eliminating measles and rubella began in 2001 Certain vaccinations in Italy are based on findings from the National Centre for Epidemiology Surveillance and Health Promotion are also used to determine miscellaneous vaccination mandates
+
+Childhood vaccinations included in national schedules are guaranteed free of charge for all Italian children and foreign children who live in the country However vaccination levels continued to pass the Italian governments goal of 95% outreach
+
+Aiming to integrate immunization strategies across the country and equitize access to disease prevention the Ministry of Health (Italy)
+There were 5000 cases of measles in 2017 up from 870 in 2016 This rise accounted for 29% of all those in the European Union The law compelling children to have ten vaccinations to enroll at state schools came into effect in March 2018 but in August 2018 the Five Star Movement pushed legislation through the Italian Senate abolishing it It did not pass the Chamber of Deputies but parents did not have to provide schools with a doctors note to show their children have been vaccinated By November 2018 the government had changed its stance because of the "measles emergency" and decided to uphold the obligation for children up to the age of 16 teachers and health professionals to be vaccinated A midwife working at a hospital in central Italy was sacked for refusing vaccination
+
+Japan
+
+
+
+In Japan there are three types of vaccination practices: Routine (scheduled); Temporary (adhoc); and Nonlegal Infections of the first two types are defined by  () and its related  () As of January 2020 sixteen infections in total are on the legal listsfourteen are 
+Compared to the global standard Japanese vaccination policy is sometimes described by medical experts as the "Vaccine Gap" For instance Japan is the only developed country that does not list mumps on the vaccine schedule Its also noted that the government approval for new combination vaccines usually takes longer than other developed countries such as the United States
+
+One reason behind the vaccine gap is that the government was sued several times for negligence of duty of care and for malpractice liabilities throughout the vaccination history The lawsuit risks particularly the 1992 Tokyo High Courts ruling on the MMR vaccine class action impacted on law amendment
+
+In addition to legal and social risk concerns an issue of the decisionmaking process underlies the vaccine gap Unlike the Advisory Committee on Immunization Practices (ACIP) in the United States a centralized permanent advisory committee for vaccination policy was not organized in Japan until 2009 when a deadly flu outbreak struck the nation Since the committee kickoff however the vaccine gap has been gradually improved
+
+Latvia
+According to a 2011 publication in CMAJ: The notion of "mandatory" in Latvia differs from that of other nations Latvia appears unique in that it compels health care providers to obtain the signatures of those who decline vaccination Individuals have the right to refuse a vaccination but if they do so health providers have a duty to explain the health consequences
+
+Vaccines that are not mandatory are not publicly funded so the cost for those must be borne by parents or employers she adds Funded vaccinations include tuberculosis diphtheria measles hepatitis B human papillomavirus for 12yearold girls and tickborne encephalitis until age 18 in endemic areas and for orphans
+
+Beginning at age 14 minors can consent to vaccination in Latvia without parental permission
+
+Malaysia
+In Malaysia mass vaccination is practised in public schools The vaccines may be administered by a school nurse or a team of other medical staff from outside the school All the children in a given school year are vaccinated as a Cohort (statistics)
+Mexico
+
+Mexico has a multiyear program for immunisation of children The immunisation of children is fully covered by the government of Mexico Mexico has an adverse events committee to monitor the adverse effects of vaccination as well as a standing technical advisory group on immunization
+
+The recommended vaccine schedule for children in Mexico contains vaccinations against sixteen vaccine preventable diseases Vaccine doses administered in Mexico are usually valid in the United States The immunization schedule for children in Mexico is as follows:
+! Name !! Age of administration !! Diseases prevented
+In addition Vitamin A is offered to all children of one year of age enrolled in nurseries or childrens rooms
+
+New Zealand
+
+
+
+
+Minors aged 16 and older may consent to vaccination without parental approval
+
+Nigeria
+
+
+
+In Nigeria the Expanded Programme on Immunization (EPI) was introduced in 1978 to provide free immunization against polio measles diphtheria whooping cough tuberculosis and yellow fever to Nigerian children less than two years old This free immunization can be obtained at any primary healthcare provider in the country The vaccines are usually administered by a government health care worker They also conduct routine vaccination visits in schools where all the children in a given school are vaccinated
+
+Pakistan
+Facing numerous minor polio epidemics the Pakistani government has now ruled that polio vaccination is mandatory and indisputable In a statement from Pakistani Police Commissioner Riaz Khan Mehsud "There is no mercy we have decided to deal with the refusal cases with iron hands Anyone who refuses the vaccine will be sent to jail"
+
+Panama
+COVID19 vaccination may become mandatory for government employees Unvaccinated employees may be forced to take unpaid leave Having completed the vaccine schedule for schoolchildren up to the childs age is required for access to the governments main scholarship program
+
+Russia
+As of 2019 immunization is voluntary in Russia In May 2021 Russian President Vladimir Putin said that mandating COVID19 vaccines would be "impractical and impossible"
+
+Samoa
+In the wake of a declared 2019 Samoa measles outbreak           </ref>
+
+Slovenia
+According to a 2011 publication in CMAJ: Slovenia has one of the worlds most aggressive and comprehensive vaccination programs Its program is mandatory for nine designated diseases Within the first three months of life infants must be vaccinated for tuberculosis tetanus polio pertussis and Haemophilus influenza type B Within 18 months vaccines are required for measles mumps and rubella and finally before a child starts school the child must be vaccinated for hepatitis B While a medical exemption request can be submitted to a committee such an application for reasons of religion or conscience would not be acceptable Failure to comply results in a fine and compliance rates top 95% Kraigher says adding that for nonmandatory vaccines such as the one for human papillomavirus coverage is below 50%
+
+Mandatory vaccination against measles was introduced in 1968 and since 1978 all children receive two doses of vaccine with a compliance rate of more than 95% For TBE the vaccination rate in 2007 was estimated to be 124% of the general population in 2007 For comparison in neighboring Austria 87% of the population is vaccinated against TBE
+
+South Africa
+In South Africa vaccination is voluntary
+
+The South African Vaccination and Immunisation Centre (SAVIC) began in 2003 as an alliance between the South African Department of Health vaccine industry academic institutions and other stakeholders SAVIC works with the WHO and the Department of Health (South Africa)
+Spain
+
+
+
+Spains 19 Autonomous communities of Spain
+The Spanish Association of Pediatrics in conjunction with the Spanish Medicines Agency outlines specifications for vaccination schedules and policies and provides a history of vaccination policies implemented in the past as well as legislature pertaining to the public currently Spanish Constitution of 1812
+The 2015 schedule proposed the newest change with the inclusion of pneumococcal vaccine for children under 12 months For 2016 the schedule plans to propose a vaccine against varicella in children at 12–15 months and 3–4 years Furthermore the General Health Law of 1986 echoes Article 402 from the Constitution guaranteeing the right to the protection of health and states employers must provide vaccines to workers if they are at risk of exposure Due to vaccination coverage in each Community there is little antivaccine activity or opposition to the current schedule and no organized groups against vaccines The autonomous regions collect data from either electronic registries or written physician charts to calculate immunization coverage
+
+Switzerland
+The Swiss vaccination schedule and recommendations are developed by the Federal Vaccination Commission and the Federal Office of Public Health in collaboration with the cantons
+
+Minors aged 12 and older may consent to immunization with the Pfizer–BioNTech COVID19 vaccine without parental approval
+
+Tanzania
+According to the World Health Organization vaccination coverage in Tanzania was more than 90% in 2012 An Electronic Immunisation Register has been established which permits online access to the medical records of mothers and infants enabling vaccination teams in remote areas to operate more effectively especially with nomadic people It also helps to coordinate stock levels and order new supplies
+
+United Kingdom
+
+
+
+In the United Kingdom the purchase and distribution of vaccines is managed centrally and recommended vaccines are provided for free by the NHS In the UK no laws require vaccination of schoolchildren
+
+Children aged 16 and 17 can consent to immunizations without parental consent Under the Gillick competence
+United States
+
+
+
+
+In the United States the Advisory Committee on Immunization Practices makes scientific recommendations regarding vaccines and vaccination schedules that the federal government state governments and private health insurance companies generally follow See Vaccination schedule for the schedule recommended in the United States
+
+All fifty states in the US mandate immunizations for children to enroll in public school but various exemptions are available depending on the state All states have exemptions for people who have medical contraindications to vaccines and all states except for California Senate Bill 277
+An increasing number of parents are using religious and philosophical exemptions: researchers have cited this increased use of exemptions as contributing to loss of herd immunity within these communities and hence an increasing number of disease outbreaks
+
+The American Academy of Pediatrics (AAP) advises physicians to respect the refusal of parents to vaccinate their child after adequate discussion unless the child is put at significant risk of harm (eg during an epidemic or after a deep and contaminated puncture wound) Under such circumstances the AAP states that parental refusal of immunization constitutes a form of medical neglect and should be reported to state child protective services agencies Several states allow minors to legally consent to vaccination over parental objections under the mature minor doctrine
+
+Immunizations are compulsory for military enlistment in the US However exceptions exist but may be determined by an uneven process The suppression of religious exemptions to the military COVID19 vaccination mandate was successfully proven by members of the Air Force and overturned in the Sixth Circuit federal court of appeals in September 2022 when evidence was presented that more than 99% of requests for religious exceptions were systematically denied approval though other kinds of exemption requests were more often granted The judge had previously awarded class action status to the case extending the suit to cover an estimated more than 12000 joint plaintiffs
+
+All vaccines recommended by the US government for its citizens are required for Permanent residence (United States)
+Though the federal guidelines do not require written consent to receive a vaccination they do require doctors give the recipients or legal representatives a Vaccine Information Statement (VIS) Specific informed consent laws are made by the states
+
+Schools
+The United States has a long history of school vaccination requirements The first school vaccination requirement was enacted in the 1850s in Massachusetts to prevent the spread of smallpox The school vaccination requirement was put in place after the compulsory school attendance law caused a rapid increase in the number of children in public schools increasing the risk of smallpox outbreaks The early movement towards school vaccination laws began at the local level including counties cities and boards of education By 1827 Boston had become the first city to mandate that all children entering public schools show proof of vaccination In addition in 1855 the Massachusetts General Court had established its own statewide vaccination requirements for all students entering school this influenced other states to implement similar statewide vaccination laws in schools as seen in New York (state)
+These vaccination laws resulted in political debates throughout the United States as those opposed to vaccination sought to repeal local policies and state laws An example of this political controversy occurred in 1893 in Chicago where less than ten percent of the children were vaccinated despite the twelveyearold state law
+
+In 1922 the constitutionality of childhood vaccination was examined in the Supreme Court case Zucht v King The court decided that a school could deny admission to children who failed to provide a certification of vaccination for the protection of the public health In 1987 there was a measles epidemic in Maricopa County Arizona and Maricopa County Health Department v Harmon examined the arguments of an individuals right to education over the states need to protect against the spread of disease The court decided that it is prudent to take action to combat the spread of disease by denying unvaccinated children a place in school until the risk for the spread of measles had passed
+
+Schools in the United States require an updated immunization record for all incoming and returning students While all states require an immunization record this does not mean all students must get vaccinated Exemptions are determined at a state level In the United States exemptions take one of three forms: medical in which a vaccine is contraindicated because of a component ingredient allergy or existing medical condition; religious; and personal philosophical opposition As of 2019 45 states allow religious exemptions with some states requiring proof of religious membership Until 2019 only Mississippi West Virginia and California did not permit religious exemptions However the 2019 measles outbreak led to the repeal of religious exemptions in the state of New York and for the MMR vaccination in the state of Washington Prior to 2019 18 states allowed personal or philosophical opposition to vaccination but the measles outbreak also led to the repeal of these exemptions in many states
+
+Mandatory vaccinations for attending public schools have received criticism Parents say that vaccine mandates to attend public schools prevent ones right to choose especially if the vaccinations could be harmful Some people believe being forced to get a vaccination could cause trauma and may lead to not seeking medical care/attention ever again In the constitutional law some states have the liberty to withdraw to public health regulations which includes mandatory vaccination laws that threaten fines Certain laws are being looked at for immunization requirements and are trying to be changed but cannot succeed due to legal challenges After California removed nonmedical exemptions for school entrance lawsuits were filed arguing for the right for children to attend school regardless of their vaccination history and to suspend the bills implementation altogether
+
+As of 2022 300 American colleges and universities mandate that their students receive a COVID19 booster A study in the Journal of Medical Ethics concludes that the cost of these mandates likely outweigh the benefits For example to prevent one COVID hospitalization over a 6month period 31000 to 42000 adults in that age group would have to get a third mRNA booster; and those boosters will result in at least 18 "serious adverse events" (SAEs) for that single prevented hospitalization
+
+
+
+See also
+ World Immunization Week
+ Vaccination requirements for international travel
+
+References
+
+
+
+
+
+
+
+

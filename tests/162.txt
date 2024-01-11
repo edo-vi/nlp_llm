@@ -1,0 +1,375 @@
+
+
+Geology (journal)
+
+
+
+Geology ( ()
+Geology describes the structure of the Earth on and beneath its surface and the processes that have shaped that structure Geologists study the mineralogical composition of rocks in order to get insight into their history of formation Geology determines the Relative dating
+Geologists broadly study the properties and processes of Earth and other terrestrial planets Geologists use a wide variety of methods to understand the Earths structure and evolution including field work
+Geological material
+The majority of geological data comes from research on solid Earth materials Meteorites and other extraterrestrial natural materials are also studied by geological methods
+
+Mineral
+
+Minerals are naturally occurring Chemical element
+Each mineral has distinct physical properties and there are many tests to determine each of them Minerals are often identified through these tests The specimens can be tested for:
+ Lustre (mineralogy) Color: Minerals are grouped by their color Mostly diagnostic but impurities can change a minerals color
+ Streak (mineralogy) Hardness: The resistance of a mineral to scratching
+ Breakage pattern: A mineral can either show fracture or Cleavage (crystal) Relative density Effervescence: Involves dripping hydrochloric acid on the mineral to test for fizzing
+ Magnetism: Involves using a magnet to test for magnetism
+ Taste: Minerals can have a distinctive taste such as Halite (mineral)
+Rock
+File:Rockcycle editjpg
+
+
+A rock is any naturally occurring solid mass or aggregate of minerals or mineraloids Most research in geology is associated with the study of rocks as they provide the primary record of the majority of the geological history of the Earth There are three major types of rock: igneous sedimentary and metamorphic The rock cycle
+illustrates the relationships among them (see diagram)
+
+When a rock solidifies or crystallizationOrganic matter such as coal bitumen oil and natural gas is linked mainly to organicrich sedimentary rocks
+File:Or VenezuelajpgFile:Quartz Tibetjpg
+To study all three types of rock geologists evaluate the minerals of which they are composed and their other physical properties such as Texture (geology)
+Unlithified material
+Geologists also study unlithified materials (referred to as superficial deposits) that lie above the bedrock This study is often known as Quaternary geology after the Quaternary period of geologic history which is the most recent period of geologic time
+
+Magma
+
+
+Magma is the original unlithified source of all igneous rocks The active flow of molten rock is closely studied in volcanology and igneous petrology aims to determine the history of igneous rocks from their original molten source to their final crystallization
+
+WholeEarth structure
+
+Plate tectonics
+
+File:Active MarginsvgFile:Plates tect2 ensvg
+In the 1960s it was discovered that the Earths lithosphere which includes the Crust (geology)
+There is an intimate coupling between the movement of the plates on the surface and the mantle convection
+File:Farallon Platejpg
+The development of plate tectonics has provided a physical basis for many observations of the solid Earth Long linear regions of geological features are explained as plate boundaries
+
+For example:
+ Midocean ridges high regions on the seafloor where hydrothermal vents and volcanoes exist are seen as divergent boundary Arcs of volcanoes and earthquakes are theorized as convergent boundary
+Transform boundary
+Earth structure
+
+File:Jordens inrenumberssvgFile:Earthquake wave pathssvg
+Advances in seismology computer modeling and mineralogy and crystallography at high temperatures and pressures give insights into the internal composition and structure of the Earth
+
+Seismologists can use the arrival times of seismic waves to image the interior of the Earth Early advances in this field showed the existence of a liquid Earths outer core
+Mineralogists have been able to use the pressure and temperature data from the seismic and modeling studies alongside knowledge of the elemental composition of the Earth to reproduce these conditions in experimental settings and measure changes within the crystal structure These studies explain the chemical changes associated with the major seismic discontinuities in the mantle and show the crystallographic structures expected in the inner core of the Earth
+
+
+Geological time
+
+
+The geological time scale encompasses the history of the Earth It is bracketed at the earliest by the dates of the first Solar System material at 4567 Gigaannum454 Ga
+(454 billion years) which is the beginning of the informally recognized Hadean eona division of geological time At the later end of the scale it is marked by the present day (in the Holocene epoch)
+
+Timescale of the Earth
+
+
+
+Important milestones on Earth
+File:Geologic Clock with events and periodssvg 4567 Ga (unit) 454 Ga: Accretion (astrophysics) c 4 Ga: End of Late Heavy Bombardment the first life
+ c 35 Ga: Start of photosynthesis
+ c 23 Ga: Oxygenated atmosphere first snowball Earth
+ 730–635 Ma (unit) 541 ± 03 Ma: Cambrian explosion – vast multiplication of hardbodied life; first abundant fossils; start of the Paleozoic
+ c 380 Ma: First vertebrate land animals
+ 250 Ma: PermianTriassic extinction – 90% of all land animals die; end of Paleozoic and beginning of Mesozoic
+ 66 Ma: Cretaceous–Paleogene extinction event c 7 Ma: First hominins appear
+ 39 Ma: First Australopithecus direct ancestor to modern Homo sapiens appear
+ 200 Ma (unit)
+Timescale of the Moon
+
+
+
+Timescale of Mars
+
+
+
+Dating methods
+
+Relative dating
+
+File:Crosscutting relationssvg
+Methods for relative dating were developed when geology first emerged as a natural science Geologists still use the following principles today as a means to provide information about geological history and the timing of geological events
+
+The principle of uniformitarianism states that the geological processes observed in operation that modify the Earths crust at present have worked in much the same way over geological time A fundamental principle of geology advanced by the 18thcentury Scottish physician and geologist James Hutton is that "the present is the key to the past" In Huttons words: "the past history of our globe must be explained by what can be seen to be happening now"
+
+The Intrusion (geology)
+The principle of crosscutting relationships pertains to the formation of Fault (geology)
+The principle of inclusions and components states that with sedimentary rocks if inclusions (or Clastic rocks
+File:SEUtahStratJPGThe principle of original horizontality states that the deposition of sediments occurs as essentially horizontal beds Observation of modern marine and nonmarine sediments in a wide variety of environments supports this generalization (although crossbedding is inclined the overall orientation of crossbedded units is horizontal)
+
+The Law of superposition
+The principle of faunal succession is based on the appearance of fossils in sedimentary rocks As organisms exist during the same period throughout the world their presence or (sometimes) absence provides a relative age of the formations where they appear Based on principles that William Smith laid out almost a hundred years before the publication of Charles Darwins theory of evolution the principles of succession developed independently of evolutionary thought The principle becomes quite complex however given the uncertainties of fossilization localization of fossil types due to lateral changes in habitat (facies change in sedimentary strata) and that not all fossils formed globally at the same time
+
+Absolute dating
+
+File:Zircontuc1001bjpg
+Geologists also use methods to determine the absolute age of rock samples and geological events These dates are useful on their own and may also be used in conjunction with relative dating methods or to calibrate relative methods
+
+At the beginning of the 20th century advancement in geological science was facilitated by the ability to obtain accurate absolute dates to geological events using radioactive isotopes and other methods This changed the understanding of geological time Previously geologists could only use fossils and stratigraphic correlation to date sections of rock relative to one another With isotopic dates it became possible to assign Absolute dating
+For many geological applications isotope ratios of radioactive elements are measured in minerals that give the amount of time that has passed since a rock passed through its particular closure temperature the point at which different radiometric isotopes stop diffusing into and out of the Crystal structureThermochemical techniques can be used to determine temperature profiles within the crust the uplift of mountain ranges and paleotopography
+
+Fractionation of the lanthanide series elements is used to compute ages since rocks were removed from the mantle
+
+Other methods are used for more recent events Optically stimulated luminescence and Cosmogenic isotopeNatural
+Geological development of an area
+File:VolcanosedsvgFile:Fault typessvgA Strikeslip faults occur when rock units slide past one another<br>
+B Normal faults occur when rocks are undergoing horizontal extension<br>
+C Reverse (or thrust) faults occur when rocks are undergoing horizontal shortening
+
+File:San Andreasjpg
+The geology of an area changes through time as rock units are deposited and inserted and deformational processes alter their shapes and locations
+
+Rock units are first emplaced either by deposition onto the surface or intrusion into the Country rock (geology)
+After the initial sequence of rocks has been deposited the rock units can be deformation (mechanics)
+When rock units are placed under horizontal compression (geology)
+File:Antecline (PSF)pngEven higher pressures and temperatures during horizontal shortening can cause both folding and metamorphism of the rocks This metamorphism causes changes in the mineral
+Extension causes the rock units as a whole to become longer and thinner This is primarily accomplished through normal faulting and through the ductile stretching and thinning Normal faults drop rock units that are higher below those that are lower This typically results in younger units ending up below older units Stretching of units can result in their thinning In fact at one location within the Maria Fold and Thrust Belt the entire sedimentary sequence of the Grand Canyon appears over a length of less than a meter Rocks at the depth to be ductilely stretched are often also metamorphosed These stretched rocks can also pinch into lenses known as boudinage
+Where rock units slide past one another strikeslip faults develop in shallow regions and become shear zones at deeper depths where the rocks deform ductilely
+
+File:Kittatinny Mountain Cross SectionjpgThe addition of new rock units both depositionally and intrusively often occurs during deformation Faulting and other deformational processes result in the creation of topographic gradients causing material on the rock unit that is increasing in elevation to be eroded by hillslopes and channels These sediments are deposited on the rock unit that is going down Continual motion along the fault maintains the topographic gradient in spite of the movement of sediment and continues to create accommodation space for the material to deposit Deformational events are often also associated with volcanism and igneous activity Volcanic ashes and lavas accumulate on the surface and igneous intrusions enter from below Dike (geology)
+All of these processes do not necessarily occur in a single environment and do not necessarily occur in a single order The Hawaiian Islands for example consist almost entirely of layered basaltic lava flows The sedimentary sequences of the midcontinental United States and the Geology of the Grand Canyon area
+Methods of geology
+File:BruntonJPG
+Geologists use a number of fields laboratory and numerical modeling methods to decipher Earth history and to understand the processes that occur on and inside the Earth In typical geological investigations geologists use primary information related to petrology (the study of rocks) stratigraphy (the study of sedimentary layers) and structural geology (the study of positions of rock units and their deformation) In many cases geologists also study modern soils rivers landscapes and glaciers; investigate past and current life and biogeochemistry</ref>
+
+Field methods
+File:USGS 1950s mapping field campjpgFile:PDA MappingjpgFile:Petrified forest log 1 mdjpg
+Geological field work varies depending on the task at hand Typical fieldwork could consist of:
+ Geological mapping
+ Structural mapping: identifying the locations of major rock units and the faults and folds that led to their placement there
+ Stratigraphic mapping: pinpointing the locations of sedimentary facies (Lithology Surficial mapping: recording the locations of soils and surficial deposits
+ Surveying of topographic features
+ compilation of topographic maps
+ Work to understand change across landscapes including:
+ Patterns of erosion and deposition (geology) Riverchannel change through meander Hillslope processes
+ Subsurface mapping through Geophysical survey These methods include:
+ Shallow seismology Groundpenetrating radar
+ Aeromagnetic surveys
+ Electrical resistivity tomography
+ They aid in:
+ Exploration geophysics Finding groundwater
+ Archaeological geophysics Highresolution stratigraphy
+ Measuring and describing stratigraphic sections on the surface
+ Well drilling and well logging Biogeochemistry and geomicrobiology
+ Collecting samples to:
+ determine biochemical pathways
+ identify new species (biology) identify new chemical compounds
+ and to use these discoveries to:
+ understand early life on Earth and how it functioned and metabolized
+ find important compounds for use in pharmaceuticals
+ Paleontology: excavation of fossil material
+ For research into past life and evolution
+ For museums and education
+ Collection of samples for geochronology and thermochronology
+ Glaciology: measurement of characteristics of glaciers and their motion
+
+ multiple image
+       
+
+Petrology
+
+
+In addition to identifying rocks in the field (lithology) petrologists identify rock samples in the laboratory Two of the primary methods for identifying rocks in the laboratory are through optical microscopy and by using an electron microprobe In an optical mineralogy analysis petrologists analyze thin sections of rock samples using a petrographic microscope where the minerals can be identified through their different properties in planepolarized and crosspolarized light including their birefringence pleochroism Crystal twinning
+Petrologists can also use Fluid inclusions      File:Agiospavlos DM 2004 IMG003 Felsenformation naheJPG
+Structural geology
+
+File:Orogenic wedgejpg
+Structural geologists use microscopic analysis of oriented thin sections of geological samples to observe the fabric (geology)
+The analysis of structures is often accomplished by plotting the orientations of various features onto stereographic projection
+Among the most wellknown experiments in structural geology are those involving Accretionary wedge
+Stratigraphy
+File:Ritagli di Lecca Fondachelli FantinaJPG
+In the laboratory stratigraphers analyze samples of stratigraphic sections that can be returned from the field such as those from drill cores Geophysical data and well logs can be combined to produce a better view of the subsurface and stratigraphers often use computer programs to do this in three dimensions Stratigraphers can then use these data to reconstruct ancient processes occurring on the surface of the Earth interpret past environments and locate areas for water coal and hydrocarbon extraction
+
+In the laboratory biostratigraphyCite journal
+
+</ref>
+Magnetic stratigraphers look for signs of magnetic reversals in igneous rock units within the drill cores Other scientists perform stableisotope studies on the rocks to gain information about past climate
+
+Planetary geology
+File:Mars Viking 21i093png
+
+With the advent of space exploration in the twentieth century geologists have begun to look at other planetary bodies in the same ways that have been developed to study the Earth This new field of study is called planetary geology (sometimes known as astrogeology) and relies on known geological principles to study other bodies of the solar system This is a major aspect of planetary science and largely focuses on the terrestrial planets icy moons asteroids comets and meteorites However some planetary geophysicists study the giant planets and exoplanets
+
+Although the Greeklanguageorigin prefix wikt:geo
+Although planetary geologists are interested in studying all aspects of other planets a significant focus is to search for evidence of past or present life on other worlds This has led to many missions whose primary or ancillary purpose is to examine planetary bodies for evidence of life One of these is the Phoenix lander which analyzed Mars
+Applied geology
+File:Panning on the Mokelumnejpg
+Economic geology
+
+
+Economic geology is a branch of geology that deals with aspects of economic minerals that humankind uses to fulfill various needs Economic minerals are those extracted profitably for various practical uses Economic geologists help locate and manage the Earths natural resources such as petroleum and coal as well as mineral resources which include metals such as iron copper and uranium
+
+Mining geology
+
+Mining geology consists of the extractions of mineral resources from the Earth Some resources of economic interests include gemstones metals such as gold and copper and many minerals such as asbestos perlite mica phosphates zeolites clay pumice quartz and silica as well as elements such as sulfur chlorine and helium
+
+Petroleum geology
+File:MudloggingJPG
+Petroleum geologists study the locations of the subsurface of the Earth that can contain extractable hydrocarbons especially petroleum and natural gas Because many of these reservoirs are found in sedimentary basins they study the formation of these basins as well as their sedimentary and tectonic evolution and the presentday positions of the rock units
+
+Engineering geology
+
+Engineering geology is the application of geological principles to engineering practice for the purpose of assuring that the geological factors affecting the location design construction operation and maintenance of engineering works are properly addressed Engineering geology is distinct from geological engineering particularly in North America
+File:New water well opens in Shant Abak DVIDS92609jpg
+In the field of civil engineering geological principles and analyses are used in order to ascertain the mechanical principles of the material on which structures are built This allows tunnels to be built without collapsing bridges and skyscrapers to be built with sturdy foundations and buildings to be built that will not settle in clay and mud
+
+Hydrology
+
+
+Geology and geological principles can be applied to various environmental problems such as stream restoration the restoration of brownfields and the understanding of the interaction between Habitat (ecology)
+Paleoclimatology
+
+
+Geologists also obtain data through stratigraphy boreholes core samples and ice cores Ice cores and sediment cores are used for paleoclimate reconstructions which tell geologists about past and present temperature precipitation and sea level across the globe These datasets are our primary source of information on global climate change outside of instrumental data
+
+Natural hazards
+File:GCRockfallJPG
+Geologists and geophysicists study natural hazards in order to enact safe building codes and warning systems that are used to prevent loss of property and life Examples of important natural hazards that are pertinent to geology (as opposed those that are mainly or only pertinent to meteorology) are:
+columnslist Avalanches
+ Earthquakes
+ Floods
+ Landslides and debris flows
+ River channel migration and Avulsion (river) Rockfalls
+ Sinkholes
+ Soil liquefaction
+ Subsidence
+ Tsunamis
+ Volcanoes
+
+
+History
+
+File:Geological map Britain William Smith 1815jpgThe study of the physical material of the Earth dates back at least to ancient Greece when Theophrastus (372–287 BCE) wrote the work TheophrastusOn stones
+Abū alRayhān alBīrūnī
+Georgius Agricola (1494–1555) published his groundbreaking work De Natura Fossilium in 1546 and is seen as the founder of geology as a scientific discipline
+
+Nicolas Steno (1638–1686) is credited with the law of superposition the principle of original horizontality and the principle of lateral continuity: three defining principles of stratigraphy
+
+The word geology was first used by Ulisse Aldrovandi in 1603 then by JeanAndré Deluc in 1778 and introduced as a fixed term by HoraceBénédict de Saussure in 1779<ref>On the controversy regarding whether Deluc or Saussure deserves priority in the use the term "geology":
+  Zittel Karl Alfred von with Maria M OgilvieGordon trans History of Geology and Paleontology to the End of the Nineteenth Century (London England:  Walter Scott 1901) https://archiveorg/stream/cu31924012130534page/n95/mode/2up p 76
+  Geikie Archibald The Founders of Geology 2nd ed (London England:  Macmillan and Co 1905) https://booksgooglecom/books?idQFMPAAAAIAAJ&pgPA186 p 186 
+  Eastman Charles Rochester (12 August 1904) https://wwwjstororg/stable/1629832?seq2page_scan_tab_contents Letter to the Editor: "Variæ Auctoritatis"  Science 2nd series 20 (502) :  215–217 ; see p 216
+  Emmons Samuel Franklin (21 October 1904) https://wwwjstororg/stable/1631128?seq1page_scan_tab_contents Letter to the Editor:  "Variæ Auctoritatis"  Science 2nd series 20 (512) :  537
+  Eastman CR (25 November 1904) https://wwwjstororg/stable/1630549?seq3page_scan_tab_contents Letter to the Editor:  "Notes on the History of Scientific Nomenclature"  Science 2nd series 20 (517) :  727–730 ; see p 728
+  Emmons SF (23 December 1904) https://archiveorg/stream/jstor1631724/1631724page/n1/mode/2up Letter to the Editor:  "The term geology " Science 2nd series 20 (521) :  886–887
+  Eastman C R (20 January 1905) https://booksgooglecom/books?id7_hDAQAAMAAJ&pgPA111 Letter to the Editor:  "Delucs Geological Letters"  Science 2nd series 21 (525):  111
+  Emmons S F (17 February 1905) https://booksgooglecom/books?id7_hDAQAAMAAJ&pgPA274 Letter to the Editor:  "Deluc versus de Saussure"  Science 2nd series 21 (529) :  274–275</ref> The word is derived from the Ancient Greek  Reprinted in English as:  Escholt Michel Pedersøn with Daniel Collins trans https://booksgooglecom/books?idUKlkAAAAcAAJ&pgPR4 Geologia Norvegica …   (London England:  S Thomson 1663)</ref>
+
+William Smith (geologist)
+In 1763 Mikhail Lomonosov published his treatise On the Strata of Earth His work was the first narrative of modern geology based on the unity of processes in time and explanation of the Earths past from the present
+
+James Hutton (1726–1797) is often viewed as the first modern geologist In 1785 he presented a paper entitled Theory of the Earth to the Royal Society of Edinburgh In his paper he explained his theory that the Earth must be much older than had previously been supposed to allow enough time for mountains to be eroded and for sediments to form new rocks at the bottom of the sea which in turn were raised up to become dry land Hutton published a twovolume version of his ideas in 1795
+
+Followers of Hutton were known as Plutonism
+The first Geologic map of Georgia
+Sir Charles Lyell (1797–1875) first published his famous book Principles of Geology in 1830 This book which influenced the thought of Charles Darwin successfully promoted the doctrine of uniformitarianism This theory states that slow geological processes have occurred throughout the History of Earth
+Much of 19thcentury geology revolved around the question of the Age of the Earth
+Some of the most significant advances in 20thcentury geology have been the development of the theory of plate tectonics in the 1960s and the refinement of estimates of the planets age Plate tectonics theory arose from two separate geological observations: seafloor spreading and continental drift The theory revolutionized the Earth sciences Today the Earth is known to be approximately 45 billion years old
+
+<gallery>
+File:Georgius AgricolajpgFile:MV Lomonosov by LMiropolskiy after GCPrenner (1787 RAN)jpgFile:Hutton James portrait RaeburnjpgFile:John Tuzo Wilson in 1992jpgFile:MSH80 david johnston at camp 051780 med (cropped)jpg</gallery>
+
+Fields or related disciplines
+
+ Earth system science
+ Economic geology
+ Mining Petroleum geology
+ Engineering geology
+ Environmental geology
+ Environmental science
+ Geoarchaeology
+ Geochemistry
+ Biogeochemistry
+ Isotope geochemistry
+ Geochronology
+ Geodetics
+ Geography
+ Physical geography
+ Technical geography
+ Geological engineering
+ Geological modelling
+ Geometallurgy
+ Geomicrobiology
+ Geomorphology
+ Geomythology
+ Geophysics
+ Glaciology
+ Historical geology
+ Hydrogeology
+ Meteorology
+ Mineralogy
+ Oceanography
+ Marine geology
+ Paleoclimatology
+ Paleontology
+ Micropaleontology
+ Palynology
+ Petrology
+ Petrophysics
+ Planetary geology
+ Plate tectonics
+ Regional geology
+ Sedimentology
+ Seismology
+ Soil science
+ Pedology (soil study)
+ Speleology
+ Stratigraphy
+ Biostratigraphy
+ Chronostratigraphy
+ Lithostratigraphy
+ Structural geology
+ Systems geology
+ Tectonics
+ Volcanology
+
+
+See also
+
+
+ Glossary of geology
+ Geoprofessions
+ Geotourism
+ Glossary of geology terms
+ Index of geology articles
+ International Union of Geological Sciences (IUGS)
+ Outline of geology
+ Timeline of geology
+
+
+References
+
+
+External links
+
+
+
+
+
+ http://wwwonegeologyorg/ One Geology: This interactive geological map of the world is an international initiative of the geological surveys around the globe This groundbreaking project was launched in 2007 and contributed to the International Year of Planet Earth becoming one of their flagship projects 
+ http://geologycom/ Earth Science News Maps Dictionary Articles Jobs
+ http://wwwaguorg/ American Geophysical Union
+ http://wwwamericangeosciencesorg/ American Geosciences Institute
+ http://wwwegueu/ European Geosciences Union
+ https://webarchiveorg/web/20111029134635/http://wwwgeosocietyorg/ Geological Society of America
+ http://wwwgeolsocorguk/ Geological Society of London
+ http://wwwminigeologycom/ Videointerviews with famous geologists
+ https://opentextbcca/geology/ Geology OpenTextbook
+ https://ghkclasscom/ Chronostratigraphy benchmarks
+
+
+
+
+
+
+
+
+
+
+
+

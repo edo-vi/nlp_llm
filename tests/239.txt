@@ -1,0 +1,23 @@
+
+Number needed to vaccinate (NNV) is a metric used in the evaluation of vaccines and in the determination of vaccination policy It is defined as the average number of patients that must be vaccinated to prevent one case of disease It is a specific application of the number needed to treat metric (NNT)
+
+Derivation
+NNV is the inverse of the Risk difference
+For example one study reported a number needed to vaccinate of 5206 for invasive pneumococcal disease
+
+Significance
+In order to determine a NNV it is necessary to identify a specific population and a defined endpoint because these can vary:
+ Tuberculosis vaccination rates are much higher in Europe than in the United States
+ When evaluating a vaccine against chickenpox it is necessary to define whether or not the endpoint would include shingles due to reactivation
+ If evaluating a HIV vaccine the NNV may vary depending upon the expected standard of care in the absence of a vaccine which may vary from continent to continent
+ If an infectious disease is acute and highly lethal there may be large differences in the impact of the vaccine upon Incidence (epidemiology)
+Despite the limitations the NNV can serve as a useful resource For example it can be used to report the results of computer simulations of varying vaccination strategies
+
+See also
+ Number needed to treat
+
+References
+
+
+
+

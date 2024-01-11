@@ -1,0 +1,49 @@
+A clinical prediction rule or clinical probability assessment specifies medical sign
+Physicians have difficulty in estimated risks of diseases; frequently erring towards overestimation perhaps due to cognitive biases such as base rate fallacy in which the risk of an adverse outcome is exaggerated
+
+Methods
+In a prediction rule study investigators identify a consecutive group of patients who are suspected of having a specific disease or outcome The investigators then obtain a standard set of clinical observations on each patient and a test or clinical followup to define the true state of the patient They then use statistical methods to identify the best clinical predictors of the patients true state The probability of disease will depend on the patients key clinical predictors Published methodological standards specify good practices for developing a clinical prediction rule
+
+A survey of methods concluded "the majority of prediction studies in high impact journals do not follow current methodological recommendations limiting their reliability and applicability" confirming earlier findings from the diabetic literature
+
+Effect on health outcomes
+Few prediction rules have had the consequences of their usage by physicians  quantified
+
+When studied the impact of providing the information alone (for example providing the calculated probability of disease) has been negative
+
+However when the prediction rule is implemented as part of a critical pathway so that a hospital or clinic has procedures and policies established for how to manage patients identified as high or low risk of disease the prediction rule has more impact on clinical outcomes
+
+The more intensively the prediction rule is implemented the more benefit will occur
+
+Examples of prediction rules
+ Apache II
+ CHADS2 for risk of stroke with atrial fibrillation 
+ CURB65
+ Model for EndStage Liver Disease
+ Ranson criteria
+ Centor criteria
+ Pneumonia severity index
+ Wells score (disambiguation)
+ : Abbreviated Injury Scale
+ Harris Hip Score
+ Injury Severity Score
+ Kocher criteria
+ Mirels Score
+ NACA score
+ Ottawa ankle rules
+ Ottawa knee rules
+ Pittsburgh knee rules
+ Revised Trauma Score
+
+References
+
+
+ External links
+ http://wwwclinicalpredictioncom/predictionrules/ Clinical Prediction Website
+ http://farmacologiaclinicainfo Clinical prediction rules online calculators
+
+
+
+
+
+

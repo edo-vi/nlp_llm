@@ -1,0 +1,31 @@
+Biological constraints are factors which make populations resistant to evolutionary change. One proposed definition of constraint is "A property of a trait that although possibly adaptive in the environment in which it originally evolved acts to place limits on the production of new phenotypic variants."  Constraint has played an important role in the development of such ideas as homology (biology)
+ Types of constraint
+Any aspect of an organism that has not changed over a certain period of time could be considered to provide evidence for "constraint" of some sort. To make the concept more useful it is therefore necessary to divide it into smaller units. First one can consider the pattern of constraint as evidenced by phylogenetic analysis and the use of phylogenetic comparative methods; this is often termed Phylogenetic Inertia
+If one sees particular features of organisms that have not changed over rather long periods of time (many generations) then this could suggest some constraint on their ability to change (evolve). However it is not clear that mere documentation of lack of change in a particular character is good evidence for constraint in the sense of the character being unable to change. For example long-term stabilizing selection related to stable environments might cause Punctuated_equilibriumStasis
+Stabilizing selection
+The most common explanation for biological constraint is that stabilizing selection acts on an organism to prevent it changing for example so that it can continue to function in a tightly-defined ecological niche
+Functional coupling and physico-chemical constraint
+Related to the idea of stabilizing selection is that of the requirement that organisms function adequately in their environment. Thus where stabilizing selection acts because of the particular niche that is occupied mechanical and physico-chemical constraints act in a more general manner. For example the acceleration caused by gravity places constraints on the minimum bone density and Physical_strength
+Functional coupling takes the idea that organisms are integrated networks of functional interactions (for example the vertebral column of vertebrates is involved in the muscle nerve and vascular systems as well as providing support and flexibility) and therefore cannot be radically altered without causing severe functional disruption. This may be viewed as one type of trade-off. As Rupert Riedl pointed out this degree of functional constraint — or burden — generally varies according to position in the organism. Structures literally in the centre of the organism — such as the vertebral column — are often more burdened than those at the periphery such as hair or toes.
+
+Lack of genetic variation and developmental integration
+This class of constraint depends on certain types of phenotype not being produced by the genotype (compare stabilizing selection where there is no constraint on what is produced but rather on what is naturally selected). For example for a highly homozygous organism the degree of observed phenotypic variability in its descendants would be lower than those of a heterozygous one. Similarly developmental systems may be highly canalization (genetics)
+Relationships of constraint classes
+Although they are separate the types of constraints discussed are nevertheless relatable to each other. In particular stabilizing selection mechanical and physical constraints might lead through time to developmental integration and canalisation. However without any clear idea of any of these mechanisms deducing them from mere patterns of stasis as deduced from phylogenetic patterns or the fossil record remains problematic.  In addition the terminology used to describe constraints has led to confusion.
+
+Examples
+“Variational inaccessibility. Despite mutations certain character variants are never produced. These variants are therefore developmentally impossible to achieve and are never introduced into a population. This is implied by canalization and has been called both genetic and developmental constraint.”
+
+See also
+*Allometry
+*Convergent evolution
+*Carriers constraint
+*Trade-off
+
+References
+
+
+Further reading
+*Riedl R. (1978). Order in Living organisms: a systems analysis of evolution. John Wiley & Sons.
+*Schwenk K. (1995). A utilitarian approach to evolutionary constraint. Zoology 98 251-262.
+

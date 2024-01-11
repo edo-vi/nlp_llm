@@ -1,0 +1,47 @@
+Systems medicine is an interdisciplinary field of study that looks at the systems of the human body as part of an integrated whole incorporating biochemical physiological and environment interactions Systems medicine draws on systems science and systems biology and considers complex interactions within the human body in light of a patients genomics behavior and environment
+
+The earliest uses of the term systems medicine appeared in 1992 in an article on systems medicine and pharmacology by T Kamada
+
+An important topic in systems medicine and systems biomedicine is the development of computational models that  describe disease progression and the effect of therapeutic interventions
+
+
+More recent approaches include the redefinition of disease phenotypes based on common mechanisms rather than symptoms These provide then therapeutic targets including network pharmacology and drug repositioning
+ Fundamental schools of systems medicine 
+Essentially the issues dealt with by systems medicine can be addressed in two basic ways molecular (MSM) and organismal systems medicine (OSM):
+
+ Molecular systems medicine (MSM) 
+This approach relies on omics technologies (genomics proteomics transcriptomics phenomics metabolomics etc) and tries to understand Physiology
+ Organismal systems medicine (OSM) 
+This branch of systems medicine going back to the traditions of Ludwig von Bertalanffys systems theory and biological cybernetics is a topdown strategy that starts with the description of large complex processing structures (ie neural networks feedback loops and other Network motif
+A common challenge for both schools is the translation between the molecular and the organismal level This can be achieved eg by affine subspace mapping and sensitivity analysis but also requires some preparative steps on both ends of the epistemic gap
+
+ Systems Medicine Education 
+Georgetown University is the first in the Nation to launch a MS program in Systems Medicine It has developed a rigorous curriculum The programs have been developed and led by Dr Sona Vasudevan PhD
+
+https://systemsmedicinegeorgetownedu/
+
+ List of research groups 
+! Country
+! University / Institute
+! Department / Center / Program / Network
+! Participants
+University Medical Center Utrecht
+
+Maastricht University
+Utrecht Center for Quantitative Immunology
+
+Pharmacology and Personalised Medicine
+Dr Aridaman Pandit
+
+Prof Harald HHW Schmidt
+Systems Medicine course 
+
+ See also 
+ Biocybernetics
+ Medical cybernetics
+ Systems biology
+ Systems science
+
+ References 
+
+

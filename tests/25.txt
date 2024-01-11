@@ -1,0 +1,71 @@
+Disease or patient registries are collections of secondary data related to patients with a specific diagnosis condition or procedure and they play an important role in post marketing surveillance of pharmaceuticals Registries are different from indexes in that they contain more extensive data
+
+In its simplest form a disease registry could consist of a collection of paper cards kept inside "a shoe box" by an individual physician Most frequently registries vary in sophistication from  simple spreadsheets that only can be accessed by a small group of physicians to very complex databases that are accessed online across multiple institutions
+
+They can provide health providers (or even patients) with reminders to check certain tests in order to reach certain quality goals
+
+Versus electronic medical records
+
+Registries are less complex and simpler to set up than electronic medical records that according to a recent survey are only used by 9% of small offices where almost half of the US doctors work
+
+An electronic medical record keeps track of all the patients a doctor follows but a registry only keeps track of a small sub population of patients with a specific condition
+
+Types of medical conditions tracked
+More than 130 million Americans live with chronic diseases and chronic diseases account for 70% of all deaths in the US "The medical care costs of people with chronic diseases account for more than 75% of the nations $2 trillion medical care costs"
+
+Registries target certain conditions because medical expenses are unevenly distributed: most health care expenses are spent treating patients with a few chronic conditions
+
+For example the 2002 expenses with diabetes in the US was $132 billion and this was around 12% of the US medical budget Diabetes accounts for 25% of the Medicare budget
+Given this diabetes is one of the conditions targeted by registries Diabetes is also amenable to this because there is a target population that can be defined according to certain rules and there is evidence that certain tests like retina exams LDL levels HgbA1c levels can correlate with quality of care in diabetes
+
+Because of the diabetes impact New York City created a HbA1C Registry (NYCAR) to help health providers keep track of patients with diabetes
+
+Another example of disease registry is the New York State CABG Registry that tracks all cardiac bypass surgery performed in the state of New York
+
+On a survey of 1040 US physician organizations published in Journal of the American Medical Association diabetes registries are used by 403% asthma registries are used by 312% of physician organizations CHF registries are used by 348% and depression registries are used by 157%
+
+Other tests like Pap smears are also useful to keep track in registries because there is evidence that when done annually in women of certain ages groups can detect and prevent cervical cancer
+
+Many of measures tracked are based on evidencebased medicine and are defined and standardized  by national organizations like the NCQA
+
+Patient registries are particularly useful for evaluating the safety of orphan drug products as well as the safety of drugs in specific populations However it is getting more and more common to use data of different healthcare and disease registries innovatively for different purposes such as for generating evidence for healthcare efficiency market access planning and pharmacovigilance
+
+Medical devices registries
+
+Countries like Australia Britain Norway Sweden and America have a national joint replacement registry to track patients with artificial joints
+
+"The use of joint registries has proven beneficial abroad In Australia regulators use such data to force manufacturers to justify why poorly performing hips or knees should remain available and products have been withdrawn as a result In Sweden several years ago surgeons alerted by their national registry stopped using a badly flawed hip long before their American counterparts did A few medical organizations in the USA like Kaiser Permanente operate their own registries to good effect and the Hospital for Special Surgery in New York has recently set up a registry
+Experts say that the United States wastes billions of dollars annually on medical treatments which may not work But the financial and human consequences are also large when evidence exists but is not collected"
+
+Costeffectiveness
+
+The costeffectiveness of a disease registry is related with the costeffectiveness of prevention of specific medical conditions Increasing compliance through a registry with preventive measures like children vaccination or colonoscopy screening can actually be a costsaving measure "A mammogram every 2 years for women aged 50–69 costs only about $9000 per year of life saved This cost compares favorably with other widely used clinical preventive services"
+
+Payforperformance (P4P)
+
+Registries can be associated with payforperformance (P4P) quality based contracts for individual doctors groups of doctors or even all doctors in a country For example the United Kingdom rewards physicians according to 146 quality measures related with 10 chronic diseases that are tracked electronically
+
+In the United States Medicare also started a 15% P4P contract based on health  measures that can be tracked by disease registries
+
+Technical aspects of data tracking
+
+The quality of a disease registry is contingent on the quality of its data and all the processes involved in updating it and keeping its integrity In every registry there is always a risk of "garbage in garbage out" Issues that can affect a registry and its acceptance by a physician group:
+
+ Is the registry only updated centrally or can a physician update or correct it? For example a physician does not want to get reminders from a registry regarding diabetes patients that died moved to another state or left her/his practice
+ Most frequently a list of patients with a certain condition (eg diabetes) is generated based on certain criteria In the US Healthcare Effectiveness Data and Information Set (HEDIS) criteria are set annually by the National Committee for Quality Assurance (NCQA) These criteria in order to avoid paper charts reviews are in most cases based on insurance claims For example for diabetes HEDIS selects an eligible population based on age (18–75 years) continuous enrollment with a certain health insurer and certain "Events/diagnosis" from pharmacy data (electronic) insurance claims data (electronic) or from medical records Pharmacy data is based on a list of medications prescribed for diabetes Claims data is based on having two outpatient visits with a doctor or one inpatient hospital admission or one emergency room visit with the diagnosis of diabetes Patients are excluded if they have polycystic ovaries or just gestational diabetes Despite the strict criteria it is possible for physicians to have patients on their registries that are not truly diabetic
+
+Examples
+Below is a growing list of patient registries
+
+ Newborn Screening (NBS) Connect Patient Registry for patients with inborn errors of metabolism
+ DuchenneConnect Patient Registry for patients with Duchenne and Becker Muscular Dystrophy
+ PatientCrossroads – pan disease patient registries
+ International Collaborative Gaucher Group (ICGG) Gaucher Registry is largest ongoing longitudinal international database that tracks demographic and clinical outcome data from patients with Gaucher disease
+ Vascular health ASsessment Of The hypertENSive patients (VASOTENS) Registry the international registry for ambulatory blood pressure and arterial stiffness telemonitoring
+TREATNMD patient registries in Neuromuscular disease
+See also
+ Clinical trials registry
+
+References
+
+

@@ -1,0 +1,24 @@
+
+Drugbox
+
+<! Clinical data >
+
+<! Pharmacokinetic data >
+
+<! Identifiers >
+
+<! Chemical data >
+
+
+Mavacoxib (trade name Trocoxil) is a veterinary drug used to treat pain and inflammation in dogs with degenerative joint
+disease  It acts as a COX2 inhibitor
+
+Mavacoxib along with other COX2 selective inhibitors celecoxib valdecoxib and parecoxib were discovered by a team at the GD Searle LLC
+ References 
+
+
+
+
+
+
+

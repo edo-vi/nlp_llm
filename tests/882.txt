@@ -1,0 +1,20 @@
+
+
+
+Myr is an abbreviation for million years a unit of time equal to  (ie  years) or 31556926 Terasecond and longerTerasecondsIt is equivalent to one megaannum (symbol Ma) based on the metric prefix mega
+
+Usage
+Myr (million years) is in common use in fields such as Earth science and cosmology Myr is also used with Mya or Ma (million years ago) Together they make a reference system one to a quantity the other to a particular place in a calendar era
+Myr is deprecated in geology but in astronomy Myr is standard Where "myr" is seen in geology it is usually "Myr" (a unit of megayears) In astronomy it is usually "Myr" (Million years)
+
+ Debate 
+In geology a debate remains open concerning the use of Myr (duration) plus Ma (million years ago) versus using only the term Ma In either case the term YearSI prefix multipliersThe "ago" is implied so that any such year number "X Ma" between 66 and 145 is "Cretaceous" for good reason But the counter argument is that having myr for a duration and Mya for an age mixes unit systems and tempts capitalization errors: "million" need not be capitalized but "mega" must be; "ma" would technically imply a milliyear (a thousandth of a year or 8 hours) On this side of the debate one avoids myr and simply adds ago explicitly (or adds Before PresentIn this case "79 Ma" means only a quantity of 79 million years without the meaning of "79 million years ago"
+
+ See also 
+ Billion years Kyr
+ YearSI prefix multipliers YearAbbreviations yr and ya
+References
+
+
+
+

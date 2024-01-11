@@ -33,6 +33,7 @@ class Document:
             # Join two consecutive tokens
             i = 0
             while i < len(tok):
+                # Skip quote tokens
                 if tok[i] in ["\'", "\'\'", "\"", "\"\"", "`", "``", "’", "’’"]:
                     i += 1
                     continue
@@ -55,32 +56,25 @@ class Document:
             self._tokens = self._tokens + tok_
 
         self.make_bow()
-    
+
     def tokenize(self, text):
         return nltk.word_tokenize(text)
 
+    # Create Bag Of Word Representation
     def make_bow(self):
         self._counts = Counter(self._tokens)
         self.remove_stopwords()
         self.lemmatize()
         return self
 
-    def c(self, key):
-        if self._stemmed:
-            key = self.stemmer.stem(key.lower()).lower()
-        else:
-            key = key.lower()
-        try:
-            return self._counts[key]
-        except:
-            return 0
-        
+    # Number of tokens
     def N(self):
         return len(self._tokens)
     
     def contains(self, word):
         return word in self._counts
 
+    # Remove stopwords from the tokens. Uses standard NLTK corpus
     def remove_stopwords(self):
         stopwords = nltk.corpus.stopwords.words("english")
         new_counts = {}
@@ -93,9 +87,7 @@ class Document:
         del self._counts
         self._counts = Counter(new_counts)
 
-    def stem(self):
-        return self.lemmatize()
-
+    # Lemmatize the tokens
     def lemmatize(self):
         self._stemmed = True
 
@@ -116,10 +108,12 @@ class Document:
     def lines(self):
         return self._lines
     
+    # Distance between `self' and `other', which is another document
     def distance(self, other):
        # Relegate to cosine distance
        return self.cosine_distance(other)
     
+    # Cosine distance
     def cosine_distance(self, other):
         if self.N() == 0 or other.N() == 0:
             return 1
@@ -140,9 +134,13 @@ class Document:
         for k in keys:
             # Remember: it's 0 if it's not present
             u_dot_v += u[k] * v[k]
-        # Cosine distance (1-cosine similarity), rounded
-        return round(1-(u_dot_v / (norm_u * norm_v)), 4)
-
+        try:
+            # Cosine distance (1-cosine similarity), rounded
+            return round(1-(u_dot_v / (norm_u * norm_v)), 4) 
+        except ZeroDivisionError:
+            return 1
+    
+    # Split at index n
     def split(self, n):
         if self.N() == 1:
             d1 = Document(lines=self._tokens).make_bow()
@@ -152,21 +150,27 @@ class Document:
             d2 = Document(lines=self._tokens[n:]).make_bow()
         return SplitReturn(left=d1, right=d2, size_left=d1.size(), size_right=d2.size(), distance=d1.distance(d2))
     
+    # Split in half
     def split_half(self):
         n = int(self.N()/2)
         return self.split(n)
         
-
+    # Return the text subtended by the document
     def text(self, escape = False):
         t = " ".join(self._tokens)
         if escape:
             return re.escape(t)
         else:
             return t
-    
-    def size(self): 
-        return int(sum([len(s.encode('utf-8')) for s in self._tokens]) / 1)#(1024 * 1024)
 
+    # Return the size in Bytes
+    def size(self, div = 1): 
+        return int(sum([len(s.encode('utf-8')) for s in self._tokens]) / div)
+
+    # Return the size in MB
+    def size_in_MB(self):
+        return self.size(div = 1024 * 1024)
+    
     def counts(self):
         return self._counts
     

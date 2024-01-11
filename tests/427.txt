@@ -1,0 +1,104 @@
+
+
+
+In philosophy of mind the computational theory of mind (CTM) also known as computationalism is a family of views that hold that the human mind is an information processing system and that cognition and consciousness together are a form of computation Warren McCulloch and Walter Pitts (1943) were the first to suggest that neural activity is computational They argued that neural computations explain cognition The theory was proposed in its modern form by Hilary Putnam in 1967 and developed by his PhD student philosopher and cognitive scientist Jerry Fodor in the 1960s 1970s and 1980s It was vigorously disputed in analytic philosophy in the 1990s due to work by Putnam himself John Searle and others
+
+The computational theory of mind holds that the mind is a computational system that is realized (ie physically implemented) by neural activity in the brain The theory can be elaborated in many ways and varies largely based on how the term computation is understood Computation is commonly understood in terms of Turing machines which manipulate symbols according to a rule in combination with the internal state of the machine The critical aspect of such a computational model is that we can abstract away from particular physical details of the machine that is implementing the computation For example the appropriate computation could be implemented either by silicon chips or biological neural networks so long as there is a series of outputs based on manipulations of inputs and internal states performed according to a rule CTM therefore holds that the mind is not simply analogous to a computer program but that it is literally a computational system
+
+Computational theories of mind are often said to require Representation (psychology)
+Recent work has suggested that we make a distinction between the mind and cognition Building from the tradition of McCulloch and Pitts the computational theory of cognition (CTC) states that neural computations explain cognition The computational theory of mind asserts that not only cognition but also phenomenal consciousness or qualia are computational That is to say CTM entails CTC While phenomenal consciousness could fulfill some other functional role computational theory of cognition leaves open the possibility that some aspects of the mind could be noncomputational CTC therefore provides an important explanatory framework for understanding neural networks while avoiding counterarguments that center around phenomenal consciousness
+
+"Computer metaphor"
+Computational theory of mind is not the same as the computer metaphor comparing the mind to a modernday digital computer Computational theory just uses some of the same principles as those found in digital computing While the computer metaphor draws an analogy between the mind as software and the brain as hardware CTM is the claim that the mind is a computational system More specifically it states that a computational simulation of a mind is sufficient for the actual presence of a mind and that a mind truly can be simulated computationally
+
+Computational system is not meant to mean a modernday electronic computer Rather a computational system is a symbol manipulator that follows stepbystep functions to compute input and form output Alan Turing describes this type of computer in his concept of a Turing machine
+
+Early proponents
+
+One of the earliest proponents of the computational theory of mind was Thomas Hobbes who said "by reasoning I understand computation And to compute is to collect the sum of many things added together at the same time or to know the remainder when one thing has been taken from another To reason therefore is the same as to add or to subtract" Since Hobbes lived before the contemporary identification of computing with instantiating effective procedures he cannot be interpreted as explicitly endorsing the computational theory of mind in the contemporary sense
+
+Criticism
+A range of arguments have been proposed against physicalist conceptions used in computational theories of mind
+
+An early though indirect criticism of the computational theory of mind comes from philosopher John Searle  In his thought experiment known as the Chinese room Searle attempts to refute the claims that artificial intelligence
+Searle has further raised questions about what exactly constitutes a computation:
+<blockquote>
+the wall behind my back is right now implementing the WordStar program because there is some pattern of molecule movements that is isomorphic with the formal structure of WordStar But if the wall is implementing WordStar if it is a big enough wall it is implementing any program including any program implemented in the brain<ref nameSearle1992>Citation
+   </ref>
+</blockquote>
+
+Objections like Searles might be called insufficiency objections They claim that computational theories of mind fail because computation is insufficient to account for some capacity of the mind Arguments from qualia such as Frank Jacksons knowledge argument can be understood as objections to computational theories of mind in this way—though they take aim at physicalist conceptions of the mind in general and not computational theories specifically
+
+There are also objections which are directly tailored for computational theories of mind
+
+Putnam himself (see in particular Representation and Reality and the first part of Renewing Philosophy) became a prominent critic of computationalism for a variety of reasons including ones related to Searles Chinese room arguments questions of worldword reference relations and thoughts about the mindbody problem Regarding functionalism in particular Putnam has claimed along lines similar to but more general than Searles arguments that the question of whether the human mind can implement computational states is not relevant to the question of the nature of mind because "every ordinary open system realizes every abstract finite automaton" Computationalists have responded by aiming to develop criteria describing what exactly counts as an implementation<ref nameChalmers1996>
+Citation
+                
+</ref>
+
+Roger Penrose has proposed the idea that the human mind does not use a knowably sound calculation procedure to understand and discover mathematical intricacies This would mean that a normal Turing complete computer would not be able to ascertain certain mathematical truths that human minds can
+
+ Pancomputationalism 
+Supporters of CTM are faced with a simple yet important question whose answer has proved elusive and controversial: what does it take for a physical system (such as a mind or an artificial computer) to perform computations? A very straightforward account is based on a simple mapping between abstract mathematical computations and physical systems: a system performs computation C if and only if there is a mapping between a sequence of states individuated by C and a sequence of states individuated by a physical description of the system
+
+Hilary Putnam
+In response to the trivialization criticism and to restrict SMA philosophers of mind have offered different accounts of computational systems These typically include causal account semantic account syntactic account and mechanistic account Instead of a semantic restriction the syntactic account imposes a syntactic restriction
+
+Notable theorists
+
+ Daniel Dennett proposed the multiple drafts model in which consciousness seems Arrow of time Jerry Fodor argues that mental states such as beliefs and desires are relations between individuals and mental representations He maintains that these representations can only be correctly explained in terms of a language of thought (LOT) in the mind Further this language of thought itself is codified in the brain not just a useful explanatory tool Fodor adheres to a species of functionalism maintaining that thinking and other mental processes consist primarily of computations operating on the syntax of the representations that make up the language of thought In later work (Concepts and The Elm and the Expert) Fodor has refined and even questioned some of his original computationalist views and adopted LOT2 a highly modified version of LOT
+ David Marr (psychologist) Ulric Neisser coined the term cognitive psychology in his book with that title published in 1967 Neisser characterizes people as dynamic informationprocessing systems whose mental operations might be described in computational terms
+ Steven Pinker described language instinct as an evolved builtin capacity to learn language (if not writing) His 1997 book How the Mind Works sought to popularize the computational theory of mind for wide audiences 
+ Hilary Putnam proposed functionalism (philosophy of mind)
+Alternative theories
+
+ Adaptive systems
+ Associationism
+ Connectionism
+ Enactivism
+ Memoryprediction framework
+ Perceptual control theory
+ Situated cognition
+
+See also
+
+ Artificial consciousness
+ Cognitivism (psychology)
+ Constructivist epistemology
+ Enchanted loom
+ Simulated reality
+ Stimulus–response model
+ Stochastic parrot
+
+
+References
+
+
+Further reading
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+External links
+ 
+ 
+https://webarchiveorg/web/20070521044611/http://conscnet/online2htmlcomp Online papers on consciousness part 2: Other Philosophy of Mind compiled by David Chalmers
+
+
+
+

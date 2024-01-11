@@ -1,0 +1,97 @@
+
+
+
+The philosophy of information (PI) is a branch of philosophy that studies topics relevant to information processing representational system and consciousness cognitive science computer science information science and information technology
+
+It includes:
+ the critical investigation of the conceptual nature and basic principles of information including its dynamics utilisation and sciences
+ the elaboration and application of information theory
+History
+The philosophy of information (PI) has evolved from the philosophy of artificial intelligence logic of information cybernetics social theory ethics and the study of language and information
+
+Logic of information
+The logic of information also known as the logical theory of information considers the information content of logical sign (semiotics)
+Study of language and information
+Later contributions to the field were made by Fred Dretske Jon Barwise Brian Cantwell Smith and others
+
+The Center for the Study of Language and Information
+PI
+More recently this field has become known as the philosophy of information The expression was coined in the 1990s by Luciano Floridi who has published prolifically in this area with the intention of elaborating a unified and coherent conceptual frame for the whole subject
+
+Definitions of "information"
+The concept information has been defined by several theorists
+
+Charles S Peirces theory of information was embedded in his wider theory of symbolic communication he called the semiotic now a major part of semiotics For Peirce information integrates the aspects of signs and Expression (mathematics)
+Donald M MacKay says that information is a distinction that makes a difference<ref>The Philosophy of Information
+Luciano Floridi Chapter 4 Oxford University Press USA (March 8 2011) ASIN: 0199232385 https://wwwamazoncom/PhilosophyInformationLucianoFloridi/dp/0199232385</ref>
+
+According to Luciano Floridi four kinds of mutually compatible phenomena are commonly referred to as "information": 
+  Information about something (eg a train timetable)
+  Information as something (eg DNA or fingerprints)
+  Information for something (eg algorithms or instructions)
+  Information in something (eg a pattern or a constraint)
+
+Philosophical directions
+
+Computing and philosophy
+
+Recent creative advances and efforts in computing such as semantic web ontology engineering knowledge engineering and modern artificial intelligence provide philosophy with fertile ideas new and evolving subject matters methodologies and models for philosophical inquiry While computer science brings new opportunities and challenges to traditional philosophical studies and changes the ways philosophers understand foundational concepts in philosophy further major progress in computer science would only be feasible when philosophy provides sound foundations for areas such as bioinformatics software engineering knowledge engineering and ontologies
+
+Classical topics in philosophy namely mind consciousness experience reasoning knowledge truth morality and creativity are rapidly becoming common concerns and foci of investigation in computer science eg in areas such as agent computing software agents and intelligent mobile agent technologies
+
+According to Luciano Floridi " one can think of several ways for applying computational methods towards philosophical matters:
+ Conceptual experiments in silico: As an innovative extension of an ancient tradition of thought experiment a trend has begun in philosophy to apply computational Computer model Pancomputationalism: On this view computational and informational concepts are considered to be so powerful that given the right level of abstraction anything in the world could be modeled and represented as a computational system and any process could be simulated computationally Then however pancomputationalists have the hard task of providing credible answers to the following two questions:
+ how can one avoid blurring all differences among systems?
+ what would it mean for the system under investigation not to be an Information system
+See also
+
+ Artificial philosophy
+ Barwise prize
+ Complex system
+ Digital divide
+ Digital philosophy
+ Digital physics
+ Game theory
+ Freedom of information
+ Informatics (academic field) Information
+ Information art
+ Information ethics
+ Information theory
+ International Association for Computing and Philosophy
+ Logic of information
+ Philosophy of artificial intelligence
+ Philosophy of computer science
+ Philosophy of technology
+ Philosophy of thermal and statistical physics
+ Relational quantum mechanics
+ Social informatics
+ Statistical mechanics
+
+
+Notes
+
+
+Further reading
+Luciano Floridi "https://webarchiveorg/web/20120316090017/http://wwwblackwellpublishingcom/pci/downloads/introductionpdf What is the Philosophy of Information?" Metaphilosophy 331/2: 123145 Reprinted in TW Bynum and JH Moor (eds) 2003 CyberPhilosophy: The Intersection of Philosophy and Computing Oxford – New York: Blackwell
+ (ed) 2004 https://webarchiveorg/web/20060507185629/http://wwwblackwellpublishingcom/pci/defaulthtm The Blackwell Guide to the Philosophy of Computing and Information Oxford  New York: Blackwell
+Greco GM Paronitti G Turilli M and Floridi L 2005 https://webarchiveorg/web/20060513042753/http://wwwwolfsonoxacuk/~floridi/pdf/htdpipdf How to Do Philosophy Informationally Lecture Notes on Artificial Intelligence 3782 pp&nbsp;623–634
+ Albert Borgmann Holding onto Reality: The Nature of Information at the Turn of the Millennium (Chicago University Press 1999)
+ Mark Poster The Mode of Information (Chicago Press 1990)
+ Luciano Floridi "The Informational Nature of Reality" Fourth International European Conference on Computing and Philosophy 2006 (Dragvoll Campus NTNU Norwegian University for Science and Technology Trondheim Norway 22–24 June 2006)
+
+ External links 
+
+
+
+http://webcomlaboxacuk/oucl/research/areas/ieg/ IEG site the Oxford University research group on the philosophy of information
+It from bit and fit from bit  On the origin and impact of information in the average evolution  from bit to atom and ecosystem   Information philosophy which covers not only the physics of information but also how life forms originate and from there  evolve to become more and more complex including evolution of genes and memes into the complex memetics from organisations and multinational corporations and a "global brain" (Yves Decadt 2000) Book published in Dutch with English paper summary in The Information Philosopher http://wwwinformationphilosophercom/solutions/scientists/decadt/
+Luciano Floridi "https://webarchiveorg/web/20060820223325/http://academicfeedsfriwebteknologiorg/indexphp?id28 Where are we in the philosophy of information?" University of Bergen Norway Podcast dated 210606
+
+Navboxes
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+
+In machine learning a stochastic parrot is a large language model that is good at generating convincing language but does not actually understand the meaning of the language it is processing
+
+Definition and implications
+Stochastic means "(1) random and (2) involving chance or probability" A "stochastic parrot" according to Bender is an entity "for haphazardly stitching together sequences of linguistic forms … according to probabilistic information about how they combine but without any reference to meaning" More formally the term refers to "large language models that are impressive in their ability to generate realisticsounding language but ultimately do not truly understand the meaning of the language they are processing"
+
+According to Lindholm et al the analogy highlights two vital limitations:
+
+blockquote(i) The predictions made by a learning machine are essentially repeating back the contents of the data with some added noise (or stochasticity) caused by the limitations of the model
+
+(ii) The machine learning algorithm does not understand the problem it has learnt It cant know when it is repeating something incorrect out of context or socially inappropriate
+
+They go on to note that because of these limitations a learning machine might produce results which are "dangerously wrong"
+
+Origin
+The term was first used in the paper  "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜"  by Bender Timnit Gebru Angelina McMillanMajor and Margaret Mitchell (scientist)
+ Subsequent usage 
+In July 2021 the Alan Turing Institute hosted a keynote and panel discussion on the paper   the paper has been cited in 1529 publications The term has been used in publications in the fields of law grammar narrative and humanities The authors continue to maintain their concerns about the dangers of chatbots based on large language models such as GPT4
+
+See also
+1 the Road – AIgenerated novel
+Chinese room
+Criticism of artificial neural networks
+Criticism of deep learning
+Criticism of Google
+Cutup technique
+Infinite monkey theorem
+Generative AI
+List of important publications in computer science
+Markov text
+Stochastic parsing
+
+ References 
+
+
+Works cited
+
+  Keynote by Emily Bender The presentation was followed by a panel discussion
+
+Further reading
+
+
+ External links 
+ "https://commonswikimediaorg/wiki/File:On_the_Dangers_of_Stochastic_Parrots_Can_Language_Models_Be_Too_Bigpdf On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜" at Wikimedia Commons
+

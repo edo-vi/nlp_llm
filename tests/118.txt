@@ -1,0 +1,27 @@
+
+File:41541 2019 132 Fig1 HTMLwebpIn clinical trials reactogenicity is the capacity of a vaccine to produce common "expected" adverse reactions especially excessive immunological responses and associated signs and symptoms including fever and sore arm at the injection site Other manifestations of reactogenicity typically identified in such trials include bruising redness induration and Swelling (medical)
+Origin
+
+The term reactogenicity was coined by the US Food and Drug Administration (FDA) All vaccines can induce reactogenicity but reactogenicity is more likely in vaccines containing an adjuvant which is a chemical additive intended for enhancing the recipients immune response to the antigen that is present in a vaccine Reactogenicity describes the immediate shortterm reactions of a system to vaccines and should not be confused with the longterm consequences sequelae Assessments of reactogenicity are carried out to evaluate the safety and usability of an experimental vaccine (see Investigational New Drug) It is unclear whether a higher degree of reactogenicity to a vaccine correlates with more severe adverse events which would require hospitalization or are lifethreatening Adverse events have been linked to a higher degree of reactogenicity; however the links might have been coincidental After assessing large databases relating to these events for many years the FDA has not been able to make such a correlation
+
+Definition
+File:41541 2019 132 Fig2 HTMLwebpThe US National Institutes of Health (NIH) has provided the following definition of reactogenicity:
+
+poemquote
+The following is an example of a functional scale for assessing reactogenicity or other parameters not specifically listed in the toxicity table:
+0  Absence of the indicated symptom
+1  Mild (awareness of a symptom but the symptom is easily tolerated)
+2  Moderate (discomfort enough to cause interference with usual activity)
+3  Severe (incapacitating; unable to perform usual activities; requires absenteeism or bed rest)
+4  Lifethreatening
+
+See also
+ Vaccine hesitancy
+
+References
+
+
+External links
+
+ https://wwwnaturecom/articles/s4154101901326:~:textReactogenicity%20refers%20to%20a%20subset(or%20solicited) The how’s and what’s of vaccine reactogenicity Nature (journal)
+

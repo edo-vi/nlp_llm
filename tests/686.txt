@@ -1,0 +1,31 @@
+Multiple issues
+
+
+
+
+In the digital humanities "algorithmic culture" is part of an emerging synthesis of  rigorous software algorithm driven design that couples software highly structured data driven design with   human oriented sociocultural attributes An early occurrence of the term is found in Alexander R Galloway  classic Gaming: Essays on Algorithmic Culture
+
+Other definitions include Ted Striphas where AC refers to the ways in which the logic of big data and large scale computation (including algorithms) alters they culture is practiced experienced and understood" 
+ 
+A starting point for modern discussion of culture is attributed to Edward Burnett Tylor in his 1871 works on primitive culture
+
+The emergence and continuing development and convergence of computers software algorithms human psychology digital marketing and other computational technologies resulted in numerous AC variants including recommendation algorithms Artificial intelligence
+Algorithmic Culture and ChatGPT
+With the flourishing of Large language model
+Generative AI is a now prominent and fast evolving component of modern algorithmic culture It is currently entering a period of accelerating growth acceptance and use with specific algorithms and tools including Midjourney DALLE and Stable Diffusion
+
+ChatGPT Plus GPT4 are increasing their sophistication in composing music writing teleplays fairy tales stories and poems With user prompting also facilitating character specific speaking and writing styles NovelAI for example  is an online AIassisted story writer
+
+ References  
+
+
+Bibliography
+ https://wwwworldcatorg/title/1100454974 Jonathan Cohn  The burden of choice: Recommendations subversion and algorithmic culture Rutgers University Press 2019
+ https://wwwworldcatorg/title/1316708299 Fernández Rovira Cristina and Santiago Giraldo Luque Predictive Technology in Social Media First edition First ed CRC Press 
+ https://wwwworldcatorg/title/1273726951 Eran Fisher Algorithms and Subjectivity: The Subversion of Critical Knowledge First edition First ed Routledge 2021 
+ https://archiveorg/details/cultureinbitsmon0000hall Gary Hall  Culture in Bits : The Monstrous Future of Theory Continuum 2002
+ Hallinan B and Striphas T (2014) Recommend for you:The Netflix Prize and the production of algorithmic culture  New Media & Society Epub ahead of print 23 June 2014
+ http://wwwwiredcom/magazine/2010/02/ff_google_algorithm/ Levy S (2010) How Googles algorithm rules the web
+
+
+

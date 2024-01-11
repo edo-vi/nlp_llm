@@ -1,0 +1,49 @@
+
+
+Infobox spaceflight
+
+
+
+
+
+
+
+
+
+
+The InternationalMars Ice Mapper (IMIM) mission is a proposed List of Mars orbiters
+ Mission 
+The mission is to search for ice deposits under the surface of Mars precursor for human missions there By identifying locations where water ice may exist within 510 meters of the surface and thus could be accessed by crewed expeditions The mission plans to scan specific locations on the Martian surface below  elevation (to enable entry descent and landing) The target areas for radar scans are between 25° and 40° northern latitude and 25° and 40° southern latitude The upper limit of 40° was chosen to have favorable conditions for solar arrays The lower bound of 25° is intended to maximize the proximity of locating ground ice (since availability of ground ice generally decreases toward the equator due to increased insolation)
+
+The icemapping mission could help the agency identify potential science objectives for initial Human mission to Mars
+ Science 
+Beyond promoting scientific observations while the orbiter completes its reconnaissance work the agency partners will explore missionenabling rideshare opportunities as part of their next phase of study All science data from the mission would be made available to the international science community for both planetary science and Mars reconnaissance This approach is similar to what NASA is doing at the Moon under the Artemis program – sending astronauts to Lunar south pole 
+Access to water ice would also be central to scientific investigations on the Martian surface 
+"In addition to supporting plans for future human missions to Mars learning more about subsurface ice will bring significant opportunities for scientific discovery" said Eric Ianson NASA Planetary Science Division Deputy Director and Mars Exploration Program Director "Mapping nearsurface water ice would reveal an asyet hidden part of the Martian hydrosphere and the layering above it which can help uncover the history of environmental change on Mars and lead to our ability to answer fundamental questions about whether Mars was ever home to microbial life or still might be today"
+ 
+Mars has been a primary target for robotic exploration and the search for ancient life in our Solar System Mars Ice Mapper would complement surface missions on the planet including the Perseverance rover that landed on February 18 2021 following a sevenmonth journey in space NASA and the European Space Agency (ESA) also recently announced they are moving forward with the Mars samplereturn mission
+
+ Spacecraft 
+The CSA would provide the radar instrument JAXA the spacecraft bus and ASI the communications subsystem for the spacecraft NASA would be responsible for overall mission management and for providing the launch of the spacecraft The mission will cost US$185 million
+
+NASA included an illustration of Mars Ice Mapper communicating with three spacecraft in Mars orbit acting as Communications satellite
+ Instrument 
+The mission concept plans to utilize Syntheticaperture radar based on technology used by the Canadian RADARSAT Constellation
+The radar has the following technical specification:
+ Frequency: 900 MHz
+ Antenna: Parabolic antenna with 6 meters diameter deployed on orbit
+ Energy consumption: between 500 and 1000 watts
+ Polarization: hybrid (circular transmit dual linear reception)
+ Two modes: SAR mode and Sounder mode
+ SAR mode: map swath width 30 km penetration depth 6 m
+ Sounder mode: vertical resolution 1 m alongtrack resolution: 30 m acrosstrack resolution: 15 km
+
+ See also 
+
+ Mars samplereturn mission
+
+ References 
+
+
+
+

@@ -1,0 +1,50 @@
+
+
+A Vaccine Information Statement (VIS) is a document designed by the Centers for Disease Control and Prevention (CDC) to provide information to a patient receiving a vaccine in the United States The National Childhood Vaccine Injury Act requires that medical professionals provide a VIS to patients before receiving certain vaccinations The VIS includes information about the vaccines benefits and risks a description of the vaccine Indication (medicine)
+History
+In the 1974 case of Reyes v Wyeth Laboratories the United States Court of Appeals for the Fifth Circuit
+An increase in vaccinerelated lawsuits and fear of manufacturers withdrawing vaccines from the market led to the 1986 National Childhood Vaccine Injury Act (NCVIA) The act established the National Vaccine Injury Compensation Program (VICP) and the Vaccine Adverse Event Reporting System (VAERS) to take liability for adverse reactions off vaccine manufacturers The act also required the development of written information about all vaccines included in the VICP which were primarily routine childhood vaccinations The act required that all patients or their parents/legal representatives be given this information before vaccination The secretary of the Department of Health and Human Services gave the responsibility of developing these materials to the CDC By 1991 the CDC developed four 12page "Vaccine Information Pamphlets" (VIPs) for DTP MMR polio and tetanusdiphtheria (Td) vaccines These pamphlets fulfilled the requirements of the NCVIA but were criticized for their length and the amount of time they took to develop Concerns were raised that patients could not read the entire forms during their visit and could be less informed due to a less thorough review of the information
+
+A 1993 amendment to the NCVIA simplified the requirements for the document and simplified the process through which it was created It removed the requirement for a public hearing in the development of the document and reduced the time period for public comment to 60 days The simplified requirements led to the single sheet (twosided) Vaccine Information Statements (VISs) that are still used By 1997 VISs were available for all vaccines that required them under NCVIA and the CDC began creating VISs for additional vaccines
+
+In 2008 the Pediatric MultiVaccine VIS was developed which included information on the vaccines for DTaP
+In 2013 a "provider information document" was developed to include information that was relevant to medical providers but not to patients reducing the need to frequently update VISs By 2016 the provider information was made available through a links to the CDC website
+
+VISs are now available on the CDC website and can be provided in hard copies or electronically The Immunization Action Coalition (IAC) a partner organization to the CDC also provides translations of VISs in over 40 languages
+
+Contents
+File:CDC Vaccine Information Statement for MMR VaccinepdfAccording to the 1993 amended National Childhood Vaccine Injury Act (NCVIA) a VIS must contain at least the following four components: (1) a description of the benefits of the given vaccine (2) a description of its risks (3) information about the National Vaccine Injury Compensation Program (VICP) and (4) other relevant information as determined by the Secretary of Health and Human Services
+
+Current VISs typically include the following sections:
+ "Why get vaccinated?"  This section includes a description of the benefits of the vaccine and the risks of the illness that it protects from
+ "Name of vaccine"  This section is a description of the specific vaccine including information about who its recommended for its administration the number and timing of doses and any other pertinent information
+ "Talk with your health care provider"  This section includes factors that may affect someones decision to receive the given vaccine It includes information about allergies illnesses or other contraindications that may increase the risks associated with the vaccine The section recommends a discussion with the patients health care provider over any concerns
+ "Risks of a vaccine reaction"  This section includes potential side effects and adverse reactions
+ "What if there is a serious problem?"  This section contains instructions for patients experiencing an adverse reaction It includes instructions to contact either their health care provider or 911 depending on the level of severity and contact information for the Vaccine Adverse Event Reporting System (VAERS)
+ "The National Vaccine Injury Compensation Program"  This section is only included in VISs for vaccines covered by the VICP as set forth in the NCVIA It includes the website and phone number for the VICP
+ "How can I learn more?"  This section includes additional resources and contact information for the CDC
+
+The MultiVaccine VIS (DTaP Hib hepatitis B polio and pneumococcal conjugate) includes the same sections listed above with subheadings in the first four sections for each of the vaccines included as needed
+
+Requirements for distribution
+A VIS must be given prior to vaccination in the United States when a patient is being vaccinated for diphtheria tetanus pertussis measles mumps rubella polio hepatitis A hepatitis B Haemophilus influenzae type b (Hib) influenza pneumococcal conjugate meningococcal rotavirus human papillomavirus (HPV) or varicella (chickenpox) according to the National Childhood Vaccine Injury Act (NCVIA) The VIS must be given to the person receiving the vaccine or to their parent/legal representative prior to each dose of the vaccine The "legal representative" is defined as the person who can consent to the vaccination under the laws of the state in which the vaccine is being given The CDC has also developed VISs for vaccines not covered by the NCVIA which are recommended for use with these vaccines and required if the vaccines are purchased under CDC contract under the "duty to warn" clause
+
+VISs can be provided on paper in electronic form or on a laminated office copy The VIS can be given in a prior appointment but must also be offered at the visit in which the  vaccination is occurring The patient or parent/representative must be offered a copy of the VIS take home since the document contains information about what to do in case of an adverse reaction When a patient receives multiple vaccines in one visit or a combination vaccine a VIS should be given for each vaccine or component The MultiVaccine VIS can be used for children receiving DTaP polio Hib hepatitis B and pneumococcal conjugate vaccines The MultiVaccine VIS is not designed for adults or adolescents
+
+To document the receipt of the VIS the healthcare provider must record the edition of the VIS and the date it was provided in addition to the documentation required for the vaccination (date of vaccination the vaccine manufacturer and lot number and the office address name and title of the person administering the vaccine)
+
+Special Circumstances
+In some circumstances the parent or legal representative of a patient may not be present for the vaccination such as schoolbased clinics or longterm care facilities In these cases the parent or legal representative can be given the VIS at the time they provide consent or at the time of admission to a longterm care facility In cases like schoolbased clinics where a VIS might be sent home to parents it should be sent home as close to the time of the vaccination as possible and the parent or legal representative must acknowledge receipt of the VIS in writing or electronically including the edition of the VIS and the date it was given It can be included in the consent form for the vaccination
+
+Accommodations
+The NCVIA requires that healthcare providers use the CDCproduced VIS unaltered (although they may add contact information for the office) For patients with visual impairments or other needs the VIS may additionally be read aloud or supplemented with visuals videos explanations or other materials For patients who are not comfortable with English translations into over 40 languages are available from the Immunization Action Coalition (IAC)
+
+ References 
+
+
+ External links 
+ http://wwwimmunizeorg/vis/ Immunization Action Coalition
+ https://wwwcdcgov/vaccines/hcp/vis/indexhtml Vaccine Information Statements Centers for Disease Control and Prevention
+
+
+

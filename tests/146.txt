@@ -1,0 +1,54 @@
+
+
+Infobox company
+
+
+
+Astranis Space Technologies Corp is an American company specializing in Geostationary orbit
+In 2018 Astranis launched DemoSat2 a prototype 3U CubeSat
+The company publicly disclosed its projects in March 2018 following a funding round that was aimed at the development of geostationary communications satellites
+
+In January 2019 Astranis initiated a commercial program with Pacific Dataport Inc to increase the satellite internet capacity in Alaska A 350 kg satellite was launched on April 30 2023 as part of a multisatellite payload
+
+Astranis was part of the Winter 2016 cohort of the Y Combinator accelerator program and has raised over $350 million in venture funding from firms such as BlackRock Venrock and Andreessen Horowitz
+
+ History 
+
+ Demonstration satellite 
+On January 12 2018 Astranis launched its first satellite "DemoSat 2" using an Indian PSLVXL rocket The satellite was a 3U cubesat measuring 10 cm x 10 cm x 30 cm and weighing less than 3 kg It carried a prototype of the companys softwaredefined radio
+
+ Geostationary satellites 
+
+ Block 1 
+In 2019 Astranis leased its first MicroGEO spacecraft to Pacific Dataport Inc a subsidiary of Microcom which was later delayed to April 2023
+
+n July 2023 Astranis reported a malfunction in an externally supplied solar array drive assembly on Arcturus which affected the spacecrafts ability to provide internet service According to Astranis CEO John Gedmark no hardware built by Astranis failed
+
+ Block 2 
+In April 2022 Astranis signed a launch contract with SpaceX for their "Block 2" MicroGEO spacecraft The company had previously initiated component orders for these spacecraft with an initial aim to complete them by the end of 2022
+
+ Block 3 
+Block 3 consisting of five satellites is planned to launch mid2024
+
+ Future 
+A replacement for Arcturus is scheduled for early 2025 Astranis CEO John Gedmark stated in April 2022 that the company aims to have over 100 satellites in active service by 2030
+
+ Spacecraft 
+! scope"col" ! scope"col" ! scope"col" ! scope"col" ! scope"col" ! scope"col" 
+PSLVXL
+! rowspan"2" scope"row" style"textalign:center;" Falcon Heavy
+! rowspan"2" scope"row" style"textalign:center;" Falcon 9
+! rowspan"5" scope"row" style"textalign:center;" 
+ One of two spacecraft ordered by Grupo Andesat for "more than $90 million" to provide internet service to Peru
+
+ Two of eight spacecraft ordered by Anuvu (formerly Global Eagle) for maritime and aviation connectivity
+
+ UtilitySat a versatile onorbit spare planned to replace the failed Arcturus spacecraft until a dedicated replacement can be launched
+! rowspan"6" 
+ Second of two Andesat spacecraft for service to Peru
+ Two spacecraft ordered by Apco Networks for service to Mexico
+ One spacecraft ordered by Orbits Corp for service to the Philippines capacity itself contracted to telecom provider HTechCorp
+
+ References 
+
+

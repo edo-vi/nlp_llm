@@ -1,0 +1,42 @@
+
+
+Infobox bibliographic database
+
+
+The China Biographical Database (CBDB) is a relational database on history of China
+History
+CBDB was originally started by the late Chinese historian Robert M Hartwell Hartwell first conceived of using a relational database to study the social and family networks of Song dynasty officials Aware of the lack of large dataset research in social and economic history of medieval China he took the first step to collect large sets of data himself and generate meaningful answers to historical changes through data analysis One important legacy of Professor is program of massive data which he structured around
+people
+places
+a bureaucratic system
+kinship structures and
+contemporary modes of social association
+
+Before his death Professor Hartwell bequeathed the program which by then consisted of more than 25000 individuals a bibliographic database of over 4500 titles and multiple georeference tools to the Harvard Yenching Institute
+
+Later Michael A Fuller Professor of Chinese Literature at UC Irvine started to redesign the application Professor Peter K Bol at Harvard also has disseminated extensive digital information for quantitative analysis As a joint project of Fairbank Center for Chinese Studies at Harvard University Institute of History and Philology of Academia Sinica (中研院歷史語言研究所) and Center for Research on Ancient Chinese History at Peking University (北京大學中國古代史研究中心) the database has been greatly expanded in temporal and coverage scope
+
+Sources
+CBDB uses wide range of biographical sources to collect information about individuals The main types of writings covered include biographical index biography sections of official histories funerary essays epitaphs local gazetteers preface writings letters and colophons in personal writing collections and other governmental compiled records
+
+CBDB is a longterm openended project It has incorporated sources from biographical indexes 傳記資料索引 for Song dynasty
+Limitations
+CBDB aims at extracting large amount of data from extant sources through data mining techniques As a result social and kinship associations such as might be known from an individuals literary collection and funerary biographies are not exhaustive Because of the nature of the sources career data (eg ranks and positions a person held) will be biased toward higher offices Since the database does not require indepth research into each individuals factual errors and contradictory information would also be included in the entries as long as they are from the primary source
+
+Georeference tools
+One area in which CBDB could be used is prosopographical research By combining geographic information system (GIS) software with CBDB patterns could be mapped out through queries generated from large datasets for instance who came from a certain place and what were the social and kinship connections among all those who entered government through the civil service examination from a certain place within a certain span of years etc One useful georeference tool for the study of Chinese history is the China Historical GIS (CHGIS) project which makes datasets of the administrative units between 221 BC and 1911 AD and major towns for the 1820–1911 period freely available Other GIS software such as ArcGIS or MapInfo (or even GoogleEarth) are also compatible with CBDB output
+
+File:Commercial tax quotas as of 1077 and the success of localities in the civil service examinations during Northern Songjpg
+See also
+China Historical Geographic Information System (CHGIS)
+
+References
+
+
+Further reading
+ Peter K Bol ChaoLin Liu and Hongsu Wang Mining and Discovering Biographical Information in Difangzhi with a LanguageModelbased Approach
+ Peter K Bol "The Late Robert M Hartwell  Chinese Historical Studies Ltd Software Project" 1999
+ Anne Gerritsen "Using the CBDB for the study of women and gender? Some of the pitfalls" December 2007
+ Fuller Michael A "The China Biographical Database Users Guide" February 28 2015
+ "Online Guide to Querying and Reporting System" Academia Sinica
+

@@ -1,0 +1,123 @@
+
+Vaccine equity means ensuring that everyone in the world has equal access to vaccines The importance of vaccine equity has been emphasized by researchers and public health experts during the COVID19 pandemic but is relevant to other illnesses and vaccines as well  Historically worldwide immunization campaigns have led to the eradication of smallpox and significantly reduced polio measles tuberculosis diphtheria whooping cough and tetanus
+
+There are important reasons to establish mechanisms for global vaccine equity  A virus that remains in circulation somewhere in the world is likely to spread and recur in other areas  The more widespread a virus is and the larger and more varied the population it affects the more likely it is to evolve more transmissible more virulent and more Vaccine resistance
+Infectious diseases are disproportionately likely to affect those in low and middleincome neighborhoods and countries (LMICs) making vaccine equity an issue for local and national public health and for foreign policy  Ethically and morally access for all to essential medicines such as vaccines is fundamentally related to the human right to health which is well founded in international law Economically vaccine inequity damages the global economy Supply chains cross borders: areas with very high vaccination rates still depend on areas with lower vaccination rates for goods and services
+
+Achieving vaccine equity requires addressing inequalities and roadblocks in the production trade and health care delivery of vaccines  Challenges include scalingup of technology transfer and production costs of production safety profiles of vaccines and anti vaccine disinformation and aggression
+
+Patterns of vaccine inequality
+The wealthy generally have better access to vaccines than the poor both between and within countries Within countries there may be lower rates of vaccination in racial and ethnic minority groups in rural areas in older adults and among those living with disabilities or chronic conditions in rural communities Some countries have programs to redress this inequality Political economic social and diplomatic factors can limit vaccine availability in some countries
+
+Factors
+Achieving control of a disease (such as COVID19) requires not only developing and licensing vaccines but also producing them at scale pricing them so that they are globally affordable allocating them to be available where and when they are needed and deploying them to local communities  An effective global approach to achieving vaccine equity must address challenges in the dimensions of vaccine production allocation affordability and deployment
+
+Doctors Without Borders (MSF) lists five major obstacles to vaccine equity taking into account that many of those to be vaccinated are children:
+ Vaccine prices; new vaccines are onpatent and expensive (affordability)
+ Getting vaccines to children; this is expensive and gets even more difficult in conflict zones and natural disasters (affordability deployment)
+ Five clinic visits in the first year of life is often too many; for people in remote areas with many children it can be much more costly and difficult to get to a clinic (deployment)
+ Keeping vaccines cold; see cold chain (deployment)
+ Ageout; children who dont get vaccinated onschedule often have to pay for their shots Disruption from natural disasters or conflict can mean that entire generations go unprotected(affordability deployment)
+
+Achieving vaccine equity depends on having a sufficient supply of affordable vaccines available for global use
+Ideally a vaccine that is suitable for global use will be based on established technology; will have multiple available suppliers of the materials and equipment needed for production; be appropriate to the regions where it is to be produced or deployed in terms of scalability of production and storage conditions; and be supported by local infrastructure for its production delivery and regulation
+
+ Vaccine development 
+Developing a new drug and gaining regulatory approval for it is a long and expensive process that can involve a variety of stakeholders The time to develop a new drug can be 10 to 15 years or longer  The average cost of developing at least one successful epidemic infectious disease vaccine from preclinical to the launch phase taking into account the cost of failed attempts has been estimated at from 181 million to 1 billion USD
+
+Decisions about what drugs to develop reflect the priorities of the companies and countries where drug development occurs As of 2021 the United States was the country launching the highest number of new drugs and the country with the largest expenditure overall on pharmaceutical discovery approximately 40% of the research done globally The United States is also the country with the highest profits for pharmaceutical companies and the highest drug costs for patients
+
+Emerging and reemerging viruses substantially affect people in low and middle income countries (LMICs) a pattern that is likely to increase due to climate change Pharmaceutical companies have few financial incentives to develop treatments for neglected tropical diseases in poor countries
+
+International organizations such as the World Health Organization Unicef and the Developing Countries Vaccine Manufacturers Network support development of treatments for diseases such as West Nile virus dengue fever; Chikungunya  Middle East respiratory syndrome (MERS) severe acute respiratory syndrome (SARS) Ebola enterovirus D68 and Zika virus
+
+ Vaccine affordability 
+A major factor in the economics of vaccines is intellectual property law IP currently operates by granting pharmaceutical monopolies lasting decades The economics of monopoly power give the monopolist a strong financial incentive to use valuebased pricing and set prices that many often most potential customers cant afford (a pricing strategy that charges what the market will bear unlike traditional costplus pricing charges the cost of production plus a markup) Price discrimination attempts to charge each person the maximum they would be willing to pay and charges every purchaser more than they would be charged in a fullycompetitive market A vaccine monopolist has no incentive to let the rich actually subsidize the poor Medicalproduct monopolists may claim that the high prices charged to the rich subsidize the lower prices charged to the poor when in fact both are being charged well over independent estimates of the cost of production (see for instance Cepheid (company)Pricing controversy
+Amnesty International OxfamOxfam International
+ Vaccine production 
+Low and middle income countries tend to lack technological expertise and manufacturing capacity for the production of drugs and medical products  This leaves them dependent on diagnostics treatments and vaccines from manufacturers in other countries and on availability in the global market  There are some exceptions such as China Cuba and India which are actively producing pharmaceuticals to internationally accepted standards
+
+The COVID19 pandemic has led to recommendations to diversify pharmaceutical production and  increase the productive ability of LMICs This could enable those countries to better ensure that their own production needs are being met which would help to achieve global vaccine equity
+
+Potential problems to this can involve:
+ Availability of capital technology and skills
+ Adherence to quality standards
+ Inconsistent or unsupportive national and international policy frameworks
+ Size of markets purchasing power and variable demand for vaccines
+ Lack of national or local infrastructure (eg reliable energy electricity transportation)
+
+Even when organizations are willing to share their information knowledge transfer can create serious delays for the production of vaccines  This may be particularly true in the case of novel technologies
+
+ Vaccine allocation 
+In the absence of wellorganized systems to develop and distribute vaccines
+vaccine companies and high income nations may monopolize available resources
+Organizations such as GAVI
+the Coalition for Epidemic Preparedness Innovations
+and the World Health Organization have proposed multilateral initiatives such as Covax for the improvement of vaccine allocation The intention with Covax was to collectively pool resources to ensure vaccine development and production  The resulting vaccine supplies could be fairly distributed to reach less wealthy countries and achieve vaccine equity  Foreign aid and resources from richer countries would cover the cost of distributing doses to lowermiddle and low income countries
+
+As an allocation mechanism Covax has succeeded in distributing Covid19 vaccines beginning with a shipment to Ghana on  24 February 2021 In the next year Covax delivered 12 billion vaccines to 144 countries Covax was not able to acquire doses directly from manufacturers at the levels it had hoped An estimated that 60% of the doses it distributed in 2021 (543 million out of 910 million) were  donated doses from wealthy countries beginning with the USA (41% of all donated doses)
+
+Covax is an unprecedented initiative but it has not met the goal of achieving vaccine equity  Higher income nations bypassed the proposed mechanism and negotiated directly with vaccine manufacturers leaving Covax without the resources it needed to buy and distribute vaccines in a timely fashion Smaller and poorer countries had to wait or negotiate for themselves with varying success
+
+Ideally a global vaccine hub could have been developed by the international community before it was needed rather than under the pressures of a pandemic Improving it is important in preparation for future health crises Analyses of Covax institutional design and governance structures suggest that  it lacked leverage to influence the behavior of donor states and pharmaceutical companies  It has been suggested that initiatives for vaccine allocation and vaccine equity could be improved by increasing the simplicity transparency and accountability of their mechanisms Others argue that such a body needs highlevel leadership that is able to act at political and diplomatic levels to address issues of vaccine diplomacy as well as streamlining its mechanisms
+
+The allocation of vaccines and the issue of wastage are related When high income countries buy more than they use doses go to waste If higher income countries donate nearexpiration doses to lower income countries those doses may expire before they can be effectively reallocated and used This type of closed vial wastage could be reduced through the improvement of supply chain management within countries the internationally coordinated monitoring and tracking of  vaccines and wellorganized systems for the timely donation and reallocation of surplus vaccines
+
+Open vial wastage which occurs when only part of a vial of vaccine is used could also be reduced  Strategies include making less doses available in a single vial and organizing appointments to more effectively ensure that doses are used by overbooking (since some people will not appear) or not booking (so that only those who do appear receive doses)
+
+ Vaccine deployment 
+Barriers to deployment may be both physical and mental In addition to supply and demand barriers to immunization can include systems barriers related to organization of the health care system; health care provider barriers relating to availability and education of health care staff; and patient barriers around a parent or patients fears or beliefs about immunization
+
+Cheap vaccines are often not administered due to a lack of infrastructure funding
+Logistical difficulties are an obstacle to achieving global vaccine equity Hot climates remote regions and lowresource settings need cheap transportable easytouse vaccines
+To achieve vaccine equity vaccine development needs to prioritize concerns about whether a vaccine can survive outside a fridge or be administered in a single shot 
+
+
+
+To reach communities and successfully deploy a vaccine and achieve vaccine equity it is important to take a “humancentered” public health approach that can address and respond to the concerns of local individuals and organizations For example vaccines could be made available by going to where people live and partnering with houses of worship and other community centers rather than relying on people to travel to hospitals or doctors offices
+
+As part of Laos public health campaign President Thongloun Sisoulith was publicly vaccinated on television to encourage others to follow his example
+
+Vaccine messaging
+Communicating about public health risks is more effective when a message involves three or four specific talking points which are then backed up with evidence An initial message may focus on what is happening what to do and how to do it followed up by details and how to find more information
+
+Part of effective communication is to avoid confusing or overwhelming people A simple message can be followed by more complex ones  Messages should be clear about the limits of what is known: explicitly identifying the boundaries of evolving knowledge rather than speculating and sending out conflicting and confusing messages
+
+Often the most useful and effective communication comes from local officials and people with expertise who know their community and the issue involved well
+It is important to be aware of and address issues such as medical disparities abuse neglect and disinformation that may affect communities Disinformation tends to thrive under conditions of confusion distrust and disenfranchisement Countering disinformation is not just a matter of presenting facts and figures People need to feel heard and their concerns need to be considered
+
+ Geographical distributions 
+
+ Migrant populations 
+Migrants and refugees arriving and living in Europe face various difficulties in getting vaccinated and many of them are not fully vaccinated People arriving from Africa Eastern Europe the Eastern Mediterranean and Asia are more likely to be undervaccinated (partial or delayed vaccination) Also recently arrived refugees Migrant worker
+Vaccination barriers to migrants include language/literacy barriers lack of understanding of the need for or their entitlement to vaccines concerns about the sideeffects health professionals lack of knowledge of vaccination guidelines for migrants and practical/legal issues for example having no fixed address<sup></sup> Vaccines uptake of migrants can be increased by customised communications clear policies communityguided interventions (such as vaccine advocates) and vaccine offers in local accessible settings
+
+COVID19
+
+Priorly developed work for other coronaviruses allowed the COVID19 vaccination development team to have a head start speeding up development and trials Specifically COVID19 vaccination development began in January 2020  $18 Billion was contracted out to eight different companies to develop COVID19 vaccinations intended for the US population; major companies included where Moderna Pfizer and Johnson & Johnson These three companies received the earliest emergency use approval from the FDA therefore being the most common vaccinations in the United States
+
+Vaccine inequality has been a major concern in the COVID19 pandemic with most vaccines being reserved by wealthy countries Not all countries have the ability to produce the vaccine
+In lowincome countries vaccination rates long remained almost zero This has caused sickness and death
+
+Vaccine inequity during the COVID19 pandemic showed the disparity between minority groups and countries Based on income and rural or urban setting vaccination rates were vastly disproportionate As of 19 March 2022 79% of people in high income countries had received one or more doses of a covid19 vaccine compared with just 14% of people in low income countries By April 25 2022 152% of people in low income countries had received at least one dose while overall globally 651% of the global population had received at least one dose
+
+Throughout the data of COVID19 vaccination records rates have consistently been much lower for lower income groups than that of middle and higher income groups
+
+Our World in Data provides up to date statistics of COVID19 vaccine access between nations socioeconomic groups and more
+
+In September 2021 it was estimated that the world would have manufactured enough vaccines to vaccinate everyone on the planet by January 2022 Vaccine hoarding booster shots a lack of funding for vaccination infrastructure and other forms of inequality mean that it is expected that many countries will still have inadequate vaccination
+
+On August 4 2021 the United Nations called for a moratorium on booster doses in highincome countries so that lowincome countries can be vaccinated The World Health Organization repeated these criticisms of booster shots on the 18th saying "were planning to hand out extra lifejackets to people who already have lifejackets while were leaving other people to drown without a single life jacket" UNICEF supported a "Donate doses now" campaign
+
+On 29 January 2022 Pope Francis denounced the "distortion of reality based on fear" that has ripped across the world during the COVID19 pandemic He urged journalists to help those misled by coronavirusrelated misinformation and fake news to better understand the scientific facts
+
+See also
+ Economics of vaccines
+ Vaccine resistance
+ GAVI
+ COVAX
+ Coalition for Epidemic Preparedness Innovations Developing Countries Vaccine Manufacturers Network
+
+References
+
+

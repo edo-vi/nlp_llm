@@ -1,0 +1,90 @@
+
+
+
+"Computing Machinery and Intelligence" is a seminal paper written by Alan Turing on the topic of artificial intelligence The paper published in 1950 in Mind (journal)
+Turings paper considers the question "Can machines think?" Turing says that since the words "think" and "machine" cannot be clearly defined we should "replace the question by another which is closely related to it and is expressed in relatively unambiguous words" To do this he must first find a simple and unambiguous idea to replace the word "think" second he must explain exactly which "machines" he is considering and finally armed with these tools he formulates a new question related to the first that he believes he can answer in the affirmative
+
+Turings test
+File:Turing Test version 3png
+
+Rather than trying to determine if a machine is thinking Turing suggests we should ask if the machine can win a game called the "Turing testImitation game  
+Turing proposes a variation of this game that involves the computer: What will happen when a machine takes the part of A in this game?" Will the interrogator decide wrongly as often when the game is played like this as he does when the game is played between a man and a woman? These questions replace our original Can machines think? 
+So the modified game becomes one that involves three participants in isolated rooms: a computer (which is being tested) a human and a (human) judge The human judge can converse with both the human and the computer by typing into a terminal Both the computer and human try to convince the judge that they are the human If the judge cannot consistently tell which is which then the computer wins the game
+
+As Stevan Harnad notes the question has become "Can machines do what we (as thinking entities) can do?" In other words Turing is no longer asking whether a machine can "think"; he is asking whether a machine can act indistinguishably from the way a thinker acts This question avoids the difficult philosophical problem of predefining the verb "to think" and focuses instead on the performance capacities that being able to think makes possible and how a causal system can generate them
+
+Some have taken Turings question to have been "Can a computer communicating over a teleprinter fool a person into believing it is human?" but it seems clear that Turing was not talking about fooling people but about generating human cognitive capacity
+
+Digital machines
+
+
+Turing also notes that we need to determine which "machines" we wish to consider He points out that a human cloning
+First there is no reason to speculate whether or not they can exist They already did in 1950
+
+Second digital machinery is "universal" Turings research into the theory of computation
+This allows the original question to be made even more specific Turing now restates the original question as "Let us fix our attention on one particular digital computer C Is it true that by modifying this computer to have an adequate storage suitably increasing its speed of action and providing it with an appropriate programme C can be made to play satisfactorily the part of A in the imitation game the part of B being taken by a man?"
+
+Hence Turing states that the focus is not on "whether all digital computers would do well in the game nor whether the computers that are presently available would do well but whether there are imaginable computers which would do well" What is more important is to consider the advancements possible in the state of our machines today regardless of whether we have the available resource to create one or not
+
+Nine common objections
+
+
+Having clarified the question Turing turned to answering it: he considered the following nine common objections which include all the major arguments against artificial intelligence raised in the years since his paper was first published
+
+Religious Objection: This states that thinking is a function of mans Immortality Heads in the Sand Objection: "The consequences of machines thinking would be too dreadful  Let us hope and believe that they cannot do so"  This thinking is popular among intellectual people as they believe superiority derives from higher intelligence and Existential risk from artificial general intelligenceThe MathematicsArgument From Consciousness: This argument suggested by Professor Geoffrey Jefferson in his 1949 Lister MedalArguments from various disabilities These arguments all have the form "a computer will never do X" Turing offers a selection:<blockquote>Be kind resourceful beautiful friendly have initiative have a sense of humour tell right from wrong make mistakes fall in love enjoy strawberries and cream make someone fall in love with it learn from experience use words properly be the subject of its own thought have as much diversity of behaviour as a man do something really new</blockquote>Turing notes that "no support is usually offered for these statements" and that they depend on naive assumptions about how versatile machines may be in the future or are "disguised forms of the argument from consciousness" He chooses to answer a few of them:
+Machines cannot make mistakes He notes its easy to program a machine to appear to make a mistake
+A machine cannot be the subject of its own thought (or cant be selfaware) A program which can report on its internal states and processes in the simple sense of a debugger program can certainly be written Turing asserts "a machine can undoubtably be its own subject matter"
+A machine cannot have much diversity of behaviour He notes that with enough storage capacity a computer can behave in an astronomical number of different ways
+Ada LovelaceArgument from continuity in the nervous system: Modern neurological research has shown that the brain is not digital Even though neurons fire in an allornothing pulse both the exact timing of the pulse and the probability of the pulse occurring have analog components Turing acknowledges this but argues that any analog system can be simulated to a reasonable degree of accuracy given enough computing power (Philosopher Hubert Dreyfus would make this argument against "the biological assumption" in 1972)
+Argument from the informality of behaviour: This argument states that any system governed by laws will be predictable and therefore not truly intelligent Turing replies by stating that this is confusing laws of behaviour with general rules of conduct and that if on a broad enough scale (such as is evident in man) machine behaviour would become increasingly difficult to predict He argues that just because we cant immediately see what the laws are does not mean that no such laws exist He writes "we certainly know of no circumstances under which we could say we have searched enough There are no such laws" (Hubert Dreyfus would argue in 1972 that human reason and problem solving was not based on formal rules but instead relied on instincts and awareness that would never be captured in rules More recent AI research in robotics and computational intelligence attempts to find the complex rules that govern our "informal" and unconscious skills of perception mobility and pattern matching See Dreyfus critique of AI) This rejoinder also includes the Turings Wager argument
+Extrasensory perception: In 1950 extrasensory perception was an active area of research and Turing chooses to give ESP the benefit of the doubt arguing that conditions could be created in which Telepathy
+Learning machines
+
+In the final section of the paper Turing details his thoughts about the Learning Machine that could play the imitation game successfully
+
+Here Turing first returns to Lady Lovelaces objection that the machine can only do what we tell it to do and he likens it to a situation where a man "injects" an idea into the machine to which the machine responds and then falls off into quiescence He extends on this thought by an analogy to an atomic pile of less than critical size which is to be considered the machine and an injected idea is to correspond to a neutron entering the pile from outside the pile; the neutron will cause a certain disturbance which eventually dies away Turing then builds on that analogy and mentions that if the Critical mass
+Turing then mentions that the task of being able to create a machine that could play the imitation game is one of programming and he postulates that by the end of the century it will indeed be technologically possible to program a machine to play the game He then mentions that in the process of trying to imitate an adult human mind it becomes important to consider the processes that lead to the adult mind being in its present state; which he summarizes as:
+::1 The initial state of the mind say at birth
+::2 The education to which it has been subjected
+::3 Other experience not to be described as education to which it has been subjected
+Given this process he asks whether it would be more appropriate to program a childs mind instead of an adults mind and then subject the child mind to a period of education He likens the child to a newly bought notebook and speculates that due to its simplicity it would be more easily programmed The problem then is broken down into two parts the programming of a child mind and its education process He mentions that a child mind would not be expected as desired by the experimenter (programmer) at the first attempt A learning process that involves a method of reward and punishment must be in place that will select desirable patterns in the mind This whole process Turing mentions to a large extent is similar to that of evolution by natural selection where the similarities are:
+::Structure of the child machine  hereditary material
+::Changes of the child machine  mutations
+::Natural selection  judgment of the experimenter
+Following this discussion Turing addresses certain specific aspects of the learning machine: 
+: Nature of inherent complexity: The child machine could either be one that is as simple as possible merely maintaining consistency with general principles or the machine could be one with a complete system of logical inference programmed into it This more complex system is explained by Turing as "would be such that the machines store would be largely occupied with definitions and propositions The propositions would have various kinds of status eg wellestablished facts conjectures mathematically proved theorems statements given by an authority expressions having the logical form of proposition but not beliefvalue Certain propositions may be described as "imperatives" The machine should be so constructed that as soon as an imperative is classed as "well established" the appropriate action automatically takes place" Despite this builtin logic system the logical inference programmed in would not be one that is formal rather it would be one that is more pragmatic In addition the machine would build on its builtin logic system by a method of "scientific induction"
+
+: Ignorance of the experimenter: An important feature of a learning machine that Turing points out is the ignorance of the teacher of the machines internal state during the learning process This is in contrast to a conventional discrete state machine where the objective is to have a clear understanding of the internal state of the machine at every moment during the computation The machine will be seen to be doing things that we often cannot make sense of or something that we consider to be completely random Turing mentions that this specific character bestows upon a machine a certain degree of what we consider to be intelligence in that intelligent behaviour consists of a deviation from the complete determinism of conventional computation but only so long as the deviation does not give rise to pointless loops or random behaviour
+
+: The importance of random behaviour: Though Turing cautions us of random behaviour he mentions that inculcating an element of randomness in a learning machine would be of value in a system He mentions that this could be of value where there might be multiple correct answers or ones where it might be such that a systematic approach would investigate several unsatisfactory solutions to a problem before finding the optimal solution which would entail the systematic process inefficient Turing also mentions that the process of evolution takes the path of random mutations in order to find solutions that benefit an organism but he also admits that in the case of evolution the systematic method of finding a solution would not be possible
+
+Turing concludes by speculating about a time when machines will compete with humans on numerous intellectual tasks and suggests tasks that could be used to make that start Turing then suggests that abstract tasks such as playing chess could be a good place to start another method which he puts as "it is best to provide the machine with the best sense organs that money can buy and then teach it to understand and speak English"
+
+An examination of the development in artificial intelligence that has followed reveals that the learning machine did take the abstract path suggested by Turing as in the case of Deep Blue (chess computer)
+Notes
+
+
+References
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Noah WardripFruin and Nick Montfort eds (2003) The New Media Reader Cambridge: MIT Press  "Lucasfilms Habitat" pp&nbsp;663–677
+
+External links
+https://academicoupcom/mind/articlepdf/LIX/236/433/9866119/433pdf PDF with the full text of the paper
+
+
+

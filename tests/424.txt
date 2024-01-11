@@ -1,0 +1,254 @@
+
+
+
+
+The philosophy of artificial intelligence is a branch of the philosophy of mind and the philosophy of computer science that explores artificial intelligence and its implications for knowledge and understanding of intelligence ethics consciousness epistemology and free will Furthermore the technology is concerned with the creation of artificial animals or artificial people (or at least artificial creatures; see artificial life) so the discipline is of considerable interest to philosophers These factors contributed to the emergence of the philosophy of artificial intelligence 
+
+The philosophy of artificial intelligence attempts to answer such questions as follows:
+
+ Can a machine act intelligently? Can it solve any problem that a person would solve by thinking?
+ Are human intelligence and machine intelligence the same?  Is the human brain essentially a computer?
+ Can a machine have a philosophy of mindQuestions like these reflect the divergent interests of artificial intelligence
+Important propositions in the philosophy of AI include some of the following:
+
+Turing test The Dartmouth WorkshopPlanning the Summer Research Project: The Proposal Allen Newell and Herbert A Simons physical symbol system hypothesis: "A physical symbol system has the necessary and sufficient means of general intelligent action"
+ John Searles strong AI hypothesis: "The appropriately programmed computer with the right inputs and outputs would thereby have a mind in exactly the same sense human beings have minds"
+ Thomas Hobbes
+Can a machine display general intelligence?
+Is it possible to create a machine that can solve all the problems humans solve using their intelligence? This question defines the scope of what machines could do in the future and guides the direction of AI research It only concerns the behavior of machines and ignores the issues of interest to psychologists cognitive scientists and philosophy
+The basic position of most AI researchers is summed up in this statement which appeared in the proposal for the Dartmouth workshop of 1956:
+ "Every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it"
+Arguments against the basic premise must show that building a working AI system is impossible because there is some practical limit to the abilities of computers or that there is some special quality of the human mind that is necessary for intelligent behavior and yet cannot be duplicated by a machine (or by the methods of current AI research)  Arguments in favor of the basic premise must show that such a system is possible
+
+It is also possible to sidestep the connection between the two parts of the above proposal For instance machine learning beginning with Turings infamous Computing Machinery and IntelligenceLearning machines
+The first step to answering the question is to clearly define "intelligence"
+
+Intelligence
+File:Turing Test version 3png
+Turing test
+
+
+Alan Turing reduced the problem of defining intelligence to a simple question about conversation He suggests that: if a machine can answer any question posed to it using the same words that an ordinary person would then we may call that machine intelligent A modern version of his experimental design would use an online chat room where one of the participants is a real person and one of the participants is a computer program The program passes the test if no one can tell which of the two participants is human Turings test extends this polite convention to machines:
+ If a machine acts as intelligently as a human being then it is as intelligent as a human being
+
+One criticism of the Turing test is that it only measures the "humanness" of the machines behavior rather than the "intelligence" of the behavior Since human behavior and intelligent behavior are not exactly the same thing the test fails to measure intelligence Stuart J Russell and Peter Norvig write that "aeronautical engineering texts do not define the goal of their field as making machines that fly so exactly like pigeons that they can fool other pigeons"
+
+Intelligence as achieving goals
+File:IntelligentAgentSimpleReflexpngTwentyfirst century AI research defines intelligence in terms of goaldirected behavior It views intelligence as a set of problems that the machine is expected to solve  the more problems it can solve and the better its solutions are the more intelligent the program is AI founder John McCarthy (computer scientist)
+Stuart J Russell "If an agent acts so as to maximize the expected value of a performance measure based on past experience and knowledge then it is intelligent"
+
+Definitions like this one try to capture the essence of intelligence They have the advantage that unlike the Turing test they do not also test for unintelligent human traits such as making typing mistakes<ref>cite news
+They have the disadvantage that they can fail to differentiate between "things that think" and "things that do not" By this definition even a thermostat has a rudimentary intelligence
+
+Arguments that a machine can display general intelligence
+
+The brain can be simulated
+
+
+File:MRIoggHubert Dreyfus describes this argument as claiming that "if the nervous system obeys the laws of physics and chemistry which we have every reason to suppose it does then&nbsp; we&nbsp; ought to be able to reproduce the behavior of the nervous system with some physical device" This argument first introduced as early as 1943 and vividly described by Hans Moravec in 1988 
+is now associated with futurist Ray Kurzweil who estimates that computer power will be sufficient for a complete brain simulation by the year 2029 A nonrealtime simulation of a thalamocortical model that has the size of the human brain (10<sup>11</sup> neurons) was performed in 2005 and it took 50 days to simulate 1 second of brain dynamics on a cluster of 27 processors
+
+Even AIs harshest critics (such as Hubert Dreyfus and John Searle) agree that a brain simulation is possible in theory John Searle writes: "Could a man made machine think? Assuming it possible produce artificially a machine with a nervous system  the answer to the question seems to be obviously yes  Could a digital computer think? If by digital computer you mean anything at all that has a level of description where it can be correctly described as the instantiation of a computer program then again the answer is of course yes since we are the instantiations of any number of computer programs and we can think"
+However Searle points out that in principle anything can be simulated by a computer; thus bringing the definition to its breaking point leads to the conclusion that any process at all can technically be considered "computation" "What we wanted to know is what distinguishes the mind from thermostats and livers" he writes Thus merely simulating the functioning of a living brain would in itself be an admission of ignorance regarding intelligence and the nature of the mind like trying to build a jet airliner by copying a living bird precisely feather by feather with no theoretical understanding of aeronautical engineering
+
+Human thinking is symbol processing
+
+
+In 1963 Allen Newell and Herbert A Simon proposed that "symbol manipulation" was the essence of both human and machine intelligence They wrote: 
+ "A physical symbol system has the necessary and sufficient means of general intelligent action"
+This claim is very strong: it implies both that human thinking is a kind of symbol manipulation (because a symbol system is necessary for intelligence) and that machines can be intelligent (because a symbol system is sufficient for intelligence)
+Another version of this position was described by philosopher Hubert Dreyfus who called it "the psychological assumption":
+ "The mind can be viewed as a device operating on bits of information according to formal rules"
+The "symbols" that Newell Simon and Dreyfus discussed were wordlike and high levelsymbols that directly correspond with objects in the world such as <nowiki><dog></nowiki> and <nowiki><tail></nowiki> Most AI programs written between 1956 and 1990 used this kind of symbol Modern AI based on statistics and mathematical optimization does not use the highlevel "symbol processing" that Newell and Simon discussed
+
+Arguments against symbol processing
+These arguments show that human thinking does not consist (solely) of high level symbol manipulation They do not show that artificial intelligence is impossible only that more than symbol processing is required
+
+Gödelian antimechanist arguments
+
+In 1931 Kurt Gödel proved with an incompleteness theorem that it is always possible to construct a "Gödel statement (logic)
+Gödelian antimechanist arguments tend to rely on the innocuousseeming claim that a system of human mathematicians (or some idealization of human mathematicians) is both consistent (completely free of error) and believes fully in its own consistency (and can make all logical inferences that follow from its own consistency including belief in its Gödel statement)  This is provably impossible for a Turing machine to do (see Halting problem); therefore the Gödelian concludes that human reasoning is too powerful to be captured by a Turing machine and by extension any digital mechanical device 
+
+However the modern consensus in the scientific and mathematical community is that actual human reasoning is inconsistent; that any consistent "idealized version" H of human reasoning would logically be forced to adopt a healthy but counterintuitive openminded skepticism about the consistency of H (otherwise H is provably inconsistent); and that Gödels theorems do not lead to any valid argument that humans have mathematical reasoning capabilities beyond what a machine could ever duplicate This consensus that Gödelian antimechanist arguments are doomed to failure is laid out strongly in Artificial Intelligence (journal)
+Stuart J Russell
+Less formally Douglas Hofstadter in his Pulitzer prize winning book Gödel Escher Bach: An Eternal Golden Braid states that these "Gödelstatements" always refer to the system itself drawing an analogy to the way the Epimenides paradox uses statements that refer to themselves such as "this statement is false" or "I am lying" But of course the Epimenides paradox applies to anything that makes statements whether they are machines or humans even Lucas himself Consider:
+ Lucas cant assert the truth of this statement
+This statement is true but cannot be asserted by Lucas This shows that Lucas himself is subject to the same limits that he describes for machines as are all people and so John Lucas (philosopher)
+After concluding that human reasoning is noncomputable Penrose went on to controversially speculate that some kind of hypothetical noncomputable processes involving the collapse of quantum mechanical states give humans a special advantage over existing computers Existing quantum computers are only capable of reducing the complexity of Turing computable tasks and are still restricted to tasks within the scope of Turing machines   By Penrose and Lucass arguments the fact that quantum computers are only able to complete Turing computable tasks implies that they cannot be sufficient for emulating the human mind Therefore Penrose seeks for some other process involving new physics for instance quantum gravity which might manifest new physics at the scale of the Planck mass via spontaneous quantum collapse of the wave function These states he suggested occur both within neurons and also spanning more than one neuron However other scientists point out that there is no plausible organic mechanism in the brain for harnessing any sort of quantum computation and furthermore that the timescale of quantum decoherence seems too fast to influence neuron firing
+
+Dreyfus: the primacy of implicit skills
+
+
+Hubert Dreyfus Hubert Dreyfuss views on artificial intelligence
+Hubert Dreyfus
+Russell and Norvig point out that in the years since Dreyfus published his critique progress has been made towards discovering the "rules" that govern unconscious reasoning The situated movement in robotics research attempts to capture our unconscious skills at perception and attention Computational intelligence paradigms such as neural nets evolutionary algorithms and so on are mostly directed at simulated unconscious reasoning and learning Artificial intelligenceStatistical
+Cognitive science and psychology eventually came to agree with Dreyfus description of human expertise Daniel Kahnemann and others developed a similar theory where they identified two "systems" that humans use to solve problems which he called "System 1" (fast intuitive judgements) and "System 2" (slow deliberate step by step thinking)
+
+Although Dreyfus views have been vindicated in many ways the work in cognitive science and in AI was in response to specific problems in those fields and was not directly influenced by Dreyfus Historian and AI researcher Daniel Crevier wrote that "time has proven the accuracy and perceptiveness of some of Dreyfuss comments Had he formulated them less aggressively constructive actions they suggested might have been taken much earlier"
+
+Can a machine have a mind consciousness and mental states?<! This section is linked to from Turing test >
+<! This Anchor tag serves to provide a permanent target for incoming section links Please do not move it out of the section heading even though it disrupts edit summary generation (you can manually fix the edit summary before you save your changes) Please do not modify it even if you modify the section title It is always best to anchor an old section header that has been changed so that links to it wont be broken See Template:Anchor for details (This text: Template:Anchor comment) >
+This is a philosophical question related to the problem of other minds and the hard problem of consciousness The question revolves around a position defined by John Searle as "strong AI":
+ A physical symbol system can have a mind and mental states
+Searle distinguished this position from what he called "weak AI":
+ A physical symbol system can act intelligently
+Searle introduced the terms to isolate strong AI from weak AI so he could focus on what he thought was the more interesting and debatable issue He argued that even if we assume that we had a computer program that acted exactly like a human mind there would still be a difficult philosophical question that needed to be answered
+
+Neither of Searles two positions are of great concern to AI research since they do not directly answer the question "can a machine display general intelligence?" (unless it can also be shown that consciousness is necessary for intelligence) Turing wrote "I do not wish to give the impression that I think there is no mystery about consciousness… but I do not think these mysteries necessarily need to be solved before we can answer the question of whether machines can think" Stuart J Russell
+There are a few researchers who believe that consciousness is an essential element in intelligence such as Igor Aleksander Stan Franklin Ron Sun and Artificial consciousnessHaikonens cognitive architecture
+Before we can answer this question we must be clear what we mean by "minds" "mental states" and "consciousness"
+
+Consciousness minds mental states meaning
+
+The words "mind" and "consciousness" are used by different communities in different ways Some new age thinkers for example use the word "consciousness" to describe something similar to Bergsons "élan vital": an invisible energetic fluid that permeates life and especially the mind Science fiction writers use the word to describe some essentialism
+For philosophy
+Philosophers call this the hard problem of consciousness It is the latest version of a classic problem in the philosophy of mind called the "mindbody problem" A related problem is the problem of meaning or understanding (which philosophers call "intentionality"): what is the connection between our thoughts and what we are thinking about (ie objects and situations out in the world)? A third issue is the problem of experience (or "Phenomenology (philosophy)
+Neurobiologists believe all these problems will be solved as we begin to identify the neural correlates of consciousness: the actual relationship between the machinery in our heads and its collective properties; such as the mind experience and understanding Some of the harshest critics of artificial intelligence agree that the brain is just a machine and that consciousness and intelligence are the result of physical processes in the brain The difficult philosophical question is this: can a computer program running on a digital machine that shuffles the binary digits of zero and one duplicate the ability of the neural correlates of consciousness
+Arguments that a computer cannot have a mind and mental states
+
+Searles Chinese room
+
+John Searle asks us to consider a thought experiment: suppose we have written a computer program that passes the Turing test and demonstrates general intelligent action Suppose specifically that the program can converse in fluent Chinese Write the program on 3x5 cards and give them to an ordinary person who does not speak Chinese Lock the person into a room and have him follow the instructions on the cards He will copy out Chinese characters and pass them in and out of the room through a slot From the outside it will appear that the Chinese room contains a fully intelligent person who speaks Chinese The question is this: is there anyone (or anything) in the room that understands Chinese? That is is there anything that has the mental state of understanding or which has consciousness
+Searle goes on to argue that actual mental states and consciousness require (yet to be described) "actual physicalchemical properties of actual human brains" He argues there are special "causal properties" of brains and neurons that gives rise to minds: in his words "brains cause minds"
+
+Related arguments: Leibniz mill Daviss telephone exchange Blocks Chinese nation and Blockhead
+
+Gottfried Leibniz made essentially the same argument as Searle in 1714 using the thought experiment of expanding the brain until it was the size of a mill In 1974 Lawrence Davis (scientist)
+ Responses to the Chinese room 
+
+Responses to the Chinese room emphasize several different points 
+ The systems reply and the virtual mind reply: This reply argues that the system including the man the program the room and the cards is what understands Chinese Searle claims that the man in the room is the only thing which could possibly "have a mind" or "understand" but others disagree arguing that it is possible for there to be two minds in the same physical place similar to the way a computer can simultaneously "be" two machines at once: one physical (like a Macintosh) and one "virtual machineSpeed power and complexity replies: Several critics point out that the man in the room would probably take millions of years to respond to a simple question and would require "filing cabinets" of astronomical proportions This brings the clarity of Searles intuition into doubt
+Robot reply: To truly understand some believe the Chinese Room needs eyes and hands Hans Moravec writes: "If we could graft a robot to a reasoning program we wouldnt need a person to provide the meaning anymore: it would come from the physical world"
+Brain simulator reply: What if the program simulates the sequence of nerve firings at the synapses of an actual brain of an actual Chinese speaker? The man in the room would be simulating an actual brain This is a variation on the "systems reply" that appears more plausible because "the system" now clearly operates like a human brain which strengthens the intuition that there is something besides the man in the room that could understand Chinese
+Other minds reply and the epiphenomena reply: Several people have noted that Searles argument is just a version of the problem of other minds applied to machines Since it is difficult to decide if people are "actually" thinking we should not be surprised that it is difficult to answer the same question about machines
+
+:A related question is whether "consciousness" (as Searle understands it) exists Searle argues that the experience of consciousness cannot be detected by examining the behavior of a machine a human being or any other animal Daniel Dennett points out that natural selection cannot preserve a feature of an animal that has no effect on the behavior of the animal and thus consciousness (as Searle understands it) cannot be produced by natural selection Therefore either natural selection did not produce consciousness or "strong AI" is correct in that consciousness can be detected by suitably designed Turing test
+
+Is thinking a kind of computation?
+
+
+The computational theory of mind or "computationalism" claims that the relationship between mind and brain is similar (if not identical) to the relationship between a running program (software) and a computer (hardware) The idea has philosophical roots in Hobbes (who claimed reasoning was "nothing more than reckoning") Gottfried Wilhelm Leibniz
+This question bears on our earlier questions: if the human brain is a kind of computer then computers can be both intelligent and conscious answering both the practical and philosophical questions of AI In terms of the practical question of AI ("Can a machine display general intelligence?") some versions of computationalism make the claim that (as Hobbes wrote):
+ Reasoning is nothing but reckoning
+In other words our intelligence derives from a form of calculation similar to arithmetic This is the physical symbol system hypothesis discussed above and it implies that artificial intelligence is possible In terms of the philosophical question of AI ("Can a machine have mind mental states and consciousness?") most versions of computationalism claim that (as Stevan Harnad characterizes it):
+ Mental states are just implementations of (the right) computer programs
+This is John Searles "strong AI" discussed above and it is the real target of the Chinese room argument (according to Stevan Harnad
+Other related questions
+
+Can a machine have emotions?
+
+If "emotions" are defined only in terms of their effect on behaviorism
+Can a machine be selfaware?
+
+"Selfawareness" as noted above is sometimes used by science fiction writers as a name for the essentialism
+Can a machine be original or creative?
+
+Turing reduces this to the question of whether a machine can "take us by surprise" and argues that this is obviously true as any programmer can attest He notes that with enough storage capacity a computer can behave in an astronomical number of different ways It must be possible even trivial for a computer that can represent ideas to combine them in new ways (Douglas Lenats Automated Mathematician as one example combined ideas to discover new mathematical truths) Andreas Kaplan
+In 2009 scientists at Aberystwyth University in Wales and the UKs University of Cambridge designed a robot called Adam that they believe to be the first machine to independently come up with new scientific findings Also in 2009 researchers at Cornell developed Eureqa a computer program that extrapolates formulas to fit the data inputted such as finding the laws of motion from a pendulums motion
+
+Can a machine be benevolent or hostile?
+
+
+This question (like many others in the philosophy of artificial intelligence) can be presented in two forms "Hostility" can be defined in terms functionalism (philosophy)
+The question of whether highly intelligent and completely autonomous machines would be dangerous has been examined in detail by futurists (such as the Machine Intelligence Research Institute) The obvious element of drama has also made the subject popular in science fiction which has considered many differently possible scenarios where intelligent machines pose a threat to mankind; see Artificial intelligence in fiction
+
+One issue is that machines may acquire the autonomy and intelligence required to be dangerous very quickly Vernor Vinge has suggested that over just a few years computers will suddenly become thousands or millions of times more intelligent than humans He calls this "Technological singularity
+In 2009 academics and technical experts attended a conference to discuss the potential impact of robots and computers and the impact of the hypothetical possibility that they could become selfsufficient and able to automated decisionmaking
+Some experts and academics have questioned the use of robots for military combat especially when such robots are given some degree of autonomous functions The US Navy has funded a report which indicates that as military robots become more complex there should be greater attention to implications of their ability to make autonomous decisions
+
+The President of the Association for the Advancement of Artificial Intelligence has commissioned a study to look at this issue They point to programs like the Language Acquisition Device which can emulate human interaction
+
+Some have suggested a need to build "Friendly AI" meaning that the advances which are already occurring with AI should also include an effort to make AI intrinsically friendly and humane
+
+Can a machine imitate all human characteristics?
+Turing said "It is customary&nbsp; to offer a grain of comfort in the form of a statement that some peculiarly human characteristic could never be imitated by a machine  I cannot offer any such comfort for I believe that no such bounds can be set"
+
+Turing noted that there are many arguments of the form "a machine will never do X" where X can be many things such as:
+<blockquote>Be kind resourceful beautiful friendly have initiative have a sense of humor tell right from wrong make mistakes fall in love enjoy strawberries and cream make someone fall in love with it learn from experience use words properly be the subject of its own thought have as much diversity of behaviour as a man do something really new</blockquote>
+Turing argues that these objections are often based on naive assumptions about the versatility of machines or are "disguised forms of the argument from consciousness" Writing a program that exhibits one of these behaviors "will not make much of an impression" All of these arguments are tangential to the basic premise of AI unless it can be shown that one of these traits is essential for general intelligence
+
+Can a machine have a soul?
+
+Finally those who believe in the existence of a soul may argue that "Thinking is a function of mans Immortality<blockquote>In attempting to construct such machines we should not be irreverently usurping His power of creating souls any more than we are in the procreation of children: rather we are in either case instruments of His will providing mansions for the souls that He creates</blockquote>The discussion on the topic has been reignited as a result of recent claims made by Googles LaMDA artificial Artificial intelligence
+LaMDA (Language model
+The transcripts of conversations between scientists and LaMDA reveal that the AI system excels at this providing answers to challenging topics about the nature of Emotion
+Views on the role of philosophy
+Some scholars argue that the AI communitys dismissal of philosophy is detrimental In the Stanford Encyclopedia of Philosophy some philosophers argue that  the role of philosophy in AI is underappreciated
+
+ Conferences & Literature 
+
+The main conference series on the issue is https://wwwptaiorg "Philosophy and Theory of AI" (PTAI) run by Vincent C Müller
+
+The main bibliography on the subject with several subsections is on https://philpapersorg/browse/philosophyofartificialintelligence/ PhilPapers 
+
+A recent survey for Philosophy of AI is Müller (2023)
+
+See also
+
+
+AI takeover
+Artificial brain
+Artificial consciousness
+Artificial intelligence
+Artificial neural network
+Chatbot
+Computational theory of mind
+Computing Machinery and Intelligence
+Hubert Dreyfuss views on artificial intelligence
+Existential risk from artificial general intelligence
+Functionalism (philosophy of mind)Multiagent system
+Philosophy of computer science
+Philosophy of information
+Philosophy of mind
+Physical symbol system
+Simulated reality
+Superintelligence: Paths Dangers Strategies
+Synthetic intelligence
+Wirehead (science fiction)
+
+Notes
+
+
+References
+
+
+ Works cited 
+ Alison AdamRuha Benjamin
+  
+ 
+Joanna Bryson 
+ 
+Kate Crawford 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Donna Haraway 
+ 
+ 
+ 
+ 
+ 
+Catherine Malabou 
+ citation
+
+ 
+ 
+ c
+ https://platostanfordedu/archives/fall2020/entries/computationalmind/ Rescorla Michael "The Computational Theory of Mind" in:Edward N Zalta (ed) The Stanford Encyclopedia of Philosophy (Fall 2020 Edition)
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+

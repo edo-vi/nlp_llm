@@ -1,0 +1,37 @@
+
+
+infobox book
+
+The Emperors New Mind: Concerning Computers Minds and The Laws of Physics is a 1989 book by the mathematical physicist Sir Roger Penrose
+
+Penrose argues that human consciousness is nonalgorithmic and thus is not capable of being modeled by a conventional Turing machine which includes a digital computer Penrose hypothesizes that quantum mechanics plays an essential role in the understanding of human consciousness The Wave function collapse
+Most of the book is spent reviewing for the scientificallyminded layreader a plethora of interrelated subjects such as Newtonian physics special relativity
+Overview
+Penrose states that his ideas on the nature of consciousness are speculative and his thesis is considered erroneous by experts in the fields of philosophy computer science and robotics
+
+The Emperors New Mind attacks the claims of artificial intelligence using the physics of computing: Penrose notes that the present home of computing lies more in the tangible world of classical mechanics than in the imponderable realm of quantum mechanics The modern computer is a deterministic system that for the most part simply executes algorithms Penrose shows that by reconfiguring the boundaries of a billiard table one might make a computer in which the billiard balls act as message carriers and their interactions act as logical decisions The billiardball computer was first designed some years ago by Edward Fredkin and Tommaso Toffoli of the Massachusetts Institute of Technology
+
+Reception
+Following the publication of the book Penrose began to collaborate with Stuart Hameroff on a biological analog to quantum computation involving microtubules which became the foundation for his subsequent book Shadows of the Mind
+Penrose won the The Aventis Prizes for Science Books
+According to an article in the American Journal of Physics Penrose incorrectly claims a barrier far away from a localized particle can affect the particle
+
+ See also 
+ Alan Turing
+Anathem
+ Church–Turing thesis
+ Mind–body dualism
+ Orchestrated objective reduction
+ Quantum mind
+ Raymond Smullyan
+ Shadows of the Mind
+ "The Emperors New Clothes"
+ Turing test
+
+References
+
+
+ 
+
+
+

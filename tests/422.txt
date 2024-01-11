@@ -1,0 +1,183 @@
+
+
+<! 
+ >
+
+A wormhole  is a hypothetical structure connecting disparate points in spacetime and is based on a special Solutions of the Einstein field equations
+A wormhole can be visualized as a tunnel with two ends at separate points in spacetime (ie different locations different points in time or both)
+
+Wormholes are consistent with the General relativity
+Theoretically a wormhole might connect extremely long distances such as a billion lightyears or short distances such as a few meters or different points in time or even multiverse
+In 1995 Matt Visser suggested there may be many wormholes in the universe if cosmic strings with negative mass were generated in the Chronology of the universe
+ Visualization 
+File:WormholedemopngFor a simplified notion of a wormhole space can be visualized as a twodimensional surface In this case a wormhole would appear as a hole in that surface lead into a Threedimensional space
+Another way to imagine wormholes is to take a sheet of paper and draw two somewhat distant points on one side of the paper The sheet of paper represents a plane in the Spacetime
+ Terminology 
+In 1928 German mathematician philosopher and theoretical physicist Hermann Weyl proposed a wormhole hypothesis of matter in connection with mass analysis of electromagnetic field energy; however he did not use the term "wormhole" (he spoke of "onedimensional tubes" instead)
+
+American theoretical physicist John Archibald Wheeler (inspired by Weyls work)
+
+
+
+ Modern definitions 
+Wormholes have been defined both Geometry and topology
+
+
+Geometrically wormholes can be described as regions of spacetime that constrain the incremental deformation of closed surfaces For example in Enrico Rodrigos The Physics of Stargates a wormhole is defined informally as: 
+
+ Development 
+File:Lorentzian Wormholesvg
+ Schwarzschild wormholes 
+<!Lorentzian wormhole Lorentzian wormholes Schwarzschild wormhole Lorentzian wormholes Euclidean wormhole Euclidean wormholes Einstein–Rosen bridge Einstein–Rosen bridges Einstein–Rosen bridge Einstein–Rosen bridges and Eternal black hole redirect here
+The equations of the theory of general relativity have valid solutions that contain wormholes The first type of wormhole solution discovered was the Schwarzschild wormhole><!boldface per WP: RPLA>The first type of wormhole solution discovered was the Schwarzschild wormhole which would be present in the Schwarzschild metric describing an eternal black hole but it was found that it would collapse too quickly for anything to cross from one end to the other Wormholes that could be crossed in both directions known as Traversable wormholes
+ Einstein–Rosen bridges 
+Schwarzschild wormholes also known as EPRKOI bridges (named after Albert Einstein and Nathan Rosen) are connections between areas of space that can be modeled as vacuum solutions to the Einstein field equations and that are now understood to be intrinsic parts of the Kruskal–Szekeres coordinatesThe maximally extended Schwarzschild solution
+In order to satisfy this requirement it turns out that in addition to the black hole interior region that particles enter when they fall through the event horizon from the outside there must be a separate white hole interior region that allows us to extrapolate the trajectories of particles that an outside observer sees rising up away from the event horizon And just as there are two separate interior regions of the maximally extended spacetime there are also two separate exterior regions sometimes called two different "universes" with the second universe allowing us to extrapolate some possible particle trajectories in the two interior regions This means that the interior black hole region can contain a mix of particles that fell in from either universe (and thus an observer who fell in from one universe might be able to see the light that fell in from the other one) and likewise particles from the interior white hole region can escape into either universe All four regions can be seen in a spacetime diagram that uses Kruskal–Szekeres coordinates
+
+In this spacetime it is possible to come up with coordinate systems such that if a hypersurface of constant time (a set of points that all have the same time coordinate such that every point on the surface has a spacelike separation giving what is called a spacelike surface) is picked and an "embedding diagram" drawn depicting the curvature of space at that time the embedding diagram will look like a tube connecting the two exterior regions known as an "Einstein&ndash; Rosen bridge" The Schwarzschild metric describes an idealized black hole that exists eternally from the perspective of external observers; a more realistic black hole that forms at some particular time from a collapsing star would require a different metric When the infalling stellar matter is added to a diagram of a black holes geography it removes the part of the diagram corresponding to the white hole interior region along with the part of the diagram corresponding to the other universe
+
+The Einstein&ndash; Rosen bridge was discovered by Ludwig Flamm in 1916 a few months after Schwarzschild published his solution and was rediscovered by Albert Einstein and his colleague Nathan Rosen who published their result in 1935 However in 1962 John Archibald Wheeler and Robert W Fuller published a paper showing that this type of wormhole is unstable if it connects two parts of the same universe and that it will pinch off too quickly for light (or any particle moving slower than light) that falls in from one exterior region to make it to the other exterior region
+
+According to general relativity the gravitational collapse of a sufficiently compact mass forms a singular Schwarzschild black hole In the Einstein–Cartan theory
+Although Schwarzschild wormholes are not traversable in both directions their existence inspired Kip Thorne to imagine traversable wormholes created by holding the "throat" of a Schwarzschild wormhole open with exotic matter (material that has negative mass/energy)
+
+Other nontraversable wormholes include Lorentzian wormholes (first proposed by John Archibald Wheeler in 1957) wormholes creating a spacetime foam in a general relativistic spacetime manifold depicted by a Lorentzian manifold and Euclidean wormholes (named after Euclidean manifold a structure of Riemannian manifold)
+
+ Traversable wormholes<!linked from Joseph Polchinski> 
+The Casimir effect shows that quantum field theory allows the energy density in certain regions of space to be negative relative to the ordinary matter vacuum energy and it has been shown theoretically that quantum field theory allows states where energy can be arbitrarily negative energy
+File:Wurmlochjpg
+Lorentzian traversable wormholes would allow travel in both directions from one part of the universe to another part of that same universe very quickly or would allow travel from one universe to another <!Ellis wormhole redirects here>The possibility of traversable wormholes in general relativity was first demonstrated in a 1973 paper by Homer Ellis and independently in a 1973 paper by K A Bronnikov Ellis analyzed the topology and the geodesics of the Ellis drainhole showing it to be geodesically complete horizonless singularityfree and fully traversable in both directions The drainhole is a solution manifold of Einsteins field equations for a vacuum spacetime modified by inclusion of a scalar field minimally coupled to the Ricci tensor with antiorthodox polarity (negative instead of positive) (Ellis specifically rejected referring to the scalar field as exotic because of the antiorthodox coupling finding arguments for doing so unpersuasive) The solution depends on two parameters:  which fixes the strength of its gravitational field and  which determines the curvature of its spatial cross sections When  is set equal to 0 the drainholes gravitational field vanishes What is left is the Ellis wormhole a nongravitating purely geometric traversable wormhole
+
+Kip Thorne and his graduate student Mike Morris (physicist)
+Later other types of traversable wormholes were discovered as allowable solutions to the equations of general relativity including a variety analyzed in a 1989 paper by Matt Visser in which a path through the wormhole can be made where the traversing path does not pass through a region of exotic matter However in the pure Gauss–Bonnet gravity (a modification to general relativity involving extra spatial dimensions which is sometimes studied in the context of brane cosmology) exotic matter is not needed in order for wormholes to exist—they can exist even with no matter A type held open by negative mass cosmic strings was put forth by Visser in collaboration with John G Cramer
+Wormholes connect two points in spacetime which means that they would in principle allow time travel
+ Raychaudhuris theorem and exotic matter 
+To see why exotic matter is required consider an incoming light front traveling along geodesics which then crosses the wormhole and reexpands on the other side The congruence (general relativity)
+ Modified general relativity 
+In some hypotheses where Alternatives to general relativity
+ Fasterthanlight travel 
+
+File: Wormhole travel as envisioned by Les Bossinas for NASAjpg
+The impossibility of fasterthanlight relative speed applies only locally Wormholes might allow effective superluminal (fasterthanlight) travel by ensuring that the speed of light is not exceeded locally at any time While traveling through a wormhole subluminal (slowerthanlight) speeds are used If two points are connected by a wormhole whose length is shorter than the distance between them outside the wormhole the time taken to traverse it could be less than the time it would take a light beam to make the journey if it took a path through the space outside the wormhole However a light beam traveling through the same wormhole would beat the traveler
+
+ Time travel 
+
+
+If Traversable wormholes
+According to current theories on the nature of wormholes construction of a traversable wormhole would require the existence of a substance with negative energy often referred to as "exotic matter" More technically the wormhole spacetime requires a distribution of energy that violates various energy conditions such as the null energy condition along with the weak strong and dominant energy conditions However it is known that quantum effects can lead to small measurable violations of the null energy condition and many physicists believe that the required negative energy may actually be possible due to the Casimir effect in quantum physics Although early calculations suggested a very large amount of negative energy would be required later calculations showed that the amount of negative energy can be made arbitrarily small
+
+In 1993 Matt Visser argued that the two mouths of a wormhole with such an induced clock difference could not be brought together without inducing quantum field and gravitational effects that would either make the wormhole collapse or the two mouths repel each other or otherwise prevent information from passing through the wormhole Because of this the two mouths could not be brought close enough for causality (physics)
+ Interuniversal travel<!Interuniversal travel Interuniversal travel and Everett phone redirect here> 
+
+A possible resolution to the paradoxes resulting from wormholeenabled time travel rests on the manyworlds interpretation of quantum mechanics
+
+In 1991 David Deutsch showed that quantum theory is fully consistent (in the sense that the socalled density matrix can be made free of discontinuities) in spacetimes with closed timelike curves However later it was shown that such a model of closed timelike curves can have internal inconsistencies as it will lead to strange phenomena like distinguishing nonorthogonal quantum states and distinguishing proper and improper mixture Accordingly the destructive positive feedback loop of virtual particles circulating through a wormhole time machine a result indicated by semiclassical calculations is averted A particle returning from the future does not return to its universe of origination but to a parallel universe This suggests that a wormhole time machine with an exceedingly short time jump is a theoretical bridge between contemporaneous parallel universes
+
+Because a wormhole timemachine introduces a type of nonlinearity into quantum theory this sort of communication between parallel universes is consistent with Joseph Polchinskis proposal of an Everett phone<!boldface per WP:RPLA> (named after Hugh Everett III
+The possibility of communication between parallel universes has been dubbed interuniversal travel<!boldface per WP:RPLA>
+
+Wormhole can also be depicted in Penrose diagram of Schwarzschild Black Hole
+ Metrics 
+Theories of wormhole metrics describe the spacetime geometry of a wormhole and serve as theoretical models for time travel An example of a (traversable) wormhole metric tensor
+
+first presented by Ellis (see Ellis wormhole) as a special case of the Ellis drainhole
+
+One type of nontraversable wormhole metric tensor
+\right) \ dt^2 + \frac + r^2(d \theta^2 + \sin^2 \theta \ d\varphi^2)</math>
+
+The original Einstein–Rosen bridge was described in an article published in July 1935
+
+For the Schwarzschild spherically symmetric static solution 
+ \ dr^2  r^2(d\theta^2 + \sin^2 \theta \ d\varphi^2) + \left(1  \frac \right) \ dt^2</math>
+where <math>ds</math> is the proper time and <math>c  1</math>
+
+If one replaces <math>r</math> with <math>u</math> according to <math>u^2  r  2m</math>
+
+ \ dt^2 </math>
+
+
+
+For the combined field gravity and electricity Einstein and Rosen derived the following Schwarzschild static spherically symmetric solution
+</math>
+  \frac\right) \ dr^2  r^2 (d\theta^2 + \sin^2 \theta \ d\varphi^2) + \left(1  \frac  \frac\right) \ dt^2</math>
+where <math>\varepsilon</math> is the electric charge
+
+The field equations without denominators in the case when <math>m  0</math> can be written
+  \varphi_  \varphi_</math>
+g^  0</math>
+ + \varphi_\varphi_k^\alpha  \frac g_ \varphi_\varphi^)  0</math>
+
+In order to eliminate singularities if one replaces <math>r</math> by <math>u</math> according to the equation:
+</math>
+
+and with <math>m  0</math> one obtains
+
+ \right)^</math>
+
+\right)(d \theta^2 + \sin^2 \theta \ d\varphi^2) + \left(\frac\right) \ dt^2</math>
+
+
+
+ In fiction 
+
+Wormholes are a common element in science fiction because they allow interstellar intergalactic and sometimes even interuniversal travel within human lifetime scales In fiction wormholes have also served as a method for time travel
+
+ See also 
+
+
+ Alcubierre drive
+ ER  EPR
+ Gödel metric
+ Krasnikov tube
+ Nonorientable wormhole
+ Novikov selfconsistency principle
+ Polchinskis paradox
+ Retrocausality
+ Ring singularity
+ Roman ring
+
+
+ Notes 
+
+
+ References 
+ Citations 
+
+
+ Sources 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  An excellent and more concise review
+ 
+
+
+ External links 
+
+ https://wwwscientificamericancom/article/followupwhatexactlyis/ "What exactly is a wormhole? Have wormholes been proven to exist or are they still theoretical??" answered by Richard F Holman William A Hiscock and Matt Visser
+ http://homepagesmcsvuwacnz/~visser/generalshtmlwhywormholes "Why wormholes?" by Matt Visser (October 1996)
+ 
+ http://wwwwebfilesuciorg/WormholeFAQhtml Questions and Answers about WormholesA comprehensive wormhole FAQ by Enrico Rodrigo
+ https://wwwindependentcouk/news/science/thebigquestionistimetravelpossibleandisthereanychancethatitwillevertakeplace779761html Large Hadron ColliderTheory on how the collider could create a small wormhole possibly allowing time travel into the past
+ http://wwwspacetimetravelorg/wurmlochflug/wurmlochflughtml animation that simulates traversing a wormhole
+ https://webarchiveorg/web/20151228145356/https://wwwvisunistuttgartde/~muelleta/MTvis/ Renderings and animations of a MorrisThorne wormhole
+ http://wwwnasagov/centers/glenn/technology/warp/ideachevhtml NASAs current theory on wormhole creation
+
+
+
+

@@ -1,0 +1,30 @@
+A vaccineassociated sarcoma (VAS) or feline injectionsite sarcoma (FISS) is a type of malignancy
+History
+VAS was first recognized at the University of Pennsylvania School of Veterinary Medicine in 1991  An association between highly aggressive fibrosarcomas and typical vaccine location (between the shoulder blades) was made  Two possible factors for the increase of VAS at this time were the introduction in 1985 of vaccines for rabies and feline leukemia virus (FeLV) that contained aluminum adjuvant and a law in 1987 requiring rabies vaccination in cats in Pennsylvania  In 1993 a Causality
+In 2003 a study of ferret fibrosarcoma indicated that this species also may develop VAS  Several of the tumors were located in common injection sites and had similar Histology
+Pathology
+Inflammation in the subcutis following vaccination is considered to be a risk factor in the development of VAS and vaccines containing aluminum were found to produce more inflammation  Furthermore particles of aluminum adjuvant have been discovered in tumor macrophages In addition individual genetic characteristics can also contribute to these injectionsite sarcomas  The incidence (epidemiology)
+Similar examples of sarcomas developing secondary to inflammation include tumors associated with metallic implants and foreign body material in humans and sarcomas of the esophagus associated with Spirocerca lupi infection in dogs and ocular sarcomas in cats following trauma  Cats may be the predominant species to develop VAS because they have an increased susceptibility to oxidation
+Diagnosis
+VAS appears as a rapidly growing firm mass in and under the skin  The mass is often quite large when first detected and can become ulcerated or infected  It often contains fluidfilled cavities probably because of its rapid growth  Diagnosis of VAS is through a biopsy  The biopsy will show the presence of a sarcoma but information like location and the presence of inflammation or necrosis will increase the suspicion of VAS  It is possible for cats to have a granuloma form after vaccination so it is important to differentiate between the two before radical surgery is performed  One guideline for biopsy is if a growth is present three months after surgery if a growth is greater than two centimeters or if a growth is becoming larger one month after vaccination
+
+Xrays are taken prior to surgery because about one in five cases of VAS will develop metastasis usually to the lungs but possibly to the lymph nodes or skin
+
+Treatment
+Treatment of VAS is through aggressive surgery  As soon as the tumor is recognized it should be removed with very wide margins to ensure complete removal  Treatment may also include chemotherapy or radiation therapy  The most significant prognostic factor is initial surgical treatment  One study showed that cats with radical (extensive) initial surgery had a median time to recurrence of 325 days versus 79 days for cats with marginal initial excision
+
+Precautionary measures
+New vaccine protocols have been put forth by the American Association of Feline Practitioners that limit the type and frequency of vaccinations given to cats  Specifically the vaccine for feline leukemia virus should only be given to kittens and high risk cats Feline Feline viral rhinotracheitis
+See also
+ Vaccine injury
+
+References
+
+
+External links
+ http://wwwavmaorg/vafstf/ VaccineAssociated Feline Sarcoma Task Force (VAFSTF)
+ http://wwwvetcornelledu/fhc/brochures/vaccsarchtml Vaccines and Sarcomas Informational Brochure from the http://wwwvetcornelledu/fhc Cornell Feline Health Center
+ http://wwwpetcancercenterorg/Cancer_Types_soft_tissue_fibrosarcoma_vaccinehtml "VaccineAssociated Fibrosarcoma in Cats" from Pet Cancer Center
+ http://wwwcatvetscom/uploads/PDF/2006_Vaccination_Guidelines_JAVMApdf 2006 Feline Vaccination Guidelines http://wwwcatvetscom/uploads/HTML/VaccineSummaryhtml (Summary)
+ http://catvaccinesmisterlinksnet Cat Vaccines Can Lead to Cancer
+

@@ -1,0 +1,49 @@
+
+File:EN1997svgIn the Eurocode series of European Committee for Standardization
+Eurocode 7 is intended to:
+be used in conjunction with EN 1990 which establishes the principles and requirements for safety and serviceability describes the basis of design and verification and gives guidelines for related aspects of structural reliability
+be applied to the geotechnical aspects of the design of buildings and civil engineering works and it is concerned with the requirements for strength stability serviceability and durability of structures
+
+Eurocode 7 is composed of the following parts
+
+Part 1: General rules
+EN 19971 is intended to be used as a general basis for the geotechnical aspects of the design of buildings and civil engineering works
+
+Contents
+ General
+ Basis of design
+ Geotechnical data
+ Supervision of construction monitoring and maintenance
+ Fill dewatering ground improvement and reinforcement
+ Spread foundations
+ Deep foundation (pile foundations)
+ Anchorages
+ Retaining structures
+ Hydraulic failure
+ Overall stability
+ wikt:embankment
+EN 19971 is accompanied by Annexes A to J which provide:
+Annex A Recommended partial safety factor values; different values of the partial factors may be set by the National annex
+Annexes B to J Supplementary informative guidance such as internationally applied calculation methods
+
+Part 2: Ground investigation and testing
+EN 19972 is intended to be used in conjunction with EN 19971 and provides rules supplementary to EN 19971 related to planning and reporting of ground investigations general requirements for a range of commonly used laboratory and field tests interpretation and evaluation of test results and derivation of values of geotechnical parameters and coefficients
+
+Part 3: Design assisted by field testing
+There is no longer a Part 3 It was amalgamated into EN 19972
+
+ References 
+
+
+ External links 
+http://eurocodesjrceceuropaeu  Eurocodes: Building the Future The European Commission Website on the EN Eurocodes
+https://webarchiveorg/web/20101206121554/http://wwweurocodescouk/EurocodeDetailaspx?Eurocode7 Eurocodes Expert UK construction industry website with comprehensive information and support resources for implementation of the BS EN Eurocodes
+http://webarchivenationalarchivesgovuk/20120919132719/http://wwwcommunitiesgovuk/documents/planningandbuilding/pdf/153986pdf A Designers Simple Guide to BS EN 1997 UK design guide with several worked examples using EN 1997
+http://eurocodesjrceceuropaeu/showpagephp?id137 EN 1997: Geotechnical design
+http://eurocodesjrceceuropaeu/showpagephp?id332EN1997 EN 1997: Geotechnical design  "Eurocodes: Background and applications" workshop
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+
+Compatibility is a term used by geochemists to describe how elements partition themselves in the solid and melt within Earths mantle In geochemistry compatibility is a measure of how readily a particular trace element substitutes for a major element within a mineral
+
+Compatibility of an ion is controlled by two things: its Valence (chemistry)
+Compatibility controls the partitioning of different elements during melting The compatibility of an element in a Rock geology
+Infobox football club
+
+
+Compatibility is commonly described by an elements distribution coefficient A distribution coefficient describes how the solid and liquid phases of an element will distribute themselves in a mineral Current studies of Earths rare trace elements seek to quantify and examine the chemical composition of elements in the Earths crust There are still uncertainties in the understanding of the lower crust and upper mantle region of Earths interior In addition numerous studies have focused on looking at the partition coefficients of certain elements in the basaltic magma to characterize the composition of oceanic crust
+
+ Quantifying compatibility 
+
+ Distribution (Partition) coefficient 
+In a mineral nearly all elements distribute unevenly between the solid and liquid phase This phenomenon known as Fractionation
+Infobox football club
+
+
+<math>K_D\frac\frac</math>
+
+<math>K_DD</math> for trace elements
+
+The equilibrium constant is an empirically determined value These values depend on temperature pressure and composition of the mineral Magma
+ Bulk distribution coefficient 
+The bulk distribution coefficient is used to calculate the elemental composition for any element that makes up a mineral in a rock The bulk distribution coefficient <math>\overline_i</math> is defined as
+
+<math>\overline_i\Sigma W_AD_i^A</math>
+
+where <math>i</math> is the element of interest in the mineral and <math>W_A</math> is the weight fraction of mineral <math>A</math> in the rock <math>D_i^A</math> is the distribution coefficient for the element in mineral <math>A</math> Ultimately these measurements can be used to provide further understanding of elemental behavior in different geologic settings
+
+ Applications 
+One of the main sources of information about the Earths composition comes from understanding the relationship between peridotite and basalt melting Peridotite makes up most of Earths mantle Basalt which is highly concentrated in the Earths oceanic crust is formed when magma reaches the Earths surface and cools down at a very fast rate This concept can be applied by scientists to give insight on the evolution of Earths mantle and how concentrations of Lithophile element
+ Understanding the Earths interior 
+Previous studies have used compatibility of trace elements to see the effect it would have on the melt structure of the peridotite Solidus (chemistry)
+Oceanic volcanism is another topic that commonly incorporates the use of compatibility Since the 1960s the structure of Earths mantle started being studied by geochemists The oceanic crust which is rich in basalts from volcanic activity show distinct components that provides information about the evolution of the Earths interior over the geologic timescale Incompatible trace elements become depleted when mantle melts and become enriched in oceanic or continental crust through volcanic activity Other times volcanism can produce enriched mantle melt onto the crust These phenomena can be quantified by looking at radioactive decay records of isotopes in these basalts which is a valuable tool for mantle geochemists More specifically the geochemistry of serpentinites along the ocean floor specifically subduction zones can be examined using compatibility of specific trace elements The compatibility of lead (Pb) into zircons under different environments can also be an indication of zircons in rocks When observing levels of nonradiogenic lead in zircons this can be a useful tool for radiometric dating of zircons
+
+ References 
+
+

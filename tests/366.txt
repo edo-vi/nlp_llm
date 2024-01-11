@@ -1,0 +1,128 @@
+
+
+
+
+In evidencebased medicine likelihood ratios are used for assessing the value of performing a diagnostic test They use the sensitivity and specificity of the test to determine whether a test result usefully changes the probability that a condition (such as a disease state) exists The first description of the use of likelihood ratios for decision rules was made at a symposium on information theory in 1954 In medicine likelihood ratios were introduced between 1975 and 1980
+
+Calculation
+
+Two versions of the likelihood ratio exist one for positive and one for negative test results Respectively they are known as the  (LR+ likelihood ratio positive likelihood ratio for positive results) and  (LR– likelihood ratio negative likelihood ratio for negative results)
+
+The positive likelihood ratio is calculated as
+
+:<math> \text+  \frac </math>
+
+which is equivalent to
+
+:<math> \text+  \frac\mid D+)\mid D) </math>
+
+or "the probability of a person who has the disease testing positive divided by the probability of a person who does not have the disease testing positive"
+Here "T+" or "T&minus;" denote that the result of the test is positive or negative respectively Likewise "D+" or "D&minus;" denote that the disease is present or absent respectively So "true positives" are those that test positive (T+) and have the disease (D+) and "false positives" are those that test positive (T+) but do not have the disease (D&minus;)
+
+The negative likelihood ratio is calculated as
+
+:<math> \text  \frac </math>
+
+which is equivalent to
+
+:<math> \text  \frac\mid D+)\mid D) </math>
+
+or "the probability of a person who has the disease testing negative divided by the probability of a person who does not have the disease testing negative"
+
+The calculation of likelihood ratios for tests with continuous values or more than two outcomes is similar to the calculation for dichotomous variable
+The Pre and posttest probabilityPretest probability
+Application to medicine
+Pretest probability refers to the chance that an individual in a given population has a disorder or condition; this is the baseline probability prior to the use of a diagnostic test Posttest probability refers to the probability that a condition is truly present given a positive test result For a good test in a population the posttest probability will be meaningfully higher or lower than the pretest probability A high likelihood ratio indicates a good test for a population and a likelihood ratio close to one indicates that a test may not be appropriate for a population
+
+For a screening test the population of interest might be the general population of an area For diagnostic testing the ordering clinician will have observed some symptom or other factor that raises the pretest probability relative to the general population A likelihood ratio of greater than 1 for a test in a population indicates that a positive test result is evidence that a condition is present If the likelihood ratio for a test in a population is not clearly better than one the test will not provide good evidence: the posttest probability will not be meaningfully different from the pretest probability Knowing or estimating the likelihood ratio for a test in a population allows a clinician to better interpret the result
+
+Research suggests that physicians rarely make these calculations in practice however and when they do they often make errors A randomized controlled trial compared how well physicians interpreted diagnostic tests that were presented as either sensitivity (tests)
+ Estimation table 
+This table provide examples of how changes in the likelihood ratio affects posttest probability of disease
+!Likelihood ratio
+!Approximate change 
+in probability
+!Effect on posttest
+Probability of disease
+!Values between 0 and 1 decrease the probability of disease 
+!Values greater than 1 increase the probability of disease 
+<nowiki></nowiki>These estimates are accurate to within 10% of the calculated answer for all pretest probabilities between 10% and 90% The average error is only 4%  For polar extremes of pretest probability >90% and <10% see  section below
+
+ Estimation example 
+ Pretest probability: For example if about 2 out of every 5 patients with abdominal distension have ascites then the pretest probability is 40%
+ Likelihood Ratio: An example "test" is that the physical exam finding of bulging flank (anatomy) Estimated change in probability: Based on table above a likelihood ratio of 20 corresponds to an approximately +15% increase in probability 
+ Final (posttest) probability: Therefore bulging flanks increases the probability of ascites from 40% to about 55% (ie 40% + 15%  55% which is within 2% of the exact probability of 57%)
+
+Calculation example
+
+A medical example is the likelihood that a given test result would be expected in a patient with a certain disorder compared to the likelihood that same result would occur in a patient without the target disorder
+
+Some sources distinguish between LR+ and LR&minus; A worked example is shown below
+
+
+Confidence intervals for all the predictive parameters involved can be calculated giving the range of values within which the true value lies at a given confidence  level (eg 95%)
+
+Estimation of pre and posttest probability
+
+The likelihood ratio of a test provides a way to estimate the pre and posttest probabilities of having a condition
+
+With pretest probability and likelihood ratio given then the posttest probabilities can be calculated by the following three steps:
+
+: <math> \text  \frac </math>
+: <math> \text  \text \times \text </math>
+In equation above positive posttest probability is calculated using the likelihood ratio positive and the negative posttest probability is calculated using the likelihood ratio negative
+
+Odds are converted to probabilities as follows:
+
+:<math>\begin(1)\ \text  \frac   
+\end</math>      
+
+multiply equation (1) by (1 − probability) 
+
+:<math>\begin(2)\ \text &  \text \times (1  \text) \\
+&  \text  \text \times \text
+\end</math>
+
+add (probability × odds) to equation (2)
+
+:<math>\begin(3)\ \text + \text \times \text &  \text \\
+\text \times (1 + \text) &  \text
+\end</math>
+
+divide equation (3) by (1 + odds)
+
+:<math>\begin(4)\ \text  \frac
+\end</math>
+
+hence
+
+ Posttest probability  Posttest odds / (Posttest odds + 1)
+
+Alternatively posttest probability can be calculated directly from the pretest probability and the likelihood ratio using the equation: 
+P  P0 × LR/(1 − P0 + P0×LR) where P0 is the pretest probability P is the posttest probability and LR is the likelihood ratio This formula can be calculated algebraically by combining the steps in the preceding description
+
+In fact posttest probability as estimated from the likelihood ratio and pretest probability is generally more accurate than if estimated from the positive predictive value of the test if the tested individual has a different pretest probability than what is the prevalence of that condition in the population
+
+Example
+Taking the medical example from above (20 true positives 10 false negatives and 2030 total patients) the positive pretest probability is calculated as:
+
+Pretest probability  (20 + 10) / 2030  00148
+Pretest odds  00148 / (1 − 00148)  0015
+Posttest odds  0015 × 74  0111
+Posttest probability  0111 / (0111 + 1)  01 or 10%
+
+As demonstrated the positive posttest probability is numerically equal to the positive predictive value; the negative posttest probability is numerically equal to (1 − negative predictive value)
+
+Notes
+
+References
+
+
+External links
+;Medical likelihood ratio repositories
+ https://wwwdoclogicacom The Likelihood Ratio Database
+ http://wwwgetthediagnosisorg GetTheDiagnosisorg: A Database of Sensitivity and Specificity
+ http://wwwthenntcom/homelr/ The NNT: LR Home
+
+
+

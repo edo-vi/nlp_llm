@@ -1,0 +1,54 @@
+
+Visual space is the experience of space by an aware observation
+Object Space and Visual Space  
+
+Space of physical objects
+
+The location and shape of physical objects can be accurately described with the tools of geometry For practical purposes the space we occupy is Euclidean space
+Space of visual percepts
+
+Percepts the counterparts in the aware observers conscious experience of objects in physical space constitute an ordered ensemble or as Ernst Cassirer explained  Visual Space can not be measured with rulers Historically philosophers used introspection and reasoning to describe it   With the development of Psychophysics beginning with Gustav Fechner there has been an effort to develop suitable experimental procedures which allow objective descriptions of visual space including geometric descriptions to be developed and tested   An example illustrates the relationship between the concepts of object and visual space  Two straight lines are presented to an observer who is asked to set them so that they appear parallel When this has been done the lines are parallel in visual space  A comparison is then possible with the actual measured layout of the lines in physical space Good precision can be achieved using these and other psychophysical procedures in human observers or behavioral ones in trained animals
+
+Visual Space and the Visual Field
+
+The visual field the area or extent of physical space that is being imaged on the retina should be distinguished from the  perceptual space in which visual percepts are located which we call visual space  Confusion is caused by the use of :de:Geschichte der Theorie des Sehens
+Spaces: formal physical perceptual<!Linked from Rudolf Carnap>
+
+The fundamental distinction was made by Rudolf Carnap between three kinds of space which he called formal physical and perceptual Mathematicians for example deal with ordered structures ensembles of elements for which rules of logicodeductive relationships hold limited solely by being not selfcontradictory These are the formal spaces According to Carnap studying physical space means examining the relationship between empirically determined objects Finally there is the realm of what students of Kant know as :de:Anschauung
+Visual space and geometry
+Geometry is the discipline devoted to the study of space and the rules relating the elements to each other For example in Euclidean space the Pythagorean theorem provides a rule to compute distances from Cartesian coordinates In a twodimensional space of constant curvature like the surface of a sphere the rule is somewhat more complex but applies everywhere On the twodimensional surface of a football the rule is more complex still and has different values depending on location In wellbehaved spaces such rules used for measurement called metric tensor
+To the extent that it is reachable by scientifically acceptable probes visual space as defined is also a candidate for such considerations The first and remarkably prescient analysis was published by Ernst Mach in 1901 Under the heading On Physiological as Distinguished from Geometrical Space Mach states that "Both spaces are threefold manifoldnesses" but the former is "neither constituted everywhere and in all directions alike nor infinite in extent nor unbounded" A notable attempt at a rigorous formulation was made in 1947 by Rudolf Luneburg who preceded his essay on mathematical analysis of vision by a profound analysis of the underlying principles When features are sufficiently singular and distinct there is no problem about a correspondence between an individual item A in object space and its correlate A  in visual space Questions can be asked and answered such as "If visual percepts ABC  are correlates of physical objects ABC and if C lies between A and B does C  lie between A  and B ?" In this manner the possibility of visual space being metrical can be approached If the exercise is successful a great deal can be said about the nature of the mapping of the physical space on the visual space
+
+On the basis of fragmentary psychophysical data of previous generations Luneburg concluded that visual space was hyperbolic with constant curvature meaning that elements can be moved throughout the space without changing shape One of Luneburgs major arguments is that in accord with a common observation the transformation involving hyperbolic space renders infinity into a dome (the sky) The Luneburg proposition gave rise to discussions and attempts at corroborating experiments which on the whole did not favor it
+
+Basic to the problem and underestimated by Luneburg the mathematician is the likely success of a mathematically viable formulation of the relationship between objects in physical space and percepts in visual space Any scientific investigation of visual space is colored by the kind of access we have to it and the precision repeatability and generality of measurements Insightful questions can be asked about the mapping of visual space to object space  but answers are mostly limited in the range of their validity If the physical setting that satisfies the criterion of say apparent parallelism varies from observer to observer or from day to day or from context to context so does the geometrical nature of and hence mathematical formulation for visual space
+
+All these arguments notwithstanding there is a major concordance between the locations of items in object space and their correlates in visual space It is adequately veridical for us to navigate very effectively in the world deviations from such a situation are sufficiently notable to warrant special consideration visual space agnosia is a recognized neurological condition and the many common distortions called geometricaloptical illusions are widely demonstrated but of minor consequence
+
+Neural representation of space
+
+Fechners inner and outer psychophysics 
+
+Its founder Gustav Theodor Fechner defined the mission of the discipline of psychophysics as the functional relationship between the mental and material worlds—in this particular case the visual and object spaces—but he acknowledged an intermediate step which has since blossomed into the major enterprise of modern neuroscience In distinguishing between inner and outer psychophysics Fechner recognized that a physical stimulus generates a percept by way of an effect on the organisms sensory and nervous systems Hence without denying that its essence is the arc between object and percept the inquiry can concern itself with the neural substrate of visual space
+
+Retinotopy and beyond
+File:1422 Topographical Image on RetinajpgTwo major concepts dating back to the middle of the 19th century set the parameters of the discussion here Johannes Peter Müller
+Unfortunately simplicity and transparency ends here Right at the outset visual signals are analyzed not only for their position but also separately in parallel channels for many other attributes such as brightness color orientation depth No single neuron or even neuronal center or circuit represents both the nature of a target feature and its accurate location The unitary mapping of object space into the coherent visual space without internal contradictions or inconsistencies that we as observer automatically experience demands concepts of conjoint activity in several parts of the nervous system that is at present beyond the reach of neurophysiological research
+
+Place cells
+
+Though the details of the process by which the experience of visual space emerges remain opaque a startling finding gives hope for future insights Neural units have been demonstrated in the brain structure called hippocampus that show activity only when the animal is in a specific place in its environment
+
+Space and its content
+Only on an astronomical scale are physical space and its contents interdependent This major proposition of the general relativity
+But this is not so simple in visual space At a minim an observer judges the relative location of a few light points in an otherwise dark visual field a simplistic extension from object space that enabled Luneburg to make some statements about the geometry of visual space In a more richly textured visual world the various visual percepts carry with them prior perceptual associations which often affect their relative spatial disposition Identical separations in physical space can look quite different (are quite different in visual space) depending on the features that demarcate them This is particularly so in the depth dimension because the apparatus by which values in the third visual dimension are assigned is fundamentally different from that for the height and width of objects
+
+Even in monocular vision which physiologically has only two dimensions cues of size perspective relative motion etc are used to Monocular depth cues
+The problem becomes less illposed when binocular vision allows actual determination of relative depth by stereoscopy but its linkage to the evaluation of distance in the other two dimensions is uncertain (see: stereoscopic depth rendition) Hence the uncomplicated threedimensional visual space of everyday experience is the product of many perceptual and cognitive layers superimposed on the physiological representation of the physical world of objects
+
+ References 
+
+
+
+
+

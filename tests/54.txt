@@ -1,0 +1,53 @@
+
+
+Cellbased vaccines are developed from mammalian or more rarely avian or insect cell lines rather than the more common method which uses the cells in Embryonic stem cell
+Vaccines work to prepare an immune system to fight off disease by generating an Immune system
+ Production 
+To produce viral vaccines candidate vaccine viruses are grown in mammalian avian or insect tissue culture of cells with a finite lifespan These cells are typically MadinDarby Canine Kidney cells but others are also used including monkey cell lines pMK and Vero cell
+ Advantages 
+The main benefit of cellbased vaccines is the ability to rapidly produce vaccine supplies during an impending pandemic Cellbased antigen production offer a faster and more stable production of vaccines compared to embryonic chicken eggs which produce 12 vaccine doses per chicken egg Though host cells replicate well in chicken eggs vaccine production with mammalian cells would not rely on an adequate supply of chicken eggs to produce each vaccine In addition cellbased vaccines may allow for multiple viral vaccines be produced in the same production platforms and facilities in a more sterile environment In addition some strains do not grow well on embryonic chicken eggs
+
+Cell lines grown in synthetic media avoid animal serum which may pose a sterility problem more specifically preventing the spread of transmissible spongiform encephalopathies Another benefit is the avoidance of eggallergen Lastly cellbased vaccines may be more effective given that with eggbased vaccines there is a risk that the virus may mutate (antigenic drift) during its long growth phase in the chicken egg thus causing the immune system to produce a different antibody than originally intended
+
+Approved examples
+ Influenza 
+ Flublok 
+In 2013 FluBlok which is produced with insect cells was approved by the United States Food and Drug Administration for use in the United States Developed by Protein Sciences Corporation it is suitable for people with egg allergies
+
+ Flucelvax 
+In 2012 the US FDA approved Flucelvax as the first mammalian cellbased Influenza vaccine in the United States Specifically Flucelvax targets four Influenza subtypes which includes Influenza A subtype H1N1 Influenza A subtype H3N2 and two Influenza B viruses The vaccine is approved for people over the age of three years
+
+ Optaflu 
+Optaflu produced by Novartis was approved by the European Medicines Agency in 2009 for use in countries affiliated with the European Union The main differences are in release specifications for measuring vaccine lots safety efficacy and quality mostly due to differences between US and European regulatory standards and tests
+
+ Rotavirus 
+The Food and Drug Administration approved two mammalian vero cell based vaccines for rotavirus Rotarix by GlaxoSmithKline and RotaTeq by Merck & Co Inc
+ Measles 
+Attenuvax is a vaccine approved in 2007 against measles developed using a primary cell line
+
+ Smallpox 
+ACAM2000 is a smallpox vaccine approved by the Food and Drug Administration in 2007
+
+ Polio 
+IPOL developed by Sanofi Pasteur was approved by the Food and Drug Administration in 1987
+
+ Rabies 
+Verorab developed by Sanofi Pasteur is a mammalian vero cell based rabies vaccine approved by the World Health Organization
+
+Others
+Ixiaro by Valneva SE for Japanese encephalitis
+
+ References 
+
+
+ Further reading 
+ 
+
+ External links 
+ http://wwwemrowhoint/entity/vpi/ WHO Vaccine preventable diseases and immunization
+ https://wwwcellosaurusorg/search?input%22Vaccine%20production%20cell%20line%22 Cellosaurus list of cell lines that are/can be used for vaccine production
+
+
+
+
+

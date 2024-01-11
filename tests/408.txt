@@ -1,0 +1,244 @@
+
+
+
+
+File:Coord planes colorsvg
+In geometry a threedimensional space (3D space 3space or rarely tridimensional space) is a mathematical space in which three values (coordinates) are required to determine the position (geometry)The term may also refer colloquially to a subset of space a threedimensional region (or 3D domain (mathematical analysis)
+Technically a tuple of  Real numberWhen  this space is called the threedimensional Euclidean space (or simply "Euclidean space" when the context is clear) It serves as a model of the physical universe (when relativity theory is not considered) in which all known matter exists While this space remains the most compelling and useful way to model the world as it is experienced it is only one example of a large variety of spaces in three dimensions called 3manifolds In this classical example when the three values refer to measurements in different directions (Coordinate system
+History
+Books XI to XIII of Euclids Elements dealt with threedimensional geometry Book XI develops notions of orthogonality and parallelism of lines and planes and defines solids including parallelpipeds pyramids prisms spheres octahedra icosahedra and dodecahedra Book XII develops notions of similarity of solids Book XIII describes the construction of the five regular Platonic solids in a sphere
+
+In the 17th century threedimensional space was described with Cartesian coordinates with the advent of analytic geometry developed by René Descartes in his work La Géométrie and Pierre de Fermat in the manuscript Ad locos planos et solidos isagoge (Introduction to Plane and Solid Loci) which was unpublished during Fermats lifetime However only Fermats work dealt with threedimensional space
+
+In the 19th century developments of the geometry of threedimensional space came with William Rowan Hamiltons development of the quaternions In fact it was Hamilton who coined the terms scalar (mathematics)
+It was not until Josiah Willard Gibbs that these two products were identified in their own right and the modern notation for the dot and cross product were introduced in his classroom teaching notes found also in the 1901 textbook Vector Analysis written by Edwin Bidwell Wilson based on Gibbs lectures
+
+Also during the 19th century came developments in the abstract formalism of vector spaces with the work of Hermann Grassmann and Giuseppe Peano the latter of whom first gave the modern definition of vector spaces as an algebraic structure
+
+In Euclidean geometry
+
+Coordinate systems
+
+
+
+In mathematics analytic geometry (also called Cartesian geometry) describes every point in threedimensional space by means of three coordinates Three coordinate axis
+Other popular methods of describing the location of a point in threedimensional space include cylindrical coordinates and spherical coordinates though there are an infinite number of possible methods For more see Euclidean space
+
+Below are images of the abovementioned systems
+
+<gallery>
+Image:Coord XYZsvgImage:Cylindrical CoordinatessvgImage:Spherical Coordinates (Colatitude Longitude)svg</gallery>
+
+Lines and planes
+
+Two distinct points always determine a (straight) Line (geometry)
+Two distinct lines can either intersect be Parallel line
+Two distinct planes can either meet in a common line or are parallel (ie do not meet) Three distinct planes no pair of which are parallel can either meet in a common line meet in a unique common point or have no point in common In the last case the three lines of intersection of each pair of planes are mutually parallel
+
+A line can lie in a given plane intersect that plane in a unique point or be parallel to the plane In the last case there will be lines in the plane that are parallel to the given line
+
+A hyperplane is a subspace of one dimension less than the dimension of the full space The hyperplanes of a threedimensional space are the twodimensional subspaces that is the planes In terms of Cartesian coordinates the points of a hyperplane satisfy a single linear equation so planes in this 3space are described by linear equations A line can be described by a pair of independent linear equations—each representing a plane having this line as a common intersection
+
+Varignons theorem states that the midpoints of any quadrilateral in ℝ<sup>3</sup> form a parallelogram and hence are coplanar
+
+Spheres and balls
+
+File:Sphere wireframe 10deg 6rsvgA sphere in 3space (also called a 2sphere because it is a 2dimensional object) consists of the set of all points in 3space at a fixed distance  from a central point  The solid enclosed by the sphere is called a Ball (mathematics)
+The volume of the ball is given by
+
+<math display  block>V  \frac\pi r^</math>
+and the surface area of the sphere is
+<math display  block>A  4\pi r^2</math>
+Another type of sphere arises from a 4ball whose threedimensional surface is the 3sphere: points equidistant to the origin of the euclidean space  If a point has coordinates  then  characterizes those points on the unit 3sphere centered at the origin
+
+This 3sphere is an example of a 3manifold: a space which is looks locally like 3D space In precise topological terms each point of the 3sphere has a neighborhood which is homeomorphic to an open subset of 3D space
+
+Polytopes
+
+In three dimensions there are nine regular polytopes: the five convex Platonic solids and the four nonconvex KeplerPoinsot polyhedra
+
+!Class
+!colspan5!colspan4!Polyhedral symmetry!Tetrahedral symmetry!colspan2!colspan6!Coxeter group
+!A<sub>3</sub> 33
+!colspan2!colspan6!Symmetry order!Regular polyhedron
+Surfaces of revolution
+
+A Surface (topology)
+Simple examples occur when the generatrix is a line If the generatrix line intersects the axis line the surface of revolution is a right circular Cone (mathematics)
+Quadric surfaces
+
+In analogy with the conic sections the set of points whose Cartesian coordinates satisfy the general equation of the second degree namely
+:<math>Ax^2 + By^2 + Cz^2 + Fxy + Gyz + Hxz + Jx + Ky + Lz + M  0</math>
+where  and  are real numbers and not all of  and  are zero is called a quadric surface
+
+There are six types of degeneracy (mathematics) Ellipsoid
+ Hyperboloid of one sheet
+ Hyperboloid of two sheets
+ Elliptic cone
+ Elliptic paraboloid
+ Hyperbolic paraboloid
+
+The degenerate quadric surfaces are the empty set a single point a single line a single plane a pair of planes or a quadratic cylinder (a surface consisting of a nondegenerate conic section in a plane  and all the lines of  through that conic that are normal to ) Elliptic cones are sometimes considered to be degenerate quadric surfaces as well
+
+Both the hyperboloid of one sheet and the hyperbolic paraboloid are ruled surfaces meaning that they can be made up from a family of straight lines In fact each has two families of generating lines the members of each family are disjoint and each member one family intersects with just one exception every member of the other family Each family is called a regulus (geometry)
+In linear algebra
+Another way of viewing threedimensional space is found in linear algebra where the idea of independence is crucial Space has three dimensions because the length of a cuboid
+Dot product angle and length
+A vector can be pictured as an arrow The vectors magnitude is its length and its direction is the direction the arrow points A vector in  can be represented by an ordered triple of real numbers These numbers are called the components of the vector
+
+The dot product of two vectors  and  is defined as:
+
+:<math>\mathbf\cdot \mathbf  A_1B_1 + A_2B_2 + A_3B_3  \sum_^3 A_i B_i</math>
+
+The magnitude of a vector  is denoted by A The dot product of a vector  with itself is
+:<math>\mathbf A\cdot\mathbf A  \which gives
+: <math> \the formula for the Euclidean length of the vector
+
+Without reference to the components of the vectors the dot product of two nonzero Euclidean vectors  and  is given by
+:<math>\mathbf A\cdot\mathbf B  \where  is the angle between  and 
+
+Cross product
+
+The cross product or vector product is a binary operation on two Euclidean vector
+In function language the cross product is a function <math>\times: \mathbb^3 \times \mathbb^3 \rightarrow \mathbb^3</math>
+
+The components of the cross product are <math>\mathbf\times\mathbf  A_2B_3  B_2A_3 A_3B_1  B_3A_1 A_1B_2  B_1A_2</math> and can also be written in components using Einstein summation convention as <math>(\mathbf\times\mathbf)_i  \epsilon_A_jB_k</math> where <math>\epsilon_</math> is the LeviCivita symbol It has the property that <math>\mathbf\times \mathbf  \mathbf\times \mathbf</math>
+
+Its magnitude is related to the angle <math>\theta</math> between <math>\mathbf</math> and <math>\mathbf</math> by the identity
+<math display  block> 
+The space and product form an algebra over a field which is not commutative nor associative but is a Lie algebra with the cross product being the Lie bracket Specifically the space together with the product <math>(\mathbb^3\times)</math> is isomorphic to the Lie algebra of threedimensional rotations denoted <math>\mathfrak(3)</math> In order to satisfy the axioms of a Lie algebra instead of associativity the cross product satisfies the Jacobi identity For any three vectors <math>\mathbf \mathbf</math> and <math>\mathbf</math>
+
+<math display  block>\mathbf\times(\mathbf\times\mathbf) + \mathbf\times(\mathbf\times\mathbf) + \mathbf\times(\mathbf\times\mathbf)  0</math>
+
+One can in n dimensions take the product of  vectors to produce a vector perpendicular to all of them But if the product is limited to nontrivial binary products with vector results it exists only in three and Sevendimensional cross productFile:Cross product vectorsvg
+Abstract description
+
+
+It can be useful to describe threedimensional space as a threedimensional vector space <math>V</math> over the real numbers This differs from <math>\mathbb^3</math> in a subtle way By definition there exists a basis <math>\mathcal  \</math> for <math>V</math> This corresponds to an isomorphism between <math>V</math> and <math>\mathbb^3</math>: the construction for the isomorphism is found Basis (linear algebra)Coordinates
+On the other hand there is a preferred basis for <math>\mathbb^3</math> which is due to its description as a Cartesian product of copies of <math>\mathbb</math> that is <math>\mathbb^3  \mathbb\times \mathbb\times \mathbb</math> This allows the definition of canonical projections <math>\pi_i:\mathbb^3 \rightarrow \mathbb</math> where <math>1 \leq i \leq 3</math> For example <math>\pi_1(x_1x_2x_3)  x</math> This then allows the definition of the standard basis <math>\mathcal_  \</math> defined by
+<math display  block>\pi_i(E_j)  \delta_</math>
+where <math>\delta_</math> is the Kronecker delta Written out in full the standard basis is
+<math display  block>E_1  \begin1 \\ 0\\ 0\end E_2  \begin0 \\ 1\\ 0\end E_3  \begin0 \\ 0\\ 1\end</math>
+
+Therefore <math>\mathbb^3</math> can be viewed as the abstract vector space together with the additional structure of a choice of basis Conversely <math>V</math> can be obtained by starting with <math>\mathbb^3</math> and forgetting the Cartesian product structure or equivalently the standard choice of basis
+
+As opposed to a general vector space <math>V</math> the space <math>\mathbb^3</math> is sometimes referred to as a coordinate space
+
+Physically it is conceptually desirable to use the abstract formalism in order to assume as little structure as possible if it is not given by the parameters of a particular problem For example in a problem with rotational symmetry working with the more concrete description of threedimensional space <math>\mathbb^3</math> assumes a choice of basis corresponding to a set of axes But in rotational symmetry there is no reason why one set of axes is preferred to say the same set of axes which has been rotated arbitrarily Stated another way a preferred choice of axes breaks the rotational symmetry of physical space
+
+Computationally it is necessary to work with the more concrete description <math>\mathbb^3</math> in order to do concrete computations
+
+Affine description
+
+A more abstract description still is to model physical space as a threedimensional affine space <math>E(3)</math> over the real numbers This is unique up to affine isomorphism It is sometimes referred to as threedimensional Euclidean space Just as the vector space description came from forgetting the preferred basis of <math>\mathbb^3</math> the affine space description comes from forgetting the origin of the vector space Euclidean spaces are sometimes called Euclidean affine spaces for distinguishing them from Euclidean vector spaces
+
+This is physically appealing as it makes the translation invariance of physical space manifest A preferred origin breaks the translational invariance
+
+Inner product space
+
+The above discussion does not involve the dot product The dot product is an example of an inner product Physical space can be modelled as a vector space which additionally has the structure of an inner product The inner product defines notions of length and angle (and therefore in particular the notion of orthogonality) For any inner product there exist bases under which the inner product agrees with the dot product but again there are many different possible bases none of which are preferred They differ from one another by a rotation an element of the group of rotations SO(3)
+
+In calculus
+
+
+Gradient divergence and curl
+In a rectangular coordinate system the gradient of a (differentiable) function <math>f: \mathbb^3 \rightarrow \mathbb</math> is given by
+
+:<math>\nabla f  \frac \mathbf +
+\frac  \mathbf +
+\frac \mathbf</math>
+
+and in index notation is written
+
+<math displayblock>(\nabla f)_i  \partial_i f</math>
+
+The divergence of a (differentiable) vector field F  U i + V j + W k that is a function <math>\mathbf:\mathbb^3 \rightarrow \mathbb^3</math> is equal to the scalar (mathematics)
+:<math>\operatorname\\mathbf  \nabla\cdot\mathbf
+\frac
++\frac
++\frac\partial z
+ </math>
+
+In index notation with Einstein summation convention this is 
+<math displayblock>\nabla \cdot \mathbf  \partial_i F_i</math>
+
+Expanded in Cartesian coordinate system
+:<math>\begin \mathbf & \mathbf & \mathbf \\  \\
+ &  &  \\
+ \\  F_x & F_y & F_z \end</math>
+
+where i j and k are the unit vectors for the x y and zaxes respectively This expands as follows:
+
+:<math>\left(\frac   \frac\right) \mathbf + \left(\frac  \frac\right) \mathbf + \left(\frac  \frac\right) \mathbf</math>
+
+In index notation with Einstein summation convention this is 
+<math displayblock> (\nabla \times \mathbf)_i  \epsilon_\partial_j F_k</math>
+where <math>\epsilon_</math> is the totally antisymmetric symbol the LeviCivita symbol
+
+Line surface and volume integrals
+For some scalar field f : U ⊆ R<sup>n</sup> → R the line integral along a piecewise smooth curve C ⊂  U is defined as
+:<math>\int\limits_C f\ ds  \int_a^b f(\mathbf(t)) where r: a b → C is an arbitrary bijective parametric equation
+For a vector field F : U ⊆ R<sup>n</sup> → R<sup>n</sup> the line integral along a piecewise smooth curve C ⊂ U in the direction of r is defined as
+
+:<math>\int\limits_C \mathbf(\mathbf)\cdot\d\mathbf  \int_a^b \mathbf(\mathbf(t))\cdot\mathbf(t)\dt</math>
+
+where · is the dot product and r: a b → C is a bijective parametric equation
+A surface integral is a generalization of multiple integrals to integration over Surface (topology)
+:<math>
+\iint_ f \\mathrm dS
+ \iint_ f(\mathbf(s t)) \left\</math>
+where the expression between bars on the righthand side is the Magnitude (mathematics)
+A volume integral is an integral over a threedimensional Domain (mathematical analysis)When the integrand is trivial (unity) the volume integral is simply the regions volume
+It can also mean a multiple integral
+:<math>\iiint\limits_D f(xyz)\dx\dy\dz</math>
+
+Fundamental theorem of line integrals
+
+The fundamental theorem of line integrals says that a line integral through a gradient field can be evaluated by evaluating the original scalar field at the endpoints of the curve
+
+Let <math> \varphi : U \subseteq \mathbb^n \to \mathbb</math> Then
+
+:<math> \varphi\left(\mathbf\right)\varphi\left(\mathbf\right)  \int_\\mathbf \nabla\varphi(\mathbf)\cdot d\mathbf </math>
+
+Stokes theorem
+
+Stokes theorem relates the surface integral of the Curl (mathematics)
+:<math> \iint_ \nabla \times \mathbf \cdot \mathrm\mathbf  \oint_ \mathbf \cdot \mathrm \mathbf </math>
+
+Divergence theorem
+
+Suppose  is a subset of <math>\mathbb^n</math> (in the case of  3 V represents a volume in 3D space) which is compact space
+:oiint
+
+
+The left side is a volume integral over the volume  the right side is the surface integral over the boundary of the volume  The closed manifold  is quite generally the boundary of  oriented by outwardpointing Surface normal
+In topology
+File:WikipediaGlobeOnePiecestlThreedimensional space has a number of topological properties that distinguish it from spaces of other dimension numbers For example at least three dimensions are required to tie a knot theory
+In differential geometry the generic threedimensional spaces are 3manifolds which locally resemble <math>^3</math>
+
+In finite geometry
+Many ideas of dimension can be tested with finite geometry The simplest instance is PG(32) which has Fano planes as its 2dimensional subspaces It is an instance of Galois geometry a study of projective geometry using finite fields Thus for any Galois field GF(q) there is a projective space PG(3q) of three dimensions For example any three skew lines in PG(3q) are contained in exactly one regulus (geometry)
+See also
+ 3D rotation
+ Rotation formalisms in three dimensions
+ Dimensional analysis
+ Distance from a point to a plane
+ Fourdimensional space
+ 
+ Graph of a function of two variables Solid geometry
+
+Notes
+
+
+References
+ 
+ George B Arfken 
+
+External links
+
+
+ 
+ 
+ http://wwwnumbertheoryorg/book/cha8pdf Elementary Linear Algebra  Chapter 8: Threedimensional Geometry Keith Matthews from University of Queensland 1991
+
+

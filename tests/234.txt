@@ -1,0 +1,277 @@
+
+
+
+
+Infobox medical condition (new)
+
+<! Definition and symptoms >
+Middle East respiratory syndrome (MERS) is a viral respiratory infection caused by Middle East respiratory syndrome–related coronavirus (MERSCoV)
+
+<! Epidemiology and history >
+The 2012 Middle East respiratory syndrome coronavirus outbreak
+<! Cause and diagnosis >
+MERSCoV is a virus in the coronavirus family believed to be originally from bats
+
+<! Prevention and treatment >
+ there is no specific vaccine or treatment for the disease but a number are being developed The World Health Organization (WHO) recommends that those who come in contact with camels wash their hands and not touch sick camels They also recommend that CamelFood uses
+Previous infection with MERS can confer crossreactive immunity to SARSCoV2 and provide partial protection against COVID19 However coinfection with SARSCoV2 and MERS is possible and could lead to a reassortment
+
+Signs and symptoms
+File:Symptoms of MERS (raster)pngEarly reports compared the viruses to severe acute respiratory syndrome (SARS) and it has been referred to as Saudi Arabias SARSlike virus The first person 2012 Middle East respiratory syndrome coronavirus outbreak
+Cause
+
+Virology
+
+Image:MERSCoV electron micrograph1jpg
+Middle East respiratory syndrome is caused by the Middle East respiratory syndrome coronavirus
+Transmission
+
+
+ Camels 
+A study performed between 2010 and 2013 in which the incidence of MERS was evaluated in 310 dromedary
+ Between people 
+There has been evidence of limited but not sustained spread of MERSCoV from person to person both in households as well as in health care settings like hospitals Most transmission has occurred "in the circumstances of close contact with severely ill persons in healthcare or household settings" and there is no evidence of transmission from asymptomatic cases Cluster sizes have ranged from 1 to 26 people with an average of 27
+
+Diagnosis
+According to World Health Organization the interim case definition is that a confirmed case is identified in a person with a positive lab test by "molecular diagnostics including either a positive Polymerase chain reaction
+ World Health Organization 
+According to the WHO a probable case is:
+ A person with a fever respiratory infection and evidence of pneumonia or acute respiratory distress syndrome where testing for MERSCoV is unavailable or negative on a single inadequate specimen and the person has a direct link with a confirmed case
+ A person with an acute febrile respiratory illness with clinical Radiology A person with an acute febrile respiratory illness of any severity an inconclusive MERSCoV laboratory test (that is a positive screening test without confirmation) and a direct epidemiologic link with a confirmed MERSCoV case
+
+Centers for Disease Control
+In the United States the Centers for Disease Control and Prevention (CDC) recommend investigating any person with:
+ Fever and pneumonia or acute respiratory distress syndrome (based on clinical or radiological evidence) and either:
+ a history of travel from countries in or near the Arabian Peninsula within 14 days before symptom onset or
+ close contact with a symptomatic traveler who developed fever and acute respiratory illness (not necessarily pneumonia) within 14 days after traveling from countries in or near the Arabian Peninsula or
+ a member of a cluster of people with severe acute respiratory illness (eg fever and pneumonia requiring hospitalization) of unknown cause in which MERSCoV is being evaluated in consultation with state and local health departments
+ Fever and symptoms of respiratory illness (not necessarily pneumonia; eg cough shortness of breath) and being in a healthcare facility (as a patient worker or visitor) within 14 days before symptom onset in a country or territory in or near the Arabian Peninsula in which recent healthcareassociated cases of MERS have been identified
+ Fever or symptoms of respiratory illness (not necessarily pneumonia; eg cough shortness of breath) and close contact with a confirmed MERS case while the case was ill
+
+ Medical imaging 
+File:Ciu63501jpgChest radiograph
+ Laboratory testing 
+MERS cases have been reported to have leucopenia
+Several highly sensitive confirmatory realtime RTPCR assays exist for rapid identification of MERSCoV from patientderived samples These assays attempt to amplify upE (targets elements upstream of the E gene) open reading frame 1B (targets the ORF1b gene) and open reading frame 1A (targets the ORF1a gene) The WHO recommends the upE target for screening assays as it is highly sensitive In addition heminested sequencing amplicons targeting RdRp (present in all coronaviruses) and nucleocapsid (N) gene (specific to MERSCoV) fragments can be generated for confirmation via sequencing Reports of potential polymorphisms in the N gene between isolates highlight the necessity for sequencebased characterization
+
+The WHO recommended testing algorithm is to start with an upE RTPCR and if positive confirm with ORF 1A assay or RdRp or N gene sequence assay for confirmation If both an upE and secondary assay are positive it is considered a confirmed case
+
+Protocols for biologically safe immunofluorescence assays (IFA) have also been developed; however antibodies against coronavirus
+Prevention
+While the mechanism of spread of MERSCoV is currently not known based on experience with prior coronaviruses such as SARS the WHO currently recommends that all individuals coming into contact with MERS suspects should (in addition to standard precautions):
+ Wear a medical mask
+ Wear eye protection (ie goggles or a face shield)
+ Wear a clean non sterile long sleeved gown; and gloves (some procedures may require sterile gloves)
+ Perform hand hygiene before and after contact with the person and his or her surroundings and immediately after removal of personal protective equipment (PPE)
+For procedures which carry a risk of aerosolization such as intubation the WHO recommends that care providers also:
+ Wear a particulate respirator and when putting on a disposable particulate respirator always check the seal
+ Wear eye protection (ie goggles or a face shield)
+ Wear a clean nonsterile longsleeved gown and gloves (some of these procedures require sterile gloves)
+ Wear an impermeable apron for some procedures with expected high fluid volumes that might penetrate the gown
+ Perform procedures in an adequately ventilated room; ie minimum of 6 to 12 air changes per hour in facilities with a mechanically ventilated room and at least 60 liters/second/patient in facilities with natural ventilation
+ Limit the number of persons present in the room to the absolute minimum required for the persons care and support
+ Perform hand hygiene before and after contact with the person and his or her surroundings and after Personal protective equipmentThe duration of infectivity is also unknown so it is unclear how long people must be isolated but current recommendations are for 24 hours after resolution of symptoms In the SARS outbreak the virus was not cultured from people after the resolution of their symptoms
+
+It is believed that the existing SARS research may provide a useful template for developing vaccines and therapeutics against a MERSCoV infection and three others in progress all of which are viral vectored vaccines two AdenoviridaeUse in gene therapy and vaccination
+ Treatment 
+As of 2020 there is no specific vaccine or treatment for the disease
+
+Neither the combination of antivirals and interferons (ribavirin + interferon alfa2a or interferon alfa2b) nor corticosteroids improved outcomes
+
+Epidemiology
+
+File:World MERS outbreaksvg!
+! Cases
+! Deaths
+! 
+! colspan"4" 
+MERS has had a relatively low populationwide Basic reproduction number
+!2012
+Saudi Arabia
+
+MERS was also implicated in an outbreak in April 2014 in Saudi Arabia where MERS has infected 688 people and 282 MERSrelated deaths have been reported since 2012 In response to newly reported cases and deaths and the resignation of four doctors at Jeddahs King Fahd Hospital who refused to treat MERS patients for fear of infection the government removed the Minister of Health and set up three MERS treatment centers Eighteen more cases were reported in early May In June 2014 Saudi Arabia announced 113 previously unreported cases of MERS revising the death toll to 282
+
+A hospitalrelated outbreak in Riyadh in the summer of 2015 increased fears of an epidemic occurring during the annual Hajj pilgrimage that was to begin in late September After a period of few cases cases began increasing in the middle of the summer The Centers for Disease Control and Prevention
+In May 2019 14 cases of MERS were reported to the World Health Organisation (WHO) by Saudi authorities of which five were fatal All those who died had comorbidities and other relatively serious health problems ranging from only diabetes mellitus in one person (aged 35) to complicated combinations of diabetes mellitus hypertension and ischemic heart disease in two (65 and 80 years old) and diabetes mellitus hypertension and nephropathy in another one who was 73 years old Another patient who died and was 64 years old had diabetes mellitus and hypertension All those who died were males and three of them were reported to have had contact with and exposure to camels Among the nine persons who survived were two females who were believed to have had contact with a person infected with MERS one being a 23yearold healthcare worker Of the total 14 cases four were females and 10 were males All females survived Reports of fatal cases were from Riyadh Jeddah Madinah and Najran WHO did not recommend screening of travelers upon arrival or traveling restrictions
+
+United States
+On 2 May 2014 the Centers for Disease Control and Prevention (CDC) confirmed the first diagnosis of MERS in the United States at Community Hospital in Munster Indiana The man diagnosed was a health care worker who had been in Saudi Arabia a week earlier and was reported to be in good condition A second patient who also traveled from Saudi Arabia was reported in Orlando Florida on 12 May 2014
+
+Netherlands
+On 14 May 2014 officials in the Netherlands reported the first case had appeared
+
+South Korea
+
+File:2015 MERS in South KoreasvgIn May 2015 the first case in South Korea was confirmed in a man who had visited Saudi Arabia United Arab Emirates and Bahrain Another man from South Korea who was travelling to China was diagnosed as the first case in China So far no Chinese citizen has been found infected
+
+As of 27 June 2015 19 people in South Korea have died from 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea
+In 2018 a case was found in South Korea; the patient had recently returned from Kuwait (via Dubai)
+
+One study found that severe cases of illness had higher viral loads than milder cases and that concentrations peaked in the second week of illness
+
+Philippines
+In April 2014 MERS emerged in the Philippines with a suspected case of a homebound Overseas Filipino Worker (OFW) Several suspected cases involving individuals who were on the same flight as the initial suspected case are being tracked but are believed to have dispersed throughout the country Another suspected MERSinvolved death in Sultan Kudarat province caused the Department of Health (DOH) to put out an alert
+On 6 July 2015 the Department of Health
+United Kingdom
+On 27 July 2015 the accident and emergency department at Manchester Royal Infirmary closed after two patients were treated for suspected MERS infection The facility was reopened later that evening and it was later confirmed by Public Health England that the two patients had tested negative for the disease
+
+Kenya
+In January 2016 a larger outbreak of MERS among camels in Kenya was reported By 5 February 2016 more than 500 camels had died of the disease On 12 February 2016 the disease was reported to be MERS No human cases were identified although one study found antibodies in healthy humans in Kenya
+
+Comparisons
+
+!  !  !  
+The table above provides a comparison between the 2014 Saudi Arabia outbreak and the South Korean outbreak in 2015 of the Middle East Respiratory Syndrome Coronavirus (MERSCoV) infection
+
+History
+
+Collaborative efforts were used in the identification of the MERSCoV Egyptian virologist Dr Ali Mohamed Zaki isolated and identified a previously unknown coronavirus from the lungs of a 60yearold Saudi Arabian man with pneumonia and acute kidney injury<!ref name"thechartblogs" /> After routine diagnostics failed to identify the causative agent Zaki contacted Ron Fouchier a leading virologist at the Erasmus MC
+Fouchier used a broadspectrum "pancoronavirus" Reverse transcription polymerase chain reaction
+On 15 September 2012 Dr Zakis findings were posted on ProMEDmail<!ref name"promedmailorg"/> the Program for Monitoring Emerging Diseases a public health online forum<!ref name"thechartblogs" />
+
+The United Kingdoms Health Protection Agency (HPA) confirmed the diagnosis of severe respiratory illness associated with a new type of coronavirus in a second patient a 49yearold Qatari man who had recently been flown into the UK He died from an acute serious respiratory illness in a London hospital In September 2012 the UK HPA named it the London1 novel CoV/2012 and produced the virus preliminary phylogenetic tree the genetic sequence of the virus based on the viruss RNA obtained from the Qatari case
+
+On 25 September 2012 the WHO announced that it was "engaged in further characterizing the novel coronavirus" and that it had "immediately alerted all its Member States about the virus and has been leading the coordination and providing guidance to health authorities and technical health agencies" The Erasmus Medical Center (EMC) in Rotterdam "tested sequenced and identified" a sample provided to EMC virologist Ron Fouchier by Ali Mohamed Zaki in November 2012
+
+On 8 November 2012 in an article published in the New England Journal of Medicine Dr Zaki and coauthors from the Erasmus Medical Center published more details including a tentative name Human CoronavirusErasmus Medical Center (HCoVEMC) the viruss genetic makeup and closest relatives (including SARS)
+
+In May 2013 the Coronavirus Study Group of the International Committee on Taxonomy of Viruses adopted the official designation the Middle East Respiratory Syndrome Coronavirus (MERSCoV)<!ref namedeGroot /> which was adopted by WHO to "provide uniformity and facilitate communication about the disease" Prior to the designation WHO had used the nonspecific designation Novel coronavirus 2012 or simply the novel coronavirus
+
+Research
+When rhesus macaques were given Peginterferon alfa2b
+Researchers are investigating a number of medications including using interferon chloroquine chlorpromazine loperamide lopinavir camostat and nitazoxanide
+
+ References 
+Reflist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+External links
+
+
+
+Medical resources
+
+
+
+
+

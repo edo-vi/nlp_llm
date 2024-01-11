@@ -1,0 +1,22 @@
+Dynamical dimensional reduction or spontaneous dimensional reduction is the apparent reduction in the number of spacetime dimensions as a function of the distance scale or conversely the energy scale with which spacetime is probed At least within the current level of experimental precision our universe has three dimensions of space and one of time However the idea that the number of dimensions may increase at extremely small length scales was first proposed more than a century ago and is now fairly commonplace in theoretical physics Contrary to this a number of recent results in quantum gravity suggest the opposite behavior a dynamical reduction of the number of spacetime dimensions at small length scales 
+ Evidence for dimensional reduction
+The phenomenon of dimensional reduction has now been reported in a number of different approaches to quantum gravity String theory causal dynamical triangulations renormalization group approaches noncommutative geometry loop quantum gravity and HoravaLifshitz gravity all find that the dimensionality of spacetime appears to decrease from approximately 4 on large distance scales to approximately 2 on small distance scales 
+
+The evidence for dimensional reduction has come mainly although not exclusively from calculations of the spectral dimension The spectral dimension is a measure of the effective dimension of a manifold at different resolution scales Early numerical simulations within the causal dynamical triangulation (CDT) approach to quantum gravity found a spectral dimension of 402 ± 010 at large distances and 180 ± 025 at small distances This result created significant interest in dimensional reduction within the quantum gravity community A more recent study of the same point in the parameter space of CDT found consistent results namely 405 ± 017 at large distances and 197 ± 027 at small distances
+
+Currently there is no consensus on the correct theoretical explanation for the mechanism of dimensional reduction
+
+ Possible explanations 
+
+The ubiquity and consistency of dimensional reduction in quantum gravity has driven the search for a theoretical understanding of this phenomenon Currently there exist few proposed explanations for the observation of dimensional reduction 
+
+One proposal is that of scale invariance There is growing evidence that gravity may be nonperturbatively renormalizable as described by the asymptotic safety program which requires the existence of a nonGaussian fixed point at high energies towards which the couplings defining the theory flow
+
+A second possible explanation for dimensional reduction is that of asymptotic silence General relativity exhibits socalled asymptotic silence in the vicinity of a spacelike singularity which is the narrowing or focusing of light cones close to the Planck scale leading to a causal decoupling of nearby spacetime points In this scenario each point has a preferred spatial direction and geodesics see a reduced (1 + 1)dimensional spacetime
+
+Dimensional reduction implies a deformation or violation of Lorentz invariance and typically predicts an energy dependent speed of light Given such radical consequences an alternative proposal is that dimensional reduction should not be taken literally but should instead be viewed as a hint of new Planck scale physics
+
+ References 
+<! Inline citations added to your article will automatically display here See https://enwikipediaorg/wiki/WP:REFB for instructions on how to add citations >
+
+

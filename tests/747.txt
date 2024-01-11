@@ -1,0 +1,25 @@
+
+Virusbox
+
+
+Infectious hypodermal and hematopoietic necrosis (IHHN) is a Parvoviridae
+The disease is caused by a singlestranded DNA virus of the species Decapod pestylhamaparvovirus 1 earlier known as IHHN virus the smallest of the known penaeid shrimp viruses (22&nbsp;nanometre
+Virology
+This virus has been classified as Penaeus stylirostris hamaparvovirus The genome is 41 kilobases in length There are three open reading frames in its genome:  a left non structural protein (NS1) of 2001 base pairs (bp) a mid non structural protein (NS2) of 1092 bp and a right capsid protein of 990 bp NSI appears to be a DNA helicase with ATPase activity
+
+The mutation rate in the genome has been estimated to be ~14 x 10<sup>−4</sup> substitutions/site/year<ref nameRoblesSikisaka2011>RoblesSikisaka R Bohonak AJ McClenaghan LR Jr Dhar AK (2010) Genetic signature of rapid IHHNV (infectious hypodermal and hematopoietic necrosis virus) expansion in wild Penaeus shrimp populations PLoS One 5(7):e11799
+http://wwwplosoneorg/article/info%3Adoi%2F101371%2Fjournalpone0011799 Link</ref> This is considerably higher than the rate in the double stranded DNA viruses and similar to that found in RNA viruses It is also similar to the rate found in other single stranded DNA viruses
+
+References
+
+
+External links
+
+Viral zone http://viralzoneexpasyorg/all_by_species/569html
+
+
+
+
+
+
+

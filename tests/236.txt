@@ -1,0 +1,21 @@
+Fractional dose vaccination is a strategy to reduce the dose of a vaccine to achieve a vaccination policy goal that is more difficult to achieve with conventional vaccination approaches including deploying a vaccine faster in a pandemic reaching more individuals in the setting of limited healthcare budgets or minimizing side effects due to the vaccine
+
+Fractional dose vaccination exploits the nonlinear Dose–response relationship
+Fractional dose vaccination uses a fraction of the standard dose of a regular vaccine that is administered by the same or an alternative route (often Subcutaneous injection
+Fractional dose vaccination has been used or proposed in a number of relevant infectious poverty diseases including yellow fever COVID19
+
+Use
+ In the context of limited healthcare budgets 
+During the 2016 Angola and DR Congo yellow fever outbreak
+In Poliomyelitis fractional dose vaccination has been shown to be effective while reducing overall cost rendering polio vaccination available to more individuals
+
+ In the Covid19 pandemic 
+In a pandemic wave fractional dose vaccination is considered to accelerate widespread access to vaccination when vaccine supply is limited:
+
+In the COVID19 pandemic Epidemiological modelling
+To reduce side effects
+In some segments of the population disease risk is lower but specific vaccine side effect risks may be increased In such subpopulations fractional dose vaccination might optimize the benefitrisk ratio of vaccination for an individuum and optimize the costbenefit relation for society
+
+ References 
+
+

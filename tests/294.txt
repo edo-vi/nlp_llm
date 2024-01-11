@@ -1,0 +1,26 @@
+
+
+The Rosgen Stream Classification is a system for natural rivers in which morphological arrangements of stream characteristics are organized into relatively homogeneous stream types This is a widely used method for classifying streams and rivers based on common patterns of channel morphology The specific objectives of this stream classification system are as follows: 1) predict a rivers behavior from its appearance; 2) develop specific hydrologic and sediment relationships for a given stream type and its state; 3) provide mechanisms to extrapolate sitespecific data to stream reaches having similar characteristics; and 4) provide a consistent frame of reference for communicating stream River morphology
+ Hierarchy of the Rosgen Stream Classification 
+ Level I: Geomorphic Characterization 
+Level I categorize stream types into letters A  G based on their geomorphic characteristics that result from the integration of basin relief land form and valley morphology This is a general way in which the morphology of a stream can be described Many of the Level I criteria can be determined through topographic and landform maps aerial imagery and geospatial data
+
+ Level II: Morphological Description 
+Level II characterizes stream type by using numbers 1  6 in addition to letters A  G to include the assessments of the channel crosssection longitudinal profile and planform pattern Crosssection measurements include a streams entrenchment ratio width/depth ratio and dominant substrate The longitudinal and planform measurements consist of slope stream bed features sinuosity and meander width ratio Level II is a quantitative morphological assessment of the stream reach which provides greater detail from data collected in the field for the implementation into land management decisions
+
+ Level III: Assessment of Stream Condition and Departure from its Potential 
+Level III describes the existing condition of a stream as it relates to its stability response potential and function This level includes additional measurements such as sediment supply channel stability and flow regime which further describe the condition or “state” of the stream
+
+ Level IV: Field Data Verification 
+Level IV verifies the process relationships inferred from the previous three levels of classification The objective of this level is to determine empirical relationships for use in prediction (eg to develop Mannings n values from measured velocity)
+
+ Applications 
+The Rosgen Stream Classification is probably best applied as a communication tool to describe channel form Other uses for the Rosgen Stream Classification include fish habitat indices surveys of Riparian zone
+ Limitations 
+Problems with the use of the Rosgen Stream Classification are encountered with identifying Bankfull discharge
+Limitations for Level II classification involve time dependence uncertain applicability across physical environments difficulty in identification of a true equilibrium condition and uncertain process significance of classification criteria Implications of using the Rosgen Stream Classification include: (1) acceptance of the limitations (2) acceptance of the risk of classifying streams incorrectly and (3) classification results may be used inappropriately
+
+ References 
+<! Inline citations added to your article will automatically display here See https://enwikipediaorg/wiki/WP:REFB for instructions on how to add citations >
+
+

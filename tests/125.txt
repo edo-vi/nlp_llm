@@ -1,0 +1,19 @@
+
+
+Infectious tolerance is a term referring to a phenomenon where a tolerance-inducing state is transferred from one cell population to another. It can be induced in many ways; although it is often artificially induced it is a natural in vivo process. A number of research deal with the development of a strategy utilizing this phenomenon in transplantation immunology. The goal is to achieve long-term tolerance of the Transplant rejection
+ History 
+The term "infectious tolerance" was originally used by Gershon and Kondo in 1970 for suppression of naive lymphocyte populations by cells with regulatory function and for the ability to transfer a state of unresponsiveness from one animal to another. Gershon and Kondo discovered that T cells can not only amplify but also diminish immune responses. The T cell population causing this down-regulation was called suppressor T cells and was intensively studied for the following years (nowadays they are called regulatory T cells and are again a very attractive for research). These and other research in the 1970s showed greater complexity of immune regulation unfortunately these experiments were largely disregarded as methodological difficulties prevented clear evidence. Later developed new tolerogenic strategies have provided strong evidence to re-evaluate the phenomenon of T cell mediated suppression in particular the use of non-depleting anti-CD4 monoclonal antibodies demonstrating that neither thymus nor clonal deletion is necessary to induce tolerance. In 1989 was successfully induced classical transplantation tolerance to skin grafts in adult mice using antibodies blocking T cell coreceptors in CD4+ populations. Later was shown that the effect of monoclonal antibodies is formation of regulatory T lymphocytes. It has been shown that transfer of tolerance to other recipients can be made without further manipulation and that this tolerance transfer depends only on CD4+ T-lymphocytes. Because second-generation tolerance arises in the absence of any monoclonal antibodies to CD4 or CD8 it probably represents a natural response of the immune system which once initiated becomes self-sustaining. This ensures the long duration of once induced tolerance for as long as the donor antigens are present.
+
+ Mechanisms 
+File:Immunoregulation by regulatory T cells (Treg)..jpgDuring a tolerant state potential effector cells remain but are tightly regulated by induced antigen-specific CD4+ regulatory T cells (iTregs). Many subsets of iTregs play a part in this process but CD4<sup>+</sup>CD25<sup>+</sup>FoxP3<sup>+</sup> Tregs play a key role because they have the ability to convert conventional T cells into iTregs directly by secretion of the suppressive cytokines Transforming growth factor beta
+ See also 
+* Immune tolerance
+* Central tolerance
+* Peripheral tolerance
+* regulatory T cells
+* CD22* Immune tolerance in pregnancy
+
+
+ References 
+
+

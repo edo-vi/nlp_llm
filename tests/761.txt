@@ -1,0 +1,193 @@
+
+
+
+Fairness in Machine Learning
+ Context 
+
+Discussion about fairness in machine learning is a relatively recent topic Since 2016 there has been a sharp increase in research into the topic This increase could be partly accounted to an influential report by ProPublica that claimed that the COMPAS (software)
+In recent years tech companies have made tools and manuals on how to detect and reduce bias in machine learning IBM has tools for Python (programming language)
+Controversies
+The use of algorithmic decision making in the legal system has been a notable area of use under scrutiny In 2014 then United States Attorney General
+Racial and gender bias has also been noted in image recognition algorithms Facial and movement detection in cameras has been found to ignore or mislabel the facial expressions of nonwhite subjects In 2015 the automatic tagging feature in both Flickr and Google Photos was found to label black people with tags such as "animal" and "gorilla" A BeautyAI
+Other areas where machine learning algorithms are in use that have been shown to be biased include job and loan applications Amazon (company)
+ Group fairness criteria 
+In Statistical classificationNow let us define three main criteria to evaluate if a given classifier is fair that is if its predictions are not influenced by some of these sensitive variables
+
+ Independence 
+
+We say the random variables <math display"inline">(RA)</math> satisfy independence if the sensitive characteristics <math display"inline"> A </math> are Independence (probability theory)<math display"block"> R \bot A </math>
+We can also express this notion with the following formula:
+<math display"block"> P(R  r\ This means that the classification rate for each target classes is equal for people belonging to different groups with respect to sensitive characteristics <math>A</math>
+
+Yet another equivalent expression for independence can be given using the concept of mutual information between random variables defined as
+<math display"block"> I(XY)  H(X) + H(Y)  H(XY) </math>
+In this formula <math display"inline"> H(X) </math> is the Entropy (information theory)
+A possible relaxation (approximation)<math display"block"> P(R  r\ 
+Finally another possible Relaxation (approximation)
+ Separation 
+
+We say the random variables <math display"inline">(RAY)</math> satisfy separation if the sensitive characteristics <math display"inline"> A </math> are Independence (probability theory)<math display"block"> R \bot A\ We can also express this notion with the following formula:
+<math display"block"> P(R  r\ This means that all the dependence of the decision <math>R</math> on the sensitive attribute <math>A</math> must be justified by the actual dependence of the true target variable <math>Y</math>
+
+Another equivalent expression in the case of a binary target rate is that the Sensitivity and specificity<math display"block"> P(R  1\ <math display"block"> P(R  1\ 
+A possible relaxation of the given definitions is to allow the value for the difference between rates to be a Sign (mathematics)
+In some fields separation (separation coefficient) in a confusion matrix is a measure of the distance (at a given level of the probability score) between the predicted cumulative percent negative and predicted cumulative percent positive
+
+The greater this separation coefficient is at a given score value the more effective the model is at differentiating between the set of positives and negatives at a particular probability cutoff According to Mayes: "It is often observed in the credit industry that the selection of validation measures depends on the modeling approach For example if modeling procedure is parametric or semiparametric the KS test
+ Sufficiency 
+
+We say the random variables <math display"inline">(RAY)</math> satisfy sufficiency if the sensitive characteristics <math display"inline"> A </math> are Independence (probability theory)<math display"block"> Y \bot A\ We can also express this notion with the following formula:
+<math display"block"> P(Y  q\ This means that the probability theory
+ Relationships between definitions 
+
+Finally we sum up some of the main results that relate the three definitions given above:
+
+ Assuming <math display"inline"> Y </math> is binary if <math display"inline"> A </math> and <math display"inline"> Y </math> are not Independence (probability theory) If <math display"inline">(RAY)</math> as a joint distribution has positive probability theory
+It is referred to as total fairness when independence separation and sufficiency are all satisfied simultaneously However total fairness is not possible to achieve except in specific rhetorical cases
+
+ Mathematical formulation of group fairness definitions 
+
+ Preliminary definitions 
+
+
+Most statistical measures of fairness rely on different metrics so we will start by defining them When working with a binary numeral system True positive (TP): The case where both the predicted and the actual outcome are in a positive class
+ True negative (TN): The case where both the predicted outcome and the actual outcome are assigned to the negative class
+ False positive (FP): A case predicted to befall into a positive class assigned in the actual outcome is to the negative one
+ False negative (FN): A case predicted to be in the negative class with an actual outcome is in the positive one
+These relations can be easily represented with a confusion matrix a table that describes the accuracy of a classification model In this matrix columns and rows represent instances of the predicted and the actual cases respectively
+
+By using these relations we can define multiple metrics which can be later used to measure the fairness of an algorithm:
+ Positive predicted value (PPV): the fraction of positive cases which were correctly predicted out of all the positive predictions It is usually referred to as accuracy and precision False discovery rate (FDR): the fraction of positive predictions which were actually negative out of all the positive predictions It represents the probability theory Negative predicted value (NPV): the fraction of negative cases which were correctly predicted out of all the negative predictions It represents the probability theory False omission rate (FOR): the fraction of negative predictions which were actually positive out of all the negative predictions It represents the probability theory True positive rate (TPR): the fraction of positive cases which were correctly predicted out of all the positive cases It is usually referred to as sensitivity or recall and it represents the probability theory False negative rate (FNR): the fraction of positive cases which were incorrectly predicted to be negative out of all the positive cases It represents the probability theory True negative rate (TNR): the fraction of negative cases which were correctly predicted out of all the negative cases It represents the probability theory False positive rate (FPR): the fraction of negative cases which were incorrectly predicted to be positive out of all the negative cases It represents the probability theoryFile:RelationsEngjpgThe following criteria can be understood as measures of the three general definitions given at the beginning of this section namely Independence Separation and Sufficiency In the table to the right we can see the relationships between them
+
+To define these measures specifically we will divide them into three big groups as done in Verma et al: definitions based on a predicted outcome on predicted and actual outcomes and definitions based on predicted probabilities and the actual outcome
+
+We will be working with a binary classifier and the following notation: <math display"inline"> S </math> refers to the score given by the classifier which is the probability of a certain subject to be in the positive or the negative class <math display"inline"> R </math> represents the final classification predicted by the algorithm and its value is usually derived from <math display"inline"> S </math> for example will be positive when <math display"inline"> S </math> is above a certain threshold <math display"inline"> Y </math> represents the actual outcome that is the real classification of the individual and finally <math display"inline"> A </math> denotes the sensitive attributes of the subjects
+
+ Definitions based on predicted outcome 
+
+The definitions in this section focus on a predicted outcome <math display"inline"> R </math> for various probability distribution
+ Demographic parity also referred to as statistical parity acceptance rate parity and benchmarking A classifier satisfies this definition if the subjects in the protected and unprotected groups have equal probability of being assigned to the positive predicted class This is if the following formula is satisfied:<math display"block"> P(R  +\  Conditional statistical parity Basically consists in the definition above but restricted only to a subset of the instances In  mathematical notation this would be:<math display"block"> P(R  +\ 
+ Definitions based on predicted and actual outcomes 
+
+These definitions not only considers the predicted outcome <math display"inline"> R </math> but also compare it to the actual outcome <math display"inline"> Y </math>
+
+ Predictive parity also referred to as outcome test A classifier satisfies this definition if the subjects in the protected and unprotected groups have equal PPV This is if the following formula is satisfied:<math display"block"> P(Y  +\ : Mathematically if a classifier has equal PPV for both groups it will also have equal FDR satisfying the formula:<math display"block"> P(Y  \  False positive error rate balance also referred to as predictive equality A classifier satisfies this definition if the subjects in the protected and unprotected groups have aqual FPR This is if the following formula is satisfied:<math display"block"> P(R  +\ : Mathematically if a classifier has equal FPR for both groups it will also have equal TNR satisfying the formula:<math display"block"> P(R  \  False negative error rate balance also referred to as equal opportunity A classifier satisfies this definition if the subjects in the protected and unprotected groups have equal FNR This is if the following formula is satisfied:<math display"block"> P(R  \ : Mathematically if a classifier has equal FNR for both groups it will also have equal TPR satisfying the formula:<math display"block"> P(R  +\  Equalized odds also referred to as conditional procedure accuracy equality and disparate mistreatment A classifier satisfies this definition if the subjects in the protected and unprotected groups have equal TPR and equal FPR satisfying the formula:<math display"block"> P(R  +\  Conditional use accuracy equality A classifier satisfies this definition if the subjects in the protected and unprotected groups have equal PPV and equal NPV satisfying the formula:<math display"block"> P(Y  y\  Overall accuracy equality A classifier satisfies this definition if the subject in the protected and unprotected groups have equal prediction accuracy that is the probability of a subject from one class to be assigned to it This is if it satisfies the following formula:<math display"block"> P(R  Y\  Treatment equality A classifier satisfies this definition if the subjects in the protected and unprotected groups have an equal ratio of FN and FP satisfying the formula:<math display"block"> \frac  \frac </math>
+
+ Definitions based on predicted probabilities and actual outcome 
+
+These definitions are based in the actual outcome <math display"inline"> Y </math> and the predicted probability score <math display"inline"> S </math>
+
+ Testfairness also known as calibration or matching conditional frequencies A classifier satisfies this definition if individuals with the same predicted probability score <math display"inline"> S </math> have the same probability of being classified in the positive class when they belong to either the protected or the unprotected group:<math display"block"> P(Y  +\  Wellcalibration is an extension of the previous definition It states that when individuals inside or outside the protected group have the same predicted probability score <math display"inline"> S </math> they must have the same probability of being classified in the positive class and this probability must be equal to <math display"inline"> S </math>:<math display"block"> P(Y  +\  Balance for positive class A classifier satisfies this definition if the subjects constituting the positive class from both protected and unprotected groups have equal average predicted probability score <math display"inline"> S </math> This means that the expected value of probability score for the protected and unprotected groups with positive actual outcome <math display"inline"> Y </math> is the same satisfying the formula:<math display"block"> E(S\  Balance for negative class A classifier satisfies this definition if the subjects constituting the negative class from both protected and unprotected groups have equal average predicted probability score <math display"inline"> S </math> This means that the expected value of probability score for the protected and unprotected groups with negative actual outcome <math display"inline"> Y </math> is the same satisfying the formula:<math display"block"> E(S\ 
+ Equal confusion fairness 
+With respect to Confusion matrix
+ Independence: (TP + FP) / (TP + FP + FN + TN)
+ Separation: TN / (TN + FP) and TP / (TP + FN) (ie specificity and recall)
+ Sufficiency: TP / (TP +FP) and TN / (TN + FN) (ie precision and negative predictive value) and
+
+The distribution of the confusion matrix is known when the values of separation and sufficiency are given As a result any measure based on confusion matrices including independence may also be computed Therefore confusion matrices cover all three criteria and any other fairness metric based on TP FP TN and FN
+
+The notion of equal confusion fairness desires the confusion matrices of a given decision system to have the same distributions across all sensitive characteristics Equal confusion fairness test to identify any unfair behavior confusion parity error to quantify the extent of unfairness and a post hoc analysis method to identify the impacted groups are available as a opensource software
+
+ Social welfare function 
+
+Some scholars have proposed defining algorithmic fairness in terms of a social welfare function They argue that using a social welfare function enables an algorithm designer to consider fairness and predictive accuracy in terms of their benefits to the people affected by the algorithm It also allows the designer to trade off efficiency and equity in a principled way Sendhil Mullainathan has stated that algorithm designers should use social welfare functions in order to recognize absolute gains for disadvantaged groups For example a study found that using a decisionmaking algorithm in pretrial detention rather than pure human judgment reduced the detention rates for Blacks Hispanics and racial minorities overall even while keeping the crime rate constant
+
+ Individual Fairness criteria 
+
+An important distinction among fairness definitions is the one between group and individual notions Roughly speaking while group fairness criteria compare quantities at a group level typically identified by sensitive attributes (eg gender ethnicity age etc) individual criteria compare individuals In words individual fairness follow the principle that "similar individuals should receive similar treatments"
+
+There is a very intuitive approach to fairness which usually goes under the name of Fairness Through Unawareness (FTU) or Blindness that prescribe not to explicitly employ sensitive features when making (automated) decisions This is effectively a notion of individual fairness since two individuals differing only for the values of their sensitive attributes would receive the same outcome
+
+However in general FTU is subject to several drawbacks the main being that it does not take into account possible correlations between sensitive attributes and nonsensitive attributes employed in the decisionmaking process For example an agent with the (malignant) intention to discriminate on the basis of gender could introduce in the model a proxy variable for gender (ie a variable highly correlated with gender) and effectively using gender information while at the same time being compliant to the FTU prescription
+
+The problem of what variables correlated to sensitive ones are fairly employable by a model in the decisionmaking process is a crucial one and is relevant for Group_Fairness_criteria
+The most general concept of individual fairness was introduced in the pioneer work by Cynthia Dwork and collaborators in 2012 and can be thought of as a mathematical translation of the principle that the decision map taking features as input should be built such that it is able to "map similar individuals similarly" that is expressed as a Lipschitz continuity
+ Causalitybased metrics 
+Causal fairness measures the frequency with which two nearly identical users or applications who differ only in a set of characteristics with respect to which resource allocation must be fair receive identical treatment
+An entire branch of the academic research on fairness metrics is devoted to leverage causal models to assess bias in machine learning models This approach is usually justified by the fact that the same observational distribution of data may hide different causal relationships among the variables at play possibly with different interpretations of whether the outcome are affected by some form of bias or not
+
+Kusner et al propose to employ Causal modelCounterfactuals
+<math>     
+P(R_1\ </math>
+
+that is: taken a random individual with sensitive attribute <math>Aa</math> and other features <math>Xx</math> and the same individual if she had <math>A  b</math> they should have same chance of being accepted
+The symbol <math>\hat_</math> represents the counterfactual random variable <math>R</math> in the scenario where the sensitive attribute <math>A</math> is fixed to <math>Aa</math> The conditioning on <math>Aa Xx</math> means that this requirement is at the individual level in that we are conditioning on all the variables identifying a single observation
+
+Machine learning models are often trained upon data where the outcome depended on the decision made at that time For example if a machine learning model has to determine whether an inmate will recidivate and will determine whether the inmate should be released early the outcome could be dependent on whether the inmate was released early or not Mishler et al propose a formula for counterfactual equalized odds:
+
+<math>P(R1 
+where <math>R</math> is a random variable <math>Y^x</math> denotes the outcome given that the decision <math>x</math> was taken and <math>A</math> is a sensitive feature
+
+ Bias mitigation strategies 
+
+Fairness can be applied to machine learning algorithms in three different ways: data preprocessing mathematical optimization
+ Preprocessing 
+
+Usually the classifier is not the only problem; the dataset is also biased The discrimination of a dataset <math display"inline"> D </math> with respect to the group <math display"inline"> A  a </math> can be defined as follows:
+<math display"block"> disc_(D)  \frac
+That is an approximation to the difference between the probabilities of belonging in the positive class given that the subject has a protected characteristic different from <math display"inline"> a </math> and equal to <math display"inline"> a </math>
+
+Algorithms correcting bias at preprocessing remove information about dataset variables which might result in unfair decisions while trying to alter as little as possible This is not as simple as just removing the sensitive variable because other attributes can be correlated to the protected one
+
+A way to do this is to map each individual in the initial dataset to an intermediate representation in which it is impossible to identify whether it belongs to a particular protected group while maintaining as much information as possible Then the new representation of the data is adjusted to get the maximum accuracy in the algorithm
+ 
+This way individuals are mapped into a new multivariable representation where the probability of any member of a protected group to be mapped to a certain value in the new representation is the same as the probability of an individual which doesnt belong to the protected group Then this representation is used to obtain the prediction for the individual instead of the initial data As the intermediate representation is constructed giving the same probability to individuals inside or outside the protected group this attribute is hidden to the classificator
+
+An example is explained in Zemel et al where a multinomial distribution
+On the one hand this procedure has the advantage that the preprocessed data can be used for any machine learning task Furthermore the classifier does not need to be modified as the correction is applied to the Data set
+ Reweighing 
+
+Reweighing is an example of a preprocessing algorithm The idea is to assign a weight to each dataset point such that the weighted discrimination is 0 with respect to the designated group
+
+If the dataset <math display"inline"> D </math> was unbiased the sensitive variable <math display"inline"> A </math> and the target variable <math display"inline"> Y </math> would be Independence (probability theory)<math display"block"> P_(A  a \wedge Y  +)  P(A  a) \times P(Y  +)  \frac
+In reality however the dataset is not unbiased and the variables are not Independence (probability theory)<math display"block"> P_(A  a \wedge Y  +)  \frac
+To compensate for the bias the software adds a weight function<math display"block"> W(X)  \frac(A  X(A) \wedge Y  X(Y))(A  X(A) \wedge Y  X(Y)) </math>
+
+When we have for each <math display"inline"> X </math> a weight associated <math display"inline"> W(X) </math> we compute the weighted discrimination with respect to group <math display"inline"> A  a </math> as follows:
+<math display"block"> disc_(D)  \frac  \frac </math>
+
+It can be shown that after reweighting this weighted discrimination is 0
+
+Inprocessing
+
+Another approach is to correct the bias at training time This can be done by adding constraints to the optimization objective of the algorithm These constraints force the algorithm to improve fairness by keeping the same rates of certain measures for the protected group and the rest of individuals For example we can add to the objective of the algorithm the condition that the false positive rate is the same for individuals in the protected group and the ones outside the protected group
+
+The main measures used in this approach are false positive rate false negative rate and overall misclassification rate It is possible to add just one or several of these constraints to the objective of the algorithm Note that the equality of false negative rates implies the equality of true positive rates so this implies the equality of opportunity After adding the restrictions to the problem it may turn intractable so a relaxation on them may be needed
+
+This technique obtains good results in improving fairness while keeping high accuracy and lets the programmer choose the fairness measures to improve However each machine learning task may need a different method to be applied and the code in the classifier needs to be modified which is not always possible
+
+ Adversarial debiasing 
+
+We train two Statistical classification
+An important point here is that in order to propagate correctly <math display"inline"> \hat </math> above must refer to the raw output of the classifier not the discrete prediction; for example with an artificial neural network and a classification problem <math display"inline"> \hat </math> could refer to the output of the softmax function
+Then we update <math display"inline"> U </math> to minimize <math display"inline"> L_ </math> at each training step according to the gradient <math display"inline"> \nabla_L_ </math> and we modify <math display"inline"> W </math> according to the expression:
+<math display"block"> \nabla_L_  proj_L_\nabla_L_  \alpha \nabla_L_ </math>
+where <math display"alpha"> \alpha </math> is a tuneable hyperparameter optimization
+File:AdvFig2jpgThe intuitive idea is that we want the predictor to try to minimize <math display"inline"> L_ </math> (therefore the term <math display"inline"> \nabla_L_ </math>) while at the same time maximize <math display"inline"> L_ </math> (therefore the term <math display"inline">  \alpha \nabla_L_ </math>) so that the adversary fails at predicting the sensitive variable from  <math display"inline"> \hat </math>
+
+The term <math display"inline"> proj_L_\nabla_L_ </math> prevents the predictor from moving in a direction that helps the adversary decrease its loss function
+
+It can be shown that training a predictor classification model with this algorithm improves Definitions based on predicted outcome
+Postprocessing
+
+The final method tries to correct the results of a classifier to achieve fairness In this method we have a classifier that returns a score for each individual and we need to do a binary prediction for them High scores are likely to get a positive outcome while low scores are likely to get a negative one but we can adjust the critical value
+If the score function is fair in the sense that it is independent of the protected attribute then any choice of the threshold will also be fair but classifiers of this type tend to be biased so a different threshold may be required for each protected group to achieve fairness
+
+The advantages of postprocessing include that the technique can be applied after any classifiers without modifying it and has a good performance in fairness measures The cons are the need to access to the protected attribute in test time and the lack of choice in the balance between accuracy and fairness
+
+ Reject option based classification 
+
+Given a Statistical classification
+We say <math display"inline"> X </math> is a "rejected instance" if <math display"inline"> max(P(+
+The algorithm of "ROC" consists on classifying the nonrejected instances following the rule above and the rejected instances as follows: if the instance is an example of a deprived group (<math>X(A)  a</math>) then label it as positive otherwise label it as negative
+
+We can optimize different measures of discrimination (link) as functions of <math display"inline"> \theta </math> to find the optimal <math display"inline"> \theta </math> for each problem and avoid becoming discriminatory against the privileged group
+
+ See also 
+
+ Algorithmic bias
+ Machine learning
+
+ References 
+
+

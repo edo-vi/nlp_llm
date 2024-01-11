@@ -1,0 +1,98 @@
+
+File:Artificial_neural_networksvgConnectionism (coined by Edward Thorndike in the 1930s) is the name of an approach to the study of human mental processes and cognition that utilizes mathematical models known as connectionist networks or artificial neural networks Connectionism has had many waves since its beginnings
+
+The first wave appeared in the 1950s with Warren Sturgis McCulloch and Walter Pitts both focusing on comprehending neural circuitry through a formal and mathematical approach and Frank Rosenblatt who published the 1958 book “The Perceptron: A Probabilistic Model For Information Storage and Organization in the Brain” in Psychological Review while working at the Cornell Aeronautical Laboratory
+The first wave ended with the 1969 book about the limitations of the original perceptron idea written by Marvin Minsky and Papert which contributed to discouraging major funding agencies in the US from investing in connectionist research With a few noteworthy deviations the majority of connectionist research entered a period of inactivity until the mid1980s
+
+The second wave began in the late 1980s following the 1987 book about Parallel Distributed Processing by James L McClelland David E Rumelhart et al which introduced a couple of improvements to the simple perceptron idea such as intermediate processors (known as "hidden layers" now) alongside input and output units and used Sigmoid function
+The current (third) wave has been marked by advances in Deep Learning allowing for Large language models 
+
+Basic principle
+The central connectionist principle is that mental phenomena can be described by interconnected networks of simple and often uniform units The form of the connections and the units can vary from model to model For example units in the network could represent neurons and the connections could represent synapses as in the human brain This principle has been seen as an alternative to GOFAI and the classical theory of mind
+Activation function
+
+Internal states of any network change over time due to neurons sending a signal to a succeeding layer of neurons in the case of a feedforward network or to a previous layer in the case of a recurrent network Discovery of nonlinear activation functions has enabled the second wave of connectionism
+
+Memory and learning
+
+Neural networks follow two basic principles:
+
+ Any mental state can be described as an (N)dimensional Vector (mathematics) Memory and learning are created by modifying the weights of the connections between neural units generally represented as an N×M Matrix (mathematics)
+Most of the variety among the models comes from:
+ Interpretation of units: Units can be interpreted as neurons or groups of neurons
+ Definition of activation: Activation can be defined in a variety of ways For example in a Boltzmann machine the activation is interpreted as the probability of generating an action potential spike and is determined via a logistic function on the sum of the inputs to a unit
+ Learning algorithm: Different networks modify their connections differently In general any mathematically defined change in connection weights over time is referred to as the "learning algorithm"
+
+Biological realism
+Connectionist work in general does not need to be biologically realistic One area where connectionist models are thought to be biologically implausible is with respect to errorpropagation networks that are needed to support learning but error propagation can explain some of the biologicallygenerated electrical activity seen at the scalp in eventrelated potentials such as the N400 (neuroscience)
+Precursors
+Precursors of the connectionist principles can be traced to early work in psychology such as that of William James Psychological theories based on knowledge about the human brain were fashionable in the late 19th century  As early as 1869 the neurologist John Hughlings Jackson argued for multilevel distributed systems Following from this lead Herbert Spencers Principles of Psychology 3rd edition (1872) and Sigmund Freuds Project for a Scientific Psychology (composed 1895) propounded connectionist or protoconnectionist theories These tended to be speculative theories But by the early 20th century Edward Thorndike was experimenting on learning that posited a connectionist type network 
+
+Friedrich Hayek independently conceived the Hebbian theory
+The first wave
+The first wave begun in 1943 with Warren Sturgis McCulloch and Walter Pitts both focusing on comprehending neural circuitry through a formal and mathematical approach and Frank Rosenblatt who published the 1958 book “The Perceptron: A Probabilistic Model For Information Storage and Organization in the Brain” in Psychological Review while working at the Cornell Aeronautical Laboratory McCulloch and Pitts showed how neural systems could implement firstorder logic: Their classic paper "A Logical Calculus of Ideas Immanent in Nervous Activity" (1943) is important in this development here They were influenced by the important work of Nicolas Rashevsky in the 1930s Donald O Hebb
+The second wave
+The second wave begun in late 1980s following the 1987 book about the Parallel Distributed Processing by James L McClelland David E Rumelhart et al which has introduced a couple of improvements to the simple perceptron idea such as intermediate processors (known as "hidden layers" now) alongside input and output units and using Sigmoid function
+Connectionism vs computationalism debate
+As connectionism became increasingly popular in the late 1980s some researchers (including Jerry Fodor Steven Pinker and others) reacted against it  They argued that connectionism as then developing threatened to obliterate what they saw as the progress being made in the fields of cognitive science and psychology by the classical approach of computationalism Computationalism is a specific form of cognitivism that argues that mental activity is Computing
+Connectionism and computationalism need not be at odds but the debate in the late 1980s and early 1990s led to opposition between the two approaches  Throughout the debate some researchers have argued that connectionism and computationalism are fully compatible though full consensus on this issue has not been reached  Differences between the two approaches include the following:
+
+ Computationalists posit symbolic models that are structurally similar to underlying brain structure whereas connectionists engage in "lowlevel" modeling trying to ensure that their models resemble neurological structures
+ Computationalists in general focus on the structure of explicit symbols (mental models) and syntactical rules for their internal manipulation whereas connectionists focus on learning from environmental stimuli and storing this information in a form of connections between neurons
+ Computationalists believe that internal mental activity consists of manipulation of explicit symbols whereas connectionists believe that the manipulation of explicit symbols provides a poor model of mental activity
+ Computationalists often posit domain specificity
+Despite these differences some theorists have proposed that the connectionist architecture is simply the manner in which organic brains happen to implement the symbolmanipulation system This is logically possible as it is well known that connectionist models can implement symbolmanipulation systems of the kind used in computationalist models as indeed they must be able if they are to explain the human ability to perform symbolmanipulation tasks Several cognitive models combining both symbolmanipulative and connectionist architectures have been proposed Among them are Paul Smolenskys Integrated Connectionist/Symbolic Cognitive Architecture (ICS) and Ron Suns CLARION (cognitive architecture)  But the debate rests on whether this symbol manipulation forms the foundation of cognition in general so this is not a potential vindication of computationalism Nonetheless computational descriptions may be helpful highlevel descriptions of cognition of logic for example
+
+The debate was largely centred on logical arguments about whether connectionist networks could produce the syntactic structure observed in this sort of reasoning This was later achieved although using fastvariable binding abilities outside of those standardly assumed in connectionist models
+
+Part of the appeal of computational descriptions is that they are relatively easy to interpret and thus may be seen as contributing to our understanding of particular mental processes whereas connectionist models are in general more opaque to the extent that they may be describable only in very general terms (such as specifying the learning algorithm the number of units etc) or in unhelpfully lowlevel terms In this sense connectionist models may instantiate and thereby provide evidence for a broad theory of cognition (ie connectionism) without representing a helpful theory of the particular process that is being modelled In this sense the debate might be considered as to some extent reflecting a mere difference in the level of analysis in which particular theories are framed Some researchers suggest that the analysis gap is the consequence of connectionist mechanisms giving rise to Emergence
+In the 2000s the popularity of Cognitive ModelDynamical systems
+In 2014 Alex Graves (computer scientist)
+Symbolism vs connectionism debate
+
+Smolenskys Subsymbolic Paradigm has to meet the FodorPylyshyn challenge formulated by classical symbol theory for a convincing theory of cognition in modern connectionism In order to be an adequate alternative theory of cognition Smolenskys Subsymbolic Paradigm would have to explain the existence of systematicity or systematic relations in language cognition without the assumption that cognitive processes are causally sensitive to the classical constituent structure of mental representations The subsymbolic paradigm or connectionism in general would thus have to explain the existence of systematicity and compositionality without relying on the mere implementation of a classical cognitive architecture This challenge implies a dilemma: If the Subsymbolic Paradigm could contribute nothing to the systematicity and compositionality of mental representations it would be insufficient as a basis for an alternative theory of cognition However if the Subsymbolic Paradigms contribution to systematicity requires mental processes grounded in the classical constituent structure of mental representations the theory of cognition it develops would be at best an implementation architecture of the classical model of symbol theory and thus not a genuine alternative (connectionist) theory of cognition The classical model of symbolism is characterized by (1) a combinatorial syntax and semantics of mental representations and (2) mental operations as structuresensitive processes based on the fundamental principle of syntactic and semantic constituent structure of mental representations as used in Fodors "Language of Thought (LOT)" This can be used to explain the following closely related properties of human cognition namely its (1) productivity (2) systematicity (3) compositionality and (4) inferential coherence
+
+This challenge has been met in modern connectionism for example not only by Smolenskys "Integrated Connectionist/Symbolic (ICS) Cognitive Architecture" but also by Werning and Mayes "Oscillatory Networks" An overview of this is given for example by Bechtel & Abrahamsen Marcus and Maurer
+
+See also
+ 
+ Associationism
+ Artificial intelligence
+ Behaviorism
+ Catastrophic interference
+ Calculus of relations
+ Cybernetics
+ Deep learning
+ Eliminative materialism
+ Feature integration theory
+ Genetic algorithm
+ Harmonic grammar
+ Machine learning
+ Pandemonium architecture
+ Selforganizing map
+
+
+Notes
+
+
+References
+ Rumelhart DE JL McClelland and the PDP Research Group (1986) Parallel Distributed Processing: Explorations in the Microstructure of Cognition Volume 1: Foundations Cambridge Massachusetts: MIT Press 
+ McClelland JL DE Rumelhart and the PDP Research Group (1986) Parallel Distributed Processing: Explorations in the Microstructure of Cognition Volume 2: Psychological and Biological Models Cambridge Massachusetts: MIT Press 
+ Pinker Steven and Mehler Jacques (1988) Connections and Symbols Cambridge MA: MIT Press 
+ Jeffrey L Elman Elizabeth A Bates Mark H Johnson Annette KarmiloffSmith Domenico Parisi Kim Plunkett (1996) Rethinking Innateness: A connectionist perspective on development Cambridge MA: MIT Press 
+ Marcus Gary F (2001) The Algebraic Mind: Integrating Connectionism and Cognitive Science (Learning Development and Conceptual Change) Cambridge Massachusetts: MIT Press 
+
+ Maurer Harald (2021) Cognitive Science: Integrative Synchronization Mechanisms in Cognitive Neuroarchitectures of the Modern Connectionism Boca Raton/FL: CRC Press https://doiorg/101201/9781351043526 
+
+External links
+
+ http://philosophyuwaterlooca/MindDict/connectionismhtml Dictionary of Philosophy of Mind entry on connectionism
+ 
+ http://srsculbacbe/pdp/iac/IAChtml A demonstration of Interactive Activation and Competition Networks 
+ 
+ https://sapienlabsorg/thecrisisofcomputationalneuroscience/ Critique of connectionism
+
+
+
+
+

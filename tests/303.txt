@@ -1,0 +1,122 @@
+
+
+
+Infobox medical condition (new)
+
+<! Definition and symptoms >
+Chronic traumatic encephalopathy (CTE) is a Neurodegeneration
+<! Cause and diagnosis >
+Most documented cases have occurred in athletes involved in Strike (martial arts)
+<! Epidemiology and history >
+There is no specific treatment for the disease Rates of CTE have been found to be about 30% among those with a history of multiple head injuries; however population rates are unclear Research in brain damage as a result of repeated head injuries began in the 1920s at which time the condition was known as dementia pugilistica or "boxers dementia" "boxers madness" or "punch drunk syndrome" It has been proposed that the rules of some sports be changed as a means of prevention
+
+
+Signs and symptoms
+Symptoms of CTE which occur in four stages generally appear eight to ten years after an individual experiences repetitive mild traumatic brain injuries
+
+Firststage symptoms are confusion disorientation dizziness and headaches Secondstage symptoms include memory loss social instability impulsive behavior and poor judgment Third and fourth stages include progressive dementia movement disorders hypomimia speech impediments sensory processing disorder tremors vertigo deafness Major depressive disorder
+Additional symptoms include dysarthria dysphagia cognitive disorders such as amnesia and ocular abnormalities such as Ptosis (eyelid)
+Cause
+
+Most documented cases have occurred in athletes with mild repetitive head impacts (RHI) over an extended period of time Evidence indicates that repetitive concussive and subconcussive blows to the head cause CTE<ref>
+ https://wwwnaturecom/articles/labinvest201554 Chronic traumatic encephalopathy: A paradigm in search of evidence? Rudy J Castellani
+ https://wwwnaturecom/articles/nrneurol201732 New insights into the longterm effects of mild brain injury Charlotte Ridler  Nature Reviews Neurology volume 13 page195 (2017)
+ https://academicoupcom/brain/article/141/2/422/4815697 Concussion microvascular injury and early tauopathy in young athletes after impact head injury and an impact concussion mouse model  Brain Volume 141 Issue 2 February 2018
+ https://wwwncbinlmnihgov/pmc/articles/PMC4288217/ Clinical subtypes of chronic traumatic encephalopathy: literature review and proposed research diagnostic criteria for traumatic encephalopathy syndrome  Alzheimers Res Ther 2014; 6(5): 68 Published online 2014 Sep 24
+ https://wwwncbinlmnihgov/pmc/articles/PMC4238241/ Effects of Subconcussive Head Trauma on the Default Mode Network of the Brain  J Neurotrauma 2014 Dec 1; 31(23): 1907–1913
+ https://wwwfrontiersinorg/articles/103389/fnhum201900294/full Understanding the Consequences of Repetitive Subconcussive Head Impacts in Sport: Brain Changes and Dampened Motor Control Are Seen After Boxing Practice  ORIGINAL RESEARCH article Front Hum Neurosci 10 September 2019</ref> Specifically contact sports such as boxing American football Australian rules football Professional wrestling
+Pathology
+The Neuropathology
+The primary physical manifestations of CTE include a reduction in brain weight associated with atrophy of the frontal and temporal cortices and medial temporal lobe The lateral Ventricular system
+On a microscopic scale a pathognomonic CTE lesion involves ptau aggregates in neurons with or without thornshaped astrocytes at the depths of the cortical sulcus around a small blood vessel deep in the parenchyma and not restricted to the subpial and superficial region of the sulcus; the pathognomonic lesion must include ptau in neurons to distinguish CTE from ARTAG (Agingrelated tau astrogliopathy) Supporting features of CTE are: superficial neurofibrillary tangles (NFTs); p–tau in CA2 and CA4 hippocampus; ptau in: mammillary bodies hypothalamic nuclei amygdala nucleus accumbens thalamus midbrain tegmentum nucleus basalis of Meynert raphe nuclei substantia nigra and locus coeruleus; ptau thornshaped astrocytes (TSA) in the subpial region; ptau dotlike neurites Purely astrocytic perivascular ptau pathology represents ARTAG and does not meet the criteria for CTE
+
+A small group of individuals with CTE have chronic traumatic encephalomyopathy (CTEM) which is characterized by symptoms of motorneuron disease and which mimics amyotrophic lateral sclerosis (ALS) Progressive muscle weakness and balance and gait problems (problems with walking) seem to be early signs of CTEM
+
+Exosome (vesicle)
+Loss of neurons scarring of brain tissue collection of proteinaceous senile plaques hydrocephalus attenuation of the corpus callosum diffuse axonal injury neurofibrillary tangles and damage to the cerebellum are implicated in the syndrome Neurofibrillary tangles have been found in the brains of dementia pugilistica patients but not in the same distribution as is usually found in people with Alzheimers One group examined slices of brain from patients having had multiple mild traumatic brain injuries and found changes in the cells cytoskeletons which they suggested might be due to damage to cerebral blood vessels
+
+Increased exposure to concussions and subconcussive blows is regarded as the most important risk factor In boxing this exposure can depend on the total number of fights number of knockout losses the duration of career fight frequency age of retirement and boxing style
+
+Diagnosis
+Diagnosis of CTE cannot be made in living individuals; a clear diagnosis is only possible during an autopsy Though there are signs and symptoms some researchers associate with CTE there is no definitive test to prove the existence in a living person Signs are also very similar to those of other neurological conditions such as Alzheimers
+
+The lack of distinct biomarkers is the reason CTE cannot typically be diagnosed while a person is alive Concussions are nonstructural injuries and do not result in brain bleeding which is why most concussions cannot be seen on routine neuroimaging tests such as CT or MRI Acute concussion symptoms (those that occur shortly after an injury) should not be confused with CTE Differentiating between prolonged postconcussion syndrome (PCS where symptoms begin shortly after a concussion and last for weeks months and sometimes even years) and CTE symptoms can be difficult Research studies are examining whether neuroimaging can detect subtle changes in axonal integrity and structural lesions that can occur in CTE By the early 2010s more progress in invivo diagnostic techniques for CTE had been made using Diffusion tensor imaging
+Positron emission tomography
+A putative biomarker for CTE is the presence in serum of autoantibodies against the brain The autoantibodies were detected in football players who experienced a large number of head hits but no concussions suggesting that even subconcussive episodes may be damaging to the brain The autoantibodies may enter the brain by means of a disrupted Blood brain barrier
+According to 2017 study on brains of deceased gridiron football players 99% of tested brains of NFL players 88% of CFL players 64% of semiprofessional players 91% of college football players and 21% of high school football players had various stages of CTE Players still alive are not able to be tested
+
+ Imaging 
+Although the diagnosis of CTE cannot be determined by imaging the effects of head trauma may be seen with the use of structural imaging Imaging techniques include the use of magnetic resonance imaging nuclear magnetic resonance spectroscopy CT scan singlephoton emission computed tomography Diffusion MRI and Positron emission tomography (PET)
+
+ Prevention 
+
+The use of helmets and mouthguards has been put forward as a possible preventative measure; though neither has significant research to support its use both have been shown to reduce direct head trauma Although there is no significant research to support the use of helmets to reduce the risk of concussions there is evidence to support that helmet use reduces impact forces Mouth guards have been shown to decrease dental injuries but again have not shown significant evidence to reduce concussions Because repeated impacts are thought to increase the likelihood of CTE development a growing area of practice is improved recognition and treatment for concussions and other head trauma; removal from sport participation during recovery from these traumatic injuries is essential Proper returntoplay protocol after possible brain injuries is also important in decreasing the significance of future impacts
+
+Efforts are being made to change the rules of contact sports to reduce the frequency and severity of blows to the head Examples of these rule changes are the evolution of tackling technique rules in American football such as the banning of helmetfirst tackles and the addition of rules to protect defenseless players Likewise another growing area of debate is better implementation of rules already in place to protect athletes
+
+Because of the concern that boxing may cause CTE there is a movement among medical professionals to ban the sport Medical professionals have called for such a ban as early as the 1950s
+
+Management
+No cure exists for CTE and because it cannot be tested for until an autopsy is performed people cannot know if they have it Treatment is supportive as with other forms of dementia Those with CTErelated symptoms may receive medication and nonmedication related treatments
+
+Epidemiology
+Rates of disease have been found to be about 30% among those with a history of multiple head injuries Population rates however are unclear
+
+Professional level athletes are the largest group with CTE due to frequent concussions and subconcussive impacts from play in contact sport These contactsports include American football Australian rules football ice hockey Rugby football (Rugby union and Rugby league) boxing kickboxing mixed martial arts association football In association football only prolific Header (association football)
+Cases of CTE were also recorded in baseball
+
+According to a 2017 study on brains of deceased gridiron football players 99% of tested brains of NFL players 88% of CFL players 64% of semiprofessional players 91% of college football players and 21% of high school football players had various stages of CTE
+
+Other individuals diagnosed with CTE were those involved in military service had a previous history of chronic seizures were domestically abused or were involved in activities resulting in repetitive head collisions
+
+History
+CTE was originally studied in boxers in the 1920s as "punchdrunk syndrome" Punchdrunk syndrome was first described in 1928 by a forensic pathologist Dr Harrison Stanford Martland who was the chief medical examiner of Essex County New Jersey
+Other terms for the condition have included chronic boxers encephalopathy traumatic boxers encephalopathy boxers dementia pugilistic dementia chronic traumatic brain injury associated with boxing (CTBIB) and punchdrunk syndrome
+
+British neurologist Macdonald Critchley wrote a 1949 paper titled "Punchdrunk syndromes: the chronic traumatic encephalopathy of boxers" CTE was first recognized as affecting individuals who took considerable blows to the head but was believed to be confined to boxers and not other athletes As evidence pertaining to the clinical and neuropathological consequences of repeated mild head trauma grew it became clear that this pattern of neurodegeneration was not restricted to boxers and the term chronic traumatic encephalopathy became most widely used
+
+In October 2022 the United States National Institutes of Health formally acknowledged there was a causal link between repeated blows to the head and CTE
+
+Research
+In 2005 forensic pathologist Bennet Omalu along with colleagues in the Department of Pathology at the University of Pittsburgh published a paper "Chronic Traumatic Encephalopathy in a National Football League Player" in the journal Neurosurgery (journal)
+In 2008 the Center for the Study of Traumatic Encephalopathy at the Boston University School of Medicine
+On December 21 2009 the National Football League Players Association announced that it would collaborate with the Boston University CTE Center and Brain Bank
+In 2010 20 more NFL players and former players pledged to join the VABUCLF Brain Donation Registry including Chicago Bears linebacker Hunter Hillenmeyer Hall of Famer Mike Haynes (cornerback)
+In 2011 former North Queensland Cowboys player Shaun Valentine became the first Australian National Rugby League player to agree to donate his brain upon his death in response to recent concerns about the effects of concussions on Rugby League players who do not use helmets Also in 2011 boxer Micky Ward whose career inspired the film The Fighter agreed to donate his brain upon his death In 2018 NASCAR driver Dale Earnhardt Jr who retired in 2017 citing multiple concussions became the first auto racing competitor agreeing to donate his brain upon his death
+
+In related research the Center for the Study of Retired Athletes which is part of the Department of Exercise and Sport Science at the University of North Carolina at Chapel Hill is conducting research funded by National Football League Charities to "study former football players a population with a high prevalence of exposure to prior Mild Traumatic Brain Injury (MTBI) and subconcussive impacts in order to investigate the association between increased football exposure and recurrent MTBI and neurodegenerative disorders such as cognitive impairment and Alzheimers disease (AD)"
+
+In February 2011 former NFL player Dave Duerson committed suicide via a gunshot to his chest thus leaving his brain intact Duerson left text messages to loved ones asking that his brain be donated to research for CTE The family got in touch with representatives of the Boston University center studying the condition said Robert Stern the codirector of the research group Stern said Duersons gift was the first time of which he was aware that such a request had been made by someone who had committed suicide that was potentially linked to CTE Stern and his colleagues found high levels of the protein tau in Duersons brain These elevated levels which were abnormally clumped and pooled along the brain sulci
+
+In July 2010 NHL enforcer Bob Probert died of heart failure Before his death he asked his wife to donate his brain to CTE research because it was noticed that Probert experienced a mental decline in his 40s In March 2011 researchers at Boston University concluded that Probert had CTE upon analysis of the brain tissue he donated He was the second NHL player from the program at the BU CTE Center to be diagnosed with CTE postmortem
+
+The BU CTE Center has also found indications of links between amyotrophic lateral sclerosis (ALS) and CTE in athletes who have participated in contact sports Tissue for the study was donated by twelve athletes and their families to the VABUCLF Brain Bank at the Bedford Massachusetts United States Department of Veterans Affairs
+In 2013 Barack Obama
+Nearly 20% of the more than 25 million US Military personnel
+After a competitive application process a consortium led by Virginia Commonwealth University was awarded funding to study brain injuries in military veterans  The project principal investigator for the CENC is David Cifu chairman and Herman J Flax professor of the Department of Physical Medicine and Rehabilitation (PM&R) at Virginia Commonwealth University (VCU) in Richmond Virginia with coprincipal investigators Ramon DiazArrastia Professor of Neurology Uniformed Services University of the Health Sciences and Rick L Williams statistician at RTI International
+
+In 2017 Aaron Hernandez a former professional football player and convicted murderer committed suicide at the age of 27 while in prison His family donated his brain to the Boston University CTE Center and Brain Bank
+In 2022 former NRL player and coach Paul Green died by suicide at the age of 49  Greens brain was donated to the Australian Sports Brain Bank with his family posting on the website "In memory of our beloved Paul we ask that you support the pioneering work of the Australian Sports Brain Bank" with a goal of raising money for further understanding of CTE A postmortem examination revealed that Green was suffering from one of the most "severe forms" of CTE Professor Michael Buckland said Green had "an organic brain disease which robbed him of his decisionmaking and impulse control" He added Green would likely have been "symptomatic for some time"
+
+Research into the genetic component of CTE is evolving and well summarized in a recent review Interestingly the minor allele of TMEM106B has been found to be associated with a protective phenotype
+
+In 2023 Australian rules football player Heather Anderson became the first female athlete diagnosed with CTE after her death by suicide on 13 November 2022 at the age of 28 Her brain which was donated to the Australian Sports Brain Bank was found to contain multiple CTE lesions and abnormalities were found "nearby everywhere" in the cortex
+
+See also
+
+ Acquired brain injury
+ Brain damage
+ Concussions in American football
+ Concussions in rugby union
+ Health issues in American football
+List of NFL players with chronic traumatic encephalopathy
+The Hit (Chuck Bednarik)
+ Traumatic brain injury
+
+ References 
+
+
+Medical condition classification and resources
+         
+
+

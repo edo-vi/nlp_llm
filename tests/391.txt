@@ -1,0 +1,140 @@
+
+Multiple issues
+
+
+
+
+Infobox philosopher
+plainlistGauss Professor (2009)
+Barwise Prize (2009)
+Covey Award (2012)
+Weizenbaum Award (2013)
+Malpensa Prize (2015)
+Copernicus Award (2016)
+J Ong Award (2016)
+
+
+ Sapienza University of Rome
+ University of Warwick
+
+
+
+Luciano Floridi (; born 16 November 1964) is an Italian people
+Floridi is best known for his work on two areas of philosophical research: the philosophy of information and information ethics (also known as digital ethics or computer ethics) for which he received many awards including the Knight of the Grand Cross of the Order of Merit Italys most prestigious honour According to Scopus Floridi was the most cited living philosopher in the world in 2020
+
+Between 2008 and 2013 he held the research chair in philosophy of information and the UNESCO Chair in Information and Computer Ethics at the University of Hertfordshire He was the founder and director of the IEG an interdepartmental research group on the philosophy of information at the University of Oxford and of the GPI the research Group in Philosophy of Information at the University of Hertfordshire He was the founder and director of the :it:SWIF
+ Early life and education 
+Floridi was born in Rome in 1964 and studied at Rome University La Sapienza (laurea first class with distinction 1988) where he was originally educated as a history of philosophy
+ Academic career and previous positions 
+Floridi started his academic career as a lecturer in philosophy at the University of Warwick in 1990–1991 He joined the Faculty of Philosophy of the University of Oxford in 1990 and the OUCL (Oxfords Department of Computer Science) in 1999 He was junior research fellow (JRF) in philosophy at Wolfson College Oxford
+In 2017 Floridi became a Fellow of the Alan Turing Institute and the Chair of its Data Ethics Group holding these positions until 2021 and 2020 respectively
+
+Since 2010 he has been EditorinChief of https://wwwspringercom/journal/13347 Philosophy & Technology (Springer)
+
+In January 2023 Floridi announced he would move to Yale at the beginning of the academic year 2023–2024 to take over the position of Founding Director of the Yale Digital Ethics Center
+
+ Philosophical views 
+
+Floridi is one of the leading thinkers in the emerging disciplines of the philosophy of information the philosophy of technology information ethics and the ethics of AI His work has helped to establish the philosophical and ethical study of information as a distinct and important field of inquiry
+
+Floridis work focuses on the philosophical ethical social and political implications of the increasing role that information and communication technologies play in our lives He is particularly concerned with the increasing digitization of our world the conceptual and ethical implications of the changing relationship between humans and technology and the need for a new philosophical framework to accommodate these changes
+
+He argues that we need to develop a new ethical approach to understand and shape the changes brought about by the information revolution and that the latest developments in technology and science must inform this approach He has been instrumental in promoting the development of digital ethics interacting with governments and companies worldwide
+
+One of Floridis key contributions is his formulation of the Philosophy of Information (PoI) The PoI provides a framework for understanding the nature of information and its role in the world According to Floridi information is a vital resource that shapes our knowledge and understanding of the world It is not simply a neutral representation of reality but a part of the world with its own properties effects and moral implications
+
+Floridis PoI has several key components including an ontology of information which defines the nature of information an ethics of information which provides a framework for evaluating the moral implications of information and information technologies an epistemology of information that analyses the role of information in the development of knowledge and science and a logic of information the concentrates on the more formal aspects The PoI also includes a theory of the information environment the infosphere which encompasses the physical social and cultural contexts in which information is produced used and communicated
+
+Floridis work has profoundly impacted the field of digital ethics and the philosophy and ethics of AI and has helped establish them as distinct and important areas of inquiry He has written more than 300 papers and many books on the subject including:
+
+"Information: A Very Short Introduction" (OUP 2010)  An overview of the concept of information including its history definition and applications
+
+"The Philosophy of Information" (OUP 2011) – An analysis of the concept of information and its implications for philosophy ethics and society
+
+"The Ethics of Information" (OUP 2013)  An examination of the moral and ethical implications of the Information Age
+
+"The Fourth Revolution: How the Infosphere is Reshaping Human Reality" (OUP 2014) – A study of how the digital revolution is transforming our understanding of reality and shaping our identities and lives
+
+"The Logic of Information" (OUP 2019)  An exploration of the formal aspects of the dynamics of logic and the abstract foundations of the nature of information combining insights from philosophy computer science and the social sciences
+
+He has edited many books and The Onlife Manifesto  Being Human in a Hyperconnected Era is the most successful book published by Springer with almost 1m accesses
+
+Floridis work has been widely cited and is highly regarded in the academic community He is also a soughtafter speaker and commentator on digital issues and has given many public lectures and interviews on these subjects (see YouTube channel) He is engaged with emerging policy initiatives on the socioethical value and implications of digital technologies and their applications working closely on digital/data ethics (including the ethics of algorithms and AI) with the House of Commons the House of Lords the Cabinet Office FCA DCMS ICO the Centre for Data Ethics and Innovation and internationally with the European Parliament the European Commission the Council of Europe UNESCO the German Ethics Council Italys Camera dei Deputati as well as with many multinational corporations (eg Barclays Capgemini Cisco DeepMind Deloitte Ernst & Young
+ Recognitions and awards 
+2022  Knight of the Grand Cross  First Class of the Order of Merit (Cavaliere di Gran Croce Ordine al Merito della Repubblica Italiana the highest honour in the Italian Republic) awarded through a special decree by the President of the Italian Republic Sergio Mattarella for his work on the philosophy and ethics of information
+
+2022  Fellow of the Academy of Sciences of the Institute of Bologna
+2021  Honorary Doctorate (Laurea honoris causa) in Informatics University of Skövde Sweden for "his groundbreaking work on the philosophy of information"
+
+2020  Premio Udine Filosofia Mimesis Festival for The Logic of Information (OUP 2019)
+
+2020  Premio Socrate Cesare Landa Foundation for philosophical communication
+
+2019  CogX Award for "outstanding achievement in ethics of AI"
+
+2019  Gilbert Ryle Lectures Trent University
+
+2019  Premio Aretè "Maestro della Responsabilità" Nuvolaverde Confindustria Gruppo 24 Ore Salone della CSR e dellinnovazione sociale for ethics of communication
+
+2018  Thinker Award IBM for AI Ethics
+
+2018  Premio Conoscenza Conferenza dei Rettori delle Università Italiane (CRUI equivalent of Universities UK)) for achievements in research and communication about digital ethics
+
+2017  Fellow of the Academy of Social Sciences
+
+2016  J Ong Award Media Ecology Association for The Fourth Revolution (OUP 2016)
+
+2016  Copernicus Scientist Award Institute for Advanced Studies of the University of Ferrara in recognition of research in the ethics and philosophy of information
+
+2015  Fernand Braudel Senior Fellow European University Institute
+
+201415  Cátedras de Excelencia Charles III University of Madrid
+2013  Member of the International Academy of Philosophy of Science
+2013  Fellow of the British Computer Society
+
+2013  Weizenbaum Award International Society for Ethics and Information Technology for "very significant contribution to the field of information and computer ethics through his research service and vision"
+
+2012  Covey Award International Association for Computing and Philosophy for "outstanding research in computing and philosophy"
+
+201112  Fellow Center for Information Policy Research University of Wisconsin–Milwaukee
+
+2011  Honorary Doctorate (Laurea honoris causa) in philosophy Ștefan cel Mare University of Suceava
+2011  Fellow World Technology Network NY in the category "ethics and technology"
+
+2010  Vice Chancellor Research Award University of Hertfordshire
+
+2009  Fellow of the Society for the Study of Artificial Intelligence and the Simulation of Behaviour (AIBS)
+
+200910  Gauss Professor of the Göttingen Academy of Sciences and Humanities
+2009  Barwise Prize American Philosophical Association for "outstanding research in ethics and philosophy of information"
+
+1998  Premio WWW98 "Il Sole 24 Ore" for online editorial work as Director of SWIF the Italian Web Site for Philosophy
+
+ Books and other works 
+A list of Floridis books can be found on his https://wwwamazoncouk/LucianoFloridi/e/B0034Q2J74?refsr_ntt_srch_lnk_1&qid1676372091&sr11 author page  A list of his academic publications is available on https://scholargooglecom/citations?userjZdTOaoAAAAJ&hlen Google Scholar Open access articles and papers are also available through https://papersssrncom/sol3/cf_dev/AbsByAuthcfm?per_id2644503 SSRN
+
+ Podcasts and videos 
+See Floridis official https://wwwyoutubecom/user/floridi?appdesktop YouTube channel
+
+ See also 
+ Digital physics
+ Information theory
+ Logic of information
+ Philosophy of artificial intelligence
+ Philosophy of technology
+ Philosophy of information
+
+ Notes 
+
+
+ External links 
+
+http://wwwphilosophyofinformationnet/ Home page and articles online
+https://webarchiveorg/web/20161201215203/https://cyceoncom/2016/11/21/lucianofloridioxfordukgoogleinterview/ "We dislike the truth and love to be fooled" – Interview of Luciano Floridi on Cyceon 21 November 2016
+http://wwwphilosophyofinformationnet/media/intervista%20rai%20internationalmp3 Interview for RAI International Taccuino Italiano 5 March 2008 (in Italian)
+https://webarchiveorg/web/20071216120840/http://wwwphilosophyofinformationnet/pdf/apapacipdf Interview for the American Philosophical Association — Philosophy And Computing Newsletter
+https://webarchiveorg/web/20080513154630/http://wwwblackwellpublishingcom/pci/authorhtm Biography in English
+
+
+
+

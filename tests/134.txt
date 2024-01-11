@@ -1,0 +1,33 @@
+
+A vaccine vial monitor (VVM) is a Thermochromism
+History
+When international vaccine care standards were being designed in the 1970s the manuals typically generalized from the needs of care for the oral polio vaccine since that was the most delicate vaccine in wide use
+
+In the 1970s Program for Appropriate Technology in Health
+In 2007 in Geneva the World Health Organization hosted a commemoration of the 10year anniversary of the introduction of VVMs In 2007 PATH won a Tech Award for the development of the VVM
+
+Use
+The vaccine vial monitor consists of a heat sensitive square within a circle  If the monitor is exposed to heat it changes color with time and with increasing speed in hotter conditions  If the square becomes the same color as the circle or becomes darker than the circle then the vaccine contained in the vial is damaged and the vial should be discarded
+
+Studies have shown that health workers without proper training sometimes do not understand what a VVM is or how it works  A 2007 study in urban areas of Valsad in India showed that vaccine administrators were unaware of the purpose of the monitors
+
+Commonly monitored vaccines
+The vaccine vial monitor is intended for use on vaccines which may travel outside of the cold chain but its use on certain vaccines has had an especially notable impact
+
+Hepatitis B
+Manufacturers recommend that hepatitis B vaccines be stored at 28&nbsp;°C but the vaccines actually tolerate ambient and even high temperatures for some amount of time  The use of vaccine vial monitors has helped health workers remain confident in vaccines being stored outside the cold chain
+
+Polio vaccine
+The World Health Organization has described VVMs as crucial in the spread of Polio vaccine
+Comparable technology
+Electronic time–temperature indicators can detect all temperature changes including issues of freezing vaccines which heatdetecting VVMs would not detect
+
+References
+
+
+External links
+ http://wwwpathorg/projects/vaccine_vial_monitorphp project page at PATH
+ https://webarchiveorg/web/20081014100444/http://wwwwhoint/immunization_standards/vaccine_quality/vvm_10years_index/en/ World Health Organization page on VVMs
+
+
+

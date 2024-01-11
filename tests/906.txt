@@ -1,0 +1,265 @@
+
+
+
+
+
+File:Biology-0001.jpg
+Biology is the science
+Biologists are able to study life at multiple Biological organisation
+Life on Earth which emerged more than 3.7 billion years ago is immensely diverse. Biologists have sought to study and classify the various forms of life from prokaryote
+History
+
+
+File:Hooke-bluefly.jpg
+The earliest of roots of science which included medicine can be traced to ancient Egypt and Mesopotamia in around 3000 to 1200 Common Era
+Biology began to quickly develop with Anton van Leeuwenhoeks dramatic improvement of the microscope. It was then that scholars discovered spermatozoa bacteria infusoria and the diversity of microscopic life. Investigations by Jan Swammerdam led to new interest in entomology and helped to develop techniques of microscopic dissection and staining. Advances in microscopy had a profound impact on biological thinking. In the early 19th century biologists pointed to the central importance of the cell (biology)
+Meanwhile taxonomy and classification became the focus of natural historians. Carl Linnaeus published a basic Taxonomy (biology)
+File:Charles Darwin aged 51.jpg
+Serious evolutionary thinking originated with the works of Jean-Baptiste Lamarck who presented a coherent theory of evolution. The British naturalist Charles Darwin combining the biogeographical approach of Alexander von Humboldt
+The basis for modern genetics began with the work of Gregor Mendel in 1865. This outlined the principles of biological inheritance. However the significance of his work was not realized until the early 20th century when evolution became a unified theory as the Modern synthesis (20th century)
+Chemical basis
+Atoms and molecules
+
+
+All organisms are made up of chemical elements; oxygen carbon hydrogen and nitrogen account for most (96%) of the mass of all organisms with calcium phosphorus sulfur sodium chlorine and magnesium constituting essentially all the remainder. Different elements can combine to form chemical compound
+Water
+File:3D model hydrogen bonds in water.svg
+
+Life arose from the Earths first ocean which formed some 3.8 billion years ago. Since then water continues to be the most abundant molecule in every organism. Water is important to life because it is an effective solvent capable of dissolving solutes such as sodium and chloride ions or other small molecules to form an aqueous solution
+Organic compounds
+
+
+File:Glucose Haworth.png
+Organic compounds are molecules that contain carbon bonded to another element such as hydrogen. Carbon can form covalent bonds with up to four other atoms enabling it to form diverse large and complex molecules. For example a single carbon atom can form four single covalent bonds such as in methane two Double bond
+The simplest form of an organic molecule is the hydrocarbon which is a large family of organic compounds that are composed of hydrogen atoms bonded to a chain of carbon atoms. A hydrocarbon backbone can be substituted by other elements such as oxygen (O) hydrogen (H) phosphorus (P) and sulfur (S) which can change the chemical behavior of that compound. Groups of atoms that contain these elements (O- H- P- and S-) and are bonded to a central carbon atom or skeleton are called functional groups. There are six prominent functional groups that can be found in organisms: Amine
+In 1953 the Miller-Urey experiment showed that organic compounds could be synthesized abiotically within a closed system mimicking the conditions of early Earth thus suggesting that complex organic molecules could have arisen spontaneously in early Earth (see abiogenesis).
+
+Macromolecules
+
+
+File:225 Peptide Bond-01.jpg
+Macromolecules are large molecules made up of smaller subunits or monomers. Monomers include sugars amino acids and nucleotides. Carbohydrates include monomers and polymers of sugars.
+Lipids are the only class of macromolecules that are not made up of polymers. They include steroids phospholipids and fats
+Proteins are the most diverse of the macromolecules. They include enzymes transport proteins large cell signalNucleic acids are polymers of nucleotides. Their function is to store transmit and express hereditary information.
+
+Cells
+
+
+Cell theory states that Cell (biology)
+Cell structure
+
+File:biological cell.svg
+Every cell is enclosed within a cell membrane that separates its cytoplasm from the extracellular space. A cell membrane consists of a lipid bilayer including cholesterols that sit between phospholipids to maintain their Membrane fluidity
+File:Plant cell structure-en.svg
+Within the cytoplasm of a cell there are many biomolecules such as proteins and nucleic acids. In addition to biomolecules eukaryotic cells have specialized structures called organelles that have their own lipid bilayers or are spatially units. These organelles include the cell nucleus which contains most of the cells DNA or mitochondrion
+Metabolism
+
+
+File:Activation2 updated.svg
+All cells require energy to sustain cellular processes. Metabolism is the set of chemical reactions in an organism. The three main purposes of metabolism are: the conversion of food to energy to run cellular processes; the conversion of food/fuel to monomer building blocks; and the elimination of metabolic wastes. These enzyme-catalyzed reactions allow organisms to grow and reproduce maintain their structures and respond to their environments. Metabolic reactions may be categorized as catabolic—the breaking down of compounds (for example the breaking down of glucose to pyruvate by cellular respiration); or anabolic—the building up (biosynthesis
+Cellular respiration
+
+
+Image:CellRespiration.svg
+Cellular respiration is a set of metabolic reactions and processes that take place in cells to convert EnergyEnergy and life
+Sugar in the form of glucose is the main nutrient used by animal and plant cells in respiration. Cellular respiration involving oxygen is called aerobic respiration which has four stages: glycolysis citric acid cycle (or Krebs cycle) electron transport chain and oxidative phosphorylation. Glycolysis is a metabolic process that occurs in the cytoplasm whereby glucose is converted into two pyruvic acid
+If oxygen were not present pyruvate would not be metabolized by cellular respiration but undergoes a process of fermentation. The pyruvate is not transported into the mitochondrion but remains in the cytoplasm where it is converted to cellular waste product
+Photosynthesis
+
+File:Simple photosynthesis overview.svg
+
+
+Photosynthesis is a process used by plants and other organisms to Energy transformation
+Photosynthesis has four stages: Light absorption electron transport ATP synthesis and carbon fixation. Light absorption is the initial step of photosynthesis whereby light energy is absorbed by chlorophyll pigments attached to proteins in the ThylakoidMembrane
+During the third stage of photosynthesis the movement of protons down their concentration gradients from the thylakoid lumen to the stroma through the ATP synthase is coupled to the synthesis of ATP by that same ATP synthase.
+
+Cell signaling
+
+
+
+Cell signaling (or communication) is the ability of Cell (biology)
+Cell cycle
+
+File:Meiosis Overview new.svg
+
+
+The cell cycle is a series of events that take place in a cell (biology)
+Prokaryotes (i.e. archaea and bacteria) can also undergo cell division (or binary fission). Unlike the processes of mitosis and meiosis in eukaryotes binary fission takes in prokaryotes takes place without the formation of a spindle apparatus on the cell. Before binary fission DNA in the bacterium is tightly coiled. After it has uncoiled and duplicated it is pulled to the separate poles of the bacterium as it increases the size to prepare for splitting. Growth of a new cell wall begins to separate the bacterium (triggered by FtsZ polymerization and "Z-ring" formation) The new cell wall (Septum (cell biology)
+Genetics
+
+Inheritance
+
+
+
+File:Punnett square mendel flowers.svg
+Genetics is the scientific study of inheritance. Mendelian inheritance specifically is the process by which genes and traits are passed on from parents to offspring. A Punnett square can be used to predict the results of a test cross. The Boveri–Sutton chromosome theory
+Genes and DNA
+
+File:DNA animation.gif
+
+A gene is a unit of heredity that corresponds to a region of deoxyribonucleic acid (DNA) that carries genetic information that controls form or function of an organism. DNA is composed of two polynucleotide chains that coil around each other to form a Nucleic acid double helixDNA replication is a Semiconservative replicationSome mutations are beneficial as they are a source of genetic variation for evolution. Others are harmful if they were to result in a loss of function of genes needed for survival. Mutagens such as carcinogens are typically avoided as a matter of health policy
+Gene expression
+
+File:Extended Central Dogma with Enzymes.jpg
+
+
+Gene expression is the molecular process by which a genotype encoded in DNA gives rise to an observable phenotype in the proteins of an organisms body. This process is summarized by the central dogma of molecular biology which was formulated by Francis Crick in 1958. According to the Central Dogma genetic information flows from DNA to RNA to protein. There are two gene expression processes: transcription (genetics)
+Gene regulation
+
+
+
+The regulation of gene expression by environmental factors and during different stages of Developmental biology
+Genes development and evolution
+
+
+Developmental biology
+Evolution
+
+Evolutionary processes
+
+
+
+File:Mutation and selection diagram.svg
+Evolution is a central organizing concept in biology. It is the change in Heredity
+
+Speciation
+
+
+A species is a group of organisms that mate with one another and speciation is the process by which one lineage splits into two lineages as a result of having evolved independently from each other. For speciation to occur there has to be reproductive isolation. Reproductive isolation can result from incompatibilities between genes as described by Bateson–Dobzhansky–Muller model. Reproductive isolation also tends to increase with genetic divergence. Speciation can occur when there are physical barriers that divide an ancestral species a process known as allopatric speciation.
+
+Phylogeny
+
+
+
+
+A phylogeny is an evolutionary history of a specific group of organisms or their genes. It can be represented using a phylogenetic tree a diagram showing lines of descent among organisms or their genes. Each line drawn on the time axis of a tree represents a Lineage (evolution)
+History of life
+<!---->
+
+
+The history of life on Earth traces how organisms have evolved from the earliest emergence of life to present day. Earth formed about 4.5 billion years ago and all life on Earth both living and extinct descended from a last universal common ancestor that lived about Timeline of evolution
+The similarities among all known present-day species indicate that they have diverged through the process of evolution from their common ancestor. Biologists regard the ubiquity of the genetic code as evidence of universal common descent for all bacterium
+Algae-like multicellular land plants are dated back even to about 1 billion years ago although evidence suggests that microorganisms formed the earliest terrestrial ecosystems at least 2.7 billion years ago. Microorganisms are thought to have paved the way for the inception of land plants in the Ordovician period. Land plants were so successful that they are thought to have contributed to the Late Devonian extinction
+Ediacara biota appear during the Ediacaran period while vertebrates along with most other modern phylum* </ref> Such Extinction event
+Diversity
+
+Bacteria and Archaea
+
+
+
+File:Gemmatimonas aurantiaca.jpg
+Bacteria are a type of Cell (biology)
+File:Halobacteria.jpg
+Archaea constitute the other domain of prokaryotic cells and were initially Taxonomy (biology)
+The first observed archaea were extremophiles living in extreme environments such as hot springs and salt lakes with no other organisms. Improved molecular detection tools led to the discovery of archaea in almost every habitat including soil oceans and marshlands. Archaea are particularly numerous in the oceans and the archaea in plankton may be one of the most abundant groups of organisms on the planet.
+
+Archaea are a major part of Life
+Eukaryotes
+
+
+
+File:Euglena diagram.jpg
+Eukaryotes are hypothesized to have split from archaea which was followed by their Endosymbiont
+Plants are mainly multicellular organisms predominantly photosynthetic eukaryotes of the Kingdom (biology)
+Fungus
+Animals are multicellular eukaryotes. With few exceptions animals Heterotroph
+Viruses
+
+
+
+File:Phage.jpg
+Viruses are wikt:submicroscopic
+The origins of viruses in the evolutionary history of life are unclear: some may have evolution
+Ecology
+
+
+
+Ecology is the study of the distribution and abundance of life the interaction between organisms and their natural environment
+Ecosystems
+
+
+
+The community (ecology)
+Populations
+
+
+
+File:Logistic Carrying Capacity.svg
+A population is the group of organisms of the same species that occupies an geographical area
+Communities
+
+
+
+File:TrophicWeb.jpg
+A community is a group of populations of species occupying the same geographical area at the same time. A biological interaction is the effect that a pair of organisms living together in a community have on each other. They can be either of the same species (intraspecific interactions) or of different species (interspecific interactions). These effects may be short-term like pollination and predation or long-term; both often strongly influence the evolution of the species involved. A long-term interaction is called a symbiosis. Symbioses range from Mutualism (biology)On average the total amount of energy incorporated into the biomass of a trophic level per unit of time is about one-tenth of the energy of the trophic level that it consumes. Waste and dead material used by decomposers as well as heat lost from metabolism make up the other ninety percent of energy that is not consumed by the next trophic level.
+
+Biosphere
+
+
+
+File:Carbon cycle.jpg
+In the global ecosystem or biosphere matter exists as different interacting compartments which can be biotic or abiotic as well as accessible or inaccessible depending on their forms and locations. For example matter from terrestrial autotrophs are both biotic and accessible to other organisms whereas the matter in rocks and minerals are abiotic and inaccessible. A biogeochemical cycle is a pathway by which specific chemical element
+Conservation
+
+
+
+Conservation biology is the study of the conservation of Earths biodiversity with the aim of protecting species their habitats and ecosystems from excessive rates of extinction and the erosion of biotic interactions. It is concerned with factors that influence the maintenance loss and restoration of biodiversity and the science of sustaining evolutionary processes that engender genetics
+ See also 
+
+* Biology in fiction
+* Glossary of biology
+* List of biological websites
+* List of biologists
+* List of biology journals
+* List of biology topics
+* List of life sciences
+* List of omics topics in biology
+* National Association of Biology Teachers
+* Outline of biology
+* Periodic table of life sciences in Tinbergens four questions
+* Reproduction
+* Science tourism
+* :
+
+ References 
+
+
+ Further reading 
+
+
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+ External links 
+
+* 
+* http://phylonames.org/code/ OSUs Phylocode
+* https://www.biologyonline.com/dictionary Biology Online – Wiki Dictionary
+* https://ocw.mit.edu/courses/biology/7-012-introduction-to-biology-fall-2004/ MIT video lecture series on biology
+* https://www.onezoom.org/ OneZoom Tree of Life
+
+Journal links
+* https://journals.plos.org/plosbiology/ PLOS Biology A peer-reviewed open-access journal published by the Public Library of Science
+* http://www.cell.com/current-biology/ Current Biology: General journal publishing original research from all areas of biology
+* https://royalsocietypublishing.org/journal/rsbl Biology Letters: A Impact factor* https://www.science.org/collections Science: Internationally renowned American Association for the Advancement of Science* https://www.ijbs.com/ International Journal of Biological Sciences: A biological journal publishing significant peer-reviewed scientific papers
+* https://www.press.jhu.edu/journals/perspectives-biology-and-medicine Perspectives in Biology and Medicine: An interdisciplinarity
+
+
+
+
+
+
+
+
+
+

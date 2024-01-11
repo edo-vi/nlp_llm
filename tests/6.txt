@@ -1,0 +1,57 @@
+
+Chembox
+
+
+
+
+
+Squalene is an organic compound It is a triterpenoid with the formula C<sub>30</sub>H<sub>50</sub> It is a colourless oil although impure samples appear yellow It was originally obtained from shark liver oil (hence its name as Squalus is a genus of sharks) An estimated 12% of bodily squalene in humans is found in Sebaceous gland
+Most plants fungi and animals produce squalene as biochemical precursor (chemistry)
+Squalene is an important ingredient in some vaccine adjuvants: The Novartis and GlaxoSmithKline adjuvants are called MF59 and AS03 respectively
+
+Role in triterpenoid synthesis
+Squalene is a biochemical precursor to both steroids and hopanoids For sterols the squalene conversion begins with oxidation (via squalene monooxygenase) of one of its terminal double bonds resulting in 23oxidosqualene It then undergoes an enzymecatalysed cyclisation to produce lanosterol which can be elaborated into other steroids such as cholesterol and ergosterol in a multistep process by the removal of three methyl groups the reduction of one double bond by NADPH and the migration of the other double bond In many plants this is then converted into stigmasterol while in many fungi it is the precursor to ergosterol
+
+
+The biosynthetic pathway is found in many bacteria and most eukaryotes though has not been found in Archaea
+
+Production
+Biosynthesis
+Squalene is biosynthesised by coupling two molecules of farnesyl pyrophosphate The condensation requires NADPH and the enzyme squalene synthase
+
+Image:CholesterolSynthesisReaction10png
+
+Industry
+
+Synthetic Squalene is prepared commercially from geranylacetone
+
+Shark conservation 
+In 2020 conservationists raised concerns about the potential slaughter of sharks to obtain squalene for a COVID19 vaccine
+
+Environmental and other concerns over shark hunting have motivated its extraction from other sources Biosynthetic processes use genetic engineering
+
+Uses
+As an adjuvant in vaccines
+
+Immunologic adjuvants are substances administered in conjunction with a vaccine that stimulate the immune system and increase the response to the vaccine Squalene is not itself an adjuvant but it has been used in conjunction with surfactants in certain adjuvant formulations
+
+An adjuvant using squalene is Seqirus proprietary MF59 which is added to influenza vaccines to help stimulate the human bodys immune response through production of CD4 memory cells It is the first oilinwater influenza vaccine adjuvant to be commercialised in combination with a seasonal influenza virus vaccine It was developed in the 1990s by researchers at CibaGeigy and Chiron Corporation
+A 2009 metaanalysis assessed data from 64 clinical trials of influenza vaccines with the squalenecontaining adjuvant MF59 and compared them to the effects of vaccines with no adjuvant The analysis reported that the adjuvated vaccines were associated with slightly lower risks of chronic diseases but that neither type of vaccines altered the rate of autoimmune diseases; the authors concluded that their data "supports the good safety profile associated with MF59adjuvated influenza vaccines and suggests there may be a clinical benefit over nonMF59containing vaccines"
+
+Safety
+Toxicology studies indicate that in the concentrations used in cosmetics squalene has low acute toxicity and is not a significant contact allergen or irritant
+
+The World Health Organization and the US Department of Defense have both published extensive reports that emphasise that squalene is naturally occurring even in oils of human fingerprints The WHO goes further to explain that squalene has been present in over 22 million flu vaccines given to patients in Europe since 1997 without significant vaccinerelated adverse events
+
+Controversies
+Attempts to link squalene to Gulf War Syndrome have been debunked
+
+References
+
+
+External links
+ http://gmdmpimpgolmmpgde/Spectrums/59c189cc87aa454789144bf3df9d5f5baspx Squalene MS Spectrum
+
+
+
+

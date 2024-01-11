@@ -1,0 +1,48 @@
+
+File:Europasaurus PraeparationJPG
+Fossil preparation is a complex of tasks that can include excavating revealing conserving and replicating the ancient remains and traces of organisms It is an integral part of the science of paleontology of museum exhibition and the preservation of fossils held in the public trust It involves a wide variety of techniques from the mechanical to the chemical depending upon the qualities of the specimen being prepared and the goals of the effort Fossil preparation may be executed by scientists students or collections personnel but is often undertaken by professional fossil preparators
+
+Techniques
+Acid maceration
+Acid maceration is a technique to extract organic matter        </ref>
+
+Film pull
+The film pull technique is a means of recovering carbonaceous compression fossils for study under transmitted light microscopy  An acid is applied to the surface of the rock to etch away the matrix from the surface leaving carbonaceous tissue protruding (Surfaces not to be etched can be coated in a wax (eg Vaseline or grease)  This is usually accomplished by placing the rock upsidedown in a weak continually stirred acid so that any debris can be washed away  Nitrocellulose is then painted on to the fossilbearing surface and once dry may be peeled from the rock or the rock dissolved in hydrofluoric acid
+
+The method was pioneered by John Walton (botanist)         </ref>  The method is somewhat destructive as the acid etching used to remove the rock matrix can also destroy some finer detail; the fizzing caused by the reaction of the acid with the matrix breaks up lessrobust cellular material A second peel without further etching a "rip peel" will remove any cell walls that are parallel to the surface and would otherwise be destroyed when subjected to acid
+
+Details of the modern application of the method can be found in reference () Even the latest technique does have some disadvantages; most notably smaller fossils that may lie between cell walls will be washed away with the acid etch and can only be recovered by a thin section preparation
+
+In order to mount the slides for microscopy a series of steps are necessary:
+ A glass slide is wetted with acetone and a fresh layer of acetate is placed upon it  The acetone allows the acetate to suck itself onto the slide maintaining a good contact by suction  This will later be dissolved allowing sections of the resinmounted peel to be cut for transmission electron microscopy
+ A thin layer of epoxy resin is applied covering the acetate and spreading onto the slide  This will serve to attach the preparation to the slide once the underlying acetate has been dissolved  
+ A glass plate is greased and the smooth side of a peel pressed down onto it
+ The rough side of this peel is covered with warmed (55&nbsp;°C) epoxy resin and pressed down onto the previouslyprepared slide  After about 45 minutes the glass plate is removed and the resin is left warm to cure
+ The preparation is washed in acetone and acid to remove any residues which would otherwise produce optical artefacts when imaged
+
+Specimens recovered by film pull are prone to wrinkling especially if the surface to be peeled is not perfectly smoothed—if acetone pools it can cause the acetate to wrinkle
+
+Transfer technique
+File:Darwinius masillae PMO 214214jpgThe transfer technique is a technique to stabilise and prepare fossils by partially embedding them in plastic resins (ie epoxy or polyester) in order to preserve the position of the preserved fossil once all of the rock matrix is subsequently removed Notable examples of this technique are fossils preserved in oil shale (such as those from the Messel Pit) or other substrates that will deteriorate under atmospheric conditions or fossils preserved in acidsoluble carbonates (such as fossils from the Santana Formation) The technique is notable for delivering exquisite preparations of both very high scientific and display value as the area exposed in this method is protected by the matrix prior to the preparation while the initially exposed fossils are often subject to damage from improper mechanical removal of sediment or where the plane of splitting has extended through the fossil This allows the potential to preserve microscopic details on the surface of the fossil
+
+The method was pioneered by Harry Toombs and A E Rixon of the British Museum in 1950  with the introduction of the technique as a means of extracting fish fossils from acidsoluble carbonates The technique permitted the preparation of delicate fragmented or otherwise unstable fossils by the removal of virtually all of the surrounding rock matrix The resulting preparation retains the position of all of the parts of the fossil in the position in which they were preserved in the fossil While the method developed by Toombs and Rixon calls for plastic resins other substances such as a mix of ground chalk and beeswax have been used
+
+File:Grube Messel Ölschiefer 20050924jpgWhile the original method was developed to deal with fossils freed from the matrix by acid its most well known application is to the fossils from The Messel pit These fossils noted for their exquisite preservation including soft tissue body outline and even colour sheen on beetle wings are notoriously difficult to preserve The fossils themselves are flat sometimes filmlike on the surface of the rock layers The oil shale contains 40% water When a slab is broken free of surrounding rock it will soon dry out and crack 
+A slab with a perfect fossil will turn to a heap of rubble in a few hours destroying the fossil with it This was the fate of numerous Messel fossils until the transfer technique was started to be applied in the 1970s
+
+In order to preserve the fossils once their slab is taken out of the rock the fossil need to be transferred from the rock surface on to a durable artificial surface The water in the fossil itself also needs to be replaced
+
+As soon as the slab bearing the fossil is worked free from the rock it is submerged in water to stop it from cracking This involves packing it in plastic and sometimes wet newspaper While in the wet state it is cleaned up and all preparation needed for the transfer conducted
+
+Once ready for transfer the fossil (but not the surrounding rock) is dried off with a blowdryer As soon as the fossil starts to lighten (a sign of drying) watersoluble lacquer is applied The lacquer will penetrate the bone and other organic remains but not the shale itself as shale is impenetrable to watery solutions
+
+When the lacquer has set a frame of modelling clay is built on the rock face around the fossil A twocomponent epoxy is poured onto the frame forming the new artificial surface for the fossil The composition of the resin is important as it will have to soak into the fossil to further strengthen it and to bind it to the new surface This can be controlled by varying the resin viscosity
+
+When the epoxy has set the slab is turned over and preparation begins from the shale at the back Layer by layer of oilshale is removed with brush and scalpel When the preparator hits the fossil more lacquer and glue is applied to further stabilize the fragile fossil When the work is done all traces of oilshale have been removed only the fossil itself remains on the epoxy slab
+
+The contrasting physical property of the rock and fossil are essential for this technique to succeed The organic remains of the fossil are porous and hygroscopic while the oilcontaining rock is not Thus the lacquer can penetrate fossils and not rock enabling the preparator to “glue” the fossil to the artificial slab without at the same time gluing it to the shale
+
+References
+
+
+

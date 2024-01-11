@@ -1,0 +1,54 @@
+
+
+A spatial relation specifies how some object is located in space in relation to some reference object When the reference object is much bigger than the object to locate the latter is often represented by a point The reference object is often represented by a bounding box
+
+In Anatomical terms of location
+In spatial databases and geospatial topology the spatial relations are used for spatial analysis and constraint specifications
+
+In cognitive development for walk and for catch objects or Waterlevel task
+Commonly used types of spatial relations are: topological directional and distance relations
+
+ Topological relations 
+File:TopologicSpatialRelarions2png
+
+
+The DE9IM model expresses important space relations which are invariant to Rotation (mathematics)
+For any two spatial objects a and b that can be points lines and/or polygonal areas there are 9 relations derived from DE9IM:
+!valign"top"
+!valign"top"
+!valign"middle"
+!valign"top"
+!valign"top"
+!valign"top"
+!valign"middle"
+!valign"top"
+ Directional relations 
+Directional relations can again be differentiated into external directional relations and internal directional relations An internal directional relation specifies where an object is located inside the reference object while an external relations specifies where the object is located outside of the reference objects
+
+Examples for internal directional relations: left; on the back; athwart abaft
+Examples for external directional relations: on the right of; behind; in front of abeam astern
+
+ Distance relations 
+Distance relations specify how far is the object away from the reference object
+Examples are: at; nearby; in the vicinity; far away
+
+ Relations by class 
+Reference objects represented by a bounding box or another kind of "spatial envelope" that encloses its borders can be denoted with the maximum number of Dimension (mathematics and physics)
+ Spatial relation/pointpoint Spatial relation/pointline Spatial relation/pointarea Spatial relation/lineline Spatial relation/linearea Spatial relation/areaarea
+More complex modeling schemas can represent an object as a composition of simple subobjects Examples: represent in an astronomical map a star by a point and a binary star by two points;  represent in geographical map a river with a line for its  river source
+Two internal components of a complex object can express (the above) Binary operation
+ Temporal references 
+For human thinking spatial relations include qualities like size distance volume order and also time:
+QuotationTime is spatial: it requires understanding ordered sequences such as days of the week months of the year and seasons A person with spatial difficulties may have problems understanding “yesterday” “last week” and “next month” 
+Time expressed digitally is just as spatial as time expressed by moving clock hands but digital clocks remove the need to translate the hand position into numbers
+Stockdale and Possin  discusses the many ways in which people with difficulty establishing spatial and temporal relationships can face problems in ordinary situations
+
+See also
+ Anatomical terms of location
+ DE9IM Waterlevel task
+ Allens interval algebra (temporal analog)
+ Commonsense reasoning
+
+References
+
+

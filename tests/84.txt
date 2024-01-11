@@ -1,0 +1,80 @@
+
+Dynamic recrystallization (DRX) is a type of recrystallization (metallurgy)
+In a stress–strain curve the onset of dynamic recrystallization can be recognized by a distinct peak in the flow stress in hot working data due to the softening effect of recrystallization However not all materials display welldefined peaks when tested under hot working conditions The onset of DRX can also be detected from inflection point in plots of the strain hardening rate against stress It has been shown that this technique can be used to establish the occurrence of DRX when this cannot be determined unambiguously from the shape of the flow curve
+
+If stress oscillations appear before reaching the steady state then several recrystallization and grain growth cycles occur and the stress behavior is said to be of the cyclic or multiple peak type The particular stress behavior before reaching the steady state depends on the initial grain size temperature and strain rate
+
+DRX can occur in various forms including:
+ Geometric dynamic recrystallization
+ Discontinuous dynamic recrystallization
+ Continuous dynamic recrystallization
+
+Dynamic recrystallization is dependent on the rate of dislocation creation and movement It is also dependent on the recovery rate (the rate at which dislocations annihilate) The interplay between work hardening and dynamic recovery determines grain structure It also determines the susceptibility of grains to various types of dynamic recrystallization
+
+Some authors have used the term postdynamic or metadynamic to describe recrystallization that occurs during the cooling phase of a hotworking process or between successive passes This emphasises the fact that the recrystallization is directly linked to the process in question while acknowledging that there is no concurrent deformation
+
+ Geometric Dynamic Recrystallization (GDRX) 
+Geometric dynamic recrystallization occurs in grains with local serrations Upon deformation grains undergoing GDRX elongate until the thickness of the grain falls below a threshold (below which the serration boundaries intersect and small grains pinch off into equiaxed grains)
+
+Geometric Dynamic Recrystallization has 6 main characteristics:
+
+ It generally occurs with deformation at elevated temperatures in materials with high stacking fault energy
+ Stress increases and then declines to a steady state
+ Subgrain formation requires a critical deformation
+ Subgrain misorientation peaks at 2˚
+ There is little texture change
+ Pinning of grain boundaries causes an increase in the required strain
+While GDRX is primarily affected by the initial grain size and strain (geometrydependent) other factors that occur during the hot working process complicate the development of predictive modeling (which tend to oversimplify the process) and can lead to incomplete recrystallization  More sophisticated models consider complex initial grain geometries local pressures along grain boundaries and hot working temperature  Lastly recrystallization can be accelerated as grains are shifted and stretched causing subgrain boundaries to become grain boundaries (angle increases) The affected grains are thinner and longer and thus more easily undergo deformation
+
+ Discontinuous Dynamic Recrystallization 
+Discontinuous recrystallization is heterogeneous; there are distinct nucleation and growth stages It is common in materials with low stackingfault energy Nucleation then occurs generating new strainfree grains which absorb the preexisting strained grains It occurs more easily at grain boundaries decreasing the grain size and thereby increasing the amount of nucleation sites This further increases the rate of discontinuous dynamic recrystallization
+
+Discontinuous Dynamic Recrystallization has 5 main characteristics:
+
+ Recrystallization does not occur until the threshold strain has been reached
+ The stressstrain curve may have several peaks – there is not a universal equation
+ Nucleation generally occurs along preexisting grain boundaries
+ Recrystallization rates increase as the initial grain size decreases
+ There is a steady grain size which is approached as recrystallization proceeds
+
+Discontinuous dynamic recrystallization is caused by the interplay of work hardening and recovery If the annihilation of dislocations is slow relative to the rate at which they are generated dislocations accumulate Once critical dislocation density is achieved nucleation occurs on grain boundaries  Grain boundary migration or the atoms transfer from a large preexisting grain to a smaller nucleus allows the growth of the new nuclei at the expense of the preexisting grains The nucleation can occur through the bulging of existing grain boundaries A bulge forms if the subgrains abutting a grain boundary are of different sizes causing a disparity in energy from the two subgrains If the bulge achieves a critical radius it will successfully transition to a stable nucleus and continue its growth This can be modeled using Cahn’s theories pertaining to nucleation and growth
+
+Discontinuous dynamic recrystallization commonly produces a ‘necklace’ microstructure Since new grain growth is energetically favorable along grain boundaries new grain formation and bulging preferentially occurs along preexisting grain boundaries This generates layers of new very fine grains along the grain boundary initially leaving the interior of the preexisting grain unaffected As the dynamic recrystallization continues it consumes the unrecrystallized region As deformation continues the recrystallization does not maintain coherency between layers of new nuclei producing a random texture
+
+ Continuous Dynamic Recrystallization 
+Continuous dynamic recrystallization is common in materials with high stackingfault energies It occurs when low angle grain boundaries form and evolve into high angle boundaries forming new grains in the process For continuous dynamic recrystallization there is no clear distinction between nucleation and growth phases of the new grains
+
+Continuous Dynamic Recrystallization has 4 main characteristics:
+
+ As strain increases stress increases
+ As strain increases subgrain boundary misorientation increases
+ As low angle grain boundaries evolve into high angle grain boundaries the misorientation increases homogeneously
+ As deformation increases crystallite size decreases
+
+There are three main mechanisms of continuous dynamic recrystallization:
+
+First continuous dynamic recrystallization can occur when low angle grain boundaries are assembled from dislocations formed within the grain When the material is subjected to continued stress the misorientation angle increases until the critical angle is achieved creating a high angle grain boundary This evolution can be promoted by the pinning of subgrain boundaries
+
+Second continuous dynamic recrystallization can occur through subgrain rotation recrystallization; subgrains rotate increasing the misorientation angle Once the misorientation angle exceeds the critical angle the former subgrains qualify as independent grains
+
+Third continuous dynamic recrystallization can occur due to deformation caused by Shear band
+Mathematical Formulas
+Based on the method developed by Poliak and Jonas a few models are developed in order to describe the critical strain for the onset of DRX as a function of the peak strain of the stress–strain curve The models are derived for the systems with single peak ie for the materials with medium to low stacking fault energy values The models can be found in the following papers:
+ https://arxivorg/abs/14050196 Determination of flow stress and the critical strain for the onset of dynamic recrystallization using a sine function
+ https://dxdoiorg/101016/jmatdes201308055 Determination of flow stress and the critical strain for the onset of dynamic recrystallization using a hyperbolic tangent function
+ https://dxdoiorg/101016/jmatdes200909001 Determination of critical strain for initiation of dynamic recrystallization
+ https://wwwresearchgatenet/publication/260337084_Characteristic_points_of_stressstrain_curve_at_high_temperature Characteristic points of stress–strain curve at high temperature
+
+The DRX behavior for systems with multiple peaks (and single peak as well) can be modeled considering the interaction of multiple grains during deformation I e the ensemble model describes the transition between single and multi peak behavior based on the initial grain size It can also describe the effect of transient changes of the strain rate on the shape of the flow curve The model can be found in the following paper: 
+ https://doiorg/101016/jmsea201508085 A new unified approach for modeling recrystallization during hot rolling of steel
+
+Literature
+ https://dxdoiorg/101016/13596454(95)001467 A oneparmenter approach to determining the critical conditions for the initiation of dynamic recrystallization onset of DRX
+ https://dxdoiorg/101007/s1166100900295 Flow Curve Analysis of 17–4 PH Stainless Steel under Hot Compression Test comprehensive study of DRX
+ http://wwwtdxcat/bitstream/handle/10803/6043/09Vggf09de11pdf?sequence9 Constitutive relations to model the hot flow of commercial purity copper chapter 6 doctoral thesis by VG García UPC (2004)
+ https://dxdoiorg/101016/jmatdes201609012 A review of dynamic recrystallization phenomena in metallic materials Latest review paper on DRX 
+ https://wwwresearchgatenet/publication/316989956_Cellular_Automaton_Simulation_of_Dynamic_Recrystallization_Introduction_into_SelfOrganization_and_Emergence A Cellular Automaton Model of Dynamic Recrystallization: Introduction & Source Code Software simulating DRX by CA: Introduction https://wwwresearchgatenet/publication/317013011_SelfOrganization_Video_Sequence_Depicting_Numerical_Experiments_with_Cellular_Automaton_Model_of_Dynamic_Recrystallization_with_sourcecode_link Video of software run
+
+References
+
+

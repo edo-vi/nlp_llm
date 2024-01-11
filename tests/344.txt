@@ -1,0 +1,26 @@
+
+Speciesbox
+
+
+Ureaplasma gallorale is a species of Ureaplasma a genus of bacteria belonging to the family Mycoplasmataceae It has been isolated from chickens and barnyard fowl It possesses the sequence accession no (16S rRNA gene) for the type strain: U62937<ref>
+
+cite web
+
+
+
+
+ 
+
+</ref> It is a commensal species with its host organism but has the ability to colonize and create infection In the presence of virulence factors (H<sub>2</sub>O<sub>2</sub> antigen proteins etc) is when these species start to over colonize  They have relatively small genomes utilizing their host organisms natural processes to further their growth and survival These characteristics are common to most biological environments which is why Ureaplasma species regularly cause infection These infections can be found in the genital and respiratory tracks of avian species (chickens and turkey) Ureaplasma gallorale infections cannot always be managed by the host due to the mechanisms the bacteria have adapted A host will release immune signals of IgA molecules to the bacterial cells to signify infection but the Ureaplasmas can secrete an enzyme known as IgAse that destroys IgA rendering the signal inactive and leaving the host susceptible to health concerns These health issues are a serious concern in maintaining adequate production for the agricultural industry
+__TOC__
+Classification
+All species of Ureaplasma appear as gramnegative bacteria that utilize the hydrolysis or urea to produce energy for growth The genome size is indicative of the organisms complete reliance on the compounds produced from the host The Ureaplasma gallorale species along with the other Ureaplasma species are missing key biological pathways due to their small genomes but survive through absorption of the compounds found in their microenvironment
+
+References
+
+
+
+
+
+
+

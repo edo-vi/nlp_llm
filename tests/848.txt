@@ -1,0 +1,60 @@
+
+
+In the philosophy of artificial intelligence GOFAI ("Good old fashioned artificial intelligence") is classical symbolic AI as opposed to other approaches such as artificial neural networksThe term was coined by philosopher John Haugeland in his 1985 book Artificial Intelligence: The Very Idea
+
+Haugeland coined the term to address two questions:
+ Can GOFAI produce human level artificial intelligence in a machine? 
+ Is GOFAI the primary method that brains use to display intelligence? 
+AI founder Herbert A Simon speculated in 1963 that the answers to both these questions was "yes" His evidence was the performance of programs he had cowritten such as Logic Theorist and the General Problem Solver and his psychological research on human problem solving 
+
+AI research in the 1950s and 60s had an enormous influence on intellectual history: it inspired the cognitive revolution led to the founding of the academic field of cognitive science and was the essential example in the philosophical theories of computationalism functionalism (philosophy)
+ Western rationalism 
+
+<! Haugeland devotes 100 pages to this idea Later this year I will summarize it accurately here with Haugeland as a source For now without sources here is the general idea> 
+Haugeland places GOFAI within the rationalism
+
+Symbolic AI in the 1960s was able to successfully simulate the process of highlevel reasoning including deductive reasoning
+Continental philosophy which included Friedrich Nietzsche
+ Haugelands GOFAI 
+
+
+Critics and supporters of Haugelands position from philosophy psychology or AI research have found it difficult to define "GOFAI" precisely and thus the literature contains a variety of interpretations Drew McDermott for example finds Haugelands description of GOFAI "incoherent" and argues that GOFAI is a "myth"<ref>
+citation 
+</ref> 
+
+Haugeland coined the term GOFAI in order to examine the philosophical implications of “the claims essential to all GOFAI theories” which he listed as:
+quote 1 our ability to deal with things intelligently is due to our capacity to think about them reasonably (including subconscious thinking); and 
+2 our capacity to think about things reasonably amounts to a faculty for internal “automatic” symbol manipulation 
+This is very similar to the necessary and sufficient
+It is also similar to Hubert Dreyfus "Dreyfus critique of AIDreyfus four assumptions of artificial intelligence researchquote"
+Haugelands description of GOFAI refers to symbol manipulation governed by a set of instructions for manipulating the symbols The "symbols" he refers to are discrete physical things that are assigned a definite semantics  like <nowiki><cat></nowiki> and <nowiki><mat></nowiki> They do not refer to signals or unidentified numbers or matrixes of unidentified numbers or the zeros and ones of digital machinery Thus Haugelands GOFAI does not include "good old fashioned" techniques such as cybernetics perceptrons dynamic programming or control theory or modern techniques such as artificial neural network
+These questions ask if GOFAI is sufficient for artificial general intelligence
+ Replies 
+
+
+ Replies from AI Scientists 
+
+Stuart J Russell
+Later symbolic AI work after the 1980s incorporated more robust approaches to openended domains such as  probabilistic reasoning nonmonotonic reasoning and machine learning
+
+Currently most AI researchers believe deep learning and more likely a synthesis of neural and symbolic approaches (neurosymbolic AI) will be required for general intelligence
+
+Citations
+
+
+ References 
+ citation 
+ citation
+
+ citation 
+ Citation 
+
+ citation 
+
+ Citation 
+
+ Cite book
+ 
+ 
+
+zhyue:GOFAI

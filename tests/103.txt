@@ -1,0 +1,26 @@
+File:Allometric shifts.jpgAllometric engineering is the process of experimentally shifting the allometry
+Examples and application
+
+Lacks hypothesis
+Allometric engineering has been used to test David Lacks hypothesis in the lizard Sceloporus occidentalis. In this study two populations were "engineered" to fit the morphology of the other by manipulating egg yolk quantity removing effect of size difference between groups. After manipulation they found that speed was inversely proportional to body size.
+
+Nature versus nurture
+Maternal investment was "allometrically engineered" by surgically removing an ovary in cockroaches (Diploptera punctata). This effectively reduced number of progeny and increased resource allocation to each offspring. They coupled this manipulation with group effects (faster development in large groups) and found that maternal investment can overcome group effect.
+
+Sexual selection
+The male long-tailed widowbird (Euplectes progne) has exceptionally long tail feathers roughly half a meter in length.  Male tail feathers were cropped and glued and those with artificially enhanced tail lengths secured the most matings demonstrating female preference.
+
+Natural selection
+The fly Zonosemata vittigera has a banding pattern on its wings that was found to mimic movements of a jumping spider. Greene et al. engineered novel phenotypes breaking correlation between a behavior and morphology by cutting and transplanting the wings of this fly with the common housefly. This manipulation demonstrated that it was behavior coupled with the banding pattern that deterred jumping spiders from attacking though not other predators.
+
+Methods
+Current uses have involved truncation or cropping yolk manipulation hormonal treatments maternal allocation temperature manipulation or altering the nutritional states. Each method undoubtedly has its merits and pitfalls to consider before designing an experiment but these techniques are opening new avenues of research in comparative and evolutionary biology.
+
+See also
+*Allometry
+*Cline (biology)*Phenotypic plasticity
+
+References
+
+
+

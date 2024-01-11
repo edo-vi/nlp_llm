@@ -1,0 +1,159 @@
+
+File:Bombyx mori1.jpgFile:Bombykol Structure V.1.svgInsect pheromones are neurotransmitters that serve the chemical communication between individuals of an insect species. They thus differ from kairomones in other words neurotransmitters that transmit information to non-species organisms. Insects produce pheromones in special glands and release them into the environment. In the pheromone receptors of the sensory cells of the recipient they produce a nerve Stimulus (physiology)
+In 1959 the German biochemist and Nobel Prize winner Adolf Butenandt identified and synthesized the Saturated and unsaturated compounds
+Research into the chemical communication of insects is expanding our understanding of how they locate their food sources or places to lay eggs. For example beekeepers use an artificially produced Nasonov pheromone
+ Etymology and classification 
+Adolf Butenandt and Peter Karlson proposed the term pheromones in 1959 for substances that serve intraspecific communication. The definition of the term pheromone was given in the same year by Karlson and the Swiss zoologist Martin Lüscher. According to this pheromones are<blockquote>"Substances released externally by one individual that elicit specific responses in another individual of the same species."
+
+– Peter Karlson Martin Lüscher 1959.</blockquote>The word pheromone consists of the ancient Greek parts of speech φέρειν phérein überbringen melden and ὁρμᾶν hormān antreiben erregen. According to Karlson and Lüscher the goal was to coin an internationally understandable scientific term for a class of substances based on a clear definition. It was to be a short word that could be spoken in many languages. The ending mone served as a suffix as it occurs in the words hormone kairomone and allomone thus emphasizing their relationship. The term pheromone replaced the term ectohormone or homoiohormone which Albrecht Bethe had already proposed in 1932 with the same definition. Bethes term was not accepted because according to Butenandt the terms ecto and hormone were mutually exclusive. The mechanism of action of a pheromone also does not correspond to that of a hormone absorbed into the circulatory system by another individual and was therefore considered misleading.
+
+The classification of intraspecific pheromones in the group of semiochemicals in other words neurotransmitters that serve communication between organisms is shown in the following diagram:
+
+File:Semiochemicals1.svg
+Karlson further divided them into the sense of smell and the Anatomical terms of location
+Often pheromones are defined according to their behavior-triggering function. In addition to the well-known sex attractants they act among other things as Pheromone
+Vincent Dethier divided insect pheromones into six categories according to their general behavior-triggering effects. These include prisoners which are normally only perceptible at short distances and cause an insect in motion to stop and locomotor stimulants which increase the insects speed or decrease the number of directional changes. Lockstoffe are attractants that trigger an oriented movement toward the odor source whereas repellents trigger an escape movement away from it. Feeding and oviposition stimulants respectively trigger feeding or oviposition. Deterrents on the other hand inhibit feeding or oviposition.
+
+Functionally defined insect pheromones often contain mixtures of different components in precisely defined proportions. These so-called pheromone cocktails often contain substances of different categories with near and far orientation functions. For example the aggregation pheromone cocktail of the German cockroach Blattella germanica contains both substances that act as attractants and substances that act as arrestants.
+
+In part insect pheromones are named after the site of their biological production. Males of various moth species such as the banana butterfly possess so-called androconial organs in the abdomen that release pheromones. These insect pheromones are appropriately called androconial pheromones. The queen bee of the Western honey bee produce the queen bee pheromone in Submandibular gland
+ History 
+
+ First discoveries 
+File:John Ray from NPG.jpgIn 1609 the English beekeeper Charles Butler (beekeeper)
+As early as 1690 Sir John Ray suspected that peppered moths attracted male conspecifics by means of a scent:<blockquote>“It emerged out of a stick-shaped geometer caterpillar: it was a female and came out from its chrysalis shut up in my cage: the windows were open in the room or closet where it was kept and two male moths flying round were caught by my wife who by a lucky chance were into the room in the night: they were attracted as it seems to me by the scent of the female and came in from outside.”
+
+"It developed from a stick-shaped birch moth caterpillar: it was a female and came out of her chrysalis which was shut up in my cage: the windows were open in the room or chamber where she was kept and two male moths flying about were caught by my wife who by a lucky chance was in the room that night: they were attracted it seems to me by the scent of the female and came in from outside."
+
+– John Ray</blockquote>
+File:Jean-henri fabre.jpgThe French Entomology
+In many insect species researchers long puzzled over the mechanism of mating: visual or acoustic stimuli could not explain Fabres experiments nor how moths found females ready to mate with great certainty. Theories of attraction by infrared or other radiation were not confirmed. Theories about the attraction by infrared or radiation also remained unexplained for a long time.
+
+ Definitions of Bethe 
+At the beginning of the 20th century Ernest Starling discovered hormones as the first biological neurotransmitters. In 1932 the Neurophysiology
+– Albrecht Bethe6</blockquote>Bethe further divided the ectohormones into homoiohormones which – according to todays definition of a pheromone – act on individuals of the same species and alloiohormones which act on individuals of a different species. He thus coined the precursor term of Allelopathy
+ Works from Butenandt 
+Adolf Butenandt also suspected that communication among insects was based on neurotransmitters and in the 1940s he began a project to identify the sexual attractant of the domestic silk moth (Bombyx mori). It is a butterfly originally native to China belonging to the Family (biology)
+By elemental analysis Butenandt determined the chemical formula of the substance to be C<sub>16</sub>H<sub>30</sub>O. Infrared spectroscopy correlation table
+Butenandt then synthesized bombycol from vernolic acid (12R13S)-Epoxy-9-cis-octadecenoic acid in several steps via diol formation its cleavage to the aldehyde Double bond
+– Adolf Butenandt</blockquote>
+
+ Primer and releaser pheromones 
+File:Plos wilson.jpgTowards the end of the 1950s E. O. Wilson
+In 1963 Wilson who the year before had already discovered the trace pheromones of ants and William H. Bossert introduced the term releaser and primer pheromones for this purpose to distinguish the behavior-controlling effect of for example sex attractants from the pheromones that interfere with the endocrine system of the receiver.
+
+ Modern research directions 
+File:Helicoverpa zea1.jpgAs a result of the enormously refined extraction and analytical chemistry over the years chemists and biologists identified numerous other pheromones. For the detection of the second component of the pheromone cocktail of Bombyx mori the bombycal (10Z12E)-hexadecadienal an extract of 460 glands from which 15 Orders of magnitude (mass)
+In addition to studying the function and reception of pheromones and their chemical identification scientists extensively investigated the biochemistry of pheromone production. In 1984 Ashok Raina and Jerome Klun discovered that the production of the female sex attractant of the Noctuidae
+Combating disease vectors such as Anopheles is another focus of research. According to World Health Organization estimates the number of malaria infections in 2012 was about 207 million with 627000 deaths. Culex mosquitoes transmit the causative agent of filariasis or West Nile virus. Traps equipped with oviposition pheromones offer one way to contain these populations. To optimize these the scent-binding proteins in the antennae of females which play a critical role in detecting oviposition sites are being intensively studied.
+
+ Production 
+The pheromones in insects are often the secondary products of fatty acids such as saturated and unsaturated hydrocarbons fatty alcohols esters and aldehydes but also isoprenoids and other compounds. Pheromones are often not pure substances but so-called pheromone cocktails consisting of various components. Often only one specific enantiomer of a compound triggers a behavioral reaction while the other enantiomer triggers no reaction or a different reaction.
+
+Sometimes the biosynthesis of the pheromone occurs only when the biochemical precursors in the form of certain alkaloids have been ingested from food plants. In this case the sex pheromone simultaneously signals the presence of food sources.
+
+Due to the potential commercial application in crop protection the intensity of the study of pheromones increased greatly after Butenandts discovery leading to the development of highly sensitive analytical methods and the widespread application of chemo- regio- and stereoselective syntheses in organic chemistry.
+
+ Biosynthesis 
+File:Keisarinviitta tiella.jpgInsect pheromones are produced by a variety of exocrine glands consisting primarily of modified Epidermis
+Rather than evolving a completely unique set of enzymes for pheromone biosynthesis insects often modify normal metabolites into pheromones with high regio- chemo- (E/Z)- diastereo- or enantioselectivity and in well-defined ratios. Biosynthesis of insect pheromones occurs either de novo following the scheme of fatty acid synthesis by successive addition of malonyl-CoA to an initial Acetyl group
+Dehydrogenation of the Catenation
+The hormonal mechanisms of pheromone production vary considerably from species to species. Juvenile hormones for example control pheromone production in the owl butterfly Mythimna unipuncta. These are produced in mostly paired Corpus allatum
+Male butterflies of the Danainae family sometimes wound caterpillars that have ingested alkaloids from Albizia
+ Pheromones from plant ingredients 
+File:Retronecine.svgMale Melanophila
+Moths such as Utetheisa ornatrix and Tirumala limniace ingest pyrrolizidine alkaloids from food plants such as crotalaria heliotropium or Achillea ageratum in the caterpillar which the adult male converts by oxidation into pheromones such as hydroxydanaidal. As in the fire beetle the alkaloids which are potent feeding poisons and act against predators such as spiders ants or Neuroptera
+The uptake of pheromone precursors from plants is also known for certain species of Buprestidae
+ Laboratory synthesis 
+Karl Ziegler and Günther Otto Schenck succeeded in synthesizing cantharidin as early as 1941. The preparation of pheromones requires the use of highly Chemoselectivity
+Genetically modified tobacco plants can also produce sex pheromones. The fatty alcohols obtained from them by extraction are subsequently Acetylation
+ Properties 
+File:Sesiidae Pheromon fg01.jpgChemical communication between living beings by means of pheromones follows the same principles as technical Data communication
+The insect pheromone is transmitted by direct contact or via a medium such as water or air. From the Shannon–Weaver model
+ Physico-chemical properties 
+The pheromones are usually produced as a liquid and are either transmitted by direct contact or released into the environment as a liquid or vapor. They can be either heavy or Volatility (chemistry)
+In the case of flying insects - such as butterflies - the pheromone as a molecule must not be too large otherwise the vapor pressure and volatility are too low. Thus over 200 identified sex pheromones of butterfly species are mono- and bis-olefinic fatty aldehydes fatty alcohols and their acetates with chains of 10 to 18 carbon atoms.
+
+Depending on the function there are different emission and reception scenarios. Ants for example emit alarm pheromones intermittently or continuously in the usually windless environment of the anthill. Trace pheromones are emitted by an ant as a moving source. Silkmoth sex pheromones are emitted in discrete scent threads in an air stream.
+File:Danaus plexippus 001.jpgMale monarch butterflies do not emit volatile pheromones but pheromone-laden nanoparticles called pheromone transfer particles which they use to transfer arrestants or aphrodisiac pheromones to females. The pheromone transfer particles position the males on their brush hairs and scatter them during courtship flight. The nanoparticles adhere to the antennae of the females which are equipped with pheromone receptors where they slowly release the pheromones resulting in a long-lasting stimulus for the female.
+
+Females of the Arctiinae Pyrrharctia isabella emit an aerosol consisting exclusively of sex pheromone droplets. The amount of pheromone released in this process is much greater than in other known female moths. The apparent wastefulness of the sex pheromone is explained by the short amount of time an adult has to find a reproductive partner due to the short Arctic spring.
+
+Recipients usually perceive pheromones in an environment characterized by the presence of many other chemicals. To ensure specific perception the pheromone chemical must either be so complex that it does not occur more than once in nature or the correct ratio of several individual components must trigger the stimulus. However it has been shown that only in exceptional cases does a single substance convey the message. Often a mixture of substances must be present in very precise proportions that in addition to the chemical structure of the individual pheromones determine the informational content of the pheromone cocktail.
+File:Periplanone B.pngThe chemical structure of pheromones is directly related to their signaling function and Signal-to-noise ratio
+Periplanone B
+ Biological properties 
+File:Antenna pectinate.jpgThe sex pheromone cocktail emitted by a female insect spreads downwind. In the recipient male the molecules strike the antennae where reception of the pheromones takes place by means of olfactory cells on the olfactory hairs or Sensillum
+The pheromone molecules first reach the cuticle of the olfactory hairs and diffuse through pores into a pore cone and from there into tubules. From there the molecules diffuse further to the Dendrite
+ Pheromone species 
+According to their effect two classes of pheromones can be distinguished the primer and the releaser pheromones. Under certain conditions certain pheromones act as both releaser and primer pheromones.
+
+ Releaserpheromone 
+Releaser pheromones have a brief immediate behavior-controlling effect. The first pheromone discovered bombycol is an example. Releaser pheromones typically include aggregation pheromones dispersal pheromones alarm pheromones tracking pheromones and marking pheromones among others in addition to the well-known sex pheromones.
+
+ Aggregation pheromones 
+File:Bug aggregation.jpgAggregation pheromones are produced by both sexes and are used for the sex-nonspecific attraction of individuals of the same species. These are known for example in the bark beetle and other beetle species Bipedalism
+Studies using electroantennogram techniques showed that aggregation pheromones elicited relatively high receptor potentials in a sex-nonspecific manner whereas sex pheromones elicited high receptor potentials in only one sex. Aggregation pheromones may therefore be evolutionary precursors of sex pheromones.
+
+ Sex pheromones 
+File:Joined moths.JPGSex pheromones signal the female animals readiness to mating. Male animals also emit pheromones; they contain information about sex and genotype. Many insects release sex pheromones; some butterfly species still perceive the pheromone at a distance of 10 kilometers. The sensory cell response in the male silkmoth begins at a concentration of about 1000 molecules per cubic centimeter of air. The scent signal of a female as soon as a certain concentration threshold is exceeded initially triggers an oriented headwind flight in the silkmoth male. In other species such as the codling moth on the other hand the male tests the stereochemical purity of the attractant molecule. As soon as a small admixture of another stereoisomer is present in the pheromone cocktail the approach to the source stops. In this case the other stereoisomer acts as a Repellent-1
+Foraging
+ Aphrodisiac apheromones 
+File:(R)- & (S)-Oleane Structural Formula V.1.svgAphrodisiac pheromones stimulate the readiness to mate. The Acetal
+So-called anti-aphrodisiacs have exactly the opposite effect. Bed bug
+ Alarm pheromones 
+Some insect species emit alarm pheromones when attacked. These trigger either flight or increased aggression. In bees for example two alarm pheromone mixtures are known. One is released by the Koshevnikov gland near the sting and contains more than 40 different compounds such as isoamyl acetate already described by Butler in its effect besides butyl acetate 1-Hexanol 1-Butanol 1-Octanol hexyl acetate octyl acetate and 2-Nonanol. These components have low molar mass are volatile and are the most non-specific of all pheromones. Alarm pheromones are released when a bee stings another animal to attract and entice other bees to attack. Smoke suppresses the effect of alarm pheromones which is exploited by beekeepers.
+
+The other alarm pheromone of the honey bee contains mainly 2-Heptanone another volatile substance released by the mandibular glands. This component has a repellent effect on Predation
+ Marking and dispersion pheromones 
+Certain insects such as the Rhagoletis cerasi
+The marking pheromones include the dispersion pheromones with which for example bark beetles prevent overcolonization of a tree. The females and nymphs of the German cockroach transmit dispersion pheromones in direct contact via their saliva. In the nymphal stage these serve to deter adult cockroaches and thus protect against cannibalism. In adults they prevent the translocation of a habitat.
+
+ Trace pheromones 
+File:Fire ants02.jpgTrace pheromones are mainly known in insects living in Colony (biology)
+ Recruitment pheromones 
+Recruitment pheromones are widely used as an element of chemical communication in social insects and have been demonstrated for bees termites and ants. These pheromones are used by insects to stimulate other members of the colony to forage at a food source.
+
+ Primerpheromones 
+The order Hymenoptera contains the largest group of eusocial insects including many bees especially of the subfamily Apinae ants and some species of vespidae especially of the subfamily of Vespidaes. Characteristics often include the presence of a reproductive queen and Caste (biology)
+ Primer pheromones of bees 
+A well-known example of primer pheromones are the queen bee pheromones. These pheromones control social behavior comb maintenance swarming and ovary formation of worker bees. The components are carboxylic acids and aromatic compounds. (E)-9-oxo-dec-2-enoic acid (9-ODA) for example suppresses further breeding of queens and inhibits development of ovaries of worker bees. It is also a potent sex pheromone for Drone (bee)
+Brood recognition pheromones are emitted by larvae and pupae and discourage worker bees from leaving the hive while there are still offspring to be cared for. Furthermore they suppress the formation of ovaries in worker bees. The pheromones consist of a mixture of ten fatty acid esters including glyceryl 12-dioleate-3-palmitate. Worker pupae contain 2 to 5 drone pupae about 10 and queen pupae 30 micrograms of the pheromone.
+
+Older fouraging worker bees release Ethyl oleate
+ Caste determinant pheromones 
+The Reticulitermes flavipes uses terpenes such as Cadinenes
+ Application 
+In the 19th century Lymantria dispar escaped from entomologist Étienne Léopold Trouvelot in Massachusetts and spread throughout the United States by the mid-20th century becoming one of the most feared Pest (organism)File:Lockstofffalle.jpgIn pest control the use of pheromones in attractant traps to control insects is common practice. This can involve attracting the insects to kill them with an insecticide or physically to trap them or for Monitoring (medicine)
+Trap beetles work on the same principle as attractant traps. The bark beetles of the initial infestation attract further conspecifics by aggregation pheromones. Windthrow is suitable as trap beetles which can be equipped with pheromone dispensers to enhance the attraction effect. Trees prepared in this way divert approaching bark beetles from the stand and bind them to controllable stems. The use of trap trees requires regular inspection of the trees. When larval galleries appear the trees are debarked and larvae and pupae dry out. If necessary the infested tree may be treated with insecticides or burned to prevent escape of the next generation.
+
+Egg-laying-preventing marking pheromones are widely used in the insect world. Various experiments have demonstrated the possibility of controlling population dynamics by these pheromones. Application of the oviposition-preventing marking pheromone of Rhagoletis cerasi which cannot be controlled with yellow boards for example reduced infestations of cherries by 90%.
+
+Another application is the confusion method or mating disruption. Here a high substance concentration of artificially produced pheromones is applied. This makes it impossible for the males to follow the pheromones of the females thus hindering the reproduction of the pest. The confusion method has a species-specific effect. It is usually successful with respect to one species if sufficient dispensers are applied but in some cases related species occupy the ecological niche that is released.
+
+Bees use the Nasonov pheromone
+ Toxicology 
+Toxicological studies were mainly carried out in connection with the approval of pheromone traps and dispensers. A health hazard cannot be generally assessed due to the large chemical diversity of pheromones but is usually excluded because only small amounts are emitted. However in higher doses orally administered pheromones such as cantharidin cause death in rare cases.
+
+ Evidence 
+File:Brain and Antennal Electrical Activity de.pngCommercial application in crop protection intensified the study of pheromones and led to the development of highly sensitive Analytical technique
+The electroantennogram technique is suitable for studying the biological activity of insect pheromones. In this technique an electrode inserted into the antenna main stem and an antenna branch measures the change in Voltage
+The coupling of gas chromatography and electroantennogram allows the biological activity of the compounds present in an extract to be verified.
+
+ References 
+
+
+ Bibliography 
+
+* :de:Edward_O._Wilson* Hans Jürgen Bestmann Otto Vostrowsky (1993): Chemische Informationssysteme der Natur: Insektenpheromone. In: :de:Chemie_in_unserer_Zeit* Stefan Schulz: The Chemistry of Pheromones and Other Semiochemicals II. Springer 2005 :de:Spezial:ISBN-Suche/3540213082* R. T. Carde A. K. Minks: Insect Pheromone Research: New Directions. Springer 1997 :de:Spezial:ISBN-Suche/9780412996115
+ External links 
+
+
+Collection of images videos and audio data
+
+
+
+Meaning explanations word origin synonyms translations
+
+* https://www.pherobase.com/ Insect pheromone database pherobase.com. Retrieved November 15 2013.
+

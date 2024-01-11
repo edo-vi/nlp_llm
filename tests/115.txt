@@ -1,0 +1,38 @@
+
+
+File:In Flanders Fields (1921) intro 1pngIn an essay Article (publishing)
+Common features and techniques
+The introduction typically describes the scope of the document and gives a brief explanation or a summary of the document It may also explain certain elements that are important to the document The readers can thus have an idea about the following text before they actually start reading it
+
+The University of Toronto provides advice about how to write essays:
+
+<blockquote>A good introduction should identify your topic provide essential context and indicate your particular focus in the essay It also needs to engage your readers’ interest</blockquote>
+
+Some authors write their introduction first while others prefer to leave it for a later stage in the writing process; another option is to start with a rough draft introduction and then come back to finish it after the body text is done
+
+Introductions sometimes have subsections
+In a book of technical writing the introduction may include one or more standard subsections: abstract (summary)
+Styles vary while the concept remains the same
+While keeping the general concept of the introduction the same different documents have different styles to introduce the written text For example the introduction of a Functional Specification consists of information that the whole document is yet to explain If a Userguide is written the introduction is about the product In a report the introduction gives a summary of the reports contents
+
+Introductions often summarize but not always
+Not all introductions include summaries  For example the American Journal of Physics (AJP) specifically advises authors that an introduction “need not summarize”  Instead the introduction can provide “background and context” and/or indicate “purpose and importance” and/or describe the raison dêtre for an article (ie motivation) in a way that is “informative and inviting”  But the introduction need not summarize or even state the main points of the rest of an article  In contrast to the introduction the Abstract (summary)
+It is not difficult to find other examples of journals that do recommend for introductions to include summaries  Consider the journal Biochemistry (journal)
+<blockquote>The Introduction should state the motivation for the investigation and its relationship to other work in the field Extensive reviews of the literature should be avoided The last paragraph of the introduction should summarize the major findings conclusions and significance of the work without reproducing the abstract</blockquote>
+
+So practice varies from journal to journal as to whether introductions should include summaries
+
+ See also 
+ Dramatic structure
+ Epigraph (literature) Executive summary
+ Foreword
+ Lead paragraph
+ Preamble
+ Preface
+ Prologue
+
+References
+
+
+
+

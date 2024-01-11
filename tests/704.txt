@@ -1,0 +1,21 @@
+In geology point counting is a method to determine the proportion of an area  that is covered by some objects of interest In most cases the area is a thin section or a polished slab The objects of interest vary between subdisciplines and can for example be quartz or feldspar grains in sedimentology any type of mineral in petrology or different taxonomic groups in paleontology
+
+ Method 
+The basic method is to cover the area by a grid of points Then for each of these points the underlying object is identified Then the estimate for the proportion of the area covered by the type of object is given as
+:<math> p_i\approx \frac </math>
+
+where
+<math> p_i</math> is the true proportion of objects of type <math> i </math>
+<math> h_i </math> is the number of points hitting an object of type <math> i </math>
+<math> N </math> is the total number of points counted
+
+There exist many variations of this procedure that can for example vary in grid geometry
+
+ See also 
+GazziDickinson method
+
+ References 
+
+
+
+

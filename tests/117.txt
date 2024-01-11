@@ -1,0 +1,35 @@
+Vaccine therapy is a type of treatment that uses a substance or group of substances to stimulate the immune system to destroy a tumor or infection
+Cancer vaccines
+Cancer is a group of fatal diseases that involves abnormal cell growth that can invade or spread to other parts of the body They are usually caused by the accumulation of mutations in genes that regulate cell growth and differentiation Majority of cancer about 9095% are due to genetic mutations from environmental and lifestyle factors – including age chemicals diet exercise viruses and radiation The remaining 510% are due to inherited genetics Some of the cancers may be difficult to treat by conventional means such as surgery radiation and chemotherapy but may be controlled by the stimulation of the immune response of the body with the help of cancer vaccines
+
+ Preventive or prophylactic vaccines
+ Treatment or therapeutic vaccines
+These vaccines are intended to treat existing cancer by stimulating the patient’s immune system
+
+Cancer vaccines can also divided into specific or universal cancer vaccine based on the types of cancer it is used for Specific cancer vaccines are only used to treat a particular type of cancer while universal vaccine can be used to treat different types of cancer
+
+Protein/peptidebased vaccines
+ Tumorassociated antigens
+
+Vaccines of this kind use specific tumor antigens which are usually proteins or peptides to stimulate immune system against either tumor specific antigens (TSAs) or tumor associated antigens (TAAs) This vaccine helps stimulate the patients immune system to increase production of antibodies or killer T cells
+
+Dendritic cell vaccines
+Dendritic cells (DCs) are considered the most potent APC (antigen presenting cell) of the immune system DC cells have a unique  ability to stimulate naïve T cells and can be used to induce of antigenspecific immune response Several DCbased cancer vaccines have been developed including DC loaded with tumor peptides or whole proteins with tumorderived mRNA or DNA DC transduced with viral vectors such as retroviruses lentiviruses adenoviruses fowl pox and alphaviruses containing the tumor antigen or gene of interest whole necrotic or apoptotic tumor cells tumor cell lysates and DCfused with tumor cells
+
+Whole tumor cell vaccines
+An advantage to using tumor cell vaccines is that this type of vaccine is polyepitope which means it can present an entire spectrum of TAAs to a patient’s immune system
+ Autologous tumor cell vaccines
+
+These vaccines are made from antigens taken from the patient’s own cancer cells Autologous vaccines have been used to treat lung cancer colorectal cancer melanoma renal cell cancer and prostate cancer
+ Allogenic tumor cell vaccines
+
+These vaccines are made from antigens taken from individuals other than the patient usually from cancer cell lines
+
+ References 
+
+
+ External links 
+ http://wwwcancergov/dictionary?CdrID386223 Vaccine therapy entry in the public domain NCI Dictionary of Cancer Terms
+
+
+

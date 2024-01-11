@@ -1,0 +1,14 @@
+
+
+Drugbox
+<!Clinical data>
+<!Pharmacokinetic data>
+<! <! Identifiers >
+<! Chemical and physical data >
+
+
+Cloprostenol is a synthetic analogue of Prostaglandin F2alpha
+ References 
+
+
+

@@ -1,0 +1,50 @@
+
+Infobox institute
+600 Suffolk Street
+
+
+Lowell Center for Space Science & Technology (abbreviated as LoCSST) is a Public university
+Faculty
+Supriya Chakrabarti PhD Professor of UMass Lowell and Director of the institute faculty on Physics and applied physics 
+Dimitris Christodoulou Assistant Teaching Professor faculty on Mathematical Science 
+Ofer Cohen excels in the field of Computational plasma physics Computational methods Magnetohydrodynamics 
+Timothy Cook Associate Professor in Physics; works on Visible & ultraviolet instrumentation Sounding rockets Small satellites Tomography & other novel data analysis techniques 
+Christopher Hansen Chair UMass Lowell SHAP3D Site Director Associate Professor of Mechanical Engineering; works on Materials science selfhealing materials additive manufacturing (ie 3D printing) techniques 
+Silas Laycock Associate Professor in Physics; works on Neutron stars and black holes in Xray binaries pulsars multi wavelength  astronomy time domain astrophysics 
+Marianna Maiaru Assistant Professor of Mechanical Engineering 
+Ramaswamy Nagarajan CoDirector of HEROES; works on Biocatalysis greener advanced materials (electronic photoresponsive polymers molecularly integrated hybrid nanomaterials materials for energy conversion/storage) elastomers thermal & morphological characterization of materials roll to roll manufacture of flexible electronic products 
+Jay Weitzen Professor of Electrical & Computer Engineering and Wireless Communication
+
+Research
+The institute has or had worked on numerous topics or projects 
+Experimental astronomy and space physics
+Observational Astronomy
+Research on Xray Binary Pulsars based 
+Black Hole High mass Xray Binary
+Computational Astrophysics and Space Physics
+
+Projects
+PICTURE C
+
+PICTURE C stands for  Planetary Imaging Concept Testbed Using a Recoverable Experiment – Coronagraph NASA awarded Chakrabartis team a $56 million grant to develop and test PICTURE C It was the largest grant up to then The system potentially can detect young Jupitersize planets orbiting other sunlike stars in the Milky Way capable of supporting life by studying the disk of dust asteroids planets and other debris orbiting the stars and gain a better understanding of the processes and dynamics that formed solar system PICTURE C is carried aloft to the edge of Earths atmosphere using huge helium balloons Under Dr Chakrabarti PICTURE C made its first test flight in September 2019 The balloon lofted camera instrument inflates to  across and takes 3 hours to climb to an altitude of about  and then hovers The success of PICTUREC test launch makes spacebased direct imaging a reality and helps NASAs Wide Field Infrared Survey Telescope (WFIRST) with such technological support Members associated with the project are Supriya Chakraborti Timothy Cook Kuravi Hewawasam Susanna Finn and Christopher Mendillo Other collaborations were made from NASAs Jet Propulsion Laboratory Goddard Space Flight Center Caltech MIT the Space Telescope Science Institute and the University of California Santa Barbara
+
+Project Blue
+Project Blue aims to design build and launch a small and lightweight space telescope to detect habitable planets around the nearest star Alpha Centauri LCSST team develops instrumentation for direct imaging of exoplanets in this project The project is also associated with The BoldlyGo Institute SETI Institute and Mission Centaur
+
+SPACE HAUC project
+The Science Program Around Communication Engineering with High Achieving Undergraduate Cadres Project or SPACE HAUC project provides multidisciplinary undergraduate students with handson training in designing and building spaceflight missions NASA released the Undergraduate Student Instrument Project (USIP) and Student Flight Research Opportunity (SFRO) in August 2015 and LCSST sent a proposal that was accepted under the program The project was selected in 2017 by NASAs CubeSat Launch Initiative (CSLI) to be launched as part of the ELaNa program
+Dr Chakrabarti mentors more than 75 The program is designed to demonstrate the practicality of communicating at high data rates in the X band 
+SPACE HAUC was expected to launch in 2018 later postponed to 2020 The satellite has successfully passed design review and is under the testing phase After final assembly and integration of the spacecraft SPACE HAUC is expected launch to the ISS for further deployment
+PICTURE B 
+IMAGERII
+
+Facilities 
+The library contains source specific event files (gti and barycenter corrected) source images light curves (in three different energy bands titled soft broad and hard) spectra periodograms and pulse profiles on different projects It also contains data of six Xray telescope missions (~2000 pointed observations) namely XMMNewton RXTE Chandra NuSTAR NICER and Suzaku spanning across a period of two decades up until 2019 
+An Astronomical Observatory is located on South Campus named UMass Lowell Schueller Observatory
+
+References
+
+
+External links
+https://wwwumledu/Research/LoCSST/ Official website
+

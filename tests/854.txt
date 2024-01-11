@@ -1,0 +1,23 @@
+
+File:VirosomepngA virosome is a drug carrier
+Virosomes structure
+Virosomes are vehicles that have a spherical shape with a Phospholipid
+Virosome applications
+Virosomes deliver antigens and therapeutic agents to their targeted cells Virosomes can act as immunopotentiating agents and as agents of targeted drug delivery Virosomes as immunopotentiating agents activate Cellmediated immunity
+Influenza virosomes
+File:Virosome ComponentspngIn contrast to liposomes virosomes contain functional viral envelope glycoproteins: influenza virus hemagglutinin (HA) and neuraminidase (NA) intercalated in the phospholipid bilayer membrane They have a typical mean diameter of 150&nbsp;nm Essentially virosomes represent reconstituted empty influenza virus envelopes devoid of the nucleocapsid including the genetic material of the source virus
+
+Noninfluenza virosomes
+They are also being considered for HIV1 vaccine research
+
+They were used as a drug carrier mechanism for experimental cancer therapies
+
+Benefits and challenges
+The benefits of virosomes are that the specific structure and small size help with the precision of target cells The phospholipid membrane protects the virosome from adverse reactions in the body and the membrane allows the virosome to be biocompatible and biodegradable in the body The challenges of virosomes are the rapid detection and activation of the immune response against the viral glycoproteins which can result in a decrease of the virosomes However glycoproteins can still induce a prophylactic response against the virus which helps with establishing virosomes as vaccine delivery systems If the virosome is administered into the bloodstream the virosome can disintegrate However if the virosome can reach the target quickly enough the drug delivery will still happen There are some challenges with virosomes but there are ways in which the virosome can still help activate the immune response  
+
+References
+
+External links
+ http://wwwpevioncom/indexphp?page651On "What are virosomes?"
+ http://wwwmymeticscom/vaccines/virosome "Virosome based vaccine"
+

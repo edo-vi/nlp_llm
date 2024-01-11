@@ -1,0 +1,85 @@
+
+In the history of artificial intelligence neat and scruffy are two contrasting approaches to artificial intelligence (AI) research The distinction was made in the 70s and was a subject of discussion until the middle 80s
+
+"Neats" use algorithms based on a single formal paradigms such as logic mathematical optimization or neural networks  Neats verify their programs are correct with theorems and mathematical rigor Neat researchers and analysts tend to express the hope that this single formal paradigm can be extended and improved to achieve artificial general intelligence
+"Scruffies" use any number of different algorithms and methods to achieve intelligent behavior Scruffies rely on incremental testing to verify their programs and scruffy programming requires large amounts of hand coding or knowledge engineering Scruffies have argued that general intelligence can only be implemented by solving a large number of essentially unrelated problems and that there is no wikt:magic bullet
+John Brockman (literary agent)
+
+Modern AI has elements of both scruffy and neat approaches  In the 1990s AI research applied mathematical rigor to their programs as the neats did  They also express the hope that there is a single paradigm (a "The Master Algorithm
+Origin in the 1970s
+The distinction between neat and scruffy originated in the mid1970s by Roger Schank Schank used the terms to characterize the difference between his work on natural language processing (which represented Commonsense knowledge (artificial intelligence)
+The distinction was also partly geographical and cultural: "scruffy" attributes were exemplified by AI research at MIT under Marvin Minsky in the 1970s The laboratory was famously "freewheeling" and researchers often developed AI programs by spending long hours finetuning programs until they showed the required behavior  Important and influential "scruffy" programs developed at MIT included Joseph Weizenbaums ELIZA which behaved as if it spoke English without any formal knowledge at all and Terry Winograds SHRDLU which could successfully answer queries and carry out actions in a simplified world consisting of blocks and a robot arm SHRDLU while successful could not be scaled up into a useful natural language processing system because it lacked a structured design Maintaining a larger version of the program proved to be impossible ie it was too scruffy to be extended
+
+Other AI laboratories (of which the largest were Stanford Carnegie Mellon University and the University of Edinburgh) focused on logic and formal problem solving as a basis for AI These institutions supported the work of John McCarthy Herbert Simon Allen Newell Donald Michie Robert Kowalski and other "neats"
+
+The contrast between MITs approach and other laboratories was also described as a "procedural/declarative distinction" Programs like SHRDLU were designed as agents that carried out actions They executed "procedures" Other programs were designed as inference engines that manipulated formal statements (or "declarations") about the world and translated these manipulations into actions 
+
+In his 1983 presidential address to Association for the Advancement of Artificial Intelligence Nils Nilsson (researcher)
+Scruffy projects in the 1980s
+
+The scruffy approach was applied to robotics by Rodney Brooks in the mid1980s He advocated building robots that were as he put it Fast Cheap and Out of Control the title of a 1989 paper coauthored with Anita Flynn Unlike earlier robots such as Shakey the robot
+Douglas Lenats Cyc project was CycOverview
+ The Society of Mind 
+
+
+In 1986 Marvin Minsky published The Society of Mind which advocated a view of intelligence and the mind as an interacting community of modularity
+This paradigm is explicitly "scruffy" in that it does not expect there to be a single algorithm that can be applied to all of the tasks involved in intelligent behavior Minsky wrote: 
+
+As of 1991 Minsky was still publishing papers evaluating the relative advantages of the neat versus scruffy approaches eg “Logical Versus Analogical or Symbolic Versus Connectionist or Neat Versus
+Scruffy”
+
+ Modern AI as both neat and scruffy 
+New Artificial intelligenceStatistical
+However by 2021 Russell and Norvig had changed their minds Deep learning networks and machine learning in general require extensive fine tuning  they must be iteratively tested until they begin to show the desired behavior This is a scruffy methodology
+
+Wellknown examples
+<! See citations in the "history" section >
+Neats
+
+ John McCarthy (computer scientist) Allen Newell
+ Herbert A Simon
+ Edward Feigenbaum
+ Robert Kowalski
+ Judea Pearl
+
+Scruffies
+
+ Rodney Brooks
+ Terry Winograd
+ Marvin Minsky
+ Roger Schank
+ Douglas Lenat
+See also
+
+ History of artificial intelligence
+ Soft computing
+ Symbolic AI
+ Philosophy of artificial intelligence
+
+Notes
+
+Citations
+
+
+References
+ 
+ 
+ cite book
+
+ cite book 
+
+ cite book
+ 
+<! Note: this article needs both new and old editions of R&N because it discusses how they changed their minds >
+ Cite book 
+
+ Cite book
+
+ cite book
+
+Further reading
+
+ cite journal            
+ cite journal              
+
+

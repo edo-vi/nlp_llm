@@ -1,0 +1,18 @@
+
+
+An immunization registry or immunization information system (IIS) is an information system that collects vaccination data about all persons within a geographic area It consolidates the immunization records from multiple sources for each person living in its jurisdiction
+__TOC__
+Introduction
+Immunization information systems (IIS) are an important tool to increase and sustain high vaccination coverage by consolidating vaccination records of children and adults from multiple providers forecasting next doses past due due and next due to support generating reminder and recall vaccination notices for each individual and providing official vaccination forms and vaccination coverage assessments One of the national health objective (goal)
+A "fully operational" IIS includes 95% enrollment or higher of all catchment area (human geography)
+In a populationbased IIS children are entered into the IIS at birth often through a linkage with electronic birth records An IIS record also can be initiated by a health care provider at the time of a childs first immunization If an IIS includes all children in a given geographical area and all providers are reporting immunization information it can provide a single data source for all community immunization partners Such a populationbased IIS can make it easier to carry out the demonstrably effective immunization strategies (eg reminder/recall AFIX and WIC linkages) and thereby decrease the resources needed to achieve and maintain high levels of coverage IIS can also be used to enhance adult immunization services and coverage Pharmacy immunizations are reported to state IIS allowing for a complete lifetime immunization history
+
+The concept of IIS is not new Many individual practices and health plans administer immunizations to their patients Records of these immunizations often are based on computerized information systems designed for other purposes such as Invoice
+ See also 
+ Vaccination schedule
+References
+
+ https://wwwcdcgov/vaccines/programs/iis/defaulthtm CDC entry
+ https://wwwcdcgov/vaccines/programs/iis/defaulthtm CDC Immunization Information System
+ https://wwwimmregistriesorg American Immunization Registry Association (AIRA)
+

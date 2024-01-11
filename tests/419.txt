@@ -1,0 +1,59 @@
+
+File:WHO EN Vaccines Topic Two Ingredients static 8Dec2020jpgA vaccine dose contains many ingredients (stabilizers adjuvants residual inactivating ingredients residual cell culture materials residual antibiotics and preservatives) very little of which is the active ingredient the immunogen A single dose may have merely nanograms of virus particles or micrograms of bacterial polysaccharides A vaccine injection oral drops or nasal spray is mostly water Other ingredients are added to boost the immune response to ensure safety or help with storage and a tiny amount of material is leftover from the manufacturing process Very rarely these materials can cause an allergic reaction in people who are very sensitive to them
+
+Volume
+File:Szczepionka strep pneujpg
+The volume of a vaccine dose is influenced by the route of administration While some vaccines are given orally or nasally most require an injection Vaccines are not injected intravenously into the bloodstream Most injections deposit a small dose Intramuscular injection
+Fluenz Tetra a live flu vaccine for children is administered nasally with 01ml of liquid sprayed into each nostril The live Ty21a
+At the other end of the volume scale the smallpox vaccine is a minuscule 00025ml droplet that is picked up when a bifurcated needle is dipped into a vial containing around 100 doses This needle is pricked 15 times into a small area of skin just firmly enough to produce a drop of blood A little larger is the BCG BCG vaccine
+Some vaccines come with the active ingredients already suspended in solution and the syringe prefilled (eg Bexsero Meningococcal vaccineSerogroup B
+Immunogens
+Many vaccines developed in the 20th century contain whole bacteria or viruses which are either inactivated (killed) attenuated (weakened) or a strain chosen to be harmless in humans Since these are so small even a tiny amount of them contains a huge number of individuals
+
+With bacterial vaccines we can enumerate this with an approximate number of bacteria cells The live Ty21a
+One way to Virus quantification
+Many modern vaccines are made of only the parts of the pathogen necessary to invoke an immune response (a subunit vaccine)for example just the surface proteins of the virus or only the polysaccharide coating of a bacterium Some vaccines invoke an immune response against the toxin produced by bacteria rather than the bacteria itself These toxoid vaccines are used against Tetanospasmin
+Another variant is the RNA vaccine which contains Messenger RNA
+Excipients
+
+
+Excipients are substances present in the vaccine that are not the principal immunological agents These may be present to enhance the vaccines potency ensure safety aid with storage or are left over from the manufacturing process
+
+Adjuvants
+
+
+Live vaccines produce a strong immune response that lasts a long time but they are not suitable for people with weakened immune systems Other kinds of vaccine where the pathogen has been inactivated or that contain only part of the pathogen often alone produce a weaker response and require booster doses In these vaccines a substance called an adjuvant is added to make the immune response stronger and longer lasting
+
+The most commonly used adjuvants are aluminium salts such as aluminium hydroxide aluminium phosphate or potassium aluminium sulphate (also simply called alum) These aluminium salts can be responsible for soreness and redness at the vaccination site but do not cause any longterm harm to human health The amount of aluminium in these vaccines ranges from 0125 milligrams in the pneumococcal conjugate vaccine to 082 milligrams in the 6in1 vaccine The Meningococcal Group B vaccine contains 05 milligrams and in the Vaccination scheduleUnited Kingdom
+Another adjuvant used in some Influenza vaccine
+Preservatives
+Preservatives prevent the growth of bacteria and fungi and are more commonly used in vaccines produced as multidose vials They must also be nontoxic in the dose used and not adversely affect the immunogenicity of the vaccine Thiomersal is the best known and most controversial preservative It was phased out of UK vaccines between 2003 and 2005 and is not used in any routine vaccines in the UK As a precaution the US and Europe have also removed thiomersal from vaccines despite there being no evidence of harm The USlicensed vaccines in the routine paediatric schedule generally have no thiomersal at all; a few have only a trace amount as a residual from manufacturing (less than one microgram) This is also the case for influenza vaccines in the US that come in singledose vials or prefilled syringes Some influenza vaccines are also available as a multidose vial and in that form contain thiomersal (245 micrograms of mercury)
+
+Phenol 025% v/v is used in Pneumovax 23 a pneumococcal polysaccharide vaccine and in the smallpox vaccine However phenol reduces the potency of diphtheria and tetanus toxoidcontaining vaccines Similarly thiomersal weakens the immunogenicity of the inactivated poliovirus vaccine so the IPOL vaccine contains 2–3 microlitres of Phenoxyethanol
+Stabilisers
+Stabilisers protect the vaccine from the effects of temperature and ensure it does not degrade in storage For vaccines that are freezedried they provide a necessary bulk Without them the vaccine powder would be invisibly tiny (ranging from nanograms to a few tens of micrograms) and stick to the vial glass Stabilisers used for vaccines include sugars (sucrose lactose) sorbitol amino acids (glycine monosodium glutamate) and proteins (hydrolysis
+Acidity regulators such as phosphate salts keep the pH within a required range during manufacture and in the final product Other salts help ensure the vaccine is Tonicity
+Manufacturing residuals
+There are materials that serve no function in the final vaccine but are left over from the manufacturing process Bacteria and viruses may be inactivated using formaldehyde The quantity remaining in diphtheria or tetanus toxoid vaccines licensed in the US is required to be less than 01 milligrams (002%) Although formaldehyde has potentially toxic and carcinogenic properties in large doses it is present in the blood (due to natural biochemical processes) at much higher concentrations than permitted in vaccines Alternatives used in some vaccines include glutaraldehyde and βpropiolactone Antibiotics may be used to prevent bacteria growing during vaccine manufacture and traces of these may remain Antibiotics that some people are allergic to (such as cephalosporins penicillins and sulphonamides) are not used Those that are used include kanamycin gentamicin neomycin polymyxin B and streptomycin
+
+A small amounts of protein may remain from the material used to grow viruses to which some people may be hypersensitive Some influenza and yellow fever vaccines are grown in chicken eggs and measles or mumps vaccines may be grown in chick embryo cell culture EngerixB a DNA vaccine
+Some components of the vaccine vial or syringe may contain latex rubber This is a problem for those with a Type I hypersensitivity
+Notes
+
+
+References
+
+
+Works cited
+
+ 
+ cite book 
+
+
+External links
+ https://vkovgoxacuk/vk/vaccineingredients Vaccine ingredients from the Oxford Vaccine Group
+ https://wwwcdcgov/vaccines/pubs/pinkbook/downloads/appendices/b/excipienttable2pdf Vaccine Excipient Summary from the Centers for Disease Control and Prevention (CDC)
+ https://fullfactorg/online/vaccineingredients/ Vaccine ingredients from Full Fact
+
+
+

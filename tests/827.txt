@@ -1,0 +1,17 @@
+A fact box is a simplified display format that presents Evidencebased medicine
+The format has been shown to improve people’s understanding of healthrelated risk information Benefits and harms are displayed in Absolute value
+Fact box: Main features
+
+There are several key features of a fact box First a summary statement describes the benefits and harms of a medical treatment without giving an explicit recommendation about which option is optimal for the reader To avoid any ambiguities in interpreting the content explicit and exhaustive information about the target population (eg gender age range) date or time span of data collection and all additional information that may have an influence on the understanding of the reported facts are presented To inform the user about the most important benefits and harms these are stated explicitly preferably as a list of statements or questions Moreover a fact box presents comparisons of outcomes usually between treatment and control groups which are based on research results (preferably Metaanalysis
+Fact box: Use and implementation
+
+Based on an early format known as the balance sheet this simple tabular format has been adopted by different health organizations eg National Health and Medical Research Council United States Preventive Services Task Force
+ References 
+
+
+ External links 
+ https://wwwhardingcenterde/en/projectsandcollaborations/factboxes Harding Center for Risk Literacy
+ https://wwwhelsanach/en/blog/tags/healthliteracy Helsana
+ https://wwwaokbvde/engagement/gesundheitskompetenz/faktenboxen/ AOK (German)
+ https://dartmeddartmouthedu/spring08/html/disc_drugs_wephp Dartmouth Medicine
+

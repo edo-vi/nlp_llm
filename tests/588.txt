@@ -1,0 +1,54 @@
+
+
+Environmental epigenetics is a branch of epigenetics that studies the influence of external environmental factors on the gene expression of a developing embryo. The way that genes are expressed may be passed down from parent to offspring through epigenetic modifications although environmental influences do not alter the genome itself.
+
+During embryonic development epigenetic modifications determine which genes are expressed which in turn determines the embryos phenotype. When the offspring is still developing genes can be turned on and off depending on exposure to certain environmental factors. While certain genes being turned on or off can increase the risk of developmental diseases or abnormal phenotypes there is also the possibility that the phenotype will be non-functional.
+
+ Environmental triggers for epigenetic change 
+The way that genes are expressed is influenced by the environment that the genome is in. These environmental influences are referred to as triggers and can involve anything that influences normal gene expression. How the genome is expressed depends on the environmental factors present during gestation. It is possible for the environmental effects of epigenetics to be deleterious or to be a natural part of the development pathway. When these environmental factors are detrimental it causes the deactivation of some DNA sequences which can lead to atypical phenotypes. Some of the most common triggers include diet temperature exposure to harmful substances and lifestyle. These triggers can cause low birth weight neurological disorders cancers autoimmune diseases and many other malformations.
+
+These epigenetic triggers can change the way that an organism develops and have lifelong effects. Epigenetic changes can be passed down through offspring present in multiple generations and continue to change throughout a lifetime. Each sequence of affected DNA is not expressed at the same time. There are specific stages in which these expressions happen during development. The combined epigenetic mechanisms of DNA methylation and histone modification are responsible for how the genome is altered. For example the suppression of Oncogene
+ Examples of triggers 
+
+ Nutrients 
+Offspring can experience phenotypic changes depending on their access to nutrients. When nutrients are limited during pregnancy the offsprings phenotypic expression can be disrupted. Nutrient intake is also important during lactation for the purpose of transferring nutrients to the offspring.
+
+ Exposures 
+Exposures to certain triggers such as alcohol or drugs can disrupt the normal expression of the offsprings phenotype. Antipsychotic drugs can lead to abnormal or stunted development during the Fetus
+ Stress during pregnancy 
+When the maternal figure is exposed to stressors it can lead to a greater likelihood of expressing or stunting DNA expression. If the maternal figure experiences high levels of Depression (mood)File:Monarch butterflies. (34139205320).jpg
+ Temperature 
+Changes in temperature can have varied effects on an organism. DNA methylation can be impacted by temperature when the temperature deviates from its normal value preventing regular processes from taking place. Temperature can be considered a stressor in environmental epigenetics since it has the potential to change how offspring respond and react to their environment. Monarch butterfly
+ Lifestyle choices 
+Epigenetics
+ Multigenerational epigenetic inheritance 
+Organisms respond to the habitat around them in many different ways one way is by changing its gene expression to one that is most suitable for their surroundings. More often than not this has a direct correlation to phenotypic plasticity. Phenotypic plasticity is when a species develops new physical features in response to the environment they’re in. Passing down epigenetics that are in relation to mitotic cell divisions allows for the belief of a possibility that this is also passed down from parents to offspring. Parents could be responsible for the development of new phenotypes in these cases.
+
+ Epigenetic inheritance 
+Epigenetic inheritance refers to passing down or transferring epigenetic information between the parent and offspring. Some believe that these occurrences can be passed down for many generations. For example the language a given species utilizes develops a specific phenotype that will be passed down from generation to generation.
+
+ Cultural inheritance 
+Cultural inheritance is a behavioral factor that is passed down from generation to generation similar to inheritance. For example in rats mothers that lick and groom their pups pass down a specific behavior to their offspring causing them to do the same to the subsequent generation. Epigenetic inheritance is involved in this but they are separate things that work together.
+
+ Mechanisms influencing epigenetics 
+
+ DNA replication 
+File:0323 DNA Replication.jpg
+
+
+DNA replication is a highly conserved process involving the copying of genetic information from parent one generation to the next. Within this complex process chromatin disassembles and reassembles in a precise and regulated manner in order to compact large amounts of genetic material into the nucleus while also maintaining the integrity of epigenetic information carried by Histone
+ DNA methylation 
+
+File:Epigenetic mechanisms.jpgA major formative mechanism of epigenetic modification is DNA methylation. DNA methylation is the process of adding a methyl group to a cytosine base in the DNA strand via covalent bond. This process is carried out by specific enzymes. These methyl additions can be reversed in a process known as demethylation. The presence or absence of methyl groups can attract proteins involved in gene repression or inhibit the binding of certain transcription factors thus preventing methylated genes from being transcribed ultimately affecting phenotypic expression.
+
+ Acetylation 
+
+
+Acetylation is a reaction that introduces an acetyl group into an organic chemical compound typically by substituting an acetyl group for a hydrogen atom. Deacetylation is the removal of an acetyl group from an organic chemical compound. Histone acetylation and deacetylation affect the three-dimensional structure of chromatin. A more relaxed chromatin structure leads to greater rates of genetic transcription whereas a tighter structure inhibits transcription.
+
+ Transcriptional regulation 
+
+File:Regulation of transcription in mammals.jpgTranscriptional regulation is a complex process involving the binding of Transcription factor
+ References 
+
+

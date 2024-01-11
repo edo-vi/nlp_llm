@@ -1,0 +1,68 @@
+Biological data refers to a compound or information derived from living organisms and their products. A medicinal compound made from living organisms such as a serum or a vaccine could be characterized as biological data. Biological data is highly complex when compared with other forms of data. There are many forms of biological data including text sequence data protein structure genomic data and amino acids and links among others.
+File:RNA_Polymerase.png
+ Biological Data and Bioinformatics 
+Biological data works closely with Bioinformatics which is a recent discipline focusing on addressing the need to analyze and interpret vast amounts of genomic data.
+
+In the past few decades leaps in genomic research have led to massive amounts of biological data. As a result bioinformatics was created as the convergence of genomics biotechnology and information technology while concentrating on biological data.
+
+Biological Data has also been difficult to define as bioinformatics is a wide-encompassing field. Further the question of what constitutes as being a living organism has been contentious as "alive" represents a nebulous term that encompasses molecular evolution biological modeling biophysics and systems biology. From the past decade onwards bioinformatics and the analysis of biological data have been thriving as a result of leaps in technology required to manage and interpret data. It is currently a thriving field as society has become more concentrated on the acquisition transfer and exploitation of bioinformatics and biological data.
+
+ Types of Biological Data 
+Biological Data can be extracted for use in the domains of omics Microscopy
+Moreover raw biological sequence data usually refers to DNA RNA and amino acids.
+
+Biological Data can also be described as data on biological entities. For instance characteristics such as: sequences graphs geometric information scalar and vector fields patterns constraints images and spatial information may all be characterized as biological data as they describe features of biological beings. In many instances biological data are associated with several of these categories. For instance as described in the National Institute of Healths report on Catalyzing Inquiry at the Interface of Computing and Biology a protein structure may be associated with a one-dimensional sequence a two-dimensional image and a three dimensional structure and so on.
+File:CATH_-_Protein_Structure_Classification_Database.png
+ Biomedical Databases 
+Biological database
+ Bio-hacking and Privacy Threats 
+
+ Bio-hacking 
+Bio-computing attacks have become more common as recent studies have shown that common tools may allow an assailant to synthesize biological information which can be used to hijack information from DNA-analyses. The threat of biohacking has become more apparent as DNA-analysis increases in commonality in fields such as forensic science clinical research and genomics.
+
+Biohacking can be carried out by synthesizing malicious DNA and inserted into biological samples. Researchers have established scenarios that demonstrate the threat of biohacking such as a hacker reaching a biological sample by hiding malicious DNA on common surfaces such as lab coats benches or rubber gloves which would then contaminate the genetic data.
+
+However the threat of biohacking may be mitigated by using similar techniques that are used to prevent conventional injection attacks. Clinicians and researchers may mitigate a bio-hack by extracting genetic information from biological samples and comparing the samples to identify material unknown materials. Studies have shown that comparing genetic information with biological samples to identify bio-hacking code has been up to 95% effective in detecting malicious DNA inserts in bio-hacking attacks.
+
+ Genetic Samples as Personal Data 
+Privacy concerns in genomic research have arises around the notion of whether or not genomic samples contain personal data or should be regarded as physical matter. Moreover concerns arise as some countries recognize genomic data as personal data (and apply data protection rules) while other countries regard the samples in terms of physical matter and do not apply the same data protection laws to genomic samples. The forthcoming General Data Protection Regulation (General Data Protection Regulation
+However ambiguity surrounding the definition of "personal data" in the text of the GDPR especially regarding biological data has led to doubts on whether regulation will be enforced for genetic samples. Article 4(1) states that personal data is defined as "Any information relating to an identified or identifiable natural person (data subject)" 
+
+ Applications of Deep Learning to Biological Data 
+As a result of rapid advances in data science and computational power life scientists have been able to apply data-intensive machine learning methods to biological data such as deep learning (DL) reinforcement learning (RL) and their combination (deep RL). These methods alongside increases in data storage and computing have allowed life scientists to mine biological data and analyze data sets that were previously too large or complex. Deep Learning (DL) and reinforcement learning (RL) have been used in the field of omics research (which includes genomics proteomics or metabolomics.) Typically raw biological sequence data (such as DNA RNA and amino acids) is extracted and used to analyze features functions structures and molecular dynamics from the biological data. From that point onwards different analyses may be performed such as GE profiling splicing junction prediction and protein-protein interaction evaluation may all be performed.
+
+Reinforcement learning a term stemming from behavioral psychology is a method of problem solving by learning things through trial and error. Reinforcement learning can be applied to biological data in the field of omics by using RL to predict bacterial genomes.
+
+Other studies have shown that reinforcement learning can be used to accurately predict biological sequence annotation.
+
+Deep Learning (DL) architectures are also useful in training biological data. For instance DL architectures that target pixel levels of biological images have been used to identify the process of mitosis in histological images of the breast. DL architectures have also been used to identify nuclei in images of breast cancer cells.
+
+ Challenges to Data Mining in Biomedical Informatics 
+
+ Complexity 
+The primary problem facing biomedical data models has typically been complexity as life scientists in clinical settings and biomedical research face the possibility of information overload. However information overload has often been a debated phenomenon in medical fields. Computational advances have allowed for separate communities to form under different philosophies. For instance data mining and machine learning researchers search for relevant patterns in biological data and the architecture does not rely on human intervention. However there are risks involved when modeling artifacts when human intervention such as end user comprehension and control are lessened.
+
+Researchers have pointed out that with increasing health care costs and tremendous amounts of underutilized data health information technologies may be the key to improving the efficiency and quality of healthcare.
+
+ Database Errors and Abuses 
+Electronic health record
+Legal scholars have pointed towards three primary concerns for increasing litigation pertaining to biomedical databases. First data contained in biomedical databases may be incorrect or incomplete. Second systemic biases which may arise from researcher biases or the nature of the biological data may threaten the validity of research results. Third the presence of data mining in biological databases can make it easier for individuals with political social or economic agendas to manipulate research findings to sway public opinion.
+
+An example of database misuse occurred in 2009 when the Journal of Psychiatric Research published a study that associated abortion to psychiatric disorders. The purpose of the study was to analyze associations between abortion history and psychiatric disorders such as anxiety disorders (including panic disorder PTSD and agoraphobia) alongside substance abuse disorders and mood disorders.
+
+However the study was discredited in 2012 when scientists scrutinized the methodology of the study and found it severely faulty. The researchers had used "national data sets with reproductive history and mental health variables" that required women to seek counseling before abortions due to the potential of long-term mental health consequences.
+
+Another article published in the New York Times demonstrated how Electronic Health Records (EHR) systems could be manipulated by doctors to exaggerate the amount of care they provided for purposes of Medicare reimbursement.
+File:IN10235_Anthem_Data_Breach_How_Safe_Is_Health_Information_Under_HIPAA_(IA_IN10235AnthemDataBreachHowSafeIsHealthInformationUnderHIPAA-crs).pdf
+ Biomedical Data Sharing 
+Sharing biomedical data has been touted as an effective way to enhance research reproducibility and scientific discovery.
+
+While researchers struggle with technological issues in sharing data social issues are also a barrier to sharing biological data. For instance clinicians and researchers face unique challenges to sharing biological or health data within their medical communities such as privacy concerns and patient privacy laws such as Health Insurance Portability and Accountability Act
+ Attitudes Towards Data Sharing 
+According to a 2015 study focusing on the attitudes of practices of clinicians and scientific research staff a majority of the respondents reported data sharing as important to their work but signified that their expertise in the subject was low. Of the 190 respondents to the survey 135 identified themselves as clinical or basic research scientists and the population of the survey included clinical and basic research scientists in the Intramural Research Program at the National Institute of Health. The study also found that among the respondents sharing data directly with other clinicians was a common practice but the subjects of the study had little practice uploading data to a repository.
+
+Within the field of biomedical research data sharing has been promoted as an important way for researchers to share and reuse data in order to fully capture the benefits towards Personalized medicine
+ Challenges to Data Sharing 
+Data sharing in healthcare has remained a challenge for several reasons. Despite research advances in data sharing in healthcare many healthcare organizations remain reluctant or unwilling to release medical data on account of privacy laws such as the Health Insurance Portability and Accountability Act Health Insurance Portability and Accountability Act
+ References 
+

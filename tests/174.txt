@@ -1,0 +1,28 @@
+File:E. coli Bacteria (16578744517).jpgSynthetic microbial consortia (commonly called co-cultures) are multi-population systems that can contain a diverse range of microbial species and are adjustable to serve a variety of industrial ecological and tautological interests.  For synthetic biology consortia take the ability to engineer novel cell behaviors to a population level.
+
+Consortia are more common than not in nature and generally prove to be more robust than monocultures. Just over 7000 species of bacteria have been cultured and identified to date. Many of the estimated 1.2 million bacteria species that remain have yet to be cultured and identified in part due to inabilities to be cultured axenically. Evidence for symbiosis between microbes strongly suggests it to have been a necessary precursor of the evolution of land plants and for their transition from algal communities in the sea to land. When designing synthetic consortia or editing naturally occurring consortia synthetic biologists keep track of pH temperature initial metabolic profiles incubation times growth rate and other pertinent variables.
+
+Biofuel
+One of the more salient applications of engineering behaviors and interactions between microbes in a community is the ability to combine or even switch metabolisms. The combination of autotrophic and heterotrophic microbes allows the unique possibility of a self-sufficient community that may produce desired biofuels to be collected. The commensal combination of the sucrose-producing cyanobacteria with the modified E. coli metabolism may allow for a diverse array of metabolic products such as various butanol biofuels terpenoids and fatty-acid derived fuels.
+
+Including a heterotroph also provides a solution to the issues of contamination when producing carbohydrates as competition may limit contaminant species viability.
+
+Through interactions between Geobacter spp. and Methanogens from the soil in a rice paddy field it was discovered that the use of interspecies electron transfer stimulated the production of methane.  Considering the abundance of conductive metals in soils and the use of Methane (natural gas) as a fuel this may lead to a bioenergy-producing process.
+
+Bioremediation
+Use of the extensive range of microbial metabolism offers opportunities to those interested in Bioremediation. Through consortia synthetic biologists have been able to design an enhanced efficiency in bacteria that can excrete bio-surfactants as well as degrade hydrocarbons for the interests of cleaning oil contamination in Assam India. Their experiment took combinations of five native naturally occurring hydrocarbon-degrading bacteria and analyzed the different cocktails to see which degraded poly-aromatic hydrocarbons the best. The combination of Bacillus pumilis KS2 and Bacillus cereus R2 was found to be the most effective degrading 84.15% of the Total petroleum hydrocarbon
+Further remediation efforts have turned to the issue of agricultural Pesticide run-off. Pesticides vary in class and function and in high concentration often lead to highly toxic environmental risks. Of the over-500 types of pesticides in current use two serious issues are their general lack of biodegradability and unpredictability. In Kyrgyzstan researchers assessed soil around a pesticide dump and discovered not only that the soil had poor microflora diversity but that some of the species that were present used metabolic pathways to digest the pesticides. The two most-efficient species found were Pseudomonas fluorescens and Bacillus polymyxa with B. polymyxa degrading 48.2% of the pesticide Aldrin after 12 days. However when the strains were combined with each other as well as some other less-efficient yet native bacteria pesticide degradation increased to 54.0% in the same conditions. Doolatkeldieva et al. discussed their findings saying <blockquote>"It is consequently possible that the degrading capacity of the bacteria could be increased only through co-cultivation which shows that these bacteria naturally coexist and are dependent on each other for the utilization of environmental substances. In the oxidation and hydrolysis pathways of pesticide degradation each bacterium can produce metabolites that will be utilized by the enzyme system of the next bacterium".</blockquote>
+
+Bioplastic
+As an answer to the increase in use of non-biodegradable oil-based plastics and its subsequent accumulation as waste scientists have developed biodegradable and compostable alternatives often called Bioplastics. However not all biologically created plastics are necessarily biodegradable and this can be a source of confusion. Therefore it is important to distinguish between the types of bioplastics biodegradable bioplastics which can be degraded by some microflora and simply bio-based plastics which are a renewable source of plastic but require more effort to dispose of.
+
+One of the bioplastics of interest is Polyhydroxybutyrate abbreviated to PHB. PHB is a biodegradable bioplastic that has applications for food packaging due to being non-toxic. Repurposed E. coli as well as Halomonas boliviensis have been shown to produce PHB. PHB production starting from carbon dioxide in a co-culture between Synechococcus
+ See also 
+* Microbial consortium
+
+References
+
+
+
+
+

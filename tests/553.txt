@@ -1,0 +1,50 @@
+
+
+High throughput biology (or high throughput cell biology) is the use of automation equipment with classical cell biology techniques to address biological questions that are  otherwise unattainable using conventional methods. It may incorporate techniques from optics chemistry biology or image analysis to permit rapid highly parallel research into how cells function interact with each other and how pathogens exploit them in disease.
+
+High throughput cell biology has many definitions but is most commonly defined by the search for active compounds in natural materials like in medicinal plants. This is also known as high throughput screening (HTS) and is how most drug discoveries are made today many cancer drugs antibiotics or viral antagonists have been discovered using HTS. The process of HTS also tests substances for potentially harmful chemicals that could be potential human health risks. HTS generally involves hundreds of samples of cells with the model disease and hundreds of different compounds being tested from a specific source. Most often a computer is used to determine when a compound of interest has a desired or interesting effect on the cell samples.
+
+Using this method has contributed to the discovery of the drug Sorafenib (Nexavar). Sorafenib is used as medication to treat multiple types of cancers including renal cell carcinoma (RCC cancer in the kidneys) hepatocellular carcinoma (liver cancer) and thyroid cancer. It helps stop cancer cells from reproducing by blocking the abnormal proteins present. In 1994 high throughput screening for this particular drug was completed. It was initially discovered by Bayer Pharmaceuticals in 2001. By using a RAF kinase biochemical assay 200000 compounds were screened from medicinal chemistry directed synthesis or combinatorial libraries to identify active molecules against activeRAF kinase. Following three trials of testing it was found to have anti-angiogenic effects on the cancers which stops the process of creating new blood vessels in the body.
+
+Another discovery made using HTS is Maraviroc. It is an HIV entry inhibitor and slows the process and prevents HIV from being able to enter human cells. It is used to treat a variety of cancers as well reducing or blocking the metastasis of cancer cells which is when cancer cells spread to a completely different part of the body from where it started. High throughput screening for Maraviroc was completed in 1997 and finalized in 2005 by Pfizer global research and development team.
+
+High-throughput biology serves as one facet of what has also been called "omics research" - the interface between large scale biology (genome proteome transcriptome) technology and researchers. High throughput cell biology has a definite focus on the cell and methods accessing the cell such as imaging gene expression microarrays or Genome-wide association study
+High throughput research can be defined as the automation of experiments such that large scale repetition becomes feasible. This is important because many of the questions faced by life science researchers now involve large numbers. For example the Human Genome contains at least 21000 genes all of which can potentially contribute to cell function or disease. To be able to capture an idea of how these genes interact with one another which genes are involved in and where they are methods that encompass from the cell to the genome are of interest.
+
+ Use of robotics 
+Classical High throughput screening robotics are now being tied closer to cell biology principally using technologies such as High-content screening. High throughput cell biology dictates methods that can take routine cell biology from low scale research to the speed and scale necessary to investigate complex systems achieve high sample size or efficiently screen through a collection.
+
+ Use of microscopy and cytometry 
+
+High-content screening technology is mainly based on automated digital microscopy and flow cytometry in combination with IT-systems for the analysis and storage of the data. "High-content" or visual biology technology has two purposes first to acquire spatially or temporally resolved information on an event and second to automatically quantify it. Spatially resolved instruments are typically automated microscopes and temporal resolution still requires some form of fluorescence measurement in most cases. This means that a lot of HCS instruments are (fluorescence) microscopes that are connected to some form of image analysis package. These take care of all the steps in taking fluorescent images of cells and provide rapid automated and unbiased assessment of experiments.
+
+ Development of technology 
+
+The technology can be defined as being at the same development point as the first automated DNA sequencers in the early 1990s. Automated DNA sequencing was a disruptive technology when it became practical and -even if early devices had shortcomings- it enabled genome scale sequencing projects and created the field of bioinformatics. The impact of a similarly disruptive and powerful technology on molecular cell biology and translational research is hard to predict but what is clear is that it will cause a profound change in the way cell biologists research and medicines are discovered.
+
+See also
+*Drug discovery
+*High-throughput screening
+*Drug discovery hit to lead
+*High-content screening
+
+References
+
+
+ Further reading 
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+External links
+
+*http://www.yale.edu/htcb Yale Center for High Throughput Cell Biology
+*http://www.cellclassifier.org The Advanced Cell Classifier project (ETH Zurich)
+

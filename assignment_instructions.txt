@@ -1,0 +1,21 @@
+Large Language Models can be trained for a number of purposes. In this assignment, candidates are either required to (CASE 1) implement an algorithm to generate slicing of excessive context window for ChatGPT 3.5, or (CASE 2) to implement a hierarchical system for summarization in the same system. A correct submission will just consist in one of the two cases. Please do not submit gits for both cases. The implementation for both choices are to be either in Python, while using NLTK, or in Java while using OpenNLP.
+
+CASE 1
+
+The method is based on the following pipeline:
+
+* When the input is below the standard size of the context window (128 Mb) is then passed "as it is" to the LLM;
+
+* When the input is above the standard size is subdivided in a finite number of slices each of a size that
+   fits the context window and such that they sum to a number N greater than or equal to the size of the input
+   length;
+
+* The criteria to generate a coverage as provided above are:
+
+      ** Two slices can overlap;
+      ** No slice is included in another one;
+      ** When two adjacent slices are settled, the two slices have to be different "enough".
+
+Ideal solutions will be based on the comparison of two slices based on cosine distance of bag of words constructed by the usual pipeline of stopword elimination, stemming/lemmatization and count of occurrences weighted on the length of the document after the steps above. The setup of the threshold for distance is empirical, no need to settle it by experiments (use reasonable threshold like 20%).
+
+Once the prompt engineering algorithm has been run, we shall collect the results and use them as they are, so the assignment does not require ex-post filtering.

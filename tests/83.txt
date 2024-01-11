@@ -1,0 +1,37 @@
+File:Pulse Polio Day Gwalior January 2014jpgThe pulse vaccination strategy is a method used to eradicate an epidemic by repeatedly vaccinating a group at risk over a defined age range until the spread of the pathogen has been stopped It is most commonly used during measles and polio epidemics to quickly stop the spread and contain the outbreak
+
+ Mathematical model 
+Where T time units is a constant fraction p of susceptible subjects vaccinated in a relatively short time This yields the differential equations for the susceptible and vaccinated subjects as
+:
+
+:<math> \frac  \mu N   \mu S  \beta \frac S S(n T^+)  (1p) S(n T^) n012\dots </math>
+
+:<math> \frac   \mu V   V(n T^+)  V(n T^) + p S(n T^) n012\dots</math>
+
+Further by setting  one obtains that the dynamics of the susceptible subjects is given by:
+
+:<math> S^(t)  1 \fracE^  </math>
+
+and that the eradication condition is:
+
+:<math> R_0 \int_^ < 1  </math>
+
+ See also 
+ Critical community size
+ Epidemic model
+ Herd immunity
+ Pulse Polio
+ Ring vaccination
+ Vaccinenaive
+
+ References 
+
+
+External links
+
+ http://wwwimmunisationnhsuk/articlephp?id97 Immunisation Immunisation schedule for children in the UK Published by the UK Department of Health
+ https://wwwcdcgov/nip CDCgov  National Immunization Program: leading the way to healthy lives Centers for Disease Control https://wwwcdcgov/vaccines/pubs/vacctimelinehtm CDCgov  Vaccines timeline
+ http://wwwhistoryofvaccinesorg History of Vaccines Medical education site from the College of Physicians of Philadelphia the oldest medical professional society in the US
+ http://wwwaaporg/enus/abouttheaap/aappressroom/aappressroommediacenter/pages/AAPPressroomPhotosaspx Images of vaccinepreventable diseases
+
+

@@ -1,0 +1,190 @@
+
+
+
+
+
+Infobox medical intervention
+
+
+
+Vaccination is the administration of a vaccine to help the immune system develop immunity from a disease Vaccines contain a microorganism or virus in a weakened live or killed state or proteins or toxins from the organism In stimulating the bodys Adaptive immune system
+The first disease people tried to prevent by inoculation was most likely smallpox with the first recorded use of variolation occurring in the 16th century in China It was also the first disease for which a vaccine was produced Although at least six people had used the same principles years earlier the smallpox vaccine was invented in 1796 by English physician Edward Jenner He was the first to publish evidence that it was effective and to provide advice on its production Louis Pasteur furthered the concept through his work in microbiology The immunization was called vaccination because it was derived from a virus affecting cows ( cow) When smallpox was finally eradicated in 1979 it had already killed an estimated 300–500&nbsp;million people in the 20th century
+
+Vaccination and immunization have a similar meaning in everyday language This is distinct from inoculation which uses unweakened live pathogens Vaccination efforts have been met with Vaccine controversy
+
+Mechanism of function
+File:Polio vaccination in Sweden 1957jpgFile:PunkkibussijpgFile:AntiCOVID19 Vaccination Center GUMed Gdansk PolandjpgVaccines are a way of artificial induction of immunity
+Most vaccines are administered before a patient has contracted a disease to help increase future protection However some vaccines are administered after the patient already has contracted a disease Vaccines given after exposure to smallpox are reported to offer some protection from disease or may reduce the severity of disease The first rabies immunization was given by Louis Pasteur to a child after he was bitten by a Rabies
+Most vaccines are given by injection as they are not absorbed reliably through the intestines Live attenuated polio rotavirus some typhoid and some cholera vaccines are given orally to produce immunity in the bowel While vaccination provides a lasting effect it usually takes several weeks to develop This differs from passive immunity (the transfer of antibodies such as in breastfeeding) which has immediate effect
+
+A vaccine failure is when an organism contracts a disease in spite of being vaccinated against it Primary vaccine failure occurs when an organisms immune system does not produce antibodyFile:Measlesvaccinecoverageworldwidevsmeaslescasesworldwidepng
+Vaccination versus inoculation
+The term "inoculation" is often used interchangeably with "vaccination" However while related the terms are not synonymous Vaccination is treatment of an individual with an attenuated (ie less virulent) pathogen or other immunogen whereas inoculation also called variolation in the context of smallpox prophylaxis is treatment with unattenuated variola virus taken from a pustule or scab of a smallpox patient into the superficial layers of the skin commonly the upper arm Variolation was often done armtoarm or less effectively scabtoarm and often caused the patient to become infected with smallpox which in some cases resulted in severe disease
+
+Vaccinations began in the late 18th century with the work of Edward Jenner and the smallpox vaccine
+
+Preventing disease versus preventing infection
+
+Some vaccines like the smallpox vaccine prevent infection Their use results in sterilizing immunity and can help eradicate a disease if there is no animal reserve Other vaccines including those for  help to (temporarily) lower the chance of severe disease for individuals without necessarily reducing the probability of becoming infected
+
+ Safety 
+
+File:Globalsmallpoxcasespng
+ Vaccine development and approval 
+Just like any medication or procedure no vaccine can be 100% safe or effective for everyone because each persons body can react differently While minor side effects such as soreness or low grade fever are relatively common serious side effects are very rare and occur in about 1 out of every 100000 vaccinations and typically involve Allergy
+However vaccines are the safest they ever have been in history and each vaccine undergoes rigorous clinical trials to ensure their safety and Vaccine efficacy
+Prior to human testing vaccines are tested on cell cultures and the results modelled to assess how they will interact with the immune system During the next round of testing researchers study vaccines in animals including Mouse
+During phase I trials a vaccine is tested in a group of about 20 people with the primary goal of assessing the vaccines safety Phase II trials expand the testing to include 50 to several hundred people During this stage the vaccines safety continues to be evaluated and researchers also gather data on the effectiveness and the ideal dose of the vaccine Vaccines determined to be safe and efficacious then advance to phase III trials which focuses on the efficacy of the vaccine in hundreds to thousands of volunteers This phase can take several years to complete and researchers use this opportunity to compare the vaccinated volunteers to those who have not been vaccinated to highlight any true reactions to the vaccine that occur
+
+If a vaccine passes all of the phases of testing the manufacturer can then apply for license of the vaccine through the relevant regulatory authorities such as the FDA in US Before regulatory authorities approve use in the general public they extensively review the results of the clinical trials safety tests purity tests and manufacturing methods and establish that the manufacturer itself is up to government standards in many other areas
+
+After regulatory approval the regulators continue to monitor the manufacturing protocols batch purity and the manufacturing facility itself Additionally vaccines also undergo phase IV trials which monitor the safety and efficacy of vaccines in tens of thousands of people or more across many years
+
+ Side effects 
+The Centers for Disease Control and Prevention (CDC) has compiled a list of vaccines and their possible side effects The risk of side effects varies from one vaccine to the next but below are examples of side effects and their approximate rate of occurrence with the DPT vaccine
+In 1976 in the United States a mass 1976 swine flu outbreak
+Dengvaxia the only approved vaccine for Dengue fever was found to increase the risk of hospitalization for Dengue fever by 158 times in children of 9 years or younger resulting in the suspension of a mass vaccination program in the Philippines in 2017
+
+Pandemrix  a vaccine for the 2009 swine flu pandemic vaccine
+ Ingredients 
+The ingredients of vaccines can vary greatly from one to the next and no two vaccines are the same The CDC has compiled a list of vaccines and their ingredients that is readily accessible on their website
+
+ Aluminium 
+Aluminium is an adjuvant ingredient in some vaccines An adjuvant is a type of ingredient that is used to help the bodys immune system create a stronger immune response after receiving the vaccination Aluminium is in a Salt (chemistry)
+ Mercury 
+Certain vaccines once contained a compound called thiomersal or thimerosal which is an organic compound containing Mercury (element)
+Thimerosal was used as a preservative to prevent the growth of bacteria and Fungus
+ Monitoring 
+
+CDC Immunization Safety Office initiatives
+
+Vaccine Adverse Event Reporting System (Vaccine Adverse Event Reporting System
+Vaccine Safety Datalink (Vaccine Safety Datalink
+Clinical Immunization Safety Assessment (CISA) Project
+National Institutes of Health (National Institutes of Health
+National Vaccine Program Office (National Vaccine Program Office
+The administration protocols efficacy and adverse events of vaccines are monitored by organizations of the US federal government including the CDC and FDA and independent agencies are constantly reevaluating vaccine practices As with all medications vaccine use is determined by public health research surveillance and reporting to governments and the public
+
+Usage
+File:Share of children who receive key vaccines in target populations OWIDsvgFile:Globalvaccinationcoveragepng
+The World Health Organization (WHO) has estimated that vaccination prevents 35–5&nbsp;million deaths per year They estimate that 29% of deaths of children under fiveyearsold in 2013 were vaccine preventable In other developing parts of the world they are faced with the challenge of having a decreased availability of resources and vaccinations Countries such as those in SubSaharan Africa cannot afford to provide the full range of childhood vaccinations
+
+United States
+Vaccines have led to major decreases in the prevalence of infectious diseases in the United States In 2007 studies regarding the effectiveness of vaccines on mortality or morbidity rates of those exposed to various diseases have shown almost 100% decreases in death rates and about a 90% decrease in exposure rates This has allowed specific organizations and states to adopt standards for recommended early childhood vaccinations Lower income families who are unable to otherwise afford vaccinations are supported by these organizations and specific government laws The Vaccines for Children Program and the Social Security Act are two major players in supporting lower socioeconomic groups
+
+In 2000 the CDC declared that measles had been eliminated in the US (defined as no disease transmission for 12 continuous months) However with the growing antivaccine movement the US has seen a resurgence of certain vaccinepreventable diseases The measles virus has now lost its elimination status in the US as the number of measles cases continues to rise in recent years with a total of 17 outbreaks in 2018 and 465 outbreaks in 2019 (as of 4 April 2019)
+
+History
+
+File:Edward Jenner testimonial to the efficacy of vaccination Wellcome L0020705jpg
+Before the first vaccinations in the sense of using cowpox to inoculate people against smallpox people have been inoculated in China and elsewhere before being copied in Western world
+In 1796 Edward Jenner a doctor in Berkeley Gloucestershire
+File:Queens_of_Mysore_(detail)_Thomas_Hickey_1805jpgIn 1802 the Scotland
+File:Poster for vaccination against smallpoxjpgThe US Supreme Court upheld compulsory vaccination laws in the 1905 landmark case Jacobson v Massachusetts ruling that laws could require vaccination to protect the public from dangerous communicable diseases However in practice the US had the lowest rate of vaccination among industrialized nations in the early 20th century Compulsory vaccination laws began to be enforced in the US after World War II In 1959 the WHO called for the eradication of smallpox worldwide as smallpox was still endemic in 33 countries In the 1960s six to eight children died each year in the US from vaccinationrelated complications According to the WHO there were in 1966 about 100&nbsp;million cases of smallpox worldwide causing an estimated two million deaths In the 1970s there was such a small risk of contracting smallpox that the US Public Health Service recommended for routine smallpox vaccination to be ended By 1974 the WHO smallpox vaccination program had confined smallpox to parts of Pakistan India Bangladesh Ethiopia and Somalia In 1977 the WHO recorded the last case of smallpox infection acquired outside a laboratory in Somalia In 1980 the WHO officially declared the world free of smallpox
+
+In 1974 the WHO adopted the goal of universal vaccination by 1990 to protect children against six preventable infectious diseases: measles poliomyelitis diphtheria whooping cough tetanus and tuberculosis In the 1980s only 20 to 40% of children in developing countries were vaccinated against these six diseases In wealthy nations the number of measles cases had dropped dramatically after the introduction of the measles vaccine in 1963 WHO figures demonstrate that in many countries a decline in measles vaccination leads to a resurgence in measles cases Measles are so contagious that public health experts believe a vaccination rate of 100% is needed to control the disease Despite decades of mass vaccination polio remains a threat in India Nigeria Somalia Niger Afghanistan Bangladesh and Indonesia By 2006 global health experts concluded that the eradication of polio was only possible if the supply of drinking water and sanitation facilities were improved in slums The deployment of a combined DPT vaccine against diphtheria pertussis (whooping cough) and tetanus in the 1950s was considered a major advancement for public health But in the course of vaccination campaigns that spanned decades DPT vaccines became associated with large number of cases with side effects Despite improved DPT vaccines coming onto the market in the 1990s DPT vaccines became the focus of antivaccination campaigns in wealthy nations As immunization rates fell outbreaks of pertussis increased in many countries
+
+In 2000 the Global Alliance for Vaccines and Immunization was established to strengthen routine vaccinations and introduce new and underused vaccines in countries with a per capita GDP of under US$1000
+
+UNICEF has reported on the extent to which children missed out on vaccinations from 2020 onwards due to the COVID19 pandemic By summer 2023 the organisation described vaccination programs as getting "back on track"
+
+Vaccination policy
+
+File:DTPVaccinationratebyUSStateandexemptionstatus1pngTo eliminate the risk of Disease outbreak
+Beginning with early vaccination in the nineteenth century these policies were resisted by a variety of groups collectively called antivaccinationists who object on scientific ethical political medical safety vaccination and religion
+In countries with limited financial resources limited vaccination coverage results in greater morbidity and mortality due to infectious disease More affluent countries are able to subsidize vaccinations for atrisk groups resulting in more comprehensive and effective coverage In Australia for example the Government subsidizes vaccinations for seniors and indigenous Australians
+
+Public Health Law Research an independent US based organization reported in 2009 that there is insufficient evidence to assess the effectiveness of requiring vaccinations as a condition for specified jobs as a means of reducing incidence of specific diseases among particularly vulnerable populations; that there is sufficient evidence supporting the effectiveness of requiring vaccinations as a condition for attending child care facilities and schools; and that there is strong evidence supporting the effectiveness of standing orders which allow healthcare workers without prescription authority to administer vaccine as a public health intervention
+
+ Fractional dose vaccination 
+Fractional dose vaccination reduces the dose of a vaccine to allow more individuals to be vaccinated with a given vaccine stock trading societal benefit for individual protection Based on the Nonlinear system
+ Litigation 
+Allegations of vaccine injuries in recent decades have appeared in litigation in the US Some families have won substantial awards from sympathetic juries even though most public health officials have said that the claims of injuries were unfounded In response several vaccine makers stopped production which the US government believed could be a threat to public health so laws were passed to shield manufacturers from Legal liability
+Opposition
+File:Global trend in believing vaccines are not safepng
+Opposition to vaccination from a wide array of vaccine critics has existed since the earliest vaccination campaigns Some studies have claimed to show that current vaccine schedules increase infant mortality and hospitalization rates; those studies however are correlational in nature and therefore cannot demonstrate causal effects and the studies have also been criticized for cherry picking the comparisons they report for ignoring historical trends that support an opposing conclusion and for counting vaccines in a manner that is "completely arbitrary and riddled with mistakes"
+
+Various disputes have arisen over the morality ethics Efficacy
+Many parents do not vaccinate their children because they feel that diseases are no longer present due to vaccination This is a false assumption since diseases held in check by immunization programs can and do still return if immunization is dropped  These pathogens could possibly infect vaccinated people due to the pathogens ability to mutate when it is able to live in unvaccinated hosts
+
+Vaccination and autism
+
+
+The notion of a connection between vaccines and autism originated in a 1998 paper published in The Lancet whose lead author was the physician Andrew Wakefield His study concluded that eight of the 12 patients ages 3 years to 10 years developed behavioral symptoms consistent with autism following the MMR vaccine (an immunization against measles mumps and rubella) The article was widely criticized for lack of scientific rigor and it was proven that Wakefield falsified data in the article In 2010 The Lancet officially retracted the article stating that several elements of the article were incorrect including falsified data and protocols The article has sparked a much greater antivaccination movement particularly in the United States and even though the article was shown to be fraudulent and was heavily retracted one in four parents still believe that vaccines can cause autism
+
+To date all validated and definitive studies have shown that there is no correlation between vaccines and autism One of the studies published in 2015 confirms there is no link between MMR vaccine and autism
+It can be difficult to correct the memory of humans when wrong information is received prior to correct information Even though there is much evidence to go against the Wakefield study and retractions were published by most of the coauthors many people continue to believe and base decisions on the study as it still lingers in their memory Studies and research are being conducted to determine effective ways to correct misinformation in the public memory
+
+Routes of administration
+
+A vaccine administration may be oral by injection (intramuscular intradermal subcutaneous) by puncture transdermal or intranasal Several recent clinical trials have aimed to deliver the vaccines via mucosal surfaces to be uptaken by the Mucosal immunology
+ Economics of vaccination 
+Health is often used as one of the metrics for determining the economic prosperity of a country This is because healthier individuals are generally better suited to contributing to the economic development of a country than the sick There are many reasons for this For instance a person who is vaccinated for influenza not only protects themselves from the risk of influenza but simultaneously also prevents themselves from infecting those around them This leads to a healthier society which allows individuals to be more economically productive Children are consequently able to attend school more often and have been shown to do better academically Similarly adults are able to work more often more efficiently and more effectively
+
+ Costs and benefits 
+
+On the whole vaccinations induce a net benefit to society Vaccines are often noted for their high Return on investment (ROI) values especially when considering the longterm effects Some vaccines have much higher ROI values than others Studies have shown that the ratios of vaccination benefits to costs can differ substantially—from 27:1 for diphtheria/pertussis to 135:1 for measles 476:1 for varicella and 068–11 : 1 for pneumococcal conjugate Some governments choose to subsidize the costs of vaccines due to some of the high ROI values attributed to vaccinations The United States subsidizes over half of all vaccines for children which costs between $400 and $600 each Although most children do get vaccinated the adult population of the USA is still below the recommended immunization levels Many factors can be attributed to this issue Many adults who have other health conditions are unable to be safely immunized whereas others opt not to be immunized for the sake of private financial benefits Many Americans are underinsured and as such are required to pay for vaccines outofpocket Others are responsible for paying high deductibles and copays Although vaccinations usually induce longterm economic benefits many governments struggle to pay the high shortterm costs associated with labor and production Consequently many countries neglect to provide such services
+
+According to a 2021 paper vaccinations against Haemophilus influenzae
+They estimated that it would cost between $28&nbsp;billion and $37&nbsp;billion to develop at least one vaccine for each of them This should be set against the potential cost of an outbreak The 2003 SARS outbreak in East Asia cost $54&nbsp;billion
+
+Game theory uses Utility
+Gallery
+<gallery perrow"6">
+File:Jenner phipps 01jpgFile:The cow pockjpgFile:Londre wellcome institute boilly vaccineejpgFile:A doctor vaccinating a small girl other girls with loosened Wellcome V0016682jpgFile:Serum straight from the horse inoculation caricature Wellcome L0009827jpgFile:The history of vaccination seen from an economic point of vi Wellcome V0011691jpg</gallery>
+
+ See also 
+
+
+ Antitoxin
+ Correlates of immunity
+ COVID19 vaccine
+ DNA vaccination
+ Feline vaccination
+ H5N1 clinical trials
+ Immunization during pregnancy
+ List of vaccine topics
+ Misinformation related to vaccination
+ Vaccination and religion
+ Vaccination of dogs
+ Vaccinator
+ Vaccine trial
+ World Immunization Week
+
+
+ References 
+reflist<!
+
+>
+
+
+ Further reading 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ External links 
+
+
+ https://wwwniaidnihgov/about/vrc US government Vaccine Research Center: Information regarding preventive vaccine research studies
+ http://vaccinesorg/ The Vaccine Page links to resources in many countries
+ https://wwwgovuk/government/uploads/system/uploads/attachment_data/file/323504/8807_PHE_Complete_Immunisation_Schedule_A4_2014_11pdf Immunisation schedule for the UK Published by the UK Department of Health (PDF)
+ https://webarchiveorg/web/20170501151246/https://wwwcdcgov/nip/ CDCgov – National Immunization Program: leading the way to healthy lives Centers for Disease Control https://wwwcdcgov/vaccinesafety/ CDCgov  – Mercury and Vaccines (Thimerosal) US Centers for Disease Control
+ https://webarchiveorg/web/20161110110318/http://wwwcdcgov/vaccines/pubs/vacctimelinehtm CDCgov – Vaccines timeline
+ http://wwwimmunizeorg/ Immunizeorg – Immunization Action Coalition (nonprofit working to increase immunization rates)
+ https://wwwwhoint/immunization/en/ WHOint – Immunizations vaccines and biologicals: Towards a World free of Vaccine Preventable Diseases World Health Organization (WHOs global vaccination campaign website)
+ http://eceuropaeu/healtheu/care_for_me/vaccinations/index_enhtm HealthEU Portal Vaccinations in the EU
+ http://wwwhistoryofvaccinesorg History of Vaccines Medical education site from the College of Physicians of Philadelphia the oldest medical professional society in the US
+ http://wwwaaporg/enus/abouttheaap/aappressroom/aappressroommediacenter/pages/AAPPressroomPhotosaspx Images of vaccinepreventable diseases
+ https://wwwbbccouk/programmes/p003c19q Immunisation BBC Radio 4 discussion with Nadja Durbach Chris Dye & Sanjoy Bhattacharya (In Our Time 20 April 2006)
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+
+
+Targeted immunization strategies are approaches designed to increase the immunization level of populations and decrease the chances of epidemic outbreaks<ref namePastorVespignani2002>
+
+</ref> Though often in regards to use in healthcare practices and the administration of vaccines to prevent biological epidemic outbreaks<ref nameCDCvaccinesandimmunization>
+cite web
+</ref> these strategies refer in general to immunization schemes in complex networks biological social or artificial in nature Identification of atrisk groups and individuals with higher odds of spreading the disease often plays an important role in these strategies since targeted immunization in highrisk groups is necessary for effective eradication efforts and has a higher return on investment than immunizing larger but lowerrisk groups<ref nameVNAnurses>cite news
+</ref>
+
+Background
+
+The success of vaccines in preventing major outbreaks relies on the mechanism of herd immunity also known as community immunity where the immunization of individuals provides protection for not only the individuals but also the community at large<ref name"JohnJacob2000">
+
+</ref> In cases of biological contagions such as influenza measles and chicken pox immunizing a critical community size can provide protection against the disease for members who cannot be vaccinated themselves (infants pregnant women and immunocompromised individuals) Often however these vaccine programmes require the immunization of a large majority of the population to provide herd immunity<ref name"communityimmunity">
+cite web
+</ref> A few successful vaccine programmes have led to the eradication of infectious diseases like small pox<ref name"HBazinsmallpoxeradication">
+cite book
+
+</ref> and rinderpest and the near eradication of polio<ref nameCDCpolioupdate>
+cite web
+</ref> which plagued the world before the second half of the 20th century<ref namelivesciencepolio>
+cite news
+</ref><ref namepoliocomebackNYT>
+cite news
+</ref>
+
+Networkbased strategies
+
+More recently researchers have looked at exploiting network connectivity properties to better understand and design immunization strategies to prevent major epidemic outbreaks<ref nameCampbellSalathe2013>
+
+</ref> Many real networks like the Internet World Wide Web and even sexual contact networks<ref nameLiljerossexualcontacts2001>
+
+</ref> have been shown to be scalefree networks and as such exhibit a powerlaw distribution for the degree distribution In large networks this results in the vast majority of nodes (individuals in social networks) having few connections or low degree k while a few "hubs" have many more connections than the average <k><ref nameBAmodel1999>
+
+</ref> This wide variability (heterogeneity) in degree offers immunization strategies based on targeting members of the network according to their connectivity rather than random immunization of the network In epidemic modeling on scalefree networks targeted immunization schemes can considerably lower the vulnerability of a network to epidemic outbreaks over random immunization schemes Typically these strategies result in the need for far fewer nodes to be immunized in order to provide the same level of protection to the entire network as in random immunization<ref nameTanaka2014>
+
+</ref> In circumstances where vaccines are scarce efficient immunization strategies become necessary to preventing infectious outbreaks<ref nametargetedinfluenzavaccines>
+
+</ref>
+
+Examples
+
+A common approach for targeted immunization studies in scalefree networks focuses on targeting the highest degree nodes for immunization These nodes are the most highly connected in the network making them more likely to spread the contagion if infected Immunizing this segment of the network can drastically reduce the impact of the disease on the network and requires the immunization of far fewer nodes compared to randomly selecting nodes However this strategy relies on knowing the global structure of the network which may not always be practical
+
+A recent centrality measure Percolation Centrality introduced by Piraveenan et al is particularly useful in identifying nodes for vaccination based on the network topology Unlike node degree which depends on topology alone however percolation centrality takes into account the topological importance of a node as well as its distance from infected nodes in deciding its overall importance Piraveenan et al has shown that percolation centralitybased vaccination is particularly effective when the proportion of people already infected is on the same order of magnitude as the number of people who could be vaccinated before the disease spreads much further If infection spread is at its infancy then ringvaccination surrounding the source of infection is most effective whereas if the proportion of people already infected is much higher than the number of people that could be vaccinated quickly then vaccination will only help those who are vaccinated and herd immunity cannot be achieved Percolation centralitybased vaccination is most effective in the critical scenario where the infection has already spread too far to be completely surrounded by ringvaccination yet not spread wide enough so that it cannot be contained by strategic vaccination Nevertheless Percolation Centrality also needs full network topology to be computed and thus is more useful in higher levels of abstraction (for example networks of townships rather than social networks of individuals) where the corresponding network topology can more readily be obtained
+
+Increasing immunization coverage
+Millions of children worldwide do not receive all of the routine vaccinations as per their national schedule As immunization is a powerful public health strategy for improving child survival it is important to determine what strategies work best to increase coverage A Cochrane review assessed the effectiveness of intervention strategies to boost and sustain high childhood immunization coverage in low and middleincome countries Fourteen trials were included but most of the evidence was of low quality Providing parents and other community members with information on immunization health education at facilities in combination with redesigned immunization reminder cards regular immunization outreach with and without household incentives home visits and integration of immunization with other services may improve childhood immunization coverage in lowand middleincome countries
+
+ See also 
+ Influenza vaccine
+ Immunization
+ Vaccinepreventable diseases
+ Smallpox eradication
+ Poliomyelitis eradication
+ Infectious diseases
+ ILOVEYOU (computer worm epidemic in 2000)
+ Epidemiology
+ Epidemic model
+ Network Science
+ Critical community size
+ Scalefree network
+ Complex network
+ Percolation theory
+ Pandemic
+
+ References 
+
+

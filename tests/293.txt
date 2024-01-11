@@ -1,0 +1,80 @@
+
+Biological classification
+
+File:Shimmering bees drive hornet away.ogv
+Biological organisation is the organisation of complex system
+Each level in the hierarchy represents an increase in organisational wikt:complexity
+The biological organisation of life is a fundamental premise for numerous areas of scientific method
+Levels
+
+File:Levels of Organization.svgThe simple standard biological organisation scheme from the lowest level to the highest level is as follows:
+
+
+
+More complex schemes incorporate many more levels. For example a molecule can be viewed as a grouping of chemical element
+Each level in the hierarchy can be described by its lower levels. For example the organism may be described at any of its component levels including the atomic molecular cellular histological (tissue) organ and organ system levels. Furthermore at every level of the hierarchy new functions necessary for the control of life appear. These new roles are not functions that the lower level components are capable of and are thus referred to as EmergenceEmergent properties and processes
+Every organism is organised though not necessarily to the same degree. An organism can not be organised at the histological (tissue) level if it is not composed of tissues in the first place.
+
+Emergence of biological organisation
+Biological organisation is thought to have emerged in the early RNA world hypothesis
+ Fundamentals 
+Empirically a large proportion of the (complex) biological systems we observe in nature exhibit hierarchical structure. On theoretical grounds we could expect complex systems to be hierarchies in a world in which complexity had to evolve from simplicity. Systems theory
+The theoretical foundations are summarized by thermodynamics.
+When biological systems are modeled as physical systems in its most general abstraction they are Thermodynamic systemOpen system
+A simpler and more direct way to explain the fundamentals of the "hierarchical organisation of life" was introduced in Ecology by Howard T. Odum
+To motivate this deep idea he offered his "parable" about imaginary watchmakers.
+
+:!Parable of the Watchmakers
+There once were two watchmakers named Hora and Tempus who made very fine watches. The phones in their workshops rang frequently; new customers were constantly calling them. However Hora prospered while Tempus became poorer and poorer. In the end Tempus lost his shop. What was the reason behind this?
+
+The watches consisted of about 1000 parts each. The watches that Tempus made were designed such that when he had to put down a partly assembled watch (for instance to answer the phone) it immediately fell into pieces and had to be reassembled from the basic elements.
+
+Hora had designed his watches so that he could put together subassemblies of about ten components each. Ten of these subassemblies could be put together to make a larger sub-assembly. Finally ten of the larger subassemblies constituted the whole watch. Each subassembly could be put down without falling apart.
+
+See also
+
+* Abiogenesis
+* Cell theory
+* Cellular differentiation
+* Composition of the human body
+* Evolution of biological complexity
+* Evolutionary biology
+* Gaia hypothesis
+* Hierarchy theory
+* Holon (philosophy)
+* Human ecology
+* Level of analysis
+* Living systems
+* Self-organization
+* Spontaneous order
+* Structuralism (biology)
+* Timeline of the evolutionary history of life
+
+
+Notes
+
+
+References
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+External links
+*
+*
+*
+* https://web.archive.org/web/20111015234223/http://johncarlosbaez.wordpress.com/2011/08/29/hierarchical-organization-and-biological-evolution-part-1/ 2011s theoretical/mathematical discussion.
+
+
+
+
+
