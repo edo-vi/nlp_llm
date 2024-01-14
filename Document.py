@@ -152,13 +152,17 @@ class Document:
     
     # Split at index n
     def split(self, n):
+        # If it has only one token make an empty document as d2
         if self.N() == 1:
-            d1 = Document(lines=self._tokens).make_bow()
-            d2 = Document(lines=[]).make_bow()
+            doc1 = Document(lines=self._tokens).make_bow()
+            doc2 = Document(lines=[]).make_bow()
         else:
-            d1 = Document(lines=self._tokens[:n]).make_bow()
-            d2 = Document(lines=self._tokens[n:]).make_bow()
-        return SplitReturn(left=d1, right=d2, size_left=d1.size(), size_right=d2.size(), distance=d1.distance(d2))
+            doc1 = Document(lines=self._tokens[:n]).make_bow()
+            doc2 = Document(lines=self._tokens[n:]).make_bow()
+        # SplitReturn is the named tuple, check top of the page for the fields.
+        # It makes it better to use, because we can call return.left instead of return[0],
+        # which semantically signal what we want to do
+        return SplitReturn(left=doc1, right=doc2, size_left=doc1.size(), size_right=doc2.size(), distance=doc1.distance(doc2))
     
     # Split in half
     def split_half(self):
@@ -168,6 +172,7 @@ class Document:
     # Return the text subtended by the document
     def text(self, escape = False):
         t = " ".join(self._tokens)
+        # If we want to escape characters, we use the library 're' to do it
         if escape:
             return re.escape(t)
         else:
