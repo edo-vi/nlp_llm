@@ -10,12 +10,15 @@ SplitReturn = namedtuple("SplitReturn", ["left", "right", "size_left", "size_rig
 
 # I.e. Document in a Bag Of Word representation
 class Document:
+    # We can instantiate a document from a path or from lines of a document
     def __init__(self, lines = None, path = None, stemmed = False) -> None:
+        # We need to pass at least one, otherwise we don't know what to do
         if lines is None and path is None:
             raise()
         self._stemmed = stemmed
         self._path = path
         self._tokens = []
+        # Necessary classes
         self._counts = Counter()
         self.stemmer = EnglishStemmer()
         self.lemmatizer = WordNetLemmatizer()
@@ -27,42 +30,52 @@ class Document:
             self._lines = lines
        
         lines = self._lines
+        # Now we have the lines to tokenize
         for l in lines:
-            tok = self.tokenize(l)
-            tok_ = []
-            # Join two consecutive tokens
+            # Tokens computed by NLTK
+            tokens = self.tokenize(l)
+            # We may need to work on the returned tokens: we use the next list to store them
+            # in particular, we need to merge consecutive tokens
+            final_tokens = []
             i = 0
-            while i < len(tok):
+            while i < len(tokens):
                 # Skip quote tokens
-                if tok[i] in ["\'", "\'\'", "\"", "\"\"", "`", "``", "’", "’’"]:
+                if tokens[i] in ["\'", "\'\'", "\"", "\"\"", "`", "``", "’", "’’"]:
                     i += 1
                     continue
-                if i + 1 >= len(tok):
-                    tok_.append(tok[i])
+                # If the lookahead index is out of range, just append the token
+                if i + 1 >= len(tokens):
+                    final_tokens.append(tokens[i])
                 else:
-                    if tok[i] == tok[i+1]:
+                    # If there are two consecutive tokens, we need to merge them
+                    if tokens[i] == tokens[i+1]:
                         j = 1
-                        new_token = tok[i]
+                        new_token = tokens[i]
                         #print("! found two identical consecutive tokens :", tok[i])
-                        while i+j < len(tok) and tok[i+j] == tok[i]:
-                            new_token += f"_{tok[i+j]}"
-                            j += 1
-                        tok_.append(new_token)
-                        i += j-1
+                        # We keep going onward to merge all found identical tokens
+                        while i+j < len(tokens) and tokens[i+j] == tokens[i]:
+                            new_token += f"_{tokens[i+j]}"
+                            j += 1 # skip next token
+                        final_tokens.append(new_token)
+                        i += j-1 # We need to fix the index
                     else:
-                        tok_.append(tok[i])
+                        # Otherwise just append the token
+                        final_tokens.append(tokens[i])
                 i += 1
 
-            self._tokens = self._tokens + tok_
+            self._tokens = self._tokens + final_tokens
 
+        # In the end, we just create a Bag Of Word representation
         self.make_bow()
 
+    # Tokenize the text. We use NLTK
     def tokenize(self, text):
         return nltk.word_tokenize(text)
 
     # Create Bag Of Word Representation
     def make_bow(self):
         self._counts = Counter(self._tokens)
+        # Remove stopwords first, then lemmatize the tokens
         self.remove_stopwords()
         self.lemmatize()
         return self
@@ -93,21 +106,18 @@ class Document:
 
         stems = dict()
         for word in self._counts.keys():
-            value = self._counts[word]
+            counts = self._counts[word]
 
             stemmed = self.lemmatizer.lemmatize(word)
             # Could already be present in the temporary dictionary: add the previous value to
             # the counts and then (line 104) update stems[stemmed] with the value (if already present it gets overwritten)
             if stemmed in stems.keys():
-                value += stems[stemmed]
-            stems[stemmed] = value
+                counts += stems[stemmed]
+            stems[stemmed] = counts
         # delete previous counts and add the stemmed/lemmatized version
         del self._counts
         self._counts = Counter(stems)
 
-    def lines(self):
-        return self._lines
-    
     # Distance between `self' and `other', which is another document
     def distance(self, other):
        # Relegate to cosine distance
@@ -164,6 +174,7 @@ class Document:
             return t
 
     # Return the size in Bytes
+    # We use div to compute the size in different formats. With div = 1, we are measuring bytes
     def size(self, div = 1): 
         return int(sum([len(s.encode('utf-8')) for s in self._tokens]) / div)
 
